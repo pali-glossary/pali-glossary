@@ -1,0 +1,1297 @@
+== Dukkha
+
+=== Renderings
+
+- _dukkha_: pain
+
+- _dukkha_: physical pain
+
+- _dukkha_: unpleasant
+
+- _dukkha_: what is unpleasant
+
+- _dukkha_: suffering
+
+- _dukkha_: in misery
+
+- _dukkha_: miserable
+
+- _dukkha_: existentially void
+
+- _dukkha_: existential voidness
+
+- _dukkhindriyaṃ_: faculty of physical pain
+
+=== Introduction
+
+==== Dukkha of tilakkhaṇa: 'existentially void'
+
+_Dukkha_ occurs in relation to _anicca_ in the question: '_Yaṃ panāniccaṃ 
+dukkhaṃ vā taṃ sukhaṃ vā ti?.'_ The constant answer to this is that 
+whatever is _anicca_ is _dukkha_. Here we render _dukkha_ as 'existentially 
+void,' by which we mean 'void of lasting substance.' And because we render 
+_dukkha_ as 'existentially void' ('that which is unlasting is existentially 
+void') we correspondingly render _sukhaṃ_ as 'existentially substantial':
+
+[quote, M.1.232]
+____
+That which is unlasting, is it existentially void or existentially substantial?
+
+_Yaṃ panāniccaṃ dukkhaṃ vā taṃ sukhaṃ vā ti._
+____
+
+Rendering _dukkha_ as 'existentially void' is supported on etymological 
+grounds. This is how the _Visuddhimagga_ sees it:
+
+[quote, Vism.494 tr. Ñāṇamoli]
+____
+The word _du_ ("bad") is met with in the sense of vile (_kucchita_); for they 
+call a vile child a _du-putta_ ("bad child"). The word _kham_ ("-ness"), 
+however is met with in the sense of empty (_tuccha_), for they call empty space 
+"_kham_." And the first truth is vile because it is the haunt of many dangers, 
+and it is empty because it is devoid of the lastingness, beauty, pleasure, and 
+self, as conceived by rash people. So it is called _dukkhaṃ_ ("badness"= 
+suffering, pain), because of vileness and emptiness.
+
+_du-iti ayaṃ saddo kucchite dissati. Kucchitaṃ hi puttaṃ dupputtoti 
+vadanti. Khaṃ-saddo pana tucche. Tucchaṃ hi ākāsaṃ khan ti vuccati. 
+Idañca paṭhamasaccaṃ kucchitaṃ anekaupaddavādhiṭṭhānato. Tucchaṃ 
+bālajanaparikappitadhuvasubhasukhattabhāvavirahitato. Tasmā kucchitattā 
+tucchattā ca dukkhanti vuccati._
+____
+
+The Sanskrit-English Dictionary (Monier-Williams) raises the possibility of 
+double roots. It says that although _duḥkhā_ is often considered to be 
+_dus+kha_, it is more probably a Prākritised form for _duḥ+stha_. Likewise, 
+_sukhā_ is said to be _su+kha_, but is possibly a Prākrit form of _su+stha_. 
+And whereas _khā_ means 'vacuity, empty space, air, ether, sky,' _stha_ means 
+'standing, staying, abiding, being situated in, existing or being in, or on, or 
+among.'
+
+Our own studies suggest that _sukha_ and _dukkha_ stem from both roots. Thus 
+the underlying sense of _sukha_ and _dukkha_ is twofold:
+
+1. 'Standing well' and 'standing badly' support the connotations of pleasure 
+and pain.
+
+2. 'Vacuity' supports the connotation of existential voidness.
+
+This leads us to rendering the _dukkha_ of the three characteristics 
+(_tilakkhaṇa_) as 'existentially void' and _sukha_ as 'existentially 
+substantial.' Modern scholars accept the possibility of this. For example 
+Rāhula says:
+
+- 'The term _dukkha_ in the First Noble Truth contains, quite obviously, the 
+ordinary meaning of 'suffering,' but in addition it also includes deeper ideas 
+such as 'imperfection,' 'impermanence,' 'emptiness,' 'insubstantiality' (What 
+the Buddha Taught, p.17).
+
+==== Dukkha of tilakkhaṇa: 'unsatisfactory'
+
+Other scholars prefer 'unsatisfactory.' Kalupahana says:
+
+- 'The word dukkha is rendered variously as 'ill,' 'suffering,' 'pain,' and so 
+on, which may be correct in certain contexts. But in other contexts, for 
+example, where it is said that the five aggregates of grasping 
+(_pañcupādānakkhandha_) are _dukkha_, the term is used in the wider sense of 
+'unsatisfactory' (Buddhist Philosophy: A Historical Analysis, p.45).
+
+But 'unsatisfactory' does not fit well here. The three characteristics of 
+existence (_tilakkhaṇa_) are intrinsic to existence. These characteristics 
+can therefore be contemplated continuously, without a break, uninterruptedly. 
+For example, unlastingness (_anicca_), or the voidness of personal qualities 
+(_anatta_):
+
+[quote, A.4.146]
+____
+In this regard, some person in relation to the visual sense abides 
+contemplating unlastingness, perceiving unlastingness, experiencing 
+unlastingness continuously, without a break, uninterruptedly, intent upon it 
+mentally, penetrating it with penetrative discernment
+
+_idha bhikkhave ekacco puggalo cakkhusmiṃ aniccānupassī viharati 
+aniccasaññī aniccapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ 
+cetasā adhimuccamāno paññāya pariyogāhamāno._
+____
+
+[quote, A.4.146]
+____
+In this regard, some person in relation to the visual sense abides 
+contemplating the voidness of personal qualities, perceiving the voidness of 
+personal qualities, experiencing the voidness of personal qualities 
+continuously, without a break, uninterruptedly, intent upon it mentally, 
+penetrating it with penetrative discernment
+
+_idha bhikkhave ekacco puggalo cakkhusmiṃ anattānupassī viharati 
+anattasaññī anattapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ 
+cetasā adhimuccamāno paññāya pariyogāhamāno._
+____
+
+If _dukkha_ meant unsatisfactory the instruction would read:
+
+[quote, A.4.146]
+____
+In this regard, some person in relation to the visual sense abides 
+contemplating unsatisfactoriness, perceiving unsatisfactoriness, experiencing 
+unsatisfactoriness continuously, without a break, uninterruptedly, intent upon 
+it mentally, penetrating it with penetrative discernment
+
+_idha bhikkhave ekacco puggalo cakkhusmiṃ dukkhānupassī viharati 
+dukkhasaññī dukkhapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ 
+cetasā adhimuccamāno paññāya pariyogāhamāno._
+____
+
+But the reflection that things are unsatisfactory involves a relationship with 
+an observer. If things are unsatisfactory it is because they do not satisfy an 
+observer. Unsatisfactoriness is not an intrinsic quality of things. It is not 
+something to be continuously observed, whereas existential voidness is:
+
+[quote, A.4.146]
+____
+In this regard, some person in relation to the visual sense abides 
+contemplating existential voidness, perceiving existential voidness, 
+experiencing existential voidness continuously, without a break, 
+uninterruptedly, intent upon it mentally, penetrating it with penetrative 
+discernment
+
+_idha bhikkhave ekacco puggalo cakkhusmiṃ dukkhānupassī viharati 
+dukkhasaññī dukkhapaṭisaṃvedī satataṃ samitaṃ abbokiṇṇaṃ 
+cetasā adhimuccamāno paññāya pariyogāhamāno._
+____
+
+==== Existential voidness and other aspects of the teachings
+
+The term 'existentially void' is in accordance with other aspects of the 
+teachings:
+
+1. The Buddha's advice to Upasīva:
+
+[quote, Sn.v.1070]
+____
+Being intent upon the perception of nonexistence, being mindful, with the help 
+of the reflection 'It does not exist,' cross the flood [of suffering].
+
+_Ākiñcaññaṃ pekkhamāno satimā natthī ti nissāya tarassu oghaṃ._
+____
+
+2. The five reflections of the _Pheṇapiṇḍūpama Sutta_. For example:
+
+• Bhikkhus, suppose that this river Ganges was carrying along a large lump of 
+froth. A clear-sighted man would examine it, ponder it, and properly 
+investigate it. As he does so, it would appear to be empty, hollow, 
+insubstantial. For what substantial reality could there be in a lump of froth? +
+• So, too, whatever kind of bodily form there is, whether past, future, or 
+present, internal or external, gross or subtle, inferior or sublime, far or 
+near: a bhikkhu examines it, ponders it, and properly investigates it. As he 
+does so, it would appear to be empty, hollow, insubstantial. For what 
+substantial reality could there be in bodily form? +
+☸ _Seyyathā pi bhikkhave ayaṃ gaṅgānadī mahantaṃ pheṇapiṇḍaṃ 
+āvaheyya tamenaṃ cakkhumā puriso passeyya nijjhāyeyya yoniso upa 
+parikkheyya tassa taṃ passato nijjhāyato yoniso upaparikkhato rittakaññeva 
+khāyeyya tucchakaññe va khāyeyya asārakaññeva khāyeyya kiṃ hi siyā 
+bhikkhave pheṇapiṇḍe sāro? +
+☸ Evameva kho bhikkhave yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ 
+ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā 
+paṇītaṃ vā yaṃ dūre santike vā taṃ bhikkhu passati nijjhāyati 
+yoniso upaparikkhati tassa taṃ passato nijjhāyato yoniso upaparikkhato 
+rittakaññeva khāyati tucchakaññeva khāyati asārakaññeva khāyati kiṃ 
+hi siyā bhikkhave rūpe sāro?_ (S.3.140-1).
+
+==== Bodhi: 'no permanent essence'
+
+In support of calling _dukkha_ 'existentially void,' consider Bodhi's 
+explanation of this well-known quote:
+
+[quote, Bodhi, S.3.119]
+____
+Formerly, Anuradha, and also now, I make known just suffering and the cessation 
+of suffering.
+
+_pubbe cāhaṃ anurādha etarahi ca dukkhañceva paññāpemi dukkhassa ca 
+nirodhanti._
+____
+
+In the note to this, Bodhi explains _dukkha_ as meaning 'containing no 
+permanent essence':
+
+- 'This oft-quoted dictum can be interpreted at two levels. At the more 
+superficial level the Buddha can be read as saying that he does not make any 
+declaration about such metaphysical questions as an afterlife but teaches only 
+a practical path for reaching the end of suffering here and now. This 
+interpretation, however, does not connect the dictum with the Buddha's previous 
+statement that the Tathāgata is not apprehended in this very lifetime. To make 
+this connection we have to bring in the second interpretation, according to 
+which the "Tathāgata" is a mere term of conventional usage referring to a 
+compound of impermanent formations, which are "suffering" because they contain 
+no permanent essence. It is just these that stand while the Tathāgata lives, 
+and just these that cease with his passing away.' (CDB p.1080 n.165).
+
+This justifies our translating as follows:
+
+[quote, Varado, S.3.119]
+____
+Formerly and also now, I explain just existential voidness and the ending of 
+existential voidness.
+
+_pubbe cāhaṃ anurādha etarahi ca dukkhañceva paññāpemi dukkhassa ca 
+nirodhanti._
+____
+
+A similar quote occurs in the _Alagaddūpama Sutta_ where the Buddha, responds 
+to the accusation that he teaches the annihilation, destruction, and cessation 
+of a living being (_sattassa ucchedaṃ vināsaṃ vibhavaṃ paññāpetī 
+ti_). He replied in the same words: _Pubbe cāhaṃ bhikkhave etarahi ca 
+dukkhañceva paññāpemi dukkhassa ca nirodhaṃ_ (M.1.140).
+
+This reply again supports us rendering _dukkha_ as 'existential voidness', not 
+'suffering.'
+
+==== Dukkha in the summary of the teaching: the dukkha of tilakkhaṇa
+
+As we have said, _dukkha_ occurs in the Buddha's summary of his teaching: 'I 
+explain just _dukkha_ and the ending of _dukkha_ (_dukkhañceva paññāpemi 
+dukkhassa ca nirodhanti_ S.3.119). The scriptures show that this _dukkha_ is 
+related to _anicca_, and is therefore the dukkha of _tilakkhaṇa,_ meaning 
+'existential voidness.' Two suttas prove this point.
+
+1. Firstly, when the Buddha said 'Whatever is experienced is included within 
+_dukkha_ (_yaṃ kiñci vedayitaṃ taṃ dukkhasmin ti_) he explained that 
+'This has been stated by me with reference to the unlastingness of originated 
+phenomena' (_taṃ kho panetaṃ bhikkhu mayā saṅkhārānaññeva 
+aniccataṃ sandhāya bhāsitaṃ_ S.4.216).
+
+2. Secondly, when the Buddha asked Sāriputta to explain how spiritually 
+fettering delight in sense impression no longer remained present in him (_yā 
+vedanāsu nandī sā na upaṭṭhāsī ti_), Sāriputta answered:
+
+____
+-- There are these three types of sense impression. What three? Pleasant sense 
+impression, unpleasant sense impression, and neutral sense impression.
+
+_tisso kho imā āvuso vedanā katamā tisso? Sukhā vedanā dukkhā vedanā 
+adukkhamasukhā vedanā_
+____
+
+____
+... These three types of sense impression are unlasting. Whatever is unlasting 
+is existentially void. When this was understood, spiritually fettering delight 
+in sense impression no longer remained present in me.' Being asked thus, 
+bhante, I would answer in such a way."
+
+_imā kho āvuso tisso vedanā aniccā. Yadaniccaṃ taṃ dukkhan ti 
+viditaṃ. Yā vedanāsu nandī sā na upaṭṭhāsī ti. Evaṃ 
+puṭṭhohaṃ bhante evaṃ vyākareyyanti._
+____
+
+The Buddha responded:
+
+[quote, S.2.53]
+____
+-- Very good, Sāriputta! This is another method of explaining in brief that 
+same point: 'Whatever is experienced is included within _dukkha_.'
+
+_yaṃ kiñci vedayitaṃ taṃ dukkhasmin ti._
+____
+
+Thus when _dukkha_ is applied comprehensively to all things it is linked to 
+_anicca_, and is therefore the dukkha of _tilakkhaṇa,_ meaning 'existential 
+voidness.'
+
+==== Dukkha in the four noble truths: suffering
+
+The _dukkha_ of the four noble truths is 'suffering':
+
+1. Birth is suffering; old age is suffering; death is suffering;
++
+****
+_jāti pi dukkhā jarāpi dukkhā maraṇampi dukkhaṃ_
+****
+
+____
+grief, lamentation, physical pain, psychological pain, and vexation are 
+suffering;
+
+_sokaparidevadukkhadomanassupāyāsāpi dukkhā_
+____
+
+____
+association with the unbeloved is suffering; separation from the beloved is 
+suffering;
+
+_appiyehi sampayogo dukkho piyehi vippayogo dukkho_
+____
+
+____
+not getting what one wants, that too is suffering.
+
+_yampicchaṃ na labhati tampi dukkhaṃ_
+____
+
+[quote, S.5.422]
+____
+In brief the five grasped aggregates are suffering.
+
+_saṅkhittena pañcupādānakkhandhā dukkhā._
+____
+
+2. 'This is suffering': an effort should be made [to profoundly understand 
+this].
++
+****
+_Idaṃ dukkhan ti yogo karaṇīyo._
+****
+
+____
+'This is the origin of suffering': an effort should be made [to abandon this].
+
+_Ayaṃ dukkhasamudayo ti yogo karaṇīyo._
+____
+
+____
+'This is the ending of suffering': an effort should be made [to realise this].
+
+_Ayaṃ dukkhanirodho ti yogo karaṇīyo._
+____
+
+[quote, S.5.430]
+____
+'This is the practice leading to the ending of suffering': an effort should be 
+made [to develop this].
+
+_Ayaṃ dukkhanirodhagāminī paṭipadā ti yogo karaṇīyo._
+____
+
+==== Suffering: the actual and the psychological
+
+Suffering has two connotations, which we will call 1) 'the actual' and 2) 'the 
+psychologically based'. For example, the body itself is sometimes called 
+suffering, but sometimes suffering is said to arise from attachment to the 
+body. Some quotes contain a mixture of both connotations.
+
+1. The actual:
+
+[quote, S.3.32]
+____
+Bhikkhus, the arising, establishment, rebirth and appearance of bodily form is 
+the arising of suffering.
+
+_Yo rūpassa uppādo ṭhīti abhinibbatti pātubhāvo dukkhasseso uppādo._
+____
+
+2. The psychologically based:
+
+[quote, Ud.32-3]
+____
+Suffering arises because of attachment. With the destruction of all grasping 
+there is no arising of suffering.
+
+_upadhiṃ paṭicca dukkhamidaṃ sambhoti sabbūpādānakkhayā natthi 
+dukkhassa sambhavo._
+____
+
+[quote, M.1.191]
+____
+Whatever within these five grasped aggregates is the elimination and rejection 
+of fondness and attachment is the ending of suffering.
+
+_Yo imesu pañcasupādānakkhandhesu chandarāgavinayo chandarāgappahānaṃ 
+so dukkhanirodho ti._
+____
+
+3. Both actual and psychologically based:
+
+[quote, Th.v.1116]
+____
+Properly regard the [five grasped] aggregates as suffering, and abandon that 
+from which suffering arises.
+
+_Dukkhan ti khandhe paṭipassa yoniso yato ca dukkhaṃ samudeti taṃ jaha._
+____
+
+==== Dukkha in other contexts
+
+We render _dukkha_ in other contexts as follows:
+
+1. _Dukkha_ as a sense impression: 'pain' (noun) or 'unpleasant' (adjective). 
+'Painful' is unuseable as the general adjective because 'pain' applies only to 
+bodily felt sensation. 'Unpleasant' covers all sensations like sounds, smells 
+etc.
+
+2. _Dukkha_ in opposition to psychological pain (e.g. _dukkhehi domanassehi_): 
+'physical pain.'
+
+3. _Dukkhindriyaṃ_ is called 'the faculty of physical pain,' being in 
+contrast to _domanassindriyaṃ_ 'the faculty of psychological pain,' S.5.211).
+
+Sometimes 'miserable' is an appropriate adjective:
+
+[quote, D.1.31]
+____
+They declare that the [absolute] Selfhood after death is altogether happy, not 
+subject to decay, and conscious. They declare that the [absolute] Selfhood 
+after death is altogether miserable, not subject to decay, and conscious.
+
+_ekantasukhī attā hoti arogo parammaraṇā saññī ti naṃ paññapenti. 
+Ekantadukkhī attā hoti arogo parammaraṇā saññī ti naṃ paññapenti._
+____
+
+=== Illustrations
+
+.Illustration
+====
+dukkhaṃ
+
+pain
+====
+
+[quote, S.2.23-24]
+____
+There are just six senses, affected through one or other of which the fool 
+experiences pleasure and pain.
+
+_saḷevāyatanāni yehi puṭṭho bālo sukhadukkhaṃ paṭisaṃvediyati 
+etesaṃ vā aññatarena._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+physical pain
+====
+
+____
+What is physical pain? It is physical pain, physical unpleasantness arisen from 
+bodily sensation which is experienced as unpleasant, as displeasing.
+
+_Katamaṃ cāvuso dukkhaṃ: yaṃ kho āvuso kāyikaṃ dukkhaṃ kāyikaṃ 
+asātaṃ kāyasamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ idaṃ 
+vuccatāvuso dukkhaṃ._
+____
+
+.Illustration
+====
+dukkha
+
+physical pain
+====
+
+[quote, S.5.142]
+____
+This is the one-destination path for the purification of beings, for the 
+overcoming of grief and lamentation, for the vanishing of physical and 
+psychological pain
+
+_dukkhadomanassānaṃ atthaṅgamāya._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+physical pain
+====
+
+[quote, A.2.149]
+____
+Some person is by nature full of attachment; he experiences the physical and 
+psychological pain that are born of attachment.
+
+_rāgajaṃ dukkhaṃ domanassaṃ paṭisaṃvedeti._
+____
+
+.Illustration
+====
+dukkhindriyaṃ
+
+faculty of physical pain
+====
+
+____
+Bhikkhus, there are these five faculties of sense impression. What five? The 
+faculty of physical pleasure, the faculty of psychological pleasure, the 
+faculty of physical pain, the faculty of psychological pain, the faculty of 
+physical-plus-psychological neutral experience.
+
+_Pañcimāni bhikkhave indriyāni. Katamāni pañca? Sukhindriyaṃ 
+dukkhindriyaṃ somanassindriyaṃ domanassindriyaṃ upekkhindriyaṃ._
+____
+
+[quote, S.5.211]
+____
+And what is the faculty of physical pain? It is physical pain, physical 
+unpleasantness, unpleasant and displeasing sense impression born of bodily 
+sensation.
+
+_Katamañca bhikkhave dukkhindriyaṃ: yaṃ kho bhikkhave kāyikaṃ dukkhaṃ 
+kāyikaṃ asātaṃ kāyasamphassajaṃ dukkhaṃ asātaṃ vedayitaṃ idaṃ 
+vuccati bhikkhave dukkhindriyaṃ._
+____
+
+.Illustration
+====
+dukkham
+
+what is unpleasant
+====
+
+[quote, S.3.87]
+____
+And why do you call it sense impression? One experiences therefore it is called 
+sense impression. And what does one experience? One experiences what is 
+pleasant, one experiences what is unpleasant, one experiences what is neutral.
+
+_sukhampi vediyati dukkhampi vediyati adukkhamasukhampi vediyatii._
+____
+
+.Illustration
+====
+dukkha
+
+unpleasant
+====
+
+[quote, M.1.507-8]
+____
+Contact with sensuous pleasures is unpleasant, very hot, and anguishing
+
+_kāmā dukkhasamphassā ceva mahābhitāpā ca mahāpariḷāhā ca._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+unpleasant
+====
+
+____
+That which is experienced by body or mind as unpleasant or displeasing is 
+called an unpleasant sense impression.
+
+_Yaṃ kho āvuso visākha kāyikaṃ vā cetasikaṃ vā dukkhaṃ asātaṃ 
+vedayitaṃ ayaṃ dukkhā vedanā._
+____
+
+[quote, M.1.302]
+____
+That which is experienced by body or mind as neither pleasant or unpleasant is 
+called neutral sense impression.
+
+_Yaṃ kho āvuso visākha kāyikaṃ vā cetasikaṃ vā nevasātaṃ 
+nāsātaṃ vedayitaṃ ayaṃ adukkhamasukhā vedanā ti._
+____
+
+.Illustration
+====
+dukkho
+
+unpleasant
+====
+
+[quote, A.5.110]
+____
+This [wretched human] body is very unpleasant and a great danger.
+
+_bahu dukkho kho ayaṃ kāyo bahu ādīnavo._
+____
+
+.Illustration
+====
+dukkhā
+
+unpleasant (adj)
+====
+
+[quote, D.2.193]
+____
+To die filled with longing is unpleasant and blameworthy.
+
+_Dukkhā sāpekkhassa kālakiriyā garahitā ca sāpekkhassa kālakiriyā._
+____
+
+.Illustration
+====
+dukkhā
+
+existential voidness
+====
+
+____
+It's only existential voidness that comes to be, existential voidness that 
+stands and falls away.
+
+_Dukkhameva hi sambhoti dukkhaṃ tiṭṭhati veti ca_
+____
+
+[quote, S.1.135]
+____
+Nothing but existential voidness comes to be, nothing but existential voidness 
+ceases.
+
+_nāññatra dukkhā sambhoti nāññatra dukkhā nirujjhatī ti._
+____
+
+.Illustration
+====
+dukkhā
+
+existential voidness
+====
+
+____
+-- Anurādha, when the Perfect One is not apprehended by you as real and actual 
+(_saccato thetato_) even in this lifetime, is it right to say that a Perfect 
+One would describe a Perfect One as outside these four positions:
+
+_Ettha ca te anurādha diṭṭheva dhamme saccato thetato tathāgate 
+anupalabbhiyamāne_
+____
+
+- A Perfect One exists after death,
+
+- A Perfect One does not exist after death,
+
+- A Perfect One both exists and does not exist after death,
+
+- A Perfect One neither exists nor does not exist after death?
+
+-- No, bhante
+
+• -- Very good, Anurādha! Formerly and also now, I explain just existential 
+voidness and the ending of existential voidness +
+_dukkhañceva paññāpemi dukkhassa ca nirodhan ti_ (S.3.118).
+
+A similar quote occurs in the _Alagaddūpama Sutta_ where the Buddha, responds 
+to the accusation that he teaches the annihilation, destruction, and cessation 
+of a living being (_sattassa ucchedaṃ vināsaṃ vibhavaṃ paññāpetī 
+ti_). He replied in the same words: _Pubbe cāhaṃ bhikkhave etarahi ca 
+dukkhañceva paññāpemi dukkhassa ca nirodhaṃ_ (M.1.140).
+
+.Illustration
+====
+dukkhasmin
+
+existential voidness
+====
+
+____
+Whatever is experienced is included within existential voidness.
+
+_yaṃ kiñci vedayitaṃ taṃ dukkhasmin ti._
+____
+
+____
+That has been stated by me with reference to the unlastingness of originated 
+phenomena.
+
+_Taṃ kho panetaṃ bhikkhu mayā saṅkhārānaññeva aniccataṃ sandhāya 
+bhāsitaṃ_
+____
+
+• That has been stated by me with reference to originated phenomena being 
+destined to be destroyed... to originated phenomena being destined to 
+disappear... to originated phenomena being destined to pass away... to 
+originated phenomena being destined to cease... to originated phenomena being 
+destined to change. +
+_☸... khayadhammataṃ... vayadhammataṃ... virāgadhammataṃ... 
+nirodhadhammataṃ... vipariṇāmadhammataṃ sandhāya bhāsitaṃ: yaṃ 
+kiñci vedayitaṃ taṃ dukkhasmin ti_ (S.4.216).
+
+.Illustration
+====
+dukkha
+
+existentially void
+====
+
+[quote, A.4.52]
+____
+When a bhikkhu abides much with his mind fortified by the perception that what 
+is unlasting is existentially void, then when laziness, indolence, slackness, 
+negligence and idleness [in the practice], and unreflectiveness arise, an acute 
+perception of danger arises, as it might in relation to a murderer with a drawn 
+sword.
+
+_Anicce dukkhasaññā paricitena bhikkhave bhikkhuno cetasā bahulaṃ 
+viharato ālasye kosajje vissaṭṭhiye pamāde ananuyoge apaccavekkhanāya 
+tibbā bhayasaññā paccupaṭṭhitā hoti seyyathā pi ukkhittāsike 
+vadhake._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+existentially void
+====
+
+• You should abandon fondness for that which is existentially void +
+_Yaṃ kho bhikkhu dukkhaṃ tatra te chando pahātabbo ti_ (S.3.76).
+
+.Illustration
+====
+dukkhā
+
+existentially void
+====
+
+[quote, S.4.220]
+____
+That sense impression is unlasting, existentially void, destined to change, is 
+the wretchedness of sense impression.
+
+_Yā vedanā aniccā dukkhā vipariṇāmadhammā ayaṃ vedanāya ādīnavo._
+____
+
+.Illustration
+====
+dukkhā
+
+existentially void
+====
+
+[quote, D.1.36]
+____
+Sensuous pleasures are unlasting, existentially void, and destined to change, 
+and from their change and alteration there arises grief, lamentation, physical 
+pain, psychological pain, and vexation.
+
+_Kāmā hi bho aniccā dukkhā vipariṇāmadhammā tesaṃ 
+vipariṇāmaññathābhāvā uppajjanti sokaparidevadukkhadomanassupāyāsā._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+existentially void
+====
+
+-- What do you think, Aggivessana? Is bodily form lasting or unlasting?
+
+-- Unlasting, Master Gotama.
+
+-- That which is unlasting, is it existentially void or existentially 
+substantial?
+
+-- Existentially void, Master Gotama.
+
+-- That which is unlasting, existentially void, and destined to change, is it 
+fitting to regard it as "[in reality] mine," or "[in reality] what I am," or 
+"my [absolute] Selfhood"?
+
+-- No, Master Gotama.
+
+_Taṃ kiṃ maññasi aggivessana rūpaṃ... viññāṇaṃ niccaṃ vā 
+aniccaṃ vā ti aniccaṃ bho gotama. Yaṃ panāniccaṃ dukkhaṃ vā taṃ 
+sukhaṃ vā ti. Dukkhaṃ bho gotama. Yaṃ panāniccaṃ dukkhaṃ 
+vipariṇāmadhammaṃ kallannu taṃ samanupassituṃ etaṃ mama eso'hamasmi 
+eso me attā ti. No hidaṃ bho gotama._
+
+• -- What do you think, Aggivessana: when one adheres to what is 
+existentially void, resorts to it, cleaves to it, regards it as this is "[in 
+reality] mine," this is "[in reality] what I am," this is "my [absolute] 
+Selfhood"' could one ever profoundly understand existential voidness or abide 
+with existential voidness destroyed? +
+_Taṃ kiṃ maññasi aggivessana yo nu kho dukkhaṃ allīno dukkhaṃ 
+upagato dukkhaṃ ajjhosito dukkhaṃ etaṃ mama eso'hamasmi eso me attā ti 
+samanupassati api nu kho so sāmaṃ vā dukkhaṃ parijāneyya dukkhaṃ vā 
+parikkhepetvā vihareyyāti._
+
+• -- How could one, Master Gotama. No, Master Gotama. +
+_Kiṃ hi siyā bho gotama. No hidaṃ bho gotamā ti_ (M.1.232-3).
+
+.Illustration
+====
+dukkhaṃ
+
+existential voidness; dukkhasmā, suffering
+====
+
+[quote, S.2.175]
+____
+One who takes delight in the Solidness Phenomenon, takes delight in existential 
+voidness. One who takes delight in existential voidness is not freed from 
+suffering, I declare.
+
+_Yo bhikkhave paṭhavīdhātuṃ abhinandati dukkhaṃ so abhinandati. Yo 
+dukkhaṃ abhinandati aparimutto so dukkhasmā vadāmi._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+existential voidness
+====
+
+____
+Bhante, it is said, 'existential voidness, existential voidness.' On what 
+grounds, bhante, might there be existential voidness or the evidence of 
+existential voidness?
+
+_Dukkhaṃ dukkhan ti bhante vuccati kittāvatā nu kho bhante dukkhaṃ vā 
+assa dukkhapaññatti vā ti_
+____
+
+____
+Where there is the visual sense, Samiddhi, where there are visible objects, 
+advertence to the visual field, things known through advertence to the visual 
+field, there existential voidness exists or the evidence of existential 
+voidness.
+
+_Yattha kho samiddhi atthi cakkhu atthi rūpā atthi cakkhuviññāṇaṃ 
+atthi cakkhuviññāṇaviññātabbā dhammā atthi tattha dukkhaṃ vā 
+dukkhapaññatti vā... Atthi mano atthi dhammā atthi manoviññāṇaṃ 
+atthi manoviññāṇaviññātabbā dhammā atthi tattha dukkhaṃ vā 
+dukkhapaññatti vā._
+____
+
+[quote, S.4.39]
+____
+Where there is no visual sense, Samiddhi, no visible objects, no advertence to 
+the visual field, no things known through advertence to the visual field, there 
+existential voidness does not exist nor any evidence of existential voidness.
+
+_Yattha ca kho samiddhi natthi cakkhu natthi rūpā natthi 
+cakkhuviññāṇaṃ natthi cakkhuviññāṇa-viññātabbā dhammā natthi 
+tattha dukkhaṃ vā dukkhapaññatti vā._
+____
+
+.Illustration
+====
+dukkhassā
+
+suffering
+====
+
+[quote, Ud.75]
+____
+The round of rebirth, destroyed, no longer continues. This is truly the end of 
+suffering.
+
+_Chinnaṃ vaṭṭaṃ na vattati esevanto dukkhassā ti._
+____
+
+.Illustration
+====
+dukkhassa
+
+suffering
+====
+
+[quote, S.1.62]
+____
+However, friend, I declare that without having reached the end of the world [of 
+phenomena] there is no putting an end to suffering.
+
+_na kho panāhaṃ āvuso appatvā lokassa antaṃ dukkhassa antakiriyaṃ 
+vadāmi._
+____
+
+.Illustration
+====
+dukkha
+
+suffering, unpleasantness, pain, existential voidness, suffering
+====
+
+____
+Three kinds of suffering:
+
+_Tisso imā āvuso dukkhatā_
+____
+
+____
+the unpleasantness of pain,
+
+_dukkhadukkhatā_
+____
+
+____
+the existential voidness of originated phenomena
+
+_saṅkhāradukkhatā_
+____
+
+[quote, S.4.259]
+____
+the suffering of change.
+
+_vipariṇāmadukkhātā._
+____
+
+.Illustration
+====
+dukkha
+
+physical pain; dukkhasmā, suffering
+====
+
+[quote, M.1.8]
+____
+The ignorant Everyman is not freed from birth, old age, and death, from grief, 
+lamentation, physical pain, psychological pain, and vexation. He is not freed, 
+I declare, from suffering.
+
+_assutavā puthujjano na parimuccati jātiyā jarāmaraṇena sokehi paridevehi 
+dukkhehi domanassehi upāyāsehi na parimuccati dukkhasmā ti vadāmi._
+____
+
+.Illustration
+====
+dukkha
+
+physical pain; dukkha, suffering
+====
+
+____
+I am overwhelmed by birth, old age, and death; by grief, lamentation, physical 
+pain, psychological pain, and vexation.
+
+_api ca kho otiṇṇamhā jātiyā jarāmaraṇena sokehi paridevehi dukkhehi 
+domanassehi upāyāsehi_
+____
+
+[quote, S.3.93; It.89]
+____
+I am overwhelmed by suffering, overcome by suffering. Perhaps an ending of this 
+whole mass of suffering might be discerned!'
+
+_dukkhotiṇṇā dukkhaparetā appeva nāma imassa kevalassa dukkhakkhandhassa 
+antakiriyā paññāyethā ti._
+____
+
+.Illustration
+====
+dukkha
+
+suffering
+====
+
+• And what is the basis for the arising of suffering? Craving, bhikkhus. +
+_Katamo ca bhikkhave dukkhassa nidānasambhavo: taṇhā bhikkhave dukkhassa 
+nidānasambhavo:_
+
+____
+And what are the varieties of suffering?
+
+_Katamā va bhikkhave dukkhassa vemattatā_
+____
+
+____
+Suffering that is inordinate.
+
+_atthi bhikkhave dukkhaṃ adhimattaṃ_
+____
+
+____
+Suffering that is slight.
+
+_atthi parittaṃ_
+____
+
+____
+Suffering that fades away quickly.
+
+_atthi dandhavirāgaṃ_
+____
+
+[quote, A.3.416]
+____
+Suffering that fades away slowly.
+
+_atthi khippaviragaṃ._
+____
+
+.Illustration
+====
+dukkha
+
+pain; dukkhaṃ, suffering
+====
+
+____
+-- What do you think, headman? If Ciravāsi's mother was executed, imprisoned, 
+fined, or criticised, would grief, lamentation, physical pain, psychological 
+pain, and vexation arise in you?
+
+_uppajjeyyuṃ sokaparidevadukkhadomanassupāyāsā ti._
+____
+
+-- Bhante, if Ciravāsi's mother was executed, imprisoned, fined, or 
+criticised, even my life would be upset, so how could grief, lamentation, 
+physical pain, psychological pain, and vexation not arise in me?
+
+[quote, S.4.329-330]
+____
+-- In this way too, headman, it can be understood: 'Whatever suffering arises, 
+all of it stems from fondness, with fondness as its basis; for fondness is the 
+origin of suffering.
+
+_yaṃ kiñci dukkhaṃ uppajjamānaṃ uppajjati sabbantaṃ chandamūlakaṃ 
+chandanidānaṃ chando hi mūlaṃ dukkhassa ti._
+____
+
+.Illustration
+====
+dukkha
+
+suffering
+====
+
+____
+One who is unwise develops attachment and ends up with suffering again and 
+again, the fool.
+
+_Yo ve avidvā upadhiṃ karoti punappunaṃ dukkhamupeti mando_
+____
+
+[quote, Sn.v.1049-50]
+____
+Therefore, knowing this, one who properly considers the birth and origin of 
+suffering would not develop attachment.
+
+_Tasmā pajānaṃ upadhiṃ na kayirā dukkhassa jātippabhavānupassi._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+suffering
+====
+
+[quote, Sn.v.733]
+____
+Whatever suffering arises, all of it arises dependent on the stream of sense 
+consciousness. That is the first consideration.
+
+_yaṃ kiñci dukkhaṃ sambhoti sabbaṃ viññāṇapaccayā ti. 
+Ayamekānupassanā._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+suffering
+====
+
+____
+The five aggregates are truly burdens,
+
+_bhārā bhave pañcakkhandhā_
+____
+
+____
+The carrier of the burden is the person.
+
+_bhārahāro ca puggalo_
+____
+
+____
+Taking up the burden is suffering in the world,
+
+_bhārādānaṃ dukkhaṃ loke_
+____
+
+[quote, S.3.26]
+____
+Casting off the burden is bliss.
+
+_bhāranikkhepanaṃ sukhaṃ._
+____
+
+.Illustration
+====
+dukkha
+
+suffering; dukkha, suffering
+====
+
+[quote, Th.v.78]
+____
+I roamed countless rounds of birth and death without respite. It brought me 
+suffering. Now my mass of suffering has disappeared.
+
+_Anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ +
+Tassa me dukkhajātassa dukkhakkhandho aparaddho ti._
+____
+
+.Illustration
+====
+dukkhan
+
+suffering
+====
+
+____
+'Suffering' is an epithet for sensuous pleasures;
+
+_dukkhan ti bhikkhave kāmānametaṃ adhivacanaṃ_
+____
+
+____
+Why so?
+
+_Kasmā ca bhikkhave dukkhan ti kāmānametaṃ adhivacanaṃ?_
+____
+
+• Because one who is passionately attached to sensuous pleasure, fastened by 
+fondness and attachment, is neither free of suffering in this lifetime, nor in 
+the hereafter. +
+_Yasmā ca kāmarāgarattāyaṃ bhikkhave chandarāgavinibaddho 
+diṭṭhadhammikāpi dukkhā na parimuccati samparāyikāpi dukkhā na 
+parimuccati_ (A.3.310).
+
+.Illustration
+====
+dukkhaṃ
+
+suffering
+====
+
+[quote, S.4.70]
+____
+There are just six senses which if not restrained one meets with suffering.
+
+_Chaḷeva phassāyatanāni bhikkhavo asaṃvuto yattha dukkhaṃ nigacchati._
+____
+
+.Illustration
+====
+dukkha
+
+suffering
+====
+
+[quote, M.2.223]
+____
+He discerns thus: "When I confront the source of this suffering with effort, by 
+confronting it with effort [the suffering] fades away. When the source of this 
+suffering is passively observed, through developing detached awareness, [the 
+suffering] fades away."
+
+_So evaṃ pajānāti imassa kho me dukkhanidānassa saṅkhāraṃ padahato 
+saṅkhārappadhānā virāgo hoti imassa pana me dukkhanidānassa 
+ajjhupekkhato upekkhaṃ bhāvayato virāgo hotī ti._
+____
+
+.Illustration
+====
+dukkhā
+
+suffering
+====
+
+[quote, M.1.364]
+____
+Sensuous pleasures have been compared by the Blessed One to a skeleton [of 
+meatless bones smeared with blood which leaves a hungry dog unsatisfied, 
+fatigued, and full of vexation]. They are full of suffering and vexation, while 
+the danger in them is great.
+
+_aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā bahudukkhā bahūpāyāsā 
+ādīnavo ettha bhiyyo ti._
+____
+
+.Illustration
+====
+dukkhāya
+
+suffering
+====
+
+[quote, S.3.114]
+____
+These same five grasped aggregates, attained and clung to, lead to his 
+long-lasting harm and suffering._
+
+_tassime pañcupādānakkhandhā upetā upādinnā dīgharattaṃ ahitāya 
+dukkhāya saṃvattanti._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+suffering
+====
+
+____
+Friend, when there is disgruntlement [with the celibate life] this suffering 
+should be expected.
+
+_Anabhiratiyā āvuso sati idaṃ dukkhaṃ pāṭikaṅkhaṃ_
+____
+
+[quote, A.5.122]
+____
+When going standing, sitting, lying, or having gone to the village, or the 
+wilderness, or the root of a tree, or a solitary abode, or out into the open 
+air, or into the midst of the bhikkhus he finds no happiness or comfort.
+
+_gacchannopi sukhaṃ sātaṃ nādhigacchati... Bhikkhumajjhagatopi sukhaṃ 
+sātaṃ nādhigacchati._
+____
+
+.Illustration
+====
+dukkho
+
+suffering
+====
+
+[quote, Dh.v.117]
+____
+The accumulation of demerit is suffering.
+
+_dukkho pāpassa uccayo._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+in misery (=miserably, adv)
+====
+
+[quote, S.1.139]
+____
+One abides in misery if one is without respect and deference.
+
+_dukkhaṃ kho agāravo viharati appatisso._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+in misery
+====
+
+[quote, S.4.137]
+____
+A bhikkhu who has students and a teacher abides in misery, not at ease.
+
+_sāntevāsiko bhikkhave bhikkhu sācariyako dukkhaṃ na phāsu viharati._
+____
+
+.Illustration
+====
+dukkhaṃ
+
+in misery
+====
+
+[quote, S.2.28-9]
+____
+Bhikkhus, the lazy person abides in misery, soiled by unvirtuous, spiritually 
+unwholesome factors, and great is the personal good that he neglects.
+
+_dukkhaṃ hi bhikkhave kusīto viharati vokiṇṇo pāpakehi akusalehi 
+dhammehi. Mahantañca sadatthaṃ parihāpeti._
+____
+

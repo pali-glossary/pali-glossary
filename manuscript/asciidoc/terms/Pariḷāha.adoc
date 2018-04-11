@@ -1,0 +1,404 @@
+== Pariḷāha
+
+=== Renderings
+
+- _pariḷāha_: passion
+
+- _pariḷāha_: anguish
+
+- _pariḷāha_: [sensuous] passion
+
+=== Introduction
+
+==== Passion and anguish: associated with burning
+
+_Pariḷāha_ means passion or anguish. Both are associated with torment:
+
+[quote, M.1.508]
+____
+tormented by sensuous passion
+
+_kāmapariḷāhena pariḍayhamānā._
+____
+
+[quote, S.5.451]
+____
+they are tormented by the anguish of birth
+
+_jātipariḷāhena pi pariḍayhanti._
+____
+
+==== Anguish stems from rāga, dosa, and moha
+
+____
+Being tormented by the anguish born of attachment he would sleep badly
+
+_rāgajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyyāti_
+____
+
+____
+Being tormented by the anguish born of hatred he would sleep badly
+
+_dosajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyyāti_
+____
+
+[quote, A.1.137]
+____
+Being tormented by the anguish born of undiscernment of reality he would sleep 
+badly
+
+_mohajehi pariḷāhehi pariḍayhamāno dukkhaṃ sayeyyāti._
+____
+
+==== Bad passions
+
+Bad passions are:
+
+____
+sensuous passion
+
+_kāmapariḷāho_
+____
+
+____
+unbenevolent passion
+
+_vyāpādapariḷāho_
+____
+
+____
+malicious passion
+
+_vihiṃsāpariḷāho_
+____
+
+[quote, S.2.151-3]
+____
+These lead to sensuous, unbenevolent and malicious quests, engaged in which the 
+ignorant Everyman conducts himself wrongly by way of body, speech, and mind.
+
+_Kāmapariyesanaṃ... Vyāpādapariyesanaṃ... Vihiṃsāpariyesanaṃ 
+bhikkhave pariyesamāno assutavā puthujjano tīhi ṭhānehi micchā 
+paṭipajjati: kāyena vācāya manasā._
+____
+
+==== Good passions
+
+Good passions are:
+
+____
+unsensuous passion
+
+_nekkhammapariḷāho_
+____
+
+____
+benevolent passion
+
+_avyāpādapariḷāho_
+____
+
+____
+compassionate passion
+
+_avihiṃsāpariḷāho_
+____
+
+[quote, S.2.151-3]
+____
+These lead to unsensuous, benevolent and compassionate quests, engaged in which 
+the learned noble disciple conducts himself rightly by way of body, speech, and 
+mind.
+
+_Nekkhammapariyesanaṃ... Avyāpādapariyesanaṃ... Avihiṃsāpariyesanaṃ 
+bhikkhave pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā 
+paṭipajjati: kāyena vācāya manasā._
+____
+
+==== Sensuous passion
+
+_Pariḷāha_ usually has an object, for example:
+
+____
+sensuous passion _
+
+_kāmapariḷāho_
+____
+
+____
+passion for individual existence _
+
+_bhavapariḷāho_
+____
+
+[quote, A.2.10-11]
+____
+passion for views
+
+_diṭṭhipariḷāho._
+____
+
+Where it has no object, sensuous passion (_kāmapariḷāha_) is often implied:
+
+[quote, D.3.88]
+____
+Because they spend an excessive amount of time gazing at each other, lust was 
+aroused and sensuous passion arose in their bodies. Out of [sensuous] passion 
+they engaged in sexual intercourse.
+
+_Tesaṃ ativelaṃ aññamaññaṃ upanijjhāyataṃ sārāgo udapādi 
+pariḷāho kāyasmiṃ okkami. Te pariḷāhapaccayā methunaṃ dhammaṃ 
+paṭiseviṃsu._
+____
+
+This helps interpret Thī.v.33-34, where we take _pariḷāho_ as 'sensuous 
+passion,' as follows:
+
+==== Interpreting Thī.v.33-34
+
+____
+From the soles of the feet up, mother, and down from the hair on the crown of 
+the head, contemplate this foul, malodorous body
+
+_Uddhaṃ pādatalā amma adho ve kesamatthakā +
+Paccavekkhassu'maṃ kāyaṃ asuciṃ pūtigandhikaṃ_
+____
+
+[quote, Thī.v.33-4]
+____
+... As I abide in this way, all my attachment is abolished. My [sensuous] 
+passion is annihilated. I am freed from inward distress. I have realised the 
+Untroubled._
+
+_Evaṃ viharamānāya sabbo rāgo samūhato +
+Pariḷāho samucchinno sītibhūtāmhi nibbutā ti._
+____
+
+Rendering _pariḷāha_ as 'sensuous passion' is supported by the fact that 
+reflecting on the parts of body is associated with 'the abandonment of 
+attachment to sensuous pleasure' (_Idaṃ bhante anussatiṭṭhānaṃ evaṃ 
+bhāvitaṃ evaṃ bahūlikataṃ kāmarāgassa pahānāya saṃvattati,_ 
+A.3.323).
+
+=== Illustrations
+
+.Illustration
+====
+pariḷāhaṃ
+
+passion
+====
+
+[quote, M.1.506]
+____
+Having dispelled sensuous passion I abide without sensuous thirst, with a mind 
+inwardly at peace.
+
+_kāmapariḷāhaṃ paṭivinodetvā vigatapipāso ajjhattaṃ vūpasantacitto 
+viharāmi._
+____
+
+.Illustration
+====
+pariḷāhena
+
+passion
+====
+
+[quote, M.1.508]
+____
+Beings... who are tormented by sensuous passion
+
+_sattā... kāmapariḷāhena pariḍayhamānā._
+____
+
+.Illustration
+====
+pariḷāho
+
+passion
+====
+
+____
+Because of sensuous hankering, sensuous passion
+
+_Kāmacchandaṃ paṭicca uppajjati kāmapariḷāho_
+____
+
+[quote, S.2.152]
+____
+Because of sensuous passion, sensuous quests
+
+_Kāmapariḷāhaṃ paṭicca uppajjati kāmapariyesanā._
+____
+
+.Illustration
+====
+pariḷāho
+
+passion
+====
+
+____
+Because of unsensuous hankering, unsensuous passion
+
+_Nekkhammacchandaṃ paṭicca uppajjati nekkhammapariḷāho_
+____
+
+[quote, S.2.152]
+____
+Because of unsensuous passion, unsensuous quests
+
+_Nekkhammapariḷāhaṃ paṭicca uppajjati nekkhammapariyesanā._
+____
+
+.Illustration
+====
+pariḷāhā
+
+anguishing
+====
+
+[quote, A.3.245]
+____
+Vexatious and anguishing perceptually obscuring states
+
+__āsavā vighātapariḷāhā._
+____
+
+.Illustration
+====
+pariḷāhā
+
+anguishing
+====
+
+[quote, M.1.507-8]
+____
+So too, Māgandiya, in the past contact with sensuous pleasures was unpleasant, 
+very hot, and anguishing; in the future contact with sensuous pleasures will be 
+unpleasant, very hot, and anguishing; and now at present contact with sensuous 
+pleasures is unpleasant, very hot, and anguishing.
+
+_Evameva kho māgandiya atītampi addhānaṃ kāmā dukkhasamphassā ceva 
+mahābhitāpā ca mahāpariḷāhā ca. Anāgatampi addhānaṃ kāmā 
+dukkhasamphassā ceva mahābhitāpā ca mahāpariḷāhā ca etarahipi 
+paccuppannaṃ addhānaṃ kāmā dukkhasamphassā ceva mahābhitāpā ca 
+mahāpariḷāhā ca._
+____
+
+.Illustration
+====
+pariḷāhena
+
+anguish
+====
+
+____
+They are tormented by the anguish of birth,
+
+_jātipariḷāhena pi pariḍayhanti_
+____
+
+____
+They are tormented by the anguish of old age
+
+_Jarāpariḷāhena pi pariḍayhanti_
+____
+
+____
+They are tormented by the anguish of death
+
+_maraṇapariḷāhena pi pariḍayhanti_
+____
+
+[quote, S.5.451]
+____
+They are tormented by the anguish of grief, lamentation, physical pain, 
+psychological pain, and vexation.
+
+_sokaparidevadukkhadomassupāyāsapariḷāhena pi pariḍayhanti._
+____
+
+.Illustration
+====
+pariḷāho
+
+anguish
+====
+
+[quote, M.3.236]
+____
+Bhikkhus, sensuous pleasure, a vile pleasure, the pleasure of the common man, 
+an ignoble pleasure, this is a state associated with pain, distress, vexation, 
+and anguish;
+
+_Tatra bhikkhave yamidaṃ kāmasukhaṃ mīḷhasukhaṃ pothujjanasukhaṃ 
+anariyasukhaṃ sadukkho eso dhammo saupaghāto saupāyāso sapariḷāho._
+____
+
+.Illustration
+====
+pariḷāhā
+
+anguishes
+====
+
+____
+For one who abides attached, tethered [to individual existence], undiscerning 
+of reality, contemplating sweetness, the five grasped aggregates accumulate in 
+the future;
+
+_Tassa sārattassa saṃyuttassa sammūḷhassa assādānupassino viharato 
+āyatiṃ pañcupādānakkhandhā upacayaṃ gacchanti._
+____
+
+____
+Craving that leads to renewed states of individual existence, accompanied by 
+spiritually fettering delight and attachment, taking delight in this and that, 
+grows.
+
+_Taṇhā cassa ponobhavikā nandirāgasahagatā tatra tatrābhinandinī sā 
+cassa pavaḍḍhati._
+____
+
+____
+One's physical and psychological sufferings, torments, and anguishes increase.
+
+_tassa kāyikāpi darathā pavaḍḍhanti cetasikāpi darathā pavaḍḍhanti 
+kayikāpi santāpā pavaḍḍhanti cetasikāpi santāpā pavaḍḍhanti 
+kāyikāpi pariḷāhā pavaḍḍhanti cetasikāpi pariḷāhā 
+pavaḍḍhanti_
+____
+
+[quote, M.3.287]
+____
+One experiences physical and psychological unpleasantness
+
+_so kāyadukkhampi cetodukkhampi paṭisaṃvedeti._
+____
+
+.Illustration
+====
+pariḷāho
+
+anguish
+====
+
+____
+While he is contemplating the nature of the body, there arises in him, with the 
+body as the object of mindfulness, either bodily anguish, or mental 
+sluggishness, or his mind is distracted outwardly.
+
+_tassa kāye kāyānupassino viharato kāyārammaṇo vā uppajjati kāyasmiṃ 
+pariḷāho cetaso vā līnattaṃ bahiddhā vā cittaṃ vikkhipati_
+____
+
+[quote, S.5.156]
+____
+That bhikkhu should then direct his mind towards some faith inspiring 
+meditation object.
+
+_kismiñcideva pasādaniye nimitte cittaṃ paṇidahitabbaṃ._
+____
+

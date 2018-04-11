@@ -1,0 +1,176 @@
+== Vipāka
+
+=== Renderings
+
+- _vipāka_: consequence
+
+- _vipāka_: karmic consequence
+
+=== Illustrations
+
+.Illustration
+====
+vipāko
+
+consequence
+====
+
+____
+What is the consequence of sensuous yearnings?
+
+_Katamo ca bhikkhave kāmānaṃ vipāko_
+____
+
+[quote, A.3.411]
+____
+In one yearning for sensuous pleasure a corresponding personal disposition is 
+manifested, either meritorious or demeritorious.
+
+_yaṃ kho bhikkhave kāmayamāno tajjaṃ tajjaṃ attabhāvaṃ 
+abhinibbatteti puññabhāgiyaṃ vā apuññabhāgiyaṃ vā ayaṃ vuccati 
+bhikkhave kāmānaṃ vipāko._
+____
+
+.Illustration
+====
+vipāko
+
+consequence
+====
+
+____
+What is the consequence of sense impressions?
+
+_Katamo ca bhikkhave vedanānaṃ vipāko_
+____
+
+[quote, A.3.412]
+____
+In one experiencing [a sense impression] a corresponding personal disposition 
+is manifested, either meritorious or demeritorious. This is called the 
+consequence of sense impression.
+
+_yaṃ bhikkhave vediyamāno tajjaṃ tajjaṃ attabhāvaṃ abhinibbatteti 
+puññabhāgiyaṃ vā apuññabhāgiyaṃ vā ayaṃ vuccati bhikkhave 
+vedanānaṃ vipāko._
+____
+
+.Illustration
+====
+vipāko
+
+consequence
+====
+
+____
+What is the consequence of perceptions?
+
+_Katamo ca bhikkhave saññānaṃ vipāko_
+____
+
+____
+Speech is the consequence of perception, I declare.
+
+_vohāra vepakkāhaṃ bhikkhave saññaṃ vadāmi_
+____
+
+[quote, A.3.413]
+____
+In whatever way one perceives something, one speaks accordingly: 'I perceived 
+thus.'
+
+_Yathā yathā naṃ sañjānāti tathā tathā voharati evaṃ saññi ahosin 
+ti.._
+____
+
+.Illustration
+====
+vipāko
+
+consequence
+====
+
+____
+And what is the consequence of perceptually obscuring states?
+
+_Katamo ca bhikkhave āsavānaṃ vipāko_
+____
+
+[quote, A.3.414]
+____
+In one who has acquiesced in uninsightfulness into reality a corresponding 
+personal disposition is manifested, either meritorious or demeritorious.
+
+_yaṃ kho bhikkhave avijjāgato tajjaṃ tajjaṃ attabhāvaṃ abhinibbatteti 
+puññabhāgiyaṃ vā apuññabhāgiyaṃ vā._
+____
+
+.Illustration
+====
+vipāko
+
+consequence
+====
+
+____
+And what is the consequence of suffering?
+
+_Katamo ca bhikkhave dukkhassa vipāko_
+____
+
+____
+Consider one overpowered and overcome by suffering, he grieves, suffers, and 
+laments, weeps beating his chest, and falls into bewilderment; or roams abroad 
+in search of one who knows a spell or two to put an end to this suffering.
+
+_idha bhikkhave ekacco yena dukkhena abhibhūto pariyādinnacitto socati 
+kilamati paridevati urattāḷiṃ kandati sammohaṃāpajjati. Yena vā pana 
+dukkhena abhibhūto pariyādinna citto bahiddhā pariyeṭṭhiṃ ājjati ko 
+ekapadaṃ dipadaṃ pajānāti imassa dukkhassa nirodhāyā ti._
+____
+
+[quote, A.3.416]
+____
+Suffering yields either bewilderment or search, I declare.
+
+_Sammohavepakkaṃ vāhaṃ bhikkhave dukkhaṃ vadāmi 
+pariyeṭṭhivepakkaṃ vā._
+____
+
+.Illustration
+====
+vipāko
+
+karmic consequence
+====
+
+____
+What is the karmic consequence of karmically consequential deeds?
+
+_Katamo ca bhikkhave kammānaṃ vipāko_
+____
+
+[quote, A.3.415]
+____
+The karmic consequence of karmically consequential deeds is threefold: that 
+which arises in this life, or on rebirth, or in some other subsequent 
+&#8203;[existence].
+
+_Tividhāhaṃ bhikkhave kammānaṃ vipākaṃ vadāmi diṭṭhevā dhamme 
+upajje vā apare vā pariyāye._
+____
+
+.Illustration
+====
+vipākaṃ
+
+karmic consequence
+====
+
+[quote, A.2.196]
+____
+Previous demeritorious conduct whose karmic consequence has not yet ripened.
+
+_pubbe pāpakammaṃ kataṃ avipakkavipākaṃ._
+____
+

@@ -1,0 +1,906 @@
+== Kittāvatā; Ettāvatā
+
+=== Renderings
+
+- _ettāvatā_: as if
+
+- _ettāvatā_: even though
+
+- _ettāvatā_: at that point
+
+- _ettāvatā_: only at that point
+
+- _ettāvatā_: in this way
+
+- _ettāvatā_: this much
+
+- _ettāvatā_: thus far and no further
+
+- _ettāvatā_: thus far
+
+- _ettāvatā_: in view of
+
+- _ettāvatā_: on account of this
+
+- _kittāvatā... ettāvatā_: by virtue of what attributes... by virtue of 
+these attributes
+
+- _kittāvatā... ettāvatā_: in what way... in this way
+
+- _kittāvatā... ettāvatā_: on what grounds... on these grounds
+
+- _kittāvatā... ettāvatā_: in reference to what... in reference to this
+
+=== Illustrations
+
+.Illustration
+====
+ettāvatā
+
+as if
+====
+
+____
+-- Suppose some workman said: 'This is what King Pasenadi of Kosala says!' 
+Would he be speaking the King's words or giving the King's advice, as if he 
+were the King or King's chief minister?
+
+_evampi rājā pasenadi kosalo āha evampi rājā pasenadī kosalo āhā ti. 
+Api nu so rājabhaṇitaṃ vā bhaṇati rājamantaṃ vā manteti ettāvatā 
+so assa rājā vā rājamahāmatto vā ti?_
+____
+
+-- No indeed, reverend Gotama (D.1.104-5).
+
+.Illustration
+====
+ettāvatā
+
+even though
+====
+
+-- What do you think, Ambaṭṭha? Suppose a _khattiya_, for some reason, has 
+been punished and banished from the country or city. In spite of this, would he 
+receive a seat and water from the brahmans?
+
+-- He would, reverend Gotama.
+
+-- Would they allow him to eat at funeral-rites as a guest?
+
+-- They would, reverend Gotama.
+
+-- Would they teach him the sacred texts or not?
+
+-- They would, reverend Gotama.
+
+[quote, D.1.98-9]
+____
+-- Even though, Ambaṭṭha, the _khattiya_ has reached the extreme of 
+humiliation.
+
+_Ettāvatā kho ambaṭṭha khattiyo paramanihīnataṃ patto hoti._
+____
+
+.Illustration
+====
+ettāvatā
+
+at that point; ettāvatā, only at that point
+====
+
+____
+There is, sir, that [absolute] Selfhood as you describe. That I do not deny. 
+But the [absolute] Selfhood has not at that point attained to the highest 
+pleasure in this lifetime.
+
+_atthi kho bho eso attā yaṃ tvaṃ vadesi neso natthī ti vadāmi; no ca kho 
+bho ayaṃ attā ettāvatā paramadiṭṭhadhammanibbānaṃ patto hoti._
+____
+
+[quote, D.1.36]
+____
+... But whensoever the [absolute] Selfhood, secluded from sensuous pleasures 
+and spiritually unwholesome factors, enters and abides in first jhāna, which 
+is accompanied by thinking and pondering, and rapture and physical pleasure 
+born of seclusion [from sensuous pleasures and spiritually unwholesome 
+factors], only at that point, sir, has the [absolute] Selfhood attained to the 
+highest pleasure in this lifetime.
+
+_Yato kho bho ayaṃ attā vivicceva kāmehi vivicca akusalehi dhammehi 
+savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ 
+upasampajja viharati ettāvatā kho bho ayaṃ attā 
+paramadiṭṭhadhammanibbānaṃ patto hotī ti._
+____
+
+.Illustration
+====
+ettāvatā
+
+at this point; kittāvatā, at what point?
+====
+
+____
+-- 'Nigrodha, at this point, austerity and asceticism has not reached the peak, 
+the very pith. It has only reached the inner bark.'
+
+_Na kho nigrodha ettāvatā tapojigucchā aggappattā ca hoti sārappattā ca 
+api ca kho tacappattā hotī ti_
+____
+
+[quote, D.3.50]
+____
+-- 'At what point, then, bhante has austerity and asceticism reached the peak, 
+the very pith?'
+
+_Kittāvatā ca kho pana bhante tapojigucchā aggappattā ca hoti sārappattā 
+ca._
+____
+
+.Illustration
+====
+ettāvatā
+
+not until this point
+====
+
+____
+He knows that birth is destroyed; the religious life has been fulfilled; what 
+had to be done has been done; there will be no further arising in any state of 
+individual existence.
+
+_Khīṇā jāti vusitaṃ brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ 
+itthattāyāti pajānāti._
+____
+
+____
+This, too, is called a footprint of the Perfect One, a scratch mark of the 
+Perfect One, a tusk slash of the Perfect One,
+
+_Idampi vuccati brāhmaṇa tathāgatapadaṃ iti pi tathāgatanisevitaṃ iti 
+pi tathāgatārañjitaṃ itipi._
+____
+
+[quote, M.1.184]
+____
+And it is not until this point that a noble disciple can come to the 
+conclusion: 'The Blessed One is perfectly enlightened; the teaching is well 
+explained by the Blessed One; the community of the Blessed One's disciples is 
+applied to an excellent practice.'
+
+_Ettāvatā kho brāhmaṇa ariyasāvako niṭṭhaṃ gato hoti 
+sammāsambuddho bhagavā svākkhāto bhagavatā dhammo supaṭipanno bhagavato 
+sāvakasaṅgho ti._
+____
+
+.Illustration
+====
+kittāvatā
+
+in what ways; ettāvatā, in these ways
+====
+
+____
+In what ways do people explain the [absolute] Selfhood?
+
+_Kittāvatā ca ānanda attānaṃ paññapento paññapeti_
+____
+
+____
+Either material and limited, or material and unlimited, or immaterial and 
+limited, or immaterial and unlimited.
+
+_rūpiṃ vā hi ānanda parittaṃ attānaṃ paññapento paññapeti rūpī 
+me paritto attā ti... arūpiṃ vā hi ānanda anantaṃ attānaṃ 
+paññapento paññapeti arūpī me ananto attā ti._
+____
+
+[quote, D.2.65]
+____
+In these ways people explain the [absolute] Selfhood.
+
+_Ettāvatā kho ānanda attānaṃ paññapento paññapeti._
+____
+
+.Illustration
+====
+ettāvatā
+
+in this way
+====
+
+[quote, D.2.138]
+____
+It is not in this way, Ānanda, that the Perfect One is honoured, revered, 
+respected, reverenced, and venerated
+
+_Na kho ānanda ettāvatā tathāgato sakkato vā hoti garukato vā mānito vā 
+pūjito vā apacito vā._
+____
+
+.Illustration
+====
+ettāvatā
+
+in this way
+====
+
+____
+When a bhikkhu recollects the Buddha, the teaching, and the community of the 
+Blessed One's disciples in this way, and detached awareness based on what is 
+spiritually wholesome is established within him, he is pleased about it.
+
+_Tassa ce āvuso bhikkhuno evaṃ buddhaṃ anussarato evaṃ dhammaṃ 
+anussarato evaṃ saṅghaṃ anussarato upekkhā kusalanissitā saṇṭhāti 
+so tena attamano hoti._
+____
+
+[quote, M.1.186-7]
+____
+In this way, much has been accomplished by the bhikkhu.
+
+_Ettāvatā pi kho āvuso bhikkhuno bahukataṃ hoti._
+____
+
+.Illustration
+====
+kittāvatā
+
+in what way; ettāvatā, in this way
+====
+
+____
+In what way do the disciples of a teacher who lives secludedly not likewise 
+train themselves in seclusion [from sensuous pleasures and spiritually 
+unwholesome factors].
+
+_Kittāvatā nu kho āvuso satthu pavivittassa viharato sāvakā vivekaṃ 
+nānusikkhanti?_
+____
+
+[quote, M.1.14]
+____
+... In this way the disciples of a teacher who lives secludedly do not likewise 
+train themselves in seclusion [from sensuous pleasures and spiritually 
+unwholesome factors].
+
+_Ettāvatāvuso satthu pavivittassa viharato sāvakā vivekaṃ nānusikkhanti._
+____
+
+.Illustration
+====
+kittāvatā
+
+in what way; ettāvatā, in this way
+====
+
+____
+In what way, bhante, can a bhikkhu abide at ease while living in a monastic 
+community?
+
+_Kittāvatā nu kho bhante bhikkhu saṅghe viharanto phāsuṃ vihareyyāti._
+____
+
+[quote, A.3.132-3]
+____
+When a bhikkhu is himself perfect in virtue but does not exhort others in 
+regard to higher virtue. In this way, Ānanda, a bhikkhu can dwell at ease 
+while living in a monastic community.
+
+_Yato kho ānanda bhikkhu attanā sīlasampanno hoti no ca paraṃ adhisīle 
+sampavattā. Ettāvatā pi kho ānanda bhikkhu saṅghe viharanto phāsuṃ 
+vihareyyā ti._
+____
+
+.Illustration
+====
+kittāvatā
+
+in what way; ettāvatā, in this way
+====
+
+____
+-- 'Bhante, in what way, stated briefly, is a bhikkhu liberated [from 
+perceptually obscuring states] through the destruction of craving
+
+_Kittāvatā nu kho bhante bhikkhu saṅkhittena taṇhāsaṅkhayavimutto hoti_
+____
+
+_..._
+
+[quote, M.1.251]
+____
+In this way, stated briefly, Lord of the Devas, is a bhikkhu liberated [from 
+perceptually obscuring states] through the destruction of craving
+
+_Ettāvatā kho devānaminda bhikkhu saṅkhittena taṇhāsaṅkhayavimutto 
+hoti._
+____
+
+.Illustration
+====
+ettāvatā
+
+this much
+====
+
+Subha said the virtue of some ascetics and Brahmanists was less impressive than 
+the bhikkhus, and added that if any of those ascetics and Brahmanists 
+discovered the virtue of the bhikkhus in themselves they would exclaim:
+
+[quote, D.1.207]
+____
+'This much is enough. This much is sufficient. The goal of our asceticism has 
+been reached. There is nothing more to be done.'
+
+_alamettāvatā katamettāvatā anuppatto no sāmaññattho natthi no kiñci 
+uttariṃ karaṇiyan ti._
+____
+
+.Illustration
+====
+ettāvatā
+
+this much
+====
+
+[quote, D.2.176]
+____
+Is this much enough, your majesty? Will this much do, your majesty? Is this 
+much to be offered, your majesty?
+
+_alamettāvatā mahārāja katamettāvatā mahārāja pūjitamettāvatā 
+mahārājāti._
+____
+
+.Illustration
+====
+ettāvatā
+
+thus far and no further
+====
+
+Pausing at the door before entering his meditation chamber, King Mahāsudassana 
+exclaimed:
+
+____
+'May sensuous thought stop! May unbenevolent thought stop! May malicious 
+thought stop!'
+
+_tiṭṭha kāmavitakka tiṭṭha vyāpādavitakka tiṭṭha 
+vihiṃsāvitakka_
+____
+
+[quote, D.2.186]
+____
+'Thus far and no further, sensuous thought! Thus far and no further, 
+unbenevolent thought! Thus far and no further, malicious thought!'
+
+_ettāvatā kāmavitakka ettāvatā vyāpādavitakka ettāvatā 
+vihiṃsāvitakkā ti._
+____
+
+.Illustration
+====
+ettāvatā
+
+thus far
+====
+
+[quote, D.2.265]
+____
+Pañcasikha approached the Indasāla Cave with his lute, then thought, 'Thus 
+far is neither too far from nor too near to the Blessed One, and he will hear 
+my voice;' and so he began to sing.
+
+_Upasaṅkamitvā ettāvatā me bhagavā neva atidūre bhavissati na 
+accāsanena saddañca me sossatī ti._
+____
+
+.Illustration
+====
+ettāvatā
+
+in view of
+====
+
+____
+When Subha sent a messenger to invite Venerable Ānanda to visit, Ānanda said 
+he had just taken medicine, but if he had the time and opportunity he would 
+visit the following day.
+
+_Atthi me ajja bhesajjamattā pītā. Appevanāma svepi upasaṅkameyyāma 
+kālañca samayañca upādāyāti_
+____
+
+The messenger reported this to Subha and added:
+
+[quote, D.1.205]
+____
+'Therefore, in view of this arrangement the Reverend Ānanda will probably take 
+the opportunity to come tomorrow.'
+
+_Ettāvatā pi kho bho katameva etaṃ yato so bho bhavaṃ ānando 
+okāsamakāsi svātanāyapi upasaṅkamanāyā ti._
+____
+
+Comment:
+
+PED says _yato... ettāvatā_ means 'because... therefore.'
+
+.Illustration
+====
+ettāvatā
+
+on account of this
+====
+
+____
+Then it occurred to me:
+
+_tassa mayhaṃ bhikkhave etadahosi_
+____
+
+____
+The stream of sense consciousness turns back at denomination-and-bodily-form; 
+it does not go further.
+
+_paccudāvattati kho idaṃ viññāṇaṃ nāmarūpamhā nāparaṃ gacchati_
+____
+
+____
+On account of this one can be born, age and die, pass away and be reborn
+
+_Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā _
+____
+
+[quote, S.2.104]
+____
+Namely through the stream of sense consciousness being dependent on 
+denomination-and-bodily-form; and denomination-and-bodily-form being dependent 
+on the stream of sense consciousness._
+
+_yadidaṃ nāmarūpapaccayā viññāṇaṃ viññāṇapaccayā 
+nāmarūpaṃ._
+____
+
+.Illustration
+====
+ettāvatā
+
+on account of this; ettāvatā, thus far
+====
+
+____
+Therefore, this is the indispensible condition, the source, the origin, the 
+necessary condition of the stream of sense consciousness, namely 
+denomination-and-bodily-form.
+
+_Tasmātihānanda eseva hetu etaṃ nidānaṃ esa samudayo esa paccayo 
+viññāṇassa yadidaṃ nāmarūpaṃ_
+____
+
+____
+On account of this one can be born, age and die, pass away and be reborn._
+
+_Ettāvatā kho ānanda jāyetha vā jīyetha vā mīyetha vā cavetha vā 
+upapajjetha vā_
+____
+
+____
+Thus far extends the ways of verbal designation,
+
+_ettāvatā adhivacanapatho_
+____
+
+____
+Thus far extends the ways of conventional expression,
+
+_ettāvatā niruttipatho_
+____
+
+____
+Thus far extends the ways of intimation,
+
+_ettāvatā viññattipatho_
+____
+
+____
+Thus far extends the sphere of discernment,
+
+_ettāvatā paññāvacaraṃ_
+____
+
+____
+Thus far the round of rebirth revolves and personal existence is to be 
+discerned,
+
+_ettāvatā vaṭṭaṃ vattati itthattaṃ paññāpanāya_
+____
+
+____
+namely denomination-and-bodily-form together with the stream of sense 
+consciousness,
+
+_yadidaṃ nāmarūpaṃ saha viññāṇena_
+____
+
+[quote, D.2.63-4]
+____
+which continue through mutual conditionality.
+
+_aññamaññapaccayatāya pavattati._
+____
+
+.Illustration
+====
+kittāvatā
+
+by virtue of what attributes (vs. evaṃ and vs. kathaṃ... idha)
+====
+
+____
+-- By virtue of what attributes is someone who is not vigorously applied [to 
+the practice] and unafraid of wrongdoing incapable of reaching enlightenment, 
+incapable of realising the Untroubled, incapable of reaching unsurpassed safety 
+from the danger of bondage [to individual existence]?"
+
+_Kittāvatā nu kho āvuso anātāpī hoti anottāpī abhabbo sambodhāya 
+abhabbo nibbānāya abhabbo anuttarassa yogakkhemassa adhigamāya?_
+____
+
+-- In this regard, friend, a bhikkhu thinks:
+
+• 'If unarisen unvirtuous, spiritually unwholesome factors arise in me, this 
+would lead to my harm,' but he does not vigorously apply himself [to the 
+practise]. +
+_Idhāvuso bhikkhu anuppannā me pāpakā akusalā dhammā uppajjamānā 
+anatthāya saṃvatteyyunti na ātappaṃ karoti_
+
+____
+... In this way he is someone not vigorously applied [to the practice].
+
+_Evaṃ kho āvuso anātāpī hoti._
+____
+
+____
+In what way is someone unafraid of wrongdoing.
+
+_Kathañcāvuso anottāpī hoti?_
+____
+
+In this regard, friend, a bhikkhu thinks:
+
+[quote, S.2.195-6]
+____
+If unarisen unvirtuous, spiritually unwholesome factors arise in me, this would 
+lead to my harm,' but he is unafraid of wrongdoing.
+
+_Idhāvuso bhikkhu anuppannā me pāpakā akusalā dhammā uppajjamānā 
+anatthāya saṃvatteyyunti na ottapati._
+____
+
+.Illustration
+====
+kittāvatā
+
+by virtue of what attributes; ettāvatā, by virtue of these attributes
+====
+
+____
+'Bhante, by virtue of what attributes are the aggregates called aggregates?'
+
+_Kittāvatā pana bhante khandhānaṃ khandhādhivacanaṃ hotī ti?_
+____
+
+[quote, M.3.16-17]
+____
+By virtue of these attributes the aggregates called aggregates.'
+
+_Ettāvatā kho bhikkhu khandhānaṃ khandhādhivacanaṃ hotī ti._
+____
+
+.Illustration
+====
+kittāvatā
+
+on what grounds; ettāvatā, on these grounds
+====
+
+____
+Right perception [of reality], right perception [of reality],' is said, friend. 
+On what grounds does a noble disciple have right perception [of reality]?
+
+_Sammādiṭṭhi sammādiṭṭhī ti āvuso vuccati kittāvatā nu kho āvuso 
+ariyasāvako sammādiṭṭhi hoti._
+____
+
+____
+When a noble disciple discerns what is spiritually unwholesome, the origin of 
+what is spiritually unwholesome, what is spiritually wholesome, and the origin 
+of what is spiritually wholesome,
+
+_Yato kho āvuso ariyasāvako akusalañca pajānāti akusalamūlañca 
+pajānāti. Kusalañca pajānāti kusalamūlañca pajānāti_
+____
+
+[quote, M.1.46]
+____
+On these grounds a noble disciple has right perception [of reality].
+
+_Ettāvatā pi kho āvuso ariyasāvako sammādiṭṭhi hoti._
+____
+
+____
+On these grounds a noble disciple has
+
+_Ettāvatā pi kho āvuso ariyasāvako_
+____
+
+• right perception [of reality] +
+☸ sammādiṭṭhi hoti
+
+____
+has a perception [of reality] that is correct
+
+_ujugatāssa diṭṭhi_
+____
+
+____
+has unshakeable faith in the [significance of the] teaching
+
+_dhamme aveccappasādena samannāgato_
+____
+
+[quote, M.1.47]
+____
+and has fathomed this true teaching
+
+__āgato imaṃ saddhamman ti._
+____
+
+.Illustration
+====
+kittāvatā
+
+on what grounds?
+====
+
+____
+On grounds [of what attainment], friend Kālāma, having realised this state 
+for yourself through transcendent insight and abiding in it, do you make it 
+known to others?_
+
+_kittāvatā no āvuso kālāma imaṃ dhammaṃ sayaṃ abhiññā 
+sacchikatvā upasampajja pavedesī ti._
+____
+
+____
+In reply he declared [that he had realised] the state of awareness of 
+nonexistence._
+
+_Evaṃ vutte bhikkhave āḷāro kālāmo ākiñcaññāyatanaṃ pavedesi._
+____
+
+[quote, M.1.164-6]
+____
+In no short time, I quickly realised that state for myself through transcendent 
+insight and abided in it.
+
+_So kho ahaṃ bhikkhave nacirasseva khippameva taṃ dhammaṃ sayaṃ 
+abhiññā sacchikatvā upasampajja vihāsiṃ._
+____
+
+.Illustration
+====
+kittāvatā
+
+on what grounds; ettāvatā, on these grounds
+====
+
+____
+'Insightfulness into reality' is spoken of, bhante.
+
+_vijjā vijjā ti bhante vuccati_
+____
+
+____
+What now, bhante, is insightfulness into reality, and on what grounds is one 
+possessed of insight into reality?'
+
+_katamā nu kho bhante vijjā kittāvatā ca vijjāgato hotī ti?_
+____
+
+• 'Bhikkhus, whatsoever is the knowledge of suffering [according to reality], 
+of the origin of suffering, the ending of suffering, and of the practice 
+leading to the ending of suffering, is called insightfulness into reality, and 
+it is on these grounds that one is possessed of insight into reality.' +
+_Yaṃ kho bhikkhu dukkhe ñāṇaṃ dukkhasamudaye ñāṇaṃ dukkhanirodhe 
+ñāṇaṃ dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ ayaṃ vuccati 
+bhikkhu vijjā ettāvatā ca vijjāgato hoti_ (S.5.430).
+
+.Illustration
+====
+kittāvatā
+
+on what grounds; ettāvatā, on these grounds
+====
+
+____
+-- 'One perfect [in the development of] the [six] sense faculties' is said. 
+bhante.' On what grounds, bhante, is one perfect [in the development of] the 
+&#8203;[six] sense faculties?
+
+_indriyasampanno indriyasampannoti bhante vuccati kittāvatā nu kho bhante 
+indriyasampanno hotī ti?_
+____
+
+____
+-- If, bhikkhu, one abides contemplating the [co-conditional] arising and 
+disappearance of the faculty of sight... the faculty of mental cognisance, one 
+is disillusioned with the faculty of mental cognisance
+
+_Cakkhundriye ce bhikkhu udayabbayānupassī viharanto cakkhundriye 
+nibbindati... manindriye ce bhikkhu udayabbayānupassī viharanto manindriye 
+nibbindati._
+____
+
+____
+... Being disillusioned [with originated phenomena], one is unattached [to 
+originated phenomena]. Being unattached [to originated phenomena] one is 
+liberated [from perceptually obscuring states].
+
+_nibbindaṃ virajjati virāgā vimuccati._
+____
+
+[quote, S.4.140]
+____
+... On these grounds one is perfect [in the development of] the [six] sense 
+faculties._
+
+_ettāvatā kho bhikkhu indriyasampanno hotī ti._
+____
+
+.Illustration
+====
+kittāvatā
+
+on what grounds? (vs. evaṃ)
+====
+
+____
+-- Bhante, it is said: 'Individual existence. Individual existence
+
+_bhavo bhavo ti bhante vuccati._
+____
+
+____
+On what grounds is there individual existence?
+
+_kittāvatā nu kho bhante bhavo hotī ti?_
+____
+
+...
+
+____
+-- For beings [obstructed by] uninsightfulness into reality, and [tethered to 
+individual existence] by craving the stream of sense consciousness is 
+established in the low plane of existence
+
+_avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ hīnāya 
+dhātuyā viññāṇaṃ patiṭṭhitaṃ_
+____
+
+____
+... In this way renewed states of individual existence and rebirth occur in the 
+future
+
+_evaṃ āyatiṃ punabbhavābhinibbatti hoti._
+____
+
+[quote, A.1.223-4]
+____
+Thus, Ānanda, is there individual existence
+
+_Evaṃ ko ānanda bhavo hotī ti._
+____
+
+.Illustration
+====
+kittāvatā
+
+on what grounds? (vs. yasmā... tasmā)
+====
+
+____
+'Void [of personal qualities] is the world [of phenomena]': on what grounds, 
+bhante, is this said?
+
+_suñño loko suñño loko ti bhante vuccati kittāvatā nu kho bhante suñño 
+loko ti vuccatī ti?_
+____
+
+[quote, S.4.54]
+____
+Because, Ānanda, it is void of an [absolute] Selfhood and of what could belong 
+to an [absolute] Selfhood, therefore it is said that the world [of phenomena] 
+is void [of personal qualities]._
+
+_Yasmā ca kho ānanda suññaṃ attena vā attaniyena vā tasmā suñño loko 
+ti vuccati._
+____
+
+.Illustration
+====
+kittāvatā
+
+in reference to what; ettāvatā, in reference to this
+====
+
+____
+In reference to what was tranquillity spoken of by the Blessed One?
+
+_Passaddhi passaddhī ti āvuso vuccati kittāvatā nu kho āvuso passaddhi 
+vuttā bhagavatāti?_
+____
+
+____
+Secluded from sensuous pleasures and spiritually unwholesome factors, a bhikkhu 
+enters and abides in first jhāna, which is accompanied by thinking and 
+pondering, and rapture and physical pleasure born of seclusion [from sensuous 
+pleasures and spiritually unwholesome factors].
+
+_Idhāvuso bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ 
+savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja 
+viharati._
+____
+
+[quote, A.4.456]
+____
+It is in reference to this that tranquillity is spoken of by the Blessed One, 
+in a way that is qualified._
+
+_Ettāvatā pi kho āvuso passaddhi vuttā bhagavatā pariyāyena...._
+____
+
+.Illustration
+====
+kittāvatā
+
+in reference to what (vs. what, yaṃ)
+====
+
+____
+'World [of phenomena]' is said, bhante. In reference to what was it said?
+
+_loko loko ti bhante vuccati kittāvatā nu kho bhante loko ti vuccatī ti._
+____
+
+[quote, S.4.53]
+____
+Whatever is destined to decay is called 'the world [of phenomena]' in the 
+&#8203;[terminology of the] Noble One's training system.
+
+_Yaṃ kho ānanda palokadhammaṃ ayaṃ vuccati ariyassa vinaye loko._
+____
+
+.Illustration
+====
+kittāvatā
+
+in reference to what (vs. tasmā)
+====
+
+____
+-- Advertence, advertence, is said, friend. In reference to what was it said?
+
+_Viññāṇaṃ viññāṇan ti āvuso vuccati. Kittāvatā nu kho āvuso 
+viññāṇan ti vuccatī ti?_
+____
+
+[quote, M.1.292-3]
+____
+-- One knows, one knows. Therefore advertence is said.
+
+_Vijānāti vijānātī ti kho āvuso tasmā viññāṇan ti vuccati._
+____
+

@@ -1,0 +1,819 @@
+== Upeti; Upaya
+
+=== Renderings
+
+- _upeti_: to be fit for
+
+- _upeti_: to cling
+
+- _upeti_: to enter
+
+- _upeti_: to involve
+
+- _upeti_: to end up
+
+- _upeti_: to amount to
+
+- _upeti_: to come
+
+- _upeti_: to enter
+
+- _upeti_: to approach
+
+- _upeti_: to reach
+
+- _upeti_: to submit
+
+- _na upeti_: to be unanswerable
+
+- _na upeti_: to be unacceptable
+
+- _na upeti_: to be beyond
+
+- _na upeti_: to be not even (=does not amount to)
+
+- _na upeti saṅkhaṃ_: to be beyond the limits of conception
+
+- _vāsaṃ upeti_: to take up residence
+
+- _upaya_: one who is full of attachment
+
+- _anupayo_: one who is free of attachment
+
+- _upaya_: clinging
+
+- _upaya_: involved
+
+=== Introduction
+
+==== Upaya
+
+Our renderings for upaya are:
+
+- _upaya_: one who is full of attachment
+
+- _anupayo_: one who is free of attachment
+
+- _upaya_: clinging
+
+- _upaya_: involved
+
+These are supported by the dictionaries to the following extent:
+
+- DOP (sv _Upaya_):
+
+1. _Upaya_: (m) going near to, involvement
+
+2. _Upaya_: (mfn) going to; being involvement
+
+3. _Anupaya_: (mfn) not going near (to); free from involvement
+
+- PED (sv _Upaya_):
+
+1. Upaya: approach, undertaking, taking up; clinging to, attachment
+
+2. _Anupaya_: not going near, aloof, unattached
+
+3. _Rūpūpaya_: clinging to form
+
+=== Illustrations
+
+.Illustration
+====
+upeti
+
+fit for
+====
+
+Refined gold is malleable, wieldy and radiant. Whatever ornament one wishes to 
+make from it, it would serve the purpose (_tañcassa atthaṃ anubhoti,_ 
+M.3.243).
+
+Unrefined gold is neither malleable, wieldy, or radiant, but brittle, and not 
+properly fit for work (_na ca sammā upeti kammāya,_ S.5.92).
+
+.Illustration
+====
+upaya
+
+clinging; upeti, cling
+====
+
+[quote, M.3.25]
+____
+So indeed these states, not having been, come into being. Having been, they 
+vanish. He abided not clinging to or rejecting those states, free of 
+attachment, detached, freed, not tethered, inwardly emancipated.
+
+_evaṃ kira me dhammā ahutvā sambhonti hutvā paṭiventī ti. So tesu 
+dhammesu anupayo anapāyo anissito appaṭibaddho vippamutto visaṃyutto 
+vimariyādīkatena cetasā viharati._
+____
+
+.Illustration
+====
+upaya
+
+clinging; upeti, cling
+====
+
+____
+Most of mankind is fastened by clinging, grasping, and stubborn attachment.
+
+_Upayupādānābhinivesavinibaddho khvāyaṃ kaccāna loko yebhuyyena_
+____
+
+[quote, S.2.17]
+____
+But this one (with right perception [of reality]) does not cling or grasp or 
+doggedly assume [the existence of] "my [absolute] Selfhood" in respect of 
+objects of clinging, grasping, obstinate adherence, stubborn attachment, and 
+identification.
+
+_tañcāyaṃ upayupādānaṃ cetaso adhiṭṭhānaṃ abhinivesānusayaṃ 
+na upeti na upādiyati nādhiṭṭhāti attā me ti._
+____
+
+.Illustration
+====
+upeti
+
+cling
+====
+
+[quote, S.3.114]
+____
+He clings to bodily form, grasps it, and doggedly assumes that bodily form is 
+"my [absolute] Selfhood."
+
+_So rūpaṃ upeti upādiyati adhiṭṭhāti attā me ti._
+____
+
+.Illustration
+====
+upeti
+
+involve; anupayo, one who is free of attachment; upayaṃ,
+====
+
+____
+The wise man does not involve himself with whatever opinions are commonplace.
+
+_Yā kācimā sammutiyo puthujjā sabbāva etā na upeti vidvā_
+____
+
+____
+Why would one who is free of attachment become involved?
+
+_Anupayo so upayaṃ kimeyya_
+____
+
+[quote, Sn.v.897]
+____
+He takes no delight in what is seen, heard, [sensed, or cognised].
+
+_Diṭṭhe sute khantimakubbamāno._
+____
+
+.Illustration
+====
+upayo
+
+one who is full of attachment; upeti, enters
+====
+
+____
+One who is full of attachment enters an argument over doctrines.
+
+_Upayo hi dhammesu upeti vādaṃ_
+____
+
+____
+But how, and about what, can you argue with one who is free of attachment?
+
+_anupayaṃ kena kathaṃ vadeyya_
+____
+
+____
+For him there is nothing clung to, and nothing to relinquish.
+
+_Attaṃ nirattaṃ na hi tassa atthi_
+____
+
+[quote, Sn.v.787]
+____
+He has shaken off all dogmatic views in this very world.
+
+_Adhosi so diṭṭhī-m-idheva sabbanti._
+____
+
+.Illustration
+====
+upayo
+
+one who is full of attachment; upayaṃ, clinging
+====
+
+____
+Bhikkhus, one who is full of attachment is unliberated; one who is free of 
+attachment is liberated.
+
+_Upayo bhikkhave avimutto anupayo vimutto_
+____
+
+[quote, S.3.53]
+____
+The stream of sense consciousness while standing, might stand clinging to 
+bodily form; with bodily form as its basis, established on bodily form, with a 
+sprinkling of spiritually fettering delight, it might [egoistically] grow, 
+mature, and develop.
+
+_rūpūpayaṃ vā bhikkhave viññāṇaṃ tiṭṭhamānaṃ tiṭṭheyya 
+rūpārammaṇaṃ rūpappatiṭṭhaṃ nandūpasecanaṃ vuddhiṃ 
+virūḷahiṃ vepullaṃ āpajjeyya._
+____
+
+.Illustration
+====
+upenti
+
+end up in
+====
+
+[quote, S.1.174]
+____
+Having given [alms] again and again, again and again liberal benefactors end up 
+in heaven.
+
+_Punappunaṃ dānapatī daditvā punappunaṃ saggamupenti ṭhānaṃ._
+____
+
+.Illustration
+====
+upeti
+
+ends up
+====
+
+[quote, S.1.174]
+____
+Again and again the fool ends up in a womb
+
+_punappunaṃ gabbhamupeti mando._
+____
+
+.Illustration
+====
+upeti
+
+ends up
+====
+
+[quote, S.1.174]
+____
+Again and again ploughmen plough the field. Again and again rice ends up in the 
+realm.
+
+_Punappunaṃ khettaṃ kasanti kassakā punappunaṃ dhaññamupeti 
+raṭṭhaṃ._
+____
+
+.Illustration
+====
+upeti
+
+ends up
+====
+
+[quote, D.3.147]
+____
+If one such as he ends up going forth [into the ascetic life].
+
+_Sace ca pabbajjamupeti tādiso._
+____
+
+.Illustration
+====
+upeti
+
+ends up
+====
+
+[quote, Th.v.784-5]
+____
+He ends up in a womb in the world beyond
+
+_upeti gabbhañca parañca lokaṃ._
+____
+
+.Illustration
+====
+upeti
+
+end up
+====
+
+[quote, S.4.239]
+____
+A woman ends up in the service of a man
+
+_mātugāmo purisassa pāricariyaṃ upeti._
+____
+
+.Illustration
+====
+upeti
+
+end up
+====
+
+[quote, A.3.51]
+____
+One who gives the best ends up in the best place
+
+_seṭṭhandado seṭṭhamupeti ṭhānaṃ._
+____
+
+.Illustration
+====
+upeti
+
+amount to
+====
+
+[quote, S.2.133]
+____
+The speck of dust the Blessed One has placed on the tip of his fingernail in a 
+comparison with the great earth, does not amount to a hundredth, or a 
+thousandth, or a hundred thousandth part.
+
+_neva satimaṃ kalaṃ upeti na sahassimaṃ kalaṃ upeti na satasahassimaṃ 
+kalaṃ upeti mahāpaṭhaviṃ upanidhāya bhagavatā paritto nakhasikhāya 
+paṃsu āropito ti._
+____
+
+.Illustration
+====
+upeti
+
+come
+====
+
+____
+Some ascetics and Brahmanists say that perception is a person's [absolute] 
+Selfhood which comes and goes.
+
+_Saññā hi bho purisassa attā sā ca kho upeti pi apeti pi_
+____
+
+[quote, D.1.180]
+____
+When it comes, one is conscious, when it goes one is unconscious.
+
+_Yasmiṃ samaye upeti saññī tasmiṃ samaye hoti. Yasmiṃ samaye apeti 
+asaññī tasmiṃ samaye hotī ti._
+____
+
+.Illustration
+====
+upeti
+
+come
+====
+
+[quote, Sn.v.380]
+____
+King Vessavaṇo Kuvero came to see you, asking about the teaching.
+
+_Rājāpi taṃ vessavaṇo kuvero upeti dhammaṃ paripucchamāno._
+____
+
+.Illustration
+====
+upeti
+
+enter
+====
+
+____
+However, a sage does not enter a dispute that has arisen,
+
+_Vādañca jātaṃ muni no upeti_
+____
+
+[quote, Sn.v.780]
+____
+Therefore he is free of hardheartedness in every respect.
+
+_Tasmā muni natthi khilo kuhiñci._
+____
+
+.Illustration
+====
+upeti
+
+approach
+====
+
+[quote, S.1.174]
+____
+Again and again dairymen draw milk. Again and again the calf approaches its 
+mother.
+
+_Punappunaṃ khīranikā duhanti punappunaṃ vaccho upeti mātaraṃ._
+____
+
+.Illustration
+====
+upeti
+
+approach
+====
+
+[quote, Th.v.452]
+____
+Whether walking, standing, sitting, or lying down, your last day approaches. 
+There is no time for you to be negligently applied [to the practice].
+
+_Carato tiṭṭhato vāpi āsīnasayanassa vā +
+Upeti carimā ratti na te kālo pamajjitun ti._
+____
+
+.Illustration
+====
+upeti
+
+reach
+====
+
+[quote, Sn.v.318]
+____
+Having failed to understand the teaching clearly in this world, one reaches 
+death, having not overcome one's unsureness [about the significance of the 
+teaching].
+
+_Idheva dhammaṃ avibhāvayitvā avitiṇṇakaṅkho maraṇaṃ upeti._
+____
+
+.Illustration
+====
+upeti
+
+reaches
+====
+
+[quote, S.1.71]
+____
+Even the gaily coloured chariots of kings decay; and the body, too, reaches old 
+age.
+
+_Jīranti ve rājarathā sucittā atho sarīrampi jaraṃ upeti._
+____
+
+.Illustration
+====
+upeti
+
+reach
+====
+
+[quote, Vin.1.154]
+____
+He reaches the residence on the first day of the lunar fortnight
+
+_Pāṭipade vihāraṃ upeti._
+____
+
+.Illustration
+====
+upeti
+
+submit
+====
+
+[quote, M.3.173-4]
+____
+'It would be wonderful to ride the elephant if he would submit to training.'
+
+_Bhaddakaṃ vata bho hatthiyānaṃ sace damathaṃ upeyyā ti._
+____
+
+.Illustration
+====
+upeti
+
+submit
+====
+
+[quote, A.2.112]
+____
+'But, Kesi, if a horse-in-training won't submit to mild discipline, nor harsh 
+discipline, nor mild and harsh discipline, how do you deal with him?'
+
+_Sace te kesi assadammo saṇhenapi vinayaṃ na upeti pharusenapi vinayaṃ na 
+upeti saṇhapharusenapi vinayaṃ na upeti kinti naṃ karosī ti._
+____
+
+.Illustration
+====
+na upeti saṅkhaṃ is beyond the limits of conception
+
+[quote
+
+Sn.v.1074]
+====
+
+____
+Just as a flame tossed about by the force of the wind vanishes, and is beyond 
+the limits of conception, so a sage liberated from denomination-and-body 
+vanishes, and is beyond the limits of conception.
+
+_Acci yathā vātavegena khittā atthaṃ paleti na upeti saṅkhaṃ; +
+Evaṃ muni nāmakāyā vimutto atthaṃ paleti na upeti saṅkhaṃ._
+____
+
+Comment:
+
+Explained two verses later as follows:
+
+[quote, Sn.v.1076]
+____
+There is no measuring of one who has vanished. That no longer exists in 
+relation to which one might speak of him. When all points of reference are 
+removed, then all ways of talking about him are also removed.
+
+_Atthaṅgatassa na pamāṇamatthi yena naṃ vajjuṃ taṃ tassa natthi +
+Sabbesu dhammesu samūhatesu samūhatā vādapathā pi sabbe ti._
+____
+
+.Illustration
+====
+na upeti saṅkhaṃ
+
+is beyond the limits of conception
+====
+
+[quote, Sn.v.209]
+____
+The sage seeing the end of birth and destruction, abandoning speculation, is 
+beyond the limits of conception.
+
+_Sa ve muni jātikhayantadassī takkaṃ pahāya na upeti saṅkhaṃ._
+____
+
+.Illustration
+====
+na upeti saṅkhaṃ
+
+is beyond the limits of conception
+====
+
+[quote, It.53]
+____
+The one who is blessed with profound knowledge, being established in 
+righteousness, though he makes use of conception he is beyond the limits of 
+conception.
+
+_Sa ce akkheyyasampanno santo santipade rato +
+Saṅkhāya sevī dhammaṭṭho saṅkhaṃ nopeti vedagū ti._
+____
+
+.Illustration
+====
+vāsaṃ upeti
+
+take up residence
+====
+
+[quote, M.3.172]
+____
+In whatever region the Wheel Treasure pauses, there the Wheel-turning monarch 
+takes up residence with his army with its four divisions.
+
+_Yasmiṃ kho pana bhikkhave padese cakkaratanaṃ patiṭṭhāti tatra rājā 
+cakkavattī vāsaṃ upeti saddhiṃ caturaṅginiyā senāya._
+____
+
+.Illustration
+====
+vāsaṃ upeti
+
+take up residence
+====
+
+[quote, S.4.348]
+____
+I have a rest house... When any ascetic or Brahmanist take up residence there, 
+I share it with him to the best of my ability and strength.
+
+_atthi me bhante āvasathāgāraṃ... tattha yo samaṇo vā brāhmaṇo vā 
+vāsaṃ upeti tenāhaṃ yathāsatti yathābalaṃ saṃvibhajāmi._
+____
+
+.Illustration
+====
+na upeti
+
+is unacceptable
+====
+
+[quote, M.1.480]
+____
+'"If we get this, we will do it; if not, we won't": even in relation to 
+teachers bent on worldly benefits, inheritors of worldly benefits, engrossed in 
+worldly benefits, such haggling by disciples is unacceptable. So what about the 
+Perfect One who abides completely aloof from worldly benefits?'
+
+_Yopi so bhikkhave satthā āmisagaru āmisadāyādo āmisehi saṃsaṭṭho 
+viharati tassapayaṃ evarūpī paṇopaṇaviyā na upeti. Evañca no assa 
+atha naṃ kareyyāma. Na ca no evamassa na naṃ kareyyāmā ti. Kimpana 
+bhikkhave yaṃ tathāgato sabbaso āmisehi visaṃsaṭṭho viharati._
+____
+
+.Illustration
+====
+na upeti
+
+is unanswerable
+====
+
+____
+-- 'Master Gotama, for a bhikkhu whose mind is thus liberated [from 
+perceptually obscuring states], where is he reborn?'
+
+_Evaṃ vimuttacitto pana bho gotama bhikkhu kuhiṃ upapajjatī ti_
+____
+
+____
+-- 'The question "Is he reborn?" is unanswerable, Vaccha'
+
+_Upapajjatī ti kho vaccha na upeti_
+____
+
+____
+-- 'Then is he not reborn, Master Gotama?'
+
+_Tena hi bho gotama na upapajjatī ti_
+____
+
+[quote, M.1.486]
+____
+-- 'The question "Is he not reborn?" is unanswerable, Vaccha'
+
+_Na upapajjatī ti kho vaccha na upeti._
+____
+
+.Illustration
+====
+na upeti
+
+is unanswerable
+====
+
+____
+-- 'But if asked in which direction the fire went -- to the east or west or 
+north or south -- how would you answer?'
+
+_so aggi ito katamaṃ disaṃ gato puratthimaṃ vā pacchimaṃ vā uttaraṃ 
+vā dakkhiṇaṃ vā ti. Evaṃ puṭṭho tvaṃ vaccha kinti vyākareyyāsī 
+ti_
+____
+
+[quote, M.1.487]
+____
+-- 'The question is unanswerable, Master Gotama. A fire blazes because of its 
+firing of grass and sticks. When this is exhausted, and no more is brought to 
+it, then being without fuel, it is simply reckoned as extinguished.'
+
+_Na upeti bho gotama. Yaṃ hi so gotama aggi tiṇakaṭṭhūpādānaṃ 
+paṭicca ajali tassa ca pariyādānā aññassa ca anupahārā anāhāro 
+nibbuto'teva saṅkhaṃ gacchatī ti._
+____
+
+.Illustration
+====
+na upeti
+
+is unanswerable
+====
+
+____
+The Perfect One is liberated from being reckoned in terms of bodily form, great 
+king.
+
+_Rūpasaṅkhaya vimutto kho mahārāja tathāgato_
+____
+
+____
+He is profound, immeasurable, unfathomable like the ocean
+
+_gambhīro appameyyo appariyogāho seyyathā pi mahāsamuddo_
+____
+
+____
+The question, 'Does a Perfect One continue to exist after death?' is 
+unanswerable
+
+_hoti tathāgato parammaraṇā ti pi na upeti_
+____
+
+____
+'The question, 'Does a Perfect One not continue to exist after death?' is 
+unanswerable
+
+_na hoti tathāgato parammaraṇā ti pi na upeti_
+____
+
+____
+The question, 'Does a Perfect One both continue and not continue to exist after 
+death?' is unanswerable.
+
+_hoti ca na ca hoti tathāgato parammaraṇā ti pi na upeti_
+____
+
+[quote, S.4.376]
+____
+The question, 'Does a Perfect One neither continue nor not continue to exist 
+after death?' is unanswerable.
+
+_neva hoti na na hoti tathāgato parammaraṇā ti pi na upeti._
+____
+
+.Illustration
+====
+na upeti
+
+is beyond; is not even (=does not amount to)
+====
+
+____
+'Bhante, this small stone is insignificant in comparison to the Himalayas, the 
+king of mountain ranges,
+
+_Appamatto kho ayaṃ bhante bhagavatā paritto pāṇimatto pāsāṇo gahito 
+himavantaṃ pabbatarājānaṃ upanidhāya_
+____
+
+____
+... the difference is beyond reckoning
+
+_saṅkhampi na upeti_
+____
+
+____
+... it is not even a fraction
+
+_kalabhāgampi na upeti_
+____
+
+[quote, M.3.166]
+____
+... it is beyond comparison
+
+_upanidhimpi na upetī ti._
+____
+
+.Illustration
+====
+na upeti
+
+is beyond; is not even (=does not amount to)
+====
+
+____
+Nanda said his bride-to-be, the most beautiful girl in the land, in comparison 
+with a group of five hundred heavenly nymphs was like a mutilated she-monkey 
+with severed ears and nose.
+
+_Seyyathā pi bhante paluṭṭhamakkaṭī kaṇṇanāsacchinnā evameva kho 
+bhante sākiyānī janapadakalyāṇī imesaṃ pañcannaṃ accharāsatānaṃ 
+upanidhāya_
+____
+
+He said:
+
+____
+The difference was beyond reckoning
+
+_saṅkhampi na upeti_
+____
+
+____
+It is not even a fraction
+
+_kalampi na upeti_
+____
+
+____
+It is not even the tiniest fraction
+
+_kalabhāgampi na upeti_
+____
+
+[quote, Ud.22-3]
+____
+It is beyond comparison
+
+_upanidhimpi na upeti._
+____
+

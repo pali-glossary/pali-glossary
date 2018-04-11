@@ -1,0 +1,1579 @@
+== Loka
+
+=== Renderings
+
+- _loka_: world
+
+- _loka_: worldly
+
+- _loka_: physical world
+
+- _loka_: man
+
+- _loka_: mankind
+
+- _loka_: world [of beings]
+
+- _loka_: world [of sensuous pleasure]
+
+- _loka_: world [of phenomena]
+
+- _loka_: [religious] world
+
+- _loka_: plane of existence
+
+- _loka_: universe
+
+- _loka_: multi-universe system
+
+_• lokadhātu_: multi-universe system
+
+- _imaṃ lokaṃ_: this world
+
+- _paraṃ lokaṃ_: the world beyond
+
+- _imaṃ lokaṃ_: this [low] plane of existence
+
+- _paraṃ lokaṃ_: the planes of existence beyond it
+
+=== Introduction
+
+==== World: profusion of meanings
+
+_Loka_ can occasionally be rendered as simply 'world,' meaning 'physical 
+world.' But usually this is not the meaning, and _loka_ is often used in a 
+symbolic sense. Even in English 'world' has such a profusion of meanings, that 
+in translation it is helpful to indicate which of these meanings is meant.
+
+==== World [of phenomena]
+
+The world [of phenomena] is defined in the following quote as:
+
+1. whatever is destined to decay, and
+
+2. the elements of sensation.
+
+[quote, S.4.53]
+____
+Whatever is destined to decay is called 'the world [of phenomena]' in the 
+&#8203;[terminology of the] Noble One's training system. And what is destined to 
+decay? The visual sense is destined to decay. Visible objects are destined to 
+decay. Advertence to the visual field is destined to decay. Visual sensation is 
+destined to decay. Whatever sense impression that arises due to visual 
+sensation -- whether pleasant, unpleasant, or neutral -- it is destined to 
+decay... Whatever sense impression that arises due to mental sensation -- 
+whether pleasant, unpleasant, or neutral -- it is destined to decay.
+
+_Yaṃ kho ānanda palokadhammaṃ ayaṃ vuccati ariyassa vinaye loko. Kiñca 
+ānanda palokadhammaṃ? Cakkhuṃ kho ānanda palokadhammaṃ rūpā 
+palokadhammā cakkhuviññāṇaṃ palokadhammaṃ cakkhusamphasso 
+palokadhammo yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ 
+vā dukkhaṃ vā adukkhamasukhaṃ vā tampi palokadhammaṃ... yampidaṃ 
+manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā 
+adukkhamasukhaṃ vā tampi palokadhammaṃ._
+____
+
+==== Pervading [unlimited, all-encompassing] goodwill: world [of beings]
+
+The potential for confusion between meanings of 'world' is obvious, for 
+example, when one abides pervading the whole world with a mind of [unlimited, 
+all-encompassing] goodwill (_sabbāvantaṃ lokaṃ mettāsahagatena cetasā... 
+pharitvā_). The issue is easily resolved by studying other suttas, and by 
+using clues in the sutta itself: _mettā_ should be pervaded to the 'world [of 
+beings],' a practice which would therefore include devas.
+
+==== Disgust for the whole world: world [of phenomena]
+
+Further potential confusion can be found, for example, if one strives to 
+develop the perception of 'disgust for the whole world' (_sabbaloke 
+anabhiratasaññā_). Does this mean disgust for worldly affairs? The sutta 
+itself, quoted next, makes it clear that the disgust concerns objects of 
+attachment. Therefore 'whole world' means 'whole world [of phenomena]':
+
+____
+And what Ānanda, is the perception of disgust for the whole world [of 
+phenomena]?
+
+_sabbaloke anabhiratasaññā_
+____
+
+[quote, A.5.111]
+____
+In this regard, Ānanda, for whatever in the world [of phenomena] there is 
+clinging, grasping, obstinate adherence, stubborn attachment, and 
+identification, a bhikkhu abides abandoning, not grasping.
+
+_ye loke upayupādānā cetaso adhiṭṭhānābhinivesānusayā te pajahanto 
+viharati na upādiyanto._
+____
+
+==== Brahmajāla Sutta: world [of beings]
+
+The _Brahmajāla Sutta_ explains different views of ascetics and Brahmanists 
+concerning the world, the shape and size of it, and whether it is eternal or 
+not. For most of them, 'world' means 'the world [of beings].' But for the 
+Extensionists (_antānantikā_), it means 'the physical world.'
+
+1. The ascetics and Brahmanists who are Eternalists proclaim the eternity of 
+the [absolute] Selfhood and the world [of beings] in four ways:
++
+****
+_ye te samaṇabrāhmaṇā sassatavādā sassataṃ attānañca 
+lokañcapaññapenti catūhi vatthūhi_
+****
+
+____
+Eternal are the [absolute] Selfhood and the world [of beings]
+
+_sassato attā ca loko ca_
+____
+
+2. The ascetics and Brahmanists who are Partial-Etemalists proclaim the partial 
+eternity and partial non-eternity of the [absolute] Selfhood and the world [of 
+beings] in four ways
++
+****
+_samaṇabrāhmaṇā ekaccasassatikā ekaccaasassatikā ekaccaṃ sassataṃ 
+ekaccaṃ asassataṃ attānañca lokañca paññāpenti catūhi vatthūhi_
+****
+
+____
+That illustrious Brahmā is everlasting, but we who were formed by him are 
+unlasting
+
+_brahmā nicco mayaṃ aniccā_
+____
+
+____
+Those devas who are not spiritually defiled by merriment are everlasting, but 
+we are unlasting
+
+_te devā niccā mayaṃ aniccā_
+____
+
+____
+Those devas who do not spend an excessive amount of time gazing at each other, 
+their minds do not become defiled, because of which they do not become weary in 
+body and mind. Therefore they are everlasting, but we are unlasting
+
+_te devā niccā mayaṃ aniccā_
+____
+
+____
+This which is called the visual sense and the auditory sense and the olfactory 
+sense and the gustatory sense and the tactile sense is an [absolute] Selfhood 
+that is unlasting, but this which is called 'mind' or 'cognition' or 
+'consciousness' (_idaṃvuccati cittan ti vā mano ti vā viññāṇan ti_) is 
+an [absolute] Selfhood that is everlasting
+
+_ayaṃ attā anicco ayaṃ attā nicco_
+____
+
+3. The ascetics and Brahmanists who are Extensionists proclaim the finitude and 
+infinitude in extent of the physical world on four grounds:
++
+****
+_eke samaṇabrāhmaṇā antānantikā antānantaṃ lokassa paññāpenti 
+catūhi vatthūhi_
+****
+
+____
+Finite in extent is the physical world, and spherical
+
+_antavā ayaṃ loko parivaṭumo_
+____
+
+____
+Infinite in extent is the physical world, and limitless
+
+_ananto ayaṃ loko apariyanto_
+____
+
+____
+The physical world is both finite and infinite in extent (finite in the upward 
+and downward directions, but infinite across)
+
+_antavā ca ayaṃ loko ananto ca_
+____
+
+[quote, D.1.22-25]
+____
+The physical world is neither finite nor infinite in extent
+
+_nevāyaṃ loko antavā na panānanto ti._
+____
+
+==== 'World [of beings]': from the view of personal identity
+
+The _Brahmajāla Sutta_'s views of 'the world' arise from the view of personal 
+identity. See next quote. This confirms that 'world' means 'world [of beings].' 
+But it is not so clear how the Extensionists' views concerning the finitude and 
+infinitude in extent of the physical world could arise from the view of 
+personal identity.
+
+[quote, S.4.287]
+____
+'As to the various dogmatic views that arise in the world, householder, "The 
+world [of beings] is eternal..".. these as well as the sixty-two dogmatic views 
+mentioned in the Brahmajāla: when there is the view of personal identity 
+(_sakkāyadiṭṭhi_), these views come to be. Without the view of personal 
+identity, these views do not come to be.'
+
+_Yā imā gahapati anekavihitā diṭṭhiyo loke uppajjanti: sassato lokoti 
+vā... yānicimāni dvāsaṭṭhi diṭṭhigatāni brahmajāle bhaṇitāni. 
+Imā kho gahapati diṭṭhiyo sakkāya diṭṭhiyā sati honti sakkāya 
+diṭṭhiyā asati na hontī ti._
+____
+
+==== Lokāyatika Brāhmaṇa Sutta: two meanings of loka
+
+In the _Lokāyatika Brāhmaṇa Sutta_ (A.4.431) _loka_ has two meanings, namely
+
+1. world [of phenomena]
+
+2. world [of sensuous pleasure]
+
+A bhikkhu may be free of one world but not the other. For example, if a bhikkhu 
+attains first jhāna, the Buddha says:
+
+____
+This, brahman, is called a bhikkhu who, having arrived at the end of the world 
+&#8203;[of sensuous pleasure], abides at the end of the world [of sensuous pleasure]._
+
+_Ayaṃ vuccati brāhmaṇā bhikkhu lokassa antaṃ āgamma lokassa ante 
+viharati._
+____
+
+____
+... But some people say that he is nonetheless included in the world [of 
+phenomena], that he is nonetheless unliberated from the world [of phenomena]_
+
+_Tamaññe evamāhaṃsu ayampi lokapariyāpanno ayampi anissaṭo lokamhā ti._
+____
+
+____
+... I, too, say that he is nonetheless included in the world [of phenomena], 
+that he is nonetheless unliberated from the world [of phenomena]'_
+
+_Ahampi brāhmaṇā evaṃ vadāmi ayampi lokapariyāpanno ayampi anissaṭo 
+lokamhā ti_
+____
+
+By translating _loka_ in these two ways, the meanings are clearly 
+distinguished, and the sutta makes sense. Although Bodhi recognises that _loka_ 
+has two meanings (NDB n.1936), he translates it like this:
+
+- This is called a bhikkhu who, having come to the end of the world, dwells at 
+the end of the world. Others say thus of him: 'He, too, is included in the 
+world; he, too, is not yet released from the world. I also say thus: 'He, too, 
+is included in the world; he, too, is not yet released from the world' (Bodhi, 
+NDB p.1304).
+
+==== Rendering 'world [of beings]' as 'world'
+
+We have seen that in pervading the whole world with a mind of [unlimited, 
+all-encompassing] goodwill, 'world' means 'world [of beings].' But sometimes no 
+parenthesis is necessary. For example, consider these quotes where we use 
+rounded brackets where we consider the parenthesis is unnecessary:
+
+• these beings are the foremost in the world (of beings), these are the best, 
+namely the arahants. +
+☸ _ete aggā ete seṭṭhā lokasmiṃ yadidaṃ arahanto ti_ S.3.83).
+
+[quote, It.50]
+____
+those in the world (of beings) who have reached the Far Shore
+
+_te ca pāragatā loke._
+____
+
+==== PED: profusion acknowledged
+
+_Loka's_ profusion and complexity of meanings is acknowledged in PED, which 
+renders it as:
+
+- 'world, primarily "visible world," then in general as "space or sphere of 
+creation" with various degrees of substantiality. Often (unspecified) in the 
+comprehensive sense of "universe." Sometimes the term is applied collectively 
+to the creatures inhabiting this or various other worlds, thus, "man, mankind, 
+people, beings."'
+
+==== Imaṃ lokaṃ, paraṃ lokaṃ: two meanings
+
+_Imaṃ lokaṃ, paraṃ lokaṃ_ has two potential meanings:
+
+1. this world, and the world beyond
+
+2. this [low] plane of existence, and the other planes beyond it
+
+For example:
+
+1. Having passed on from this world to the world beyond, how does one not 
+grieve?
++
+****
+_Asmā lokā paraṃ lokaṃ kathaṃ pecca na socati_ (Sn.v.185).
+****
+
+2. Beings roaming and wandering the round of birth and death [obstructed by] 
+uninsightfulness into reality, and [tethered to individual existence] by 
+craving, now go from this [low] plane of existence to the planes of existence 
+beyond it, now come from the planes of existence beyond it to this [low] plane 
+of existence.
++
+****
+_avijjānīvaraṇā sattā taṇhāsaṃyojanā sandhāvantā saṃsarantā 
+sakimpi asmā lokā paraṃ lokaṃ gacchanti sakimpi parasmā lokā imaṃ 
+lokaṃ āgacchanti_ (S.2.184-5).
+****
+
+==== Multi-universe system and planes of existence:
+
+In the _Abhibhu Sutta_ (A.1.227) the Buddha calls himself immeasureable 
+(_appameyyā tathāgatā ti_), and says he can make his voice heard through the 
+billionfold multi-universe system (_tisahassī mahāsahassī lokadhātu_). This 
+implies that 1,000,000,000 is the number of universes in a multi-universe 
+system, though this is variable, as we will see.
+
+Each universe has its own group of heavens, for example, one realm of the Four 
+Great Kings, one Tāvatiṃsā heaven etc.: _tasmiṃ sahassadhā loke... 
+cātummahārājikānaṃ sahassaṃ tāvatiṃsānaṃ sahassaṃ yāmānaṃ 
+sahassaṃ tusitānaṃ sahassaṃ nimmānaratīnaṃ sahassaṃ 
+paranimmitavasavattīnaṃ sahassaṃ brahmalokānaṃ_ (A.5.59).
+
+There is apparently only one Buddha in a multi-universe system, because he and 
+his teachings are welcomed by 10,000 of them, and he is visited by devas from 
+the same number. This further suggests that 10,000 is the total number of 
+universes at present:
+
+[quote, Vin.1.12]
+____
+And when the Blessed One had set rolling the Wheel of the Teaching... the ten 
+thousandfold multi-universe system trembled, quaked, and shook
+
+_Pavattite ca pana bhagavatā dhammacakke... dasasahassī lokadhātu saṅkampi 
+sampakampi sampavedhi._
+____
+
+[quote, D.2.259]
+____
+'Bhikkhus, most of the gods from the ten thousandfold multi-universe system 
+have assembled...'
+
+_yebhuyyena bhikkhave dasasu lokadhātūsu devatā sannipatitā honti...._
+____
+
+Each universe has only one earth, one sun, and one moon. Therefore seekers of 
+extra-terrestrial life will need to search outside our universe, not within it: 
+_tasmiṃ sahassadhā loke sahassaṃ candānaṃ sahassaṃ suriyānaṃ 
+sahassaṃ_ (A.5.59).
+
+In each thousandfold multi-universe system Mahābrahmā ranks as foremost: 
+_yāvatā bhikkhave sahassīlokadhātu mahābrahmā tattha aggamakkhāyati_ 
+(A.5.59). The prefix Mahā- is insignificant, because Mahābrahmā and Brahmā 
+are interchangeable. Therefore at present there is apparently space for just 
+ten Brahmās. Paccekabrahmās (e.g. S.1.146) are perhaps Brahmās without 
+multi-universe system sovereignty.
+
+Each universe is comprised of three planes of existence (_dhātu_), which are 
+named according to two systems:
+
+1. the low plane of existence, the middle plane of existence, and the high 
+plane of existence
++
+****
+_hīnadhātu majjhimadhātu paṇītadhātu_ (D.3.215), or,
+****
+
+2. the sensuous plane of existence, the refined material plane of existence, 
+and the immaterial plane of existence
++
+****
+_kāmadhātu... rūpadhātu... arūpadhātu_ (A.1.224).
+****
+
+Each universe has periods of contraction and expansion. This gives rise to two 
+sets of terms, either:
+
+1. the universe contracts.
++
+****
+_loko saṃvaṭṭati._
+****
+
+2. the universe expands
++
+****
+_loko vivaṭṭati_ (D.1.17).
+****
+
+or:
+
+1. the universal cycle is in its contracting phase
++
+****
+_kappo saṃvaṭṭati_
+****
+
+2. the universal cycle is in its expanding phase
++
+****
+_kappo vivaṭṭati_ (A.2.142).
+****
+
+For further discussion see IGPT sv _Kappa_.
+
+=== Illustrations
+
+.Illustration
+====
+lokaṃ
+
+world
+====
+
+[quote, It.14-16]
+____
+The wise are reborn in a world of happiness that is free of affliction.
+
+_Avyābajjhaṃ sukhaṃ lokaṃ paṇḍito upapajjatī tī._
+____
+
+.Illustration
+====
+loke
+
+world
+====
+
+[quote, Sn.v.25]
+____
+I am no one's servant. I travel the whole world through my own gains.
+
+_Nāhaṃ bhatakosmi kassac nibbiṭṭhena carāmi sabbaloke._
+____
+
+.Illustration
+====
+loko
+
+universe
+====
+
+[quote, D.1.17]
+____
+The universe contracts.... the universe expands
+
+_loko saṃvaṭṭati... loko vivaṭṭati._
+____
+
+.Illustration
+====
+loko
+
+multi-universe system
+====
+
+[quote, A.1.282]
+____
+With purified divine vision surpassing that of men I survey the thousandfold 
+multi-universe system
+
+_Evāhaṃ dibbena cakkhunā visuddhena atikkantamānusakena sahassaṃ lokaṃ 
+olokemī ti._
+____
+
+.Illustration
+====
+loko
+
+multi-universe system
+====
+
+[quote, Th.v.1181]
+____
+The one by whom the thousandfold multi-universe system is known in an instant, 
+he is like a brahmā deity.
+
+_Yassa muhuttena sahassadhā loko saṃvidito sabrahmakappo._
+____
+
+.Illustration
+====
+loko
+
+man
+====
+
+[quote, Ud.32]
+____
+Man is subject to torment, and afflicted by sensation. He calls an illness 
+'endowed with personal qualities.'
+
+_ayaṃ loko santāpajāto phassapareto rogaṃ vadati attato._
+____
+
+.Illustration
+====
+loko
+
+man
+====
+
+[quote, Ud.33]
+____
+Man is bound to individual existence, is afflicted by individual existence, yet 
+takes delight in individual existence.
+
+_bhavasatto loko bhavapareto bhavamevābhinandati._
+____
+
+.Illustration
+====
+loko
+
+mankind
+====
+
+____
+Most of mankind, Kaccāna, are attached to one of two views:
+
+_dvayaṃ nissito kho'yaṃ kaccāna loko yebhuyyena_
+____
+
+____
+The view that everything exists
+
+_atthitañceva_
+____
+
+[quote, S.2.17]
+____
+The view that nothing exists
+
+_natthitañca._
+____
+
+.Illustration
+====
+loko
+
+mankind
+====
+
+[quote, S.2.17]
+____
+Most of mankind is fastened by clinging, grasping, and stubborn attachment.
+
+_Upayupādānābhinivesavinibaddho khvāyaṃ kaccāna loko yebhuyyena._
+____
+
+.Illustration
+====
+parañca lokaṃ
+
+the world beyond
+====
+
+[quote, Th.v.784-5; M.2.73]
+____
+He ends up in a womb in the world beyond
+
+_upeti gabbhañca parañca lokaṃ._
+____
+
+.Illustration
+====
+asmā lokā
+
+this [low] plane of existence; paraṃ lokaṃ, the planes of existence beyond 
+it
+====
+
+[quote, S.2.184-5]
+____
+Beings roaming and wandering the round of birth and death [obstructed by] 
+uninsightfulness into reality, and [tethered to individual existence] by 
+craving, now go from this [low] plane of existence to the planes of existence 
+beyond it, now come from the planes of existence beyond it to this [low] plane 
+of existence.
+
+_avijjānīvaraṇā sattā taṇhāsaṃyojanā sandhāvantā saṃsarantā 
+sakimpi asmā lokā paraṃ lokaṃ gacchanti sakimpi parasmā lokā imaṃ 
+lokaṃ āgacchanti._
+____
+
+.Illustration
+====
+paraṃ lokaṃ
+
+world beyond
+====
+
+[quote, M.1.402]
+____
+Since there is indeed a world beyond, one who has the dogmatic view 'There is 
+no world beyond' has a wrong view [of reality].
+
+_Santaṃyeva kho pana paraṃ lokaṃ natthi paro lokotissa diṭṭhi hoti 
+sāssa hoti micchādiṭṭhi._
+____
+
+.Illustration
+====
+lokaṃ
+
+world [of beings]
+====
+
+[quote, Sn.v.755]
+____
+See the world [of beings] with its devas entrenched in [attachment to] 
+denomination-and-bodily-form.
+
+_passa lokaṃ sadevakaṃ niviṭṭhaṃ nāmarūpasmiṃ._
+____
+
+.Illustration
+====
+lokaṃ
+
+world [of beings]
+====
+
+[quote, M.1.126]
+____
+We shall abide pervading the whole world [of beings] with a mind of [unlimited, 
+all-encompassing] goodwill, vast, exalted, unlimited, free of unfriendliness 
+and hostility.
+
+_sabbāvantaṃ lokaṃ mettāsahagatena cetasā vipulena mahaggatena 
+appamāṇena averena avyāpajjhena pharitvā viharissāmāti._
+____
+
+.Illustration
+====
+loko
+
+world [of beings]
+====
+
+[quote, Ud.77]
+____
+The world [of beings] with its devas does not despise the sage living the 
+religious life, free of craving.
+
+_Taṃ taṃ nittaṇhaṃ muniṃ carantaṃ +
+Nāvajānāti sadevako pi loko ti._
+____
+
+.Illustration
+====
+loka
+
+world [of beings]; loka, worldly
+====
+
+____
+Life in the world [of beings] is of such a nature, and the acquiring of states 
+of individuality is of such a nature, that eight worldly conditions whirl 
+around the world [of beings], and the world [of beings] whirls around eight 
+worldly conditions
+
+_tathābhūto kho ayaṃ lokasannivāso tathābhūto attabhāvapaṭilābho 
+yathābhūte lokasannivāse yathābhūte attabhāvapaṭilābhe aṭṭha 
+lokadhammā lokaṃ anuparivattanti loko ca aṭṭha lokadhamme anuparivattati_
+____
+
+[quote, A.2.188]
+____
+... namely: acquisition and loss, imprestige and prestige, criticism and 
+praise, pleasure and pain.
+
+_lābho ca alābho ca ayaso ca yaso ca nindā ca pasaṃsā ca sukhañca 
+dukkhañcā ti._
+____
+
+.Illustration
+====
+loko
+
+world [of beings]
+====
+
+[quote, Ud.79]
+____
+The world [of beings], fettered by undiscernment of reality, appears truly 
+fit-for-purpose. For the fool tethered by attachment and blanketed in darkness 
+it indeed seems eternal, but for one who sees [the nature of reality], there is 
+&#8203;[nowhere] anything at all.
+
+_Mohasambandhano loko bhabbarūpo va dissati +
+Upadhisambandhano bālo tamasā parivārito +
+Sassato-r-iva khāyati passato natthi kiñcanaṃ ti._
+____
+
+.Illustration
+====
+loko
+
+world [of beings]
+====
+
+Some proclaim the view:
+
+[quote, M.2.233]
+____
+The [absolute] Selfhood and the world [of beings] are eternal. This alone is 
+true; all else is false
+
+_Sassato attā ca loko ca idameva saccaṃ moghamaññan ti ittheke 
+abhivadanti._
+____
+
+.Illustration
+====
+lokasmiṃ
+
+world (of beings)
+====
+
+[quote, A.2.143]
+____
+Those beings are hard to find in the world who can claim to be free of mental 
+illness even for a moment except those whose _āsavas_ are destroyed.
+
+_Te bhikkhave sattā dullabhā lokasmiṃ ye cetasikena rogena muhuttampi 
+ārogyaṃ paṭijānanti aññatra khīṇāsavehi._
+____
+
+.Illustration
+====
+lokassā
+
+world (of beings)
+====
+
+[quote, A.3.286]
+____
+This is the community of the Blessed One's disciples. They are worthy of 
+offerings, hospitality, gifts, and honouring with joined palms. They are the 
+unsurpassed field of merit for the world.
+
+_esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo 
+añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā ti._
+____
+
+.Illustration
+====
+loke
+
+world (of beings)
+====
+
+[quote, Sn.v.867]
+____
+A person develops dogmatic opinions from seeing the cessation and continuance 
+of bodily forms in the world.
+
+_Rūpesu disvā vibhavaṃ bhavañca vinicchayaṃ kurute jantu loke._
+____
+
+.Illustration
+====
+lokasmiṃ
+
+world (of beings)
+====
+
+[quote, M.3.248]
+____
+Set rolling the unsurpassed Wheel of the Teaching, which cannot be reversed by 
+any ascetic, Brahmanist, deva, māra, or brahmā, or by anyone in the world.
+
+_anuttaraṃ dhammacakkaṃ pavattitaṃ appavattiyaṃ samaṇena vā 
+brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ._
+____
+
+.Illustration
+====
+lokasmiṃ
+
+world (of beings)
+====
+
+[quote, Sn.v.148-9]
+____
+Just as a mother would protect with her life her own son, her only son, so 
+would he cultivate an attitude toward all beings unlimited [by attachment, 
+hatred, and undiscernment of reality], and unlimited, [all-encompassing] 
+goodwill for all the world.
+
+_Mātā yathā niyaṃ puttaṃ āyusā ekaputtamanurakkhe +
+Evampi sabbabhūtesū mānasaṃ bhāvaye aparimānaṃ +
+Mettañca sabbalokasmiṃ mānasaṃ bhāvaye aparimānaṃ._
+____
+
+.Illustration
+====
+loko
+
+&#8203;[religious] world
+====
+
+____
+-- Do all ascetics and Brahmanists, dear sir, have the same doctrine, the same 
+standard of discipline, the same aspiration, and pursue the same goal?
+
+_sabbeva nu kho mārisa samaṇabrāhmaṇā ekantavādā ekantasīlā 
+ekantachandā ekantājjhosānā ti._
+____
+
+-- No, Lord of the Devas, they do not.
+
+-- 'But why, sir, do they not do so?
+
+[quote, D.2.282]
+____
+-- The [religious] world is made up of many and various elements, and whatever 
+of these elements that beings stubbornly adhere to, then dogmatically grasping 
+and stubbornly adhering they assert 'This alone is true, all else is false.' 
+Therefore they do not have the same doctrine, the same standard of discipline, 
+the same aspiration, nor pursue the same goal.
+
+_Anekadhātunānādhātu kho devānaminda loko. Tasmiṃ 
+anekadhātunānādhātusmiṃ loke yaṃ yadeva sattā dhātuṃ abhinivisanti 
+taṃ tadeva thāmasā parāmassa abhinivissa voharanti idameva saccaṃ 
+moghamaññan ti. Tasmā na sabbe samaṇabrāhmaṇā ekantavādā 
+ekantasīlā ekantachandā ekantaajjhosānā ti._
+____
+
+.Illustration
+====
+loko
+
+world [of sensuous pleasure]: loka, world [of phenomena]
+====
+
+The _Lokāyatika Brāhmaṇa Sutta_. See Introduction.
+
+____
+In the [terminology of the] Noble One's training system these five varieties of 
+sensuous pleasure are called 'the world [of sensuous pleasure].' Which five?
+
+_Pañcime brāhmaṇā kāmaguṇā ariyassa vinaye loko ti vuccati katame 
+pañca?_
+____
+
+____
+Visible objects known via the visual sense, likeable, loveable, pleasing, 
+agreeable, connected with sensuous pleasure, and charming. Audible objects 
+known via the auditory sense... smellable objects known via the olfactory 
+sense... Tasteable objects known via the gustatory sense... Tangible objects 
+known via the tactile sense, likeable, loveable, pleasing, agreeable, connected 
+with sensuous pleasure, and charming.
+
+_Cakkhu viññeyyā rūpā iṭṭhā kantā manāpā piyarūpā 
+kāmūpasaṃhitā rajanīyā... kāya viññeyyā phoṭṭhabbā iṭṭhā 
+kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā. Ime kho brāhmaṇā 
+pañcakāmaguṇā ariyassa vinaye loko ti vuccati._
+____
+
+____
+In this regard, brahman, a bhikkhu, secluded from sensuous pleasures and 
+spiritually unwholesome factors enters and abides in first jhāna, which is 
+accompanied by thinking and pondering, and rapture and physical pleasure born 
+of seclusion [from sensuous pleasures and spiritually unwholesome factors].
+
+_Idha brāhmaṇā bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi 
+savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ 
+upasampajja viharati._
+____
+
+____
+This, brahman, is called a bhikkhu who
+
+_Ayaṃ vuccati brāhmaṇā bhikkhu _
+____
+
+____
+... having arrived at the end of the world [of sensuous pleasure]_
+
+_lokassa antaṃ āgamma_
+____
+
+____
+... abides at the end of the world [of sensuous pleasure]_
+
+_lokassa ante viharati._
+____
+
+____
+But some people say that he is nonetheless included in the world [of 
+phenomena], that he is nonetheless unliberated from the world [of phenomena]_
+
+_Tamaññe evamāhaṃsu ayampi lokapariyāpanno ayampi anissaṭo lokamhā ti._
+____
+
+____
+I, too, say that he is nonetheless included in the world [of phenomena], that 
+he is nonetheless unliberated from the world [of phenomena]_
+
+_Ahampi brāhmaṇā evaṃ vadāmi ayampi lokapariyāpanno ayampi anissaṭo 
+lokamhā ti._
+____
+
+...
+
+____
+Then again the bhikkhu, by completely transcending the state of awareness 
+neither having nor lacking perception, enters and abides in the ending of 
+perception and sense impression. And, by seeing [reality] with penetrative 
+discernment, his perceptually obscuring states are destroyed.
+
+_Puna ca paraṃ brāhmaṇā bhikkhu sabbaso nevasaññānāsaññāyatanaṃ 
+samatikkamma saññāvedayitanirodhaṃ upasampajja viharati. Paññāya cassa 
+disvā āsavā parikkhīṇā honti._
+____
+
+____
+This is called a bhikkhu who,
+
+_Ayaṃ vuccati brāhmaṇā bhikkhu_
+____
+
+____
+... having arrived at the end of the world [of sensuous pleasure],
+
+_lokassa antaṃ āgamma_
+____
+
+____
+... abides at the end of the world [of sensuous pleasure],
+
+_lokassa ante viharati_
+____
+
+[quote, A.4.431]
+____
+... one who has overcome attachment to the world [of phenomena].
+
+_tiṇṇo loke visattikan ti._
+____
+
+.Illustration
+====
+lokassa
+
+world [of phenomena]
+====
+
+Venerable Ānanda said this:
+
+____
+Friends, when the Blessed One rose from his seat and entered his dwelling after 
+reciting a brief synopsis without explaining the meaning in detail, that is:
+
+_Āyasmā ānando etadavoca yaṃ kho vo āvuso bhagavā saṅkhittena 
+uddesaṃ uddisitvā vitthārena atthaṃ avibhajitvā uṭṭhāyāsanā 
+vihāraṃ paviṭṭho_
+____
+
+____
+'I declare that the end of the world [of phenomena] cannot be known, seen, or 
+reached by travelling.
+
+_nāhaṃ bhikkhave gamanena lokassa antaṃ ñāteyyaṃ daṭṭheyyaṃ 
+patteyyanti vadāmi_
+____
+
+____
+'And further I declare that without having reached the end of the world [of 
+phenomena] there is no putting an end to suffering'_
+
+_na ca panāhaṃ bhikkhave appatvā lokassa antaṃ dukkhassa antakiriyaṃ 
+vadāmī ti._
+____
+
+____
+This brief synopsis recited by the Blessed One, where the meaning was not 
+explained in detail, thus do I understand the meaning in detail.
+
+_Imassa khvāhaṃ āvuso bhagavatā saṅkhittena uddesassa uddiṭṭhassa 
+vitthārena atthaṃ avibhattassa evaṃ vitthārena atthaṃ ājānāmi_
+____
+
+____
+In the [terminology of the] Noble One's training system, that in the world [of 
+phenomena] via which one is a perceiver and conceiver of the world [of 
+phenomena] is called the world [of phenomena]
+
+_Yena kho āvuso lokasmiṃ lokasaññī hoti lokamānī ayaṃ vuccati 
+ariyassa vinaye loko._
+____
+
+____
+Via what in the world [of phenomena] is one a perceiver and conceiver of the 
+world [of phenomena]?
+
+_Kena cāvuso lokasmiṃ lokasaññī hoti lokamānī?_
+____
+
+____
+Via the visual sense in the world [of phenomena], is one a perceiver and 
+conceiver of the world [of phenomena]...
+
+_cakkhunā kho āvuso lokasmiṃ lokasaññī hoti lokamānī..._
+____
+
+[quote, S.4.95]
+____
+Via the mental sense in the world [of phenomena], is one a perceiver and 
+conceiver of the world [of phenomena].
+
+_manena kho āvuso lokasmiṃ lokasaññī hoti lokamānī._
+____
+
+.Illustration
+====
+lokaṃ
+
+world [of phenomena]
+====
+
+[quote, M.1.69-71]
+____
+The Perfect One discerns according to reality the world [of phenomena] with its 
+many and various constituent elements.
+
+_anekadhātunānādhātulokaṃ yathābhūtaṃ pajānāti._
+____
+
+.Illustration
+====
+loka
+
+world [of phenomena]
+====
+
+[quote, A.3.313]
+____
+He is indeed the Blessed One... one who knows the world [of phenomena] 
+&#8203;[according to reality]...
+
+_iti pi so bhagavā.. lokavidū..._
+____
+
+.Illustration
+====
+loke
+
+world [of phenomena]
+====
+
+[quote, S.1.117]
+____
+Knowing attachment in the world [of phenomena] as bondage [to individual 
+existence], a person should train for its elimination.
+
+_Upadhiṃ viditvā saṅgo ti loke tasseva jantu vinayāya sikkheti._
+____
+
+.Illustration
+====
+loka
+
+world [of phenomena]
+====
+
+____
+For one who sees the origination of the world [of phenomena] according to 
+reality with perfect penetrative discernment
+
+_lokasamudayañca kho kaccāna yathābhūtaṃ sammappaññāya passato_
+____
+
+____
+there is no view of nonexistence in regards to the world [of phenomena]_
+
+_yā loke natthitā sā na hoti._
+____
+
+____
+And for one who sees the ending of the world [of phenomena] according to 
+reality with perfect penetrative discernment
+
+_lokanirodhaṃ kho kaccāna yathābhūtaṃ sammappaññāya passato_
+____
+
+[quote, S.2.17]
+____
+there is no view of existence in regards to the world [of phenomena]_
+
+_yā loke atthitā sā na hoti._
+____
+
+.Illustration
+====
+loke
+
+world [of phenomena]
+====
+
+[quote, M.3.83-4]
+____
+Having eliminated greed and dejection in regard to the world [of phenomena]
+
+_vineyya loke abhijjhādomanassaṃ._
+____
+
+.Illustration
+====
+lokassa
+
+world [of phenomena]
+====
+
+Standing at a respectful distance, Rohitassa, the young deva, said to the 
+Blessed One:
+
+• -- Is it possible, bhante, by travelling to know or to see or to reach the 
+end of the world [of phenomena], where one is not born, does not age, does not 
+die, does not pass away, and is not reborn? +
+_Yattha nu kho bhante na jāyati na jīyati na mīyati na cavati na uppajjati 
+sakkā nu kho so bhante gamanena lokassa anto ñātuṃ vā daṭṭhuṃ vā 
+pāpuṇituṃ vā ti._
+
+____
+-- As to that end of the world [of phenomena], friend, where one is not born, 
+does not age, does not die, does not pass away, and is not reborn: I declare 
+that it cannot be known, seen, or reached by travelling.
+
+_Yattha kho āvuso na jāyati na jīyati na mīyati na cavati na uppajjati 
+nāhaṃ taṃ gamanena lokassa antaṃ ñāteyyaṃ daṭṭheyyaṃ 
+patteyyanti vadāmī ti._
+____
+
+____
+... However, friend, I declare that without having reached the end of the world 
+&#8203;[of phenomena] there is no putting an end to suffering.
+
+_na kho panāhaṃ āvuso appatvā lokassa antaṃ dukkhassa antakiriyaṃ 
+vadāmi_
+____
+
+____
+... It is, friend, in just this fathom-high carcass endowed with perception and 
+mind that I make known the world [of phenomena], the origination of the world 
+&#8203;[of phenomena], the ending of the world [of phenomena], and the practice 
+leading to the ending of the world [of phenomena].
+
+_Api cāhaṃ āvuso imasmiññeva vyāmamatte kaḷevare sasaññimhi samanake 
+lokañca paññāpemi lokasamudayañca lokanirodhañca lokanirodhagāminiñca 
+paṭipadanti._
+____
+
+____
+The end of the world [of phenomena] can never be reached by means of 
+travelling. +
+Yet without reaching the end of the world [of phenomena] there is no freedom 
+from suffering.
+
+_Gamanena na pattabbo lokassanto kudācanaṃ +
+Na ca appatvā lokantaṃ dukkhā atthi pamocanaṃ._
+____
+
+[quote, S.1.62]
+____
+Therefore, truly, one who knows the world [of phenomena] [according to 
+reality], one of great wisdom, one who has reached the end of the world [of 
+phenomena], fulfiller of the religious life, knowing the end of the world [of 
+phenomena] [according to reality], inwardly at peace, longs not for this world 
+or another.
+
+_Tasmā have lokavidū sumedho lokantagū vusitabrahmacariyo +
+Lokassa antaṃ samitāvī ñatvā nāsiṃsati lokamimaṃ parañcā ti._
+____
+
+.Illustration
+====
+loko
+
+world [of phenomena]
+====
+
+____
+-- 'Void [of personal qualities] is the world [of phenomena]': on what grounds, 
+bhante, is this said?
+
+_suñño loko suñño loko ti bhante vuccati kittāvatā nu kho bhante suñño 
+loko ti vuccatī ti?_
+____
+
+____
+-- Because, Ānanda, it is void of an [absolute] Selfhood and of what could 
+belong to an [absolute] Selfhood, therefore it is said that the world [of 
+phenomena] is void [of personal qualities]._
+
+_Yasmā ca kho ānanda suññaṃ attena vā attaniyena vā tasmā suñño loko 
+ti vuccati._
+____
+
+____
+And what, Ānanda, is void of an [absolute] Selfhood and of what could belong 
+to an [absolute] Selfhood?
+
+_Kiñca ānanda suññaṃ attena vā attaniyena vā:_
+____
+
+____
+The visual sense is void of an [absolute] Selfhood and of what could belong to 
+an [absolute] Selfhood
+
+_Cakkhuṃ kho ānanda suññaṃ attena vā attaniyena vā_
+____
+
+____
+Visible objects are void of an [absolute] Selfhood and of what could belong to 
+an [absolute] Selfhood
+
+_rūpā suññā attena vā attaniyena vā_
+____
+
+____
+Advertence to the visual field is void of an [absolute] Selfhood and of what 
+could belong to an [absolute] Selfhood
+
+_cakkhuviññāṇaṃ suññaṃ attena vā attaniyena vā_
+____
+
+____
+Visual sensation is void of an [absolute] Selfhood and of what could belong to 
+an [absolute] Selfhood
+
+_cakkhusamphasso suñño attena vā attaniyena vā_
+____
+
+____
+Whatever sense impression that arises due to visual sensation -- whether 
+pleasant, unpleasant, or neutral -- is void of an [absolute] Selfhood and of 
+what could belong to an [absolute] Selfhood...
+
+_yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā 
+dukkhaṃ vā adukkhamasukhaṃ vā tampi suññaṃ attena va attaniyena 
+vā..._
+____
+
+[quote, S.4.54]
+____
+... whatever sense impression that arises due to mental sensation -- whether 
+pleasant, unpleasant, or neutral -- is void of an [absolute] Selfhood and of 
+what could belong to an [absolute] Selfhood
+
+_yampidaṃ manosamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ 
+vā adukkhamasukhaṃ vā tampi suññaṃ attena va attaniyena vā._
+____
+
+.Illustration
+====
+lokassa
+
+world [of phenomena]
+====
+
+____
+I will explain the origination and vanishing of the world [of phenomena]. 
+Listen, pay careful attention, and I will speak.
+
+_Lokassa bhikkhave samudayañca atthaṅgamañca desissāmi taṃ suṇātha 
+sādhukaṃ manasikarotha bhāsissāmī ti._
+____
+
+____
+And what is the origination of the world [of phenomena]?
+
+_Katamo ca bhikkhave lokassa samudayo?_
+____
+
+____
+Dependent on the visual sense and visible objects, advertence to the visual 
+field arises
+
+_cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ_
+____
+
+____
+The association of the three is sensation
+
+_tiṇṇaṃ saṅgati phasso_
+____
+
+____
+Sense impression arises dependent on sensation
+
+_phassapaccayā vedanā_
+____
+
+____
+Craving arises dependent on sense impression
+
+_vedanāpaccayā taṇhā_
+____
+
+____
+Grasping arises dependent on craving.
+
+_Taṇhāpaccayā upādānaṃ_
+____
+
+____
+Individual existence arises dependent on grasping;
+
+_Upādānapaccayā bhavo_
+____
+
+____
+Birth arises dependent on individual existence;
+
+_Bhavapaccayā jāti_
+____
+
+____
+Dependent on birth, there arises old-age-and-death, grief, lamentation, 
+physical pain, psychological pain, and vexation.
+
+_Jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā 
+sambhavanti._
+____
+
+____
+This is the origination of the world [of phenomena].
+
+_Ayaṃ kho bhikkhave lokassa samudayo_
+____
+
+____
+And what is the vanishing of the world [of phenomena]
+
+_Katamo ca bhikkhave lokassa atthaṅgamo?_
+____
+
+____
+Dependent on the visual sense and visible objects, advertence to the visual 
+field arises.
+
+_Cakkhuñca paṭicca rūpe uppajjati cakkhuviññāṇaṃ_
+____
+
+____
+The association of the three is sensation.
+
+_tiṇṇaṃ saṅgati phasso_
+____
+
+____
+Sense impression arises dependent on sensation.
+
+_phassapaccayā vedanā_
+____
+
+____
+Craving arises dependent on sense impression._
+
+_vedanāpaccayā taṇhā_
+____
+
+____
+But with the complete fading away and ending of this craving comes the ending 
+of grasping.
+
+_tassāyeva taṇhāya asesavirāganirodhā upādānanirodho_
+____
+
+____
+With the ending of grasping comes the ending of individual existence.
+
+_upādānanirodhā bhavanirodho_
+____
+
+____
+With the ending of individual existence comes the ending of birth.
+
+_bhavanirodhā jātinirodho_
+____
+
+____
+With the ending of birth, old-age-and-death, grief, lamentation, physical pain, 
+psychological pain, and vexation cease.
+
+_jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā 
+nirujjhanti_
+____
+
+____
+Such is the ending of this whole mass of suffering._
+
+_Evametassa kevalassa dukkhakkhandhassa nirodho hoti._
+____
+
+[quote, S.2.73; S.4.87]
+____
+This is the vanishing of the world [of phenomena]_
+
+_Ayaṃ kho bhikkhave lokassa atthaṅgamo._
+____
+
+.Illustration
+====
+loko
+
+world [of phenomena]
+====
+
+____
+Where there is the visual sense, Samiddhi, where there are visible objects, 
+advertence to the visual field, things known through advertence to the visual 
+field, there the world [of phenomena] exists or the evidence of the world [of 
+phenomena].
+
+_Yattha kho samiddhi atthi cakkhu atthi rūpā atthi cakkhuviññāṇaṃ 
+atthi cakkhuviññāṇa viññātabbā dhammā atthi tattha loko vā 
+lokapaññatti vā_
+____
+
+[quote, S.4.39]
+____
+Where there is no visual sense, Samiddhi, where there are no visible objects, 
+no advertence to the visual field, no things known through advertence to the 
+visual field, there the world [of phenomena] does not exist or the evidence of 
+the world [of phenomena].
+
+_Yattha ca kho samiddhi natthi cakkhu natthi rūpā natthi 
+cakkhuviññāṇaṃ natthi cakkhuviññāṇa viññātabbā dhammā. Natthi 
+tattha loko vā lokapaññatti vā._
+____
+
+.Illustration
+====
+loke
+
+world [of phenomena]
+====
+
+[quote, A.3.444]
+____
+I will be free of the perception that "It is endowed with personal qualities" 
+regarding the whole world [of phenomena]
+
+_Sabbaloke ca atammayo bhavissāmi._
+____
+
+.Illustration
+====
+loke
+
+world [of phenomena]
+====
+
+____
+And what Ānanda, is the perception of disgust for the whole world [of 
+phenomena]?
+
+_sabbaloke anabhiratasaññā_
+____
+
+[quote, A.5.111]
+____
+In this regard, Ānanda, for whatever in the world [of phenomena] there is 
+clinging, grasping, obstinate adherence, stubborn attachment, and 
+identification, a bhikkhu abides abandoning, not grasping.
+
+_ye loke upayupādānā cetaso adhiṭṭhānābhinivesānusayā te pajahanto 
+viharati na upādiyanto._
+____
+
+.Illustration
+====
+lokasmiṃ
+
+world [of phenomena]
+====
+
+[quote, Sn.v.1103-4]
+____
+Whatever they grasp in the world [of phenomena], by that very thing Māra 
+follows a man. Therefore, knowing this, the bhikkhu, being mindful, should not 
+grasp anything in the whole world [of phenomena].
+
+_Yaṃ yaṃ hi lokasmiṃ upādiyanti teneva māro anveti janatuṃ. Tasmā 
+pajānaṃ na upādiyetha bhikkhu sato kiñcanaṃ sabbaloke._
+____
+
+.Illustration
+====
+lokā
+
+plane of existence
+====
+
+[quote, M.1.141]
+____
+Those bhikkhus who have abandoned the five ties to individual existence in the 
+low plane of existence (_pañcorambhāgiyāni saṃyojanāni_) will all arise 
+spontaneously [in the higher planes of existence], there to attain 
+nibbāna-without-residue, never to return from those worlds (_anāvattidhammā 
+tasmā lokā_).
+
+_yesaṃ bhikkhūnaṃ pañcorambhāgiyāni saṃyojanāni pahīnāni sabbe te 
+opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā._
+____
+
+.Illustration
+====
+imaṃ lokaṃ
+
+this [low] plane of existence
+====
+
+[quote, M.1.141-2]
+____
+Those bhikkhus who have abandoned three ties to individual existence and have 
+reduced attachment, hatred, and undiscernment of reality, are all 
+once-returners, and, returning only once to this [low] plane of existence, will 
+then put an end to suffering.
+
+_yesaṃ bhikkhūnaṃ tīṇi saṃyojanāni pahīnāni rāgadosamohā 
+tanubhūtā sabbe te sakadāgāmino sakideva imaṃ lokaṃ āgantvā 
+dukkhassantaṃ karissanti._
+____
+
+.Illustration
+====
+lokaṃ
+
+multi-universe system
+====
+
+[quote, A.1.282]
+____
+With purified divine vision surpassing that of men, I survey the thousandfold 
+multi-universe system.
+
+_evāhaṃ dibbena cakkhunā visuddhena atikkantamānusakena sahassaṃ lokaṃ 
+olokemī ti._
+____
+
+.Illustration
+====
+lokadhātu
+
+multi-universe system
+====
+
+[quote, Vin.1.12]
+____
+The ten thousandfold multi-universe system trembled, quaked, and shook.
+
+_dasasahassī lokadhātu saṅkampi sampakampi sampavedhi._
+____
+

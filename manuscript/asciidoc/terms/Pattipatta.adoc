@@ -1,0 +1,127 @@
+== Pattipatta
+
+=== Renderings
+
+- _pattipatta_: attained the [supreme] attainment
+
+- _paramapattipatta_: attained the supreme attainment
+
+- _uttamapattipatta_: attained the unexcelled attainment
+
+=== Introduction
+
+==== Pattipatta and uttamapattipatta
+
+_Pattipatta_ is found only in verse and implies arahantship. It is an 
+abbreviation of either:
+
+1. _uttamapattipatta_, 'attained the unexcelled attainment,' which occurs only 
+in the _Samaṇamaṇḍikā Sutta_ (M.2.23-29), or,
+
+2. _paramapattipatta_, 'attained the supreme attainment,' which occurs only in 
+the _Saṃyutta Nikāya_.
+
+==== Paramapattipatta: orthodox
+
+_Paramapattipatta_ is likely more orthodox than _uttamapattipatta_. 
+_Uttamapattipatta_ is apparently used in the _Samaṇamaṇḍikā Sutta_ to 
+avoid a repetition of _parama_ in this word sequence:
+
+- _sampannakusalaṃ paramakusalaṃ uttamapattipattaṃ_
+
+Therefore, we regard _pattipatta_ as an abbreviation of _paramapattipatta_ 
+('attained the supreme attainment').
+
+Likewise, Norman treats _pattipatta_ as an abbreviation: 'gained the [highest] 
+gain' (e.g. Sn.v.536-7).
+
+=== Illustrations
+
+.Illustration
+====
+uttamapattipattaṃ
+
+attained the unexcelled attainment
+====
+
+____
+An individual endowed with which ten qualities is one whom I describe as being 
+perfect in what is spiritually wholesome, of the highest spiritual proficiency, 
+an invincible ascetic who has attained the unexcelled attainment?
+
+_Katamehi cāhaṃ thapati dasahi dhammehi samannāgataṃ purisapuggalaṃ 
+paññāpemi sampannakusalaṃ paramakusalaṃ uttamapattipattaṃ samaṇaṃ 
+ayojjhaṃ_
+____
+
+[quote, M.2.29]
+____
+In this regard a bhikkhu is possessed of the right perception [of reality] of a 
+finished disciple... the right liberation [from perceptually obscuring states] 
+of a finished disciple.
+
+_idha thapati bhikkhu asekhāya sammādiṭṭhiyā samannāgato hoti... 
+asekhāya sammāvimuttiyā samannāgato hoti._
+____
+
+.Illustration
+====
+paramapattipatto
+
+attained the supreme attainment
+====
+
+[quote, S.3.118]
+____
+The Perfect One, the unexcelled person, the supreme person, one who has 
+attained the supreme attainment.
+
+_tathāgato uttamapuriso paramapuriso paramapattipatto._
+____
+
+.Illustration
+====
+pattipattan
+
+attained the [supreme] attainment
+====
+
+[quote, Sn.v.537]
+____
+Who has ended deceit, conceit, greed, anger, and denomination-and-bodily-form, 
+they call him one who has fulfilled the ideals of religious asceticism, one who 
+has attained the [supreme] attainment.
+
+_Māyaṃ mānamathopi lobhakodhaṃ +
+Pariyantamakāsi nāmarūpaṃ taṃ paribbājakamāhu pattipattan ti._
+____
+
+.Illustration
+====
+pattipattā
+
+attained the [supreme] attainment
+====
+
+[quote, Sn.v.228]
+____
+They have attained the [supreme] attainment.
+
+_Te pattipattā._
+____
+
+.Illustration
+====
+pattipatto
+
+attained the [supreme] attainment
+====
+
+[quote, Sn.v.536]
+____
+Whoever in this world amongst those living the religious life has attained the 
+&#8203;[supreme] attainment, who is well behaved always, who understands the teaching.
+
+_Yo idha caraṇesu pattipatto kusalo sabbadā ājānāti dhammaṃ._
+____
+

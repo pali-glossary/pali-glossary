@@ -1,0 +1,259 @@
+== Kevalin
+
+=== Renderings
+
+- _kevalin_: one who is spiritually perfected
+
+- _kevalin_: one who is fully accomplished
+
+- _brahmacariyassa kevalin_: spiritually perfected through living the religious 
+life
+
+=== Introduction
+
+==== Brahmacariyassa kevalin
+
+In translating the genitive/dative case in _brahmacariyassa kevalin_ we follow 
+the instrumental case suggested in Norman's rendering, which at Th.v.679 is 
+'perfected in living the holy life.' Our solution is 'through living the 
+religious life,' as follows:
+
+[quote, A.1.162; A.2.23]
+____
+One who has abandoned birth and death is spiritually perfected through living 
+the religious life.
+
+_Pahīnajātimaraṇo brahmacariyassa kevalī._
+____
+
+=== Illustrations
+
+.Illustration
+====
+kevalī
+
+spiritually perfected
+====
+
+[quote, A.2.9]
+____
+He who set rolling the Wheel of the Teaching having overcome [Māra and his 
+army], spiritually perfected, tenderly concerned for all beings.
+
+_Yo dhammacakkaṃ abhibhuyya kevalī pavattayī sabbabhūtānukampī._
+____
+
+Comment:
+
+Other suttas show how _abhibhuyya_ should be parenthesised:
+
+[quote, It.41]
+____
+having overcome Māra and his army
+
+_Māraṃ sasenaṃ abhibhuyya_
+____
+
+[quote, Sn.v.733]
+____
+having overcome Māra's tie [that ties one to renewed states of individual 
+existence].
+
+_Abhibhuyya mārasaṃyogaṃ._
+____
+
+.Illustration
+====
+kevalinaṃ
+
+spiritually perfected
+====
+
+[quote, S.1.167; Sn.v.82]
+____
+The one who is spiritually perfected, the great Seer, one whose _āsavas_ are 
+destroyed, whose fretting has subsided.
+
+_kevalinaṃ mahesiṃ khīṇāsavaṃ kukkuccavūpasantaṃ._
+____
+
+.Illustration
+====
+kevalī
+
+spiritually perfected
+====
+
+[quote, Sn.v.978]
+____
+Maintaining their own dogmatic views, contentious, different [so-called] 
+pandits say: "Whoever knows this knows Perfect Truth. Whoever rejects it is not 
+spiritually perfected."
+
+_Sakaṃ sakaṃ diṭṭhiṃ paribbasānā vigayha nānā kusalā vadanti +
+Yo evaṃ jānāti sa vedi dhammaṃ idaṃ paṭikkosamakevalī so._
+____
+
+.Illustration
+====
+kevalī
+
+spiritually perfected
+====
+
+[quote, Sn.v.891]
+____
+'Those who assert a doctrine different from this have strayed from spiritual 
+purity. They are not spiritually perfected.' Non-Buddhist ascetics each say 
+this because they are passionately attached to their own dogmatic views.
+
+_Aññaṃ ito yābhivadanti dhammaṃ aparaddhā suddhimakevalī te +
+Evampi titthiyā puthuso vadanti sandiṭṭhirāgena hi tebhirattā._
+____
+
+.Illustration
+====
+brahmacariyassa kevalī
+
+spiritually perfected through living the religious life
+====
+
+[quote, M.2.144]
+____
+He who knows the mind purified [of the five hindrances], who is completely 
+freed from attachment, and who has abandoned birth and death is spiritually 
+perfected through living the religious life.
+
+_Cittaṃ visuddhaṃ jānāti muttaṃ rāgehi sabbaso +
+Pahīnajātimaraṇo brahmacariyassa kevalī._
+____
+
+Comment:
+
+Mind purified [of the five hindrances] (_cittaṃ visuddhaṃ_) is justified by 
+this quote
+
+[quote, Th.v.1222]
+____
+Having abandoned the [five] hindrances, [be] pure
+
+_nīvaraṇāni pahāya visuddho._
+____
+
+.Illustration
+====
+kevalino
+
+spiritually perfected
+====
+
+[quote, Sn.v.490]
+____
+Those who roam the world who are truly liberated [from individual existence], 
+liberated from the perception of existence, spiritually perfected, with egos 
+restrained.
+
+_Ye ve asattā vicaranti loke akiñcanā kevalino yatattā._
+____
+
+.Illustration
+====
+kevalino
+
+spiritually perfected
+====
+
+____
+Those who are liberated [from perceptually obscuring states] are spiritually 
+perfected._
+
+_ye suvimuttā te kevalino_
+____
+
+[quote, S.3.63]
+____
+Those who are spiritually perfected, the round of rebirth for them is not to be 
+discerned._
+
+_ye kevalino vaṭṭaṃ tesaṃ natthi paññāpanāya._
+____
+
+.Illustration
+====
+kevalī
+
+spiritually perfected
+====
+
+____
+A bhikkhu who has abandoned five factors and is possessed of five factors, in 
+this teaching and training system is called spiritually perfected, one who has 
+fulfilled [the religious life], the unexcelled person.
+
+_Pañcaṅgavippahīno bhikkhave bhikkhu pañcaṅgasamannāgato imasmiṃ 
+dhammavinaye kevalī vusitavā uttamapuriso ti vuccati_
+____
+
+____
+In what way has a bhikkhu abandoned five factors?
+
+_Kathañca bhikkhave bhikkhu pañcaṅgavippahīno hoti_
+____
+
+____
+In this regard, abandoned by a bhikkhu are sensuous hankering, ill will, 
+lethargy and torpor, restlessness and anxiety, and doubt [about the 
+significance of the teaching]. In this way a bhikkhu has abandoned five factors.
+
+_Idha bhikkhave bhikkhuno kāmacchando pahīno hoti vyāpādo pahīno hoti 
+thīnamiddhaṃ pahīnaṃ hoti uddhacchakukkuccaṃ pahīnaṃ hoti 
+vicikicchā pahīnā hoti evaṃ kho bhikkhave bhikkhu pañcaṅgavippahīno 
+hoti._
+____
+
+____
+In what way is a bhikkhu possessed of five factors?
+
+_Kathañca bhikkhave bhikkhu pañcaṅgasamannāgato hoti:_
+____
+
+____
+In this regard a bhikkhu is possessed of the aggregate of a finished disciple's 
+virtuous practices, inward collectedness, penetrative discernment, liberation 
+&#8203;[from perceptually obscuring states], and the knowledge and vision that follows 
+liberation [from perceptually obscuring states].
+
+_Idha bhikkhave bhikkhu asekhena sīlakkhandhena samannāgato hoti asekhena 
+samādhikkhandhena samannāgato hoti asekhena paññākkhandhena samannāgato 
+hoti asekhena vimuttikkhandhena samannāgato hoti asekhena 
+vimuttiñāṇadassanakkhandhena samannāgato hoti evaṃ kho bhikkhave bhikkhu 
+pañcaṅgasamannāgato hoti._
+____
+
+[quote, A.5.16]
+____
+A bhikkhu who has abandoned five factors and is possessed of five factors, in 
+this teaching and training system is called spiritually perfected, one who has 
+fulfilled [the religious life], the unexcelled person.
+
+_Pañcaṅgavippahīno bhikkhave bhikkhu pañcaṅgasamannāgato imasmiṃ 
+dhammavinaye kevalī vusitavā uttamapurisoti vuccatī ti._
+____
+
+.Illustration
+====
+kevalino
+
+fully accomplished
+====
+
+[quote, Sn.v.595; M.2.196]
+____
+We are fully accomplished in whatever [knowledge] is taught by masters of 
+threefold Vedic knowledge. We are experts in linguistics and grammar. We match 
+our teachers in recitation.
+
+_Tevijjānaṃ yadakkhātaṃ tatra kevalino'smase +
+Padakasmā veyyākaraṇā jappe ācariyasādisā._
+____
+

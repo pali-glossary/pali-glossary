@@ -1,0 +1,220 @@
+== Kappaṃ n'eti
+
+=== Renderings
+
+- _kappaṃ n'eti_: he is not caught up in egocentric conception
+
+=== Introduction
+
+==== Kappaṃ n'eti: Sn.v.521, Sn.v.535, and Sn.v.860
+
+_Kappaṃ n'eti_ occurs thrice in the scriptures: Sn.v.521, Sn.v.535, and 
+Sn.v.860. _Kappaṃ_ occurs with the same meaning a further five times at 
+Sn.v.373, Sn.v.517, Sn.v.911, Sn.v.914, and Sn.v.1101, but these do not much 
+help with the meaning of _kappaṃ n'eti_:
+
+[quote, Sn.v.914]
+____
+He is not caught up in egocentric conception.
+
+_na kappiyo._
+____
+
+[quote, Sn.v.1101]
+____
+The one who has abandoned egocentric conception
+
+_Kappaṃ jahaṃ._
+____
+
+In Sn.v.911 _kappaṃ_ is almost synonymous with _saṅkhā_:
+
+[quote, Sn.v.911]
+____
+The Brahman is beyond the limits of conception and egocentric conception.
+
+_Na brāhmaṇo kappamupeti saṅkhā._
+____
+
+Sn.v.373 and Sn.v.517 are in the illustrations.
+
+==== Kappa: meaning
+
+_Kappa_ means 'a (false) supposition, imagining; a theory; a figment,' says 
+DOP. These words concur with our rendering, except for being countable nouns.
+
+PED says _kappa_ means 'anything made with a definite object in view, prepared, 
+arranged,' and says that 'as a cycle of time=__saṃsāra__ at Sn 521, 535, 
+860,' which is wrong.
+
+==== Eti: meaning
+
+_Eti_ means:
+
+- 'to go, go to, reach' (PED).
+
+• 'goes; goes towards; reaches, obtains; reaches (a state); is involved (in)' 
+(DOP).
+
+==== Norman: come to/submit to figments
+
+Norman translates the three references as follows:
+
+[quote, Sn.v.521]
+____
+He comes to no figment among devas and men who are subject to figments.
+
+_Devamanussesu kappiyesu kappaṃ n'eti._
+____
+
+[quote, Sn.v.535]
+____
+Having thrust away the triple perception, the mud, he does not come to figments.
+
+_Saññaṃ tividhaṃ panujja paṅkaṃ kappaṃ n'eti._
+____
+
+[quote, Sn.v.860]
+____
+He does not submit to figments, being without figments.
+
+_kappaṃ n'eti akappiyo._
+____
+
+Norman does not always follow the singular cases, for which an uncountable noun 
+would be suitable.
+
+==== Sn.v.860: not caught up in egocentric conception
+
+In Sn.v.860 _kappaṃ n'eti_ is associated with not comparing oneself with 
+others:
+
+[quote, Sn.v.860]
+____
+The sage, free of greed and stinginess, does not proclaim himself as being 
+amongst the superior, equal, or inferior. He is not caught up in egocentric 
+conception. He is free of egocentric conception.
+
+_Vītagedho amaccharī na ussesu vadate muni +
+Na samesu na omesu kappaṃ n'eti akappiyo._
+____
+
+==== Sn.v.535: the three modes [of self-centredness] abandoned
+
+In Sn.v.535 _kappaṃ n'eti_ is associated with abandoning the three modes of 
+self-centredness:
+
+[quote, Sn.v.535]
+____
+One who has thrust away the three grubby modes of perception, and who is not 
+caught up in egocentric conception: they call him 'noble.'
+
+_Saññaṃ tividhaṃ panujja paṅkaṃ kappaṃ n'eti tamāhu ariyo ti._
+____
+
+Because Sn.v.860 (in paragraph above) involves comparison of oneself with 
+others, we regard _saññaṃ tividhaṃ... paṅkaṃ_ ('the three grubby 
+modes of perception') in Sn.v.535 as likewise implying comparison of oneself 
+with others, and therefore meaning _tisso vidhā_ ('the three modes [of 
+self-centredness]'). The three modes of self-centredness are:
+
+____
+'I am better' mode [of self-centredness]
+
+_seyyo'hamasmī ti vidhā_
+____
+
+____
+'I am equal' mode [of self-centredness]
+
+_sadiso'hamasmī ti vidhā_
+____
+
+[quote, S.5.56]
+____
+'I am worse' mode [of self-centredness]
+
+_hīno'hamasmī ti vidhā._
+____
+
+==== Sn.v.521
+
+Sn.v.521 is illustrated below.
+
+==== Conclusion
+
+_Kappaṃ n'eti_ is associated with terms that imply arahantship:
+
+1. Not comparing oneself with others
+
+2. Thrusting away the three modes of self-centredness
+
+Although _kappaṃ_ is close in meaning to the widely supported 'figment,' this 
+term is problematic for two reasons:
+
+1. Firstly, our findings show that the specific figment involved is 
+__'__egocentric conception.'
+
+2. Secondly, egocentric conception is an uncountable noun, and therefore better 
+than 'figment' because pluralising is then unnecessary.
+
+=== Illustrations
+
+.Illustration
+====
+kappaṃ n'eti
+
+he is not caught up in egocentric conception
+====
+
+[quote, Sn.v.521]
+____
+Amidst devas and men caught up in egocentric conception, he is not caught up in 
+egocentric conception. They call him spiritually cleansed.
+
+_Devamanussesu kappiyesu kappaṃ n'eti tamāhu nahātako ti._
+____
+
+.Illustration
+====
+kappāni
+
+modes of egocentric conception
+====
+
+[quote, Sn.v.517]
+____
+'One who has investigated all modes of egocentric conception, the round of 
+birth and death, and both the passing away and rebirth [of beings]; one who is 
+free of spiritual defilement, spiritually unblemished, spiritually purified, 
+who has realised the destruction of birth: they call him enlightened.'
+
+_Kappāni viceyya kevalāni saṃsāraṃ dubhayaṃ cutūpapātaṃ +
+Vigatarajamanaṅgaṇaṃ visuddhaṃ pattaṃ jātikhayaṃ tamāhu buddhan 
+ti._
+____
+
+COMMENT
+
+_Kappāni_: 'modes of egocentric conception.' Egocentric conception is linked 
+to the three modes of self-centredness in Sn.v.535. It likely has that meaning 
+here.
+
+.Illustration
+====
+kappa
+
+egocentric conception
+====
+
+[quote, Sn.v.373]
+____
+'One of purified wisdom who has utterly transcended egocentric conception in 
+regards to things of the past and future, who is free of [bondage to] the six 
+senses and their objects: he would properly fulfil the ideals of religious 
+asceticism in the world.
+
+_Atītesu anāgatesu cā pi kappātīto aticca suddhipañño +
+Sabbāyatanehi vippamutto sammā so loke paribbajeyya._
+____
+

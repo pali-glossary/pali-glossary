@@ -1,0 +1,331 @@
+== Kovida
+
+=== Renderings
+
+- _kovida_: expert
+
+- _kovida_: knowledgeable
+
+- _kovida_: proficient [in discerning]
+
+- _kovida_: proficient
+
+- _akovida_: ignorant
+
+=== Illustrations
+
+.Illustration
+====
+kovidā
+
+experts
+====
+
+[quote, D.3.152]
+____
+Experts in body marks and conformations (i.e. physiognomists)
+
+_vyañjananimittakovidā._
+____
+
+.Illustration
+====
+kovidā
+
+knowledgeable
+====
+
+[quote, Sn.v.653]
+____
+Knowledgeable about the fruit of conduct
+
+_kammavipākakovidā._
+____
+
+.Illustration
+====
+kovidaṃ
+
+knowledgeable
+====
+
+[quote, Sn.v.484]
+____
+One who is knowledgeable about birth and death
+
+_jātimaraṇakovidaṃ._
+____
+
+.Illustration
+====
+kovido
+
+knowledgeable
+====
+
+[quote, Th.v.21]
+____
+Our teacher is knowledgeable about the Deathless.
+
+_satthā no amatassa kovido._
+____
+
+.Illustration
+====
+kovido
+
+knowledgeable
+====
+
+[quote, Th.v.69]
+____
+He is knowledgeable about the path to safety from the danger of bondage [to 
+individual existence].
+
+_So yogakkhemassa pathassa kovido ti._
+____
+
+.Illustration
+====
+kovidaṃ
+
+knowledgeable
+====
+
+[quote, M.2.196]
+____
+Knowledgeable about what is the Path and what is not the Path
+
+_maggāmaggassa kovidaṃ._
+____
+
+.Illustration
+====
+kovido
+
+knowledgeable
+====
+
+[quote, M.3.8]
+____
+The Blessed One is the knower of the Path, the finder of the Path, 
+knowledgeable about the Path.
+
+_maggaññu maggavidū maggakovido._
+____
+
+.Illustration
+====
+kovidā
+
+knowledgeable
+====
+
+[quote, A.2.44]
+____
+The enlightenened, those knowledgeable about merit, praise this kind of 
+sacrifice.
+
+_Yañña metaṃ pasaṃsanti buddhā puññassa kovidā._
+____
+
+.Illustration
+====
+kovido
+
+knowledgeable
+====
+
+[quote, M.1.135]
+____
+Knowledgeable about the teaching of spiritually outstanding people
+
+_sappurisadhammassa kovido._
+____
+
+.Illustration
+====
+kovido
+
+knowledgeable
+====
+
+[quote, Vin.1.359]
+____
+Knowledgeable about the aspects of an offence and its removal
+
+_Āpattivuṭṭhānapadassa kovido._
+____
+
+.Illustration
+====
+kovidā
+
+proficient [in discerning]
+====
+
+[quote, S.1.146]
+____
+Proficient [in discerning] the ways of others' minds.
+
+_cetopariyāyakovidā._
+____
+
+.Illustration
+====
+kovido
+
+proficient [in discerning]
+====
+
+[quote, Th.v.85]
+____
+One who is proficient [in discerning] the telltale signs of the mind.
+
+_Cittanimittassa kovido._
+____
+
+.Illustration
+====
+kovido
+
+proficient
+====
+
+• I am a master of the three final knowledges. I am an outstanding meditator, 
+proficient in [attaining] inward calm. +
+☸__Tevijjohaṃ mahājhāyī cetosamathakovido__ (Th.v.112).
+
+.Illustration
+====
+kovido
+
+proficient
+====
+
+[quote, Th.v.482]
+____
+Then he, proficient and knowledgeable in questions, asked me [the Boy's] 
+Questions.
+
+_Tato pañhe apucchi maṃ pañhānaṃ kovido vidū._
+____
+
+.Illustration
+====
+kovido
+
+proficient
+====
+
+[quote, Th.v.1028]
+____
+Proficient in the use of conventional expressions and vocabulary
+
+_niruttipadakovido._
+____
+
+.Illustration
+====
+kovido
+
+proficient
+====
+
+[quote, Vin.1.359]
+____
+Proficient in analysis
+
+_vibhaṅgakovido._
+____
+
+.Illustration
+====
+kovido
+
+proficient
+====
+
+[quote, Vin.1.359]
+____
+Proficient at obstructing his opponents
+
+_Paccatthikānañca visandhikovido._
+____
+
+.Illustration
+====
+kovidā
+
+ignorant
+====
+
+[quote, S.1.133]
+____
+I do not approve of their teachings; they are ignorant of the Buddha's teaching.
+
+_na tesaṃ dhammaṃ rocemi na te dhammassa kovidā._
+____
+
+.Illustration
+====
+akovido
+
+ignorant
+====
+
+[quote, S.4.286-7]
+____
+The ignorant Everyman, who has no regard for the Noble Ones and is ignorant of 
+and uninstructed in their teaching
+
+_assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme 
+avinīto._
+____
+
+.Illustration
+====
+akovidā
+
+ignorant
+====
+
+[quote, S.4.128]
+____
+But simpletons ignorant of the teaching do not understand it even in its 
+presence.
+
+_Santike na vijānanti magā dhammassa akovidā._
+____
+
+.Illustration
+====
+akovide
+
+ignorant
+====
+
+[quote, It.92]
+____
+The fire of undiscernment of reality burns those who are undiscerning of 
+reality, who are ignorant of the noble teaching.
+
+_mohaggi pana sammūḷhe ariyadhamme akovide._
+____
+
+.Illustration
+====
+akovidā
+
+ignorant
+====
+
+[quote, Th.v.444]
+____
+Those people are ignorant of the teaching who think he is a fool, the one who 
+is a healer of both himself and the other.
+
+_Ubhinnaṃ tikicchantaṃ taṃ attano ca parassa ca +
+Janā maññanti bālo ti ye dhammassa akovidā._
+____
+

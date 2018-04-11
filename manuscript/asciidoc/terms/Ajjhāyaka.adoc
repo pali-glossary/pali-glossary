@@ -1,0 +1,63 @@
+== Ajjhāyaka
+
+=== Renderings
+
+- _ajjhāyaka_: scholar [of the sacred texts]
+
+=== Introduction
+
+==== Ajjhāyaka means mantajjhāyaka
+
+_Ajjhāyaka_ means 'one who studies,' but it is an abbreviation. The full term 
+is shown at M.1.282 to be _mantajjhāyaka_. Therefore _ajjhāyaka_ means 
+'scholar [of the sacred texts].' This is in accordance with PED which calls it 
+'a scholar of the brahmanic texts, a studious, learned person,' and the DOP, 
+'one who studies (the Vedas)' The Buddha in the following quote implies that it 
+can be applied to his own bhikkhus (because Brahmanists were priests not 
+ascetics), and the term is therefore not restricted to students of brahmanical 
+texts:
+
+[quote, M.1.282]
+____
+I do not say that the asceticism of a scholar of the sacred texts is merely due 
+to his scholarship of sacred texts.
+
+_Nāhaṃ bhikkhave mantajjhāyakassa mantajjhāyakamattena sāmaññaṃ 
+vadāmi._
+____
+
+=== Illustrations
+
+.Illustration
+====
+ajjhāyako
+
+scholar [of the sacred texts]
+====
+
+The brahman Doṇa said of himself
+
+- I am a scholar [of the sacred texts] ☸ _ajjhāyako_
+
+- I know by heart the sacred texts ☸ _mantadharo_
+
+- I am a master of the three Vedas ☸ _tiṇṇaṃ vedānaṃ pāragū_ 
+(A.3.223).
+
+.Illustration
+====
+ajjhāyako
+
+scholar [of the sacred texts]
+====
+
+[quote, Sn.v.140]
+____
+'Even though brahmans are born into families of scholars [of the sacred texts] 
+and have an intimate relationship with the sacred texts, they are repeatedly 
+found involved in unvirtuous deeds.
+
+_Ajjhāyakakule jātā brāhmaṇā mantabandhavā +
+Te ca pāpesu kammesu abhiṇhamupadissare._
+____
+

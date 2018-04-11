@@ -1,0 +1,599 @@
+== Kukkucca; Vippaṭisāra
+
+=== Renderings
+
+- _kukkucca_: fretting
+
+- _kukkucca_: scrupulous
+
+- _kukkucca_: anxiety
+
+- _kukkucca_: remorseful
+
+- _kukkucca_: guilt
+
+- _vippaṭisāra_: uneasiness
+
+- _vippaṭisāra_: uneasy conscience
+
+- _vippaṭisārin_: conscience-stricken
+
+- _vippaṭisārin_: regretful
+
+=== Introduction
+
+==== Kukkucca: fretting
+
+When Venerable Anuruddha complained that for all his meditation skill, his mind 
+was still not released from the āsavas, Venerable Sāriputta called this 
+_kukkucca_, fretting (A.1.281). The subsiding of fretting is therefore linked 
+to arahantship. This association is confirmed in the following verse:
+
+[quote, Sn.v.481]
+____
+Serve with other food and drink the one who is spiritually perfected, the great 
+Seer, one whose _āsavas_ are destroyed, whose fretting has subsided, for he is 
+the [unsurpassed] field for one looking for merit.
+
+_Aññena ca kevalinaṃ mahesiṃ khīṇāsavaṃ kukkuccavūpasantaṃ +
+Annena pānena upaṭṭhahassu khettaṃ hi taṃ puññapekkhassa hoti._
+____
+
+==== Kukkucca: scrupulousness
+
+When a sick bhikkhu refused to use a vehicle out of respect of the bhikkhus' 
+discipline, it was from scrupulousness (_kukkuccāyanto_ Vin.1.191).
+
+==== Kukkucca: remorse
+
+When, through sickness, Venerable Vakkali was unable to visit the Buddha, he 
+felt remorseful about it (_kukkuccaṃ_, S.3.120).
+
+When they break their precepts bhikkhus feel remorseful (_kukkuccaṃ_ 
+S.3.120). This is linked to _vippaṭisāro_ (being conscience-stricken) and 
+_attā sīlato upavadatī_ (reproaching oneself in regard to virtue).
+
+==== Kukkucca: anxiety
+
+Sometimes _kukkucca_ is the anxiety associated with the thought 'I hope I have 
+not fallen into an offence': _Tesaṃ kukkuccaṃ ahosi. Bhagavatā 
+sikkhāpadaṃ paññattaṃ. Kacci nu kho mayaṃ pārājikaṃ āpattiṃ 
+āpannā ti_ (Vin.3.34). See Illustrations.
+
+==== Kukkucca: guilt
+
+When bhikkhus impatiently recited the Pātimokkha instead of waiting for the 
+other bhikkhus to arrive, knowing it was wrongful to do so, they recited it 
+'guiltily' (_kukkuccapakatā_ Vin.1.131).
+
+==== Vippaṭisāra: uneasiness
+
+An example of uneasiness is found in the assertion that a Perfect One exists 
+after death (_hoti tathāgato parammaraṇā ti_), or does not exist. This is a 
+matter of uneasiness (_vippaṭisāro eso_, A.4.68-9) presumably because any 
+theory of the Buddha either existing or not existing after death is 
+philosophically disasterous.
+
+==== Kukkuccaṃ plus vippaṭisāro: remorseful and conscience-stricken
+
+When _kukkuccaṃ_ occurs in combination with _vippaṭisāro_ the pair of 
+terms can mean either 'remorseful and conscience-stricken' or 'anxious and 
+uneasy.' For example, when a chief minister became angry with the bhikkhus, and 
+insulted them, he was remorseful and conscience-stricken about it (_ahudeva 
+kukkuccaṃ ahu vippaṭisāro_ Vin.1.223).
+
+[quote, Vin.1.223]
+____
+But soon after the Blessed One had departed, that chief minister, young in 
+faith, became remorseful and conscience-stricken and thought: It is a loss for 
+me, not a gain; it is unfortunate for me, not fortunate, that I, angry and 
+displeased, wanting to insult the bhikkhus, went round filling their bowls and 
+saying: 'Eat it or take it away'. Now, have I made much merit or demerit?
+
+_Atha kho tassa taruṇappasannassa mahāmattassa acirapakkantassa bhagavato 
+ahudeva kukkuccaṃ. Ahu vippaṭisāro alābhā vata me na vata me lābhā 
+dulladdhaṃ vata me na vata me suladdhaṃ yohaṃ kupito anattamano 
+āsādanāpekkho bhikkhūnaṃ patte pūrentā agamāsiṃ 'bhuñjatha vā 
+haratha vā' ti. Kinnu kho mayā bahuṃ pasutaṃ puññaṃ vā apuññaṃ 
+vā ti._
+____
+
+==== Kukkuccaṃ plus vippaṭisāro: anxiety and uneasiness
+
+But when Venerable Assaji found he could no longer attain inward collectedness, 
+he became anxious and uneasy (_anappakaṃ kukkuccaṃ anappako 
+vippaṭisāro_) because he thought it would ruin him:
+
+[quote, S.3.125]
+____
+As I do not attain that inward collectedness, bhante, it occurs to me: 'May I 
+not waste away!'
+
+_Tassa mayhaṃ bhante taṃ samādhiṃ appaṭilabhato evaṃ hoti no ca 
+khvāhaṃ parihāyāmī ti._
+____
+
+=== Illustrations: kukkucca
+
+.Illustration
+====
+kukkuccakā
+
+scrupulous
+====
+
+[quote, Vin.1.44]
+____
+When bhikkhus walked for almsfood badly behaved, those bhikkhus who were of few 
+needs, content [with what is paltry and easily gotten], conscientious, 
+scrupulous, and desirous of training complained, muttered, and grumbled:
+
+_ye te bhikkhū appicchā santuṭṭhā lajjino kukkuccakā sikkhākāmā te 
+ujjhāyanti khiyanti vipācenti._
+____
+
+.Illustration
+====
+kukkuccāyanto
+
+scrupulous
+====
+
+When a bhikkhu walking to Sāvatthī became ill, people invited him to use a 
+vehicle. He replied:
+
+[quote, Vin.1.191]
+____
+'A vehicle is objected to by the Blessed One,' and being scrupulous, refused it.
+
+_Alaṃ āvuso paṭikkhittaṃ bhagavatā yānan ti. Kukkuccāyanto yānaṃ 
+nābhīruhi._
+____
+
+.Illustration
+====
+kukkuccasmiṃ
+
+fretting
+====
+
+____
+'Anuruddha, friend, when you say "With purified divine vision surpassing that 
+of men, I survey the thousandfold multi-universe system," that is your 
+self-centredness.
+
+_idante mānasmiṃ_
+____
+
+____
+'When you say "My... mind is collected and concentrated," that is your vanity.
+
+_idante uddhaccasmiṃ_
+____
+
+[quote, A.1.282]
+____
+'When you say "But for all that my mind is not liberated from perceptually 
+obscuring states through being without grasping," that is your fretting.
+
+_Yampi te āvuso anuruddha evaṃ hoti atha ca pana me na anupādāya āsavehi 
+cittaṃ vimuccatī ti idante kukkuccasmiṃ._
+____
+
+.Illustration
+====
+kukkuccā
+
+fretting
+====
+
+[quote, Sn.v.925]
+____
+He should be meditative, not wandering about. He should desist from fretting.
+
+_Jhāyī na pādalolassa virame kukkuccā._
+____
+
+.Illustration
+====
+kukkuccāya
+
+anxiety
+====
+
+[quote, Vin.4.143]
+____
+Why recite these lesser and minor training rules? They only lead to anxiety, 
+vexation, and perplexity.
+
+_kiṃ panimehi khuddisante vā sikkhāpadehi uddiṭṭhehi yāvadve 
+kukkuccāya vihesāya vilekhāya saṃvattanti._
+____
+
+.Illustration
+====
+kukkuccaṃ
+
+anxiety
+====
+
+Bhikkhus became anxious over various matters (_kismiñci kismiñci ṭhāne 
+kukkuccaṃ uppajjati_), wanting to know what was permitted (_kinnu kho 
+bhagavatā anuññātaṃ_) or forbidden (_kiṃ ananuññātan ti_) in 
+'various situations' (_kismiñci kismiñci ṭhāne_) (Vin.1.251).
+
+.Illustration
+====
+kukkuccassa
+
+anxiety
+====
+
+[quote, S.5.103-106]
+____
+There is inward unpeacefulness. Much improper contemplation in that regard is a 
+condition that nourishes both the arising of unarisen restlessness and anxiety, 
+and the increase and expansion of arisen restlessness and anxiety.
+
+_Atthi bhikkhave cetaso avūpasamo. Tattha ayoniso manasikārabahulīkāro 
+ayamāhāro anuppannassa vā uddhaccakukkuccassa uppādāya uppannassa vā 
+uddhaccakukkuccassa bhiyyobhāvāya vepullāya._
+____
+
+.Illustration
+====
+kukkuccaṃ
+
+anxious
+====
+
+[quote, Vin.3.34]
+____
+A certain bhikkhu having had sex with a monkey became anxious, thinking, 'The 
+Blessed One has established a training rule. I hope I have not fallen into a 
+pārājika offence.
+
+_aññataro bhikkhu makkaṭiyā methunaṃ dhammaṃ patisevi. Tassa 
+kukkuccaṃ ahosi. Bhagavatā sikkhāpadaṃ paññattaṃ. Kacci nu kho ahaṃ 
+pārājikaṃ āpattiṃ āpanno ti._
+____
+
+.Illustration
+====
+kukkuccaṃ
+
+anxious
+====
+
+[quote, Vin.3.82]
+____
+Once when a bhikkhu was ill the bhikkhus heated him and he died. They became 
+anxious, thinking, 'The Blessed One has established a training rule. I hope we 
+have not fallen into a pārājika offence.'
+
+_Tena kho pana samayena aññataro bhikkhu gilāno hoti. Taṃ bhikkhū 
+sedesuṃ. So bhikkhu kālamakāsi tesaṃ kukkuccaṃ ahosi. Kacci nū kho 
+mayaṃ pārājikaṃ āpattiṃ āpannā ti._
+____
+
+.Illustration
+====
+kukkucca
+
+guiltily
+====
+
+[quote, Vin.1.131]
+____
+In a certain residence several resident bhikkhus, four or more, collect 
+together on an Observance day. They know that there are other resident bhikkhus 
+who have not arrived. Thinking, 'It is allowable for us to carry out the 
+Observance, it is not unallowable,' they guiltily perform the Observance and 
+recite the Pātimokkha.
+
+_aññatarasmiṃ āvāse tadahuposathe sambahulā āvāsikā bhikkhū 
+sannipatanti cattāro vā atirekā vā. Te jānanti atthaññe āvāsikā 
+bhikkhū anāgatā ti. Te kappateva amhākaṃ uposatho kātuṃ? Nāmhākaṃ 
+na kappatī ti kukkuccapakatā uposathaṃ karonti. Pātimokkhaṃ uddisanti._
+____
+
+=== Illustrations: vippaṭisāra
+
+.Illustration
+====
+vippaṭisāro
+
+matter of uneasiness
+====
+
+The assertion that a Perfect One exists after death, or does not exist, or both 
+exists and does not exist, or neither exists nor not exists (_Hoti tathāgato 
+parammaraṇā ti_) is an
+
+____
+acquiescence in dogmatism
+
+_diṭṭhigatametaṃ_
+____
+
+____
+acquiescence in craving
+
+_taṇhāgatametaṃ_
+____
+
+• acquiescence in mental imagery** +
+☸** _saññāgatametaṃ_
+
+____
+matter of thinking in personal terms
+
+_maññitametaṃ_
+____
+
+____
+matter of entrenched perception
+
+_papañcitametaṃ_
+____
+
+____
+acquiescence in grasping
+
+_upādānagatametaṃ_
+____
+
+[quote, A.4.68-9]
+____
+and a matter of uneasiness
+
+_vippaṭisāro eso._
+____
+
+.Illustration
+====
+vippaṭisārī
+
+conscience-stricken; kukkuccaṃ, anxious
+====
+
+____
+A certain bhikkhu intending to have sex with a woman was conscience-stricken at 
+the mere touch.
+
+_Tena kho pana samayena aññataro bhikkhu itthiyā methunaṃ dhammaṃ 
+patisevissāmiti chupitamatte vippaṭisārī ahosī._
+____
+
+[quote, Vin.3.37]
+____
+He became anxious, thinking, 'The Blessed One has established a training rule. 
+I hope I have not fallen into a pārājika offence.'
+
+_Tassa kukkuccaṃ ahosi._
+____
+
+.Illustration
+====
+vippaṭisāraṃ
+
+uneasy conscience
+====
+
+[quote, D.2.135-6]
+____
+'It might be, Ānanda, that someone might arouse an uneasy conscience in Cunda 
+the metalworker [by telling him]: "It is a loss for you, friend Cunda, it is 
+unfortunate for you that the Perfect One died after taking his last meal from 
+you!"
+
+_Siyā kho panānanda cundassa kammāraputtassa koci vippaṭisāraṃ 
+upadaheyya tassa te āvuso cunda alābhā tassa te dulladdhaṃ yassa te 
+tathāgato pacchimaṃ piṇḍapātaṃ bhuñjitvā parinibbuto ti._
+____
+
+.Illustration
+====
+avippaṭisārissa
+
+uneasy conscience
+====
+
+____
+For one who is virtuous, perfect in virtue, there is no need to harbour the 
+aspiration: 'May freedom from an uneasy conscience arise in me.
+
+_Sīlavato bhikkhave sīlasampannassa na cetanāya karaṇīyaṃ 
+avippaṭisāro me uppajjatū ti._
+____
+
+[quote, A.5.2]
+____
+It is quite natural that one who is virtuous, perfect in virtue, freedom from 
+an uneasy conscience arises in him.
+
+_Dhammatā esā bhikkhave yaṃ sīlavato sīlasampannassa avippaṭisāro 
+uppajjati._
+____
+
+.Illustration
+====
+vippaṭisārino
+
+regret
+====
+
+• Meditate, Cunda! Do not be negligently applied [to the practice] lest you 
+regret it later! +
+_Jhāyatha cunda mā pamādattha. Mā pacchā vippaṭisārino ahuvattha_ 
+(M.1.46).
+
+.Illustration
+====
+anxiety and uneasiness
+
+==== Illustration: anxious and uneasy
+
+[quote
+
+M.1.437-8]
+====
+
+____
+'Bhante, I am not willing to eat at a single session; for if I did, I might 
+become anxious and uneasy about it.'
+
+_Ekāsanabhojanaṃ hi me bhante bhuñjato siyā kukkuccaṃ siyā 
+vippaṭisāro ti._
+____
+
+.Illustration
+====
+anxious and uneasy
+
+____
+-- 'I hope
+
+Assaji, you are not anxious or uneasy about anything.'
+====
+
+_Kacci te assaji na kiñci kukkuccaṃ na koci vippaṭisāro ti_
+____
+
+____
+-- 'In fact, bhante, I am very anxious and uneasy.'
+
+_Taggha me bhante anappakaṃ kukkuccaṃ anappako vippaṭisāro ti_
+____
+
+____
+-- 'I hope, Assaji, you have nothing to reproach yourself about in regard to 
+virtue.'
+
+_Kacci pana taṃ assaji attā sīlato na upavadatī ti_
+____
+
+____
+-- 'I have nothing, bhante, to reproach myself about in regard to virtue.'
+
+_Na kho maṃ bhante attā sīlato upavadatī ti_
+____
+
+-- 'Then, Assaji, what is there to be anxious and uneasy about?'
+
+[quote, S.3.125]
+____
+-- 'Formerly, bhante, when I was ill I dwelt with my bodily form tranquillised. 
+Now I do not attain that inward collectedness. As I do not attain that inward 
+collectedness, bhante, it occurs to me: "May I not waste away!"'
+
+_Pubbeva khvāhaṃ bhante gelaññe passambhetvā kāyasaṅkhāre viharāmi. 
+Sohaṃ taṃ samādhiṃ nappaṭilabhāmi. Tassa mayhaṃ bhante taṃ 
+samādhiṃ appaṭilabhato evaṃ hoti no ca khvāhaṃ parihāyāmī ti._
+____
+
+.Illustration
+====
+remorseful and conscience-stricken
+
+==== Illustration: remorseful and conscience-stricken
+
+[quote
+
+Vin.1.223]
+====
+
+____
+When a chief minister became angry with the bhikkhus, he became remorseful and 
+conscience-stricken about it.
+
+_ahudeva kukkuccaṃ ahu vippaṭisāro._
+____
+
+.Illustration
+====
+remorseful and conscience-stricken
+
+____
+-- 'Bhante
+
+on one occasion, while the Blessed One instructed the bhikkhus with a talk on 
+the training rules, I became impatient and irritated, thinking: 'This ascetic 
+is too stringent.'
+====
+
+_ahudeva akkhanti ahu appaccayo adhisallikhatevāyaṃ samaṇo ti._
+____
+
+[quote, A.1.237]
+____
+'Afterwards I became remorseful and conscience-stricken about it.
+
+_ahudeva kukkuccaṃ ahu vippaṭisāro._
+____
+
+.Illustration
+====
+remorseful and conscience-stricken
+
+____
+-- 'I hope
+
+Vakkali, you are not remorseful or conscience-stricken about anything.'
+====
+
+_Kacci te vakkali na kiñci kukkuccaṃ na koci vippaṭisāro ti_
+____
+
+____
+-- 'In fact, bhante, I am very remorseful and conscience-stricken.'
+
+_Taggha me bhante anappakaṃ kukkuccaṃ anappako vippaṭisāro ti_
+____
+
+____
+-- 'I hope, Vakkali, you have nothing to reproach yourself about in regard to 
+virtue.'
+
+_Kacci pana taṃ vakkali attā sīlato na upavadatī ti_
+____
+
+____
+-- 'I have nothing, bhante, to reproach myself about in regard to virtue.'
+
+_Na kho maṃ bhante attā sīlato upavadatī ti_
+____
+
+____
+-- 'Then, Vakkali, what is there to be remorseful and conscience-stricken 
+about?.'
+
+_No ce kira vakkali attā sīlato upavadati atha kiñca te kukkuccaṃ ko ca 
+vippaṭisāro ti?_
+____
+
+[quote, S.3.121]
+____
+-- 'For a long time, bhante, I have wanted to come to see the Blessed One, but 
+I haven't had strength enough to do so'
+
+_Cirapaṭikāhaṃ bhante bhagavantaṃ dassanāya upasaṅkamitukāmo natthi 
+ca me kāyasmīṃ tāvatikā balamattā yāvatāhaṃ bhagavantaṃ dassanāya 
+upasaṅkameyyan ti._
+____
+
+.Illustration
+====
+remorseful and conscience-stricken
+
+[quote
+
+Vin.3.19]
+====
+
+____
+After having had sex Venerable Sudinna was remorseful and conscience-stricken
+
+_Atha kho āyasmato sudinnassa ahudeva kukkuccaṃ ahu vippaṭisāro._
+____
+

@@ -1,0 +1,112 @@
+== Kāye kāyānupassī viharati
+
+=== Renderings
+
+- _kāye kāyānupassī viharati_: he abides contemplating the nature of the 
+body
+
+=== Introduction
+
+==== Three components
+
+_Kāye kāyānupassī_ has three components.
+
+1. A noun in the locative case (_kaye_)
+
+2. an intermediate noun (_kaya_)
+
+3. _anupassī_, which means 'a contemplator,' but is functionally a present 
+participle (i.e. 'contemplating'), and confirmed as such in both DOP and PED 
+(under _anupassi_).
+
+==== Threefold structure in other phrases
+
+This threefold structure occurs in other similar phrases:
+
+[quote, A.5.110]
+____
+He abides contemplating the wretchedness (i.e. the wretched nature) of the body
+
+_kāye ādīnavānupassī viharati._
+____
+
+[quote, A.5.111]
+____
+He abides contemplating the unloveliness (i.e. the unlovely nature) of the body
+
+_kāye asubhānupassī viharati._
+____
+
+The aspect that is contemplated is seen here to be the nature of the object 
+that is in the locative case. About this, Bodhi says:
+
+- "In each case, the word conjoined with _anupassī_ is the aspect that is 
+contemplated, and the word in the locative case is the sphere in relation to 
+which that aspect is contemplated. Analogously, in _kāye kāyānupassī 
+viharati_, the _kāya_ conjoined with _anupassī_ is the aspect that is 
+contemplated (the "bodiness" of the body) and the locative _kāye_ is the 
+domain in relation to which that aspect is contemplated" (NDB n.197).
+
+By comparison, in _kāye kāyānupassī_, the intermediate _kaya_ means 
+body-nature, or, as Bodhi puts it, 'bodiness.' This leads to our phrase: 'he 
+abides contemplating the nature of the body.'
+
+==== Confirmation: kāye kāyānupassī equals kāye asubhānupassī
+
+Because unloveliness is the nature of the body, it should be possible to 
+demonstrate that _kāye kāyānupassī_ equals _kāye asubhānupassī_, which 
+would confirm our rendering. That these phrases are equivalent is obvious in 
+the comparison of these two passages:
+
+[quote, A.5.109]
+____
+In this [wretched human] body there are head hairs... urine. Thus he abides 
+contemplating the unloveliness of this [wretched human] body.
+
+_atthi imasmiṃ kāye kesā... muttan ti. Iti imasmiṃ kāye asubhānupassī 
+viharati._
+____
+
+[quote, D.2.293]
+____
+In this [wretched human] body there are head hairs... urine. Thus he abides 
+contemplating the nature of the body internally.
+
+_atthi imasmiṃ kāye kesā... muttan ti. Iti ajjhattaṃ vā kāye 
+kāyānupassī viharati._
+____
+
+=== Illustrations
+
+.Illustration
+====
+kāye kāyānupassī viharati
+
+abides contemplating the nature of the body
+====
+
+____
+"And how is a bhikkhu mindful?
+
+_Kathañca bhikkhave bhikkhu sato hoti:_
+____
+
+____
+In this regard a bhikkhu abides contemplating the nature of the body, 
+vigorously, fully consciously, and mindfully, having eliminated greed and 
+dejection in regard to the world [of phenomena].
+
+_idha bhikkhave bhikkhu kāye kāyānupassī viharati ātāpī sampajāno 
+satimā vineyya loke abhijjhādomanassaṃ_
+____
+
+[quote, S.5.142]
+____
+He abides contemplating the nature of sense impressions... the nature of the 
+mind... the nature of certain objects of the systematic teachings... In this 
+way a bhikkhu is mindful.
+
+_Vedanāsu vedanānupassī viharati... Citte cittānupassī viharati... 
+Dhammesu dhammānupassī viharati... Evaṃ kho bhikkhave bhikkhu sato hoti._
+____
+

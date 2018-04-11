@@ -1,0 +1,412 @@
+== Khila
+
+=== Renderings
+
+- _khilajāta_: hardhearted
+
+- _khila_: hardheartedness
+
+- _khila_: remissness in practising the teaching
+
+- _cetokhilā_: remissness in practising the teaching
+
+=== Introduction
+
+==== Remissness in practising the teaching
+
+PED says _khila_ means 'waste or fallow land' and that figuratively it 
+therefore means 'barrenness of mind.' In fact barren land is _pāpabhumi_ 
+(S.4.315), and since 'barren' means 'unproductive,' it is hard to see how the 
+mind could be meaningfully called 'barren.' This figurative sense is more 
+appropriate if applied to the unproductiveness of a negligent bhikkhu, who, for 
+various reasons does not apply himself properly to the practice. In this sense 
+we call _khila_ 'remissness in practising the teaching,' for example in the 
+following passage:
+
+[quote, D.3.237-8]
+____
+One whose mind does not incline to vigour, application, perseverance, and 
+inward striving... this is the first variety of remissness in practising the 
+teaching.
+
+_Yassa cittaṃ na namati ātappāya anuyogāya sātaccayā padhānāya ayaṃ 
+paṭhamo cetokhilo... ayaṃ pañcamo cetokhilo._
+____
+
+==== Hardheartedness
+
+The DOP says _khilo_ can mean land that is hardened by lack of rain. This 
+supports our second rendering for _khilo,_ 'hardheartedness.'
+
+==== With pabhindati
+
+In both meanings, _khila_ is used with the verb _pabhindati_:
+
+[quote, Sn.v.973]
+____
+He should split asunder the hardheartedness he might have towards his 
+companions in the religious life.
+
+_sabrahmacārīsu khilaṃ pabhinde._
+____
+
+[quote, S.3.134]
+____
+Perhaps Venerable Channa has split asunder his remissness in practising the 
+teaching.
+
+_taṃ āyasmā channo... khilaṃ pabhindi._
+____
+
+=== Illustrations
+
+.Illustration
+====
+khilajātā
+
+hardhearted
+====
+
+If a bhikkhunī, having given quarters to a bhikkhunī, should, being angry and 
+displeased, throw her out or have her thrown out, it is an offence of 
+pācittiya.
+
+[quote, Vin.4.292]
+____
+'Being angry and displeased' means being displeased, aggressive, and hardhearted
+
+_Kupitā anattamanā ti anabhiraddhā āhatacittā khilajātā._
+____
+
+.Illustration
+====
+khilajāto
+
+hardhearted
+====
+
+If a bhikkhu gives robe material to a bhikkhu, but then, angry and displeased, 
+snatches it back or has it snatched back, it is an offence of nissaggiya 
+pācittiya.
+
+[quote, Vin.3.255]
+____
+'Being angry and displeased' means being displeased, aggressive, and hardhearted
+
+_Kupito anattamano ti anabhiraddho āhatacitto khilajāto._
+____
+
+.Illustration
+====
+khilajāto
+
+hardhearted
+====
+
+If a bhikkhu, full of hatred, hateful, upset, groundlessly accuses a bhikkhu of 
+being pārājika, thinking, 'Maybe I could make him fall from the religious 
+life,' then, whether he is later interrogated about it or not, if the 
+accusation is unfounded and the bhikkhu admits his iniquity, it is a 
+saṅghādisesa offence.
+
+[quote, Vin.3.163]
+____
+'Full of hatred, hateful' means angry, displeased, displeased, aggressive, and 
+hardhearted
+
+_Duṭṭho doso ti kupito anattamano anabhiraddho āhatacitto khilajāto._
+____
+
+.Illustration
+====
+khilajāto
+
+hardhearted
+====
+
+[quote, A.3.175-6]
+____
+If one is possessed of five factors, though one listens to the teaching it is 
+not possible to enter the way of rightness comprised of spiritually wholesome 
+factors. Which five? ... if one is aggressive and hardhearted towards the 
+teacher
+
+_suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu 
+sammattaṃ. Katamehi pañcahi... dhammadesake āhatacitto hoti khilajāto._
+____
+
+.Illustration
+====
+khilaṃ
+
+hardheartedness
+====
+
+____
+When being reproved, being mindful he should welcome it.
+
+_Cudito vacībhi satimāhinande_
+____
+
+[quote, Sn.v.973]
+____
+He should split asunder the hardheartedness he might have towards his 
+companions in the religious life.
+
+_sabrahmacārīsu khilaṃ pabhinde._
+____
+
+.Illustration
+====
+akhilaṃ
+
+hardheartedness
+====
+
+[quote, S.4.118]
+____
+Being free of hardheartedness towards all beings, that is the path for 
+attaining the brahmā world
+
+_Akhilaṃ sabbabhutesu so maggo brahmapattiyā ti._
+____
+
+.Illustration
+====
+vigatakhilo
+
+hardheartedness
+====
+
+[quote, Sn.v.19]
+____
+Not ill-tempered, free of hardheartedness, am I, said the Blessed One,
+
+_Akkodhano vigatakhilo hamasmi._
+____
+
+.Illustration
+====
+khilo
+
+hardheartedness
+====
+
+[quote, Sn.v.780]
+____
+Those who are full of hatred dispute, of course. But some whose hearts are set 
+on Truth also dispute. However, a sage does not enter a dispute that has 
+arisen, therefore he is free of hardheartedness in every respect.
+
+_Tasmā muni natthi khilo kuhiñci._
+____
+
+.Illustration
+====
+akhilo
+
+remissness in practising the teaching
+====
+
+[quote, Sn.v.477]
+____
+He indeed is imperturbable, free of remissness in practising the teaching, and 
+free of unsureness [about the significance of the teaching].
+
+_Sa ve anejo akhilo akaṅkho._
+____
+
+.Illustration
+====
+khilo
+
+remissness in practising the teaching
+====
+
+____
+Three forms of remissness in practising the teaching:
+
+_Tayome bhikkhave khilā_
+____
+
+____
+The remissness in practising the teaching due to attachment
+
+_rāgo khilo_
+____
+
+____
+The remissness in practising the teaching due to hatred,
+
+_doso khilo_
+____
+
+____
+The remissness in practising the teaching due to undiscernment of reality
+
+_moho khilo_
+____
+
+[quote, S.5.57]
+____
+This noble eightfold path should be developed for the full understanding of 
+these three forms of remissness in practising the teaching, for the profound 
+understanding of them, for their destruction, for their abandonment.
+
+_Imesaṃ kho bhikkhave tiṇṇannaṃ khilānaṃ abhiññāya pariññāya 
+parikkhayāya pahānāya ayaṃ ariyo aṭṭhaṅgiko maggo bhāvetabbo ti._
+____
+
+.Illustration
+====
+vigatakhilo
+
+remissness in practising the teaching
+====
+
+[quote, Th.v.525-6]
+____
+He meditates free of suffering and free of remissness in practising the 
+teaching,
+
+_Vītaddaro vigatakhilo va jhāyati._
+____
+
+.Illustration
+====
+cetokhilā
+
+remissness in practising the teaching; hardhearted
+====
+
+____
+Five varieties of remissness in practising the teaching
+
+_pañca cetokhilā_
+____
+
+Five varieties of remissness in practising the teaching (_pañca cetokhilā_)
+
+____
+One is unsure, doubtful, undecided about, and has no faith in
+
+_idhāvuso bhikkhu satthari... dhamme... saṅghe... sikkhāya... kaṅkhati 
+vicikicchati nādhimuccati na sampasīdati_
+____
+
+- the [perfection of the] Teacher's [transcendent insight]
+
+- the [significance of the] teaching
+
+- the [praiseworthiness of the] community of disciples' [application to the 
+practice]
+
+- the [significance of the] training
+
+or is angry, displeased, aggressive, and hardhearted towards one's companions 
+in the religious life (_sabrahmacārīsu kupito hoti anattamano āhatacitto 
+khilajāto_).
+
+____
+Of such the mind does not incline to vigour, application, perseverance, and 
+inward striving.
+
+_tassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa 
+cittaṃ na namati ātappāya anuyogāya sātaccayā padhānāya_
+____
+
+____
+For one whose mind is not inclined to vigorous endeavour, application, 
+perseverance, and inward striving, this is the first variety of remissness in 
+practising the teaching._
+
+_yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya ayaṃ 
+paṭhamo cetokhilo._
+____
+
+_Puna caparaṃ āvuso bhikkhu dhamme kaṅkhati vicikicchati... pe... saṅghe 
+kaṅkhati vicikicchati... sikkhāya kaṅkhati vicikicchati..._
+
+_sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto. Yo so āvuso 
+bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto tassa 
+cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya yassa cittaṃ 
+na namati ātappāya anuyogāya sātaccāya padhānāya ayaṃ pañcamo 
+cetokhilo_ (D.3.237-8).
+
+.Illustration
+====
+khilaṃ
+
+remissness in practising the teaching
+====
+
+____
+-- May Venerable Ānanda speak to me about the practice such that I might see 
+the nature of reality.
+
+_karotu me āyasmā ānando dhammiṃ kathaṃ yathāhaṃ dhammaṃ 
+passeyyanti._
+____
+
+[quote, S.3.134]
+____
+-- Even with just this I am pleased with Venerable Channa. Perhaps Venerable 
+Channa has opened himself up and split asunder his remissness in practising the 
+teaching.
+
+_Ettakenapi mayaṃ āyasmato channassa attamanā api nāma taṃ āyasmā 
+channo āvī akāsi khilaṃ pabhindi._
+____
+
+.Illustration
+====
+akhilo
+
+remissness in practising the teaching
+====
+
+[quote, Th.v.1222]
+____
+Therefore [be] free of remissness in practising the teaching in this world. 
+&#8203;[Be] applied to inward striving. Having abandoned the [five] hindrances, [be] 
+pure.
+
+_Tasmā akhilo idha padhānavā nīvaraṇāni pahāya visuddho._
+____
+
+.Illustration
+====
+akhilo
+
+remissness in practising the teaching
+====
+
+[quote, Sn.v.1059]
+____
+Having crossed to the Far Shore he is free of remissness in practising the 
+teaching
+
+_tiṇṇo ca pāraṃ akhilo._
+____
+
+Comment:
+
+Arahants are incapable of being negligently applied [to the practice] 
+(_abhabbā te pamajjituṃ_, S.4.125).
+
+.Illustration
+====
+khilāni
+
+states of remissness in practising the teaching
+====
+
+[quote, Th.v.1242]
+____
+Having overcome Māra's false trails and paths, [the Blessed One] lives the 
+religious life having split asunder his states of remissness in practising the 
+teaching.
+
+_Ummaggapathaṃ mārassa abhibhuyya carati pabhijja khilāni._
+____
+

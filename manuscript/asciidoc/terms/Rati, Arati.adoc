@@ -1,0 +1,569 @@
+== Rati; Arati
+
+=== Renderings
+
+- _rati_: delight [in the celibate life]
+
+- _rati_: delight
+
+- _rati_: sensuous delight
+
+- _rata_: delighting/finding delight (in solitude)
+
+- _rata_: delighting/taking delight in
+
+- _arati_: disgruntlement [with the celibate life]
+
+- _arati_: disgust
+
+- _arati_: source of disgust
+
+=== Introduction
+
+==== Abhi- prefix redundant
+
+_Rata_ is the past participle of _ramati_. _Abhi_- is usually prefixed, but it 
+makes no discernable difference to the meaning of _rati_ or _ramati_, therefore 
+we treat it as redundant, and treat related terms as synonyms.
+
+We see the switching in the following passage, between prefix and no prefix. 
+Although the dictionaries say _abhi_- has an intensifying effect, paradoxically 
+the lower pleasures have the prefix:
+
+____
+There is, Māgandiya, a delight that is unrelated to sensuous pleasures, 
+unrelated to spiritually unwholesome factors, which surpasses even divine 
+pleasure.
+
+_Yāhayaṃ māgaṇḍiya rati aññatreva kāmehi aññatra akusalehi 
+dhammehi api dibbaṃ sukhaṃ samadhigayha tiṭṭhati_
+____
+
+[quote, M.1.505]
+____
+... Since I took pleasure in that delight, I did not covet what is inferior, 
+nor did I take pleasure in it.
+
+_tāya ratiyā ramamāno hīnassa na pihemi na tattha abhiramāmi._
+____
+
+==== Discriminating wholesome and unwholesome
+
+_Rati_ and _arati_ are sometimes wholesome, sometimes unwholesome. This is 
+often clear enough from context, and therefore no qualifying adjective is 
+needed:
+
+• They took (wholesome) delight in what is righteous and in meditation +
+☸ _Dhamme ca jhāne ca ratā ahesuṃ_, S.4.117).
+
+[quote, Sn.v.709]
+____
+The wise man should be (wholesomely) delighted in the woods.
+
+_dhīro vanante ramito siyā._
+____
+
+[quote, S.4.389]
+____
+It is one who (unwholesomely) delights in bodily form... who would assert that 
+'A Perfect One continues to exist after death.'
+
+_rūparatassa... tathāgato parammaraṇāti pi'ssa hoti._
+____
+
+[quote, A.4.230]
+____
+This teaching is for those who take (wholesome) delight in unentrenched 
+perception
+
+_ayaṃ dhammo nippapañcaratino._
+____
+
+[quote, S.5.393]
+____
+Taking (wholesome) delight in relinquishment
+
+_vossagarato._
+____
+
+[quote, Thī.v.164]
+____
+Taking (unwholesome) delight in Māra's realm
+
+_mārassa visaye ratā._
+____
+
+[quote, Sn.v.274-5]
+____
+One who (unwholesomely) delights in doing harm
+
+_vihesābhirato._
+____
+
+[quote, S.1.133]
+____
+Direct your mind there (to those realms) and you'll experience (unwholesome) 
+delight.
+
+_tattha cittaṃ paṇidhehi ratiṃ paccanubhossasīti._
+____
+
+Sometimes _rati_ seems neither wholesome or unwholesome, for example when 
+cool-cloud devas think:
+
+• 'Let us revel in our own kind of (neither wholesome nor unwholesome) 
+delight,' then, in accordance with their wish, it becomes cool. +
+☸ _yannūna mayaṃ sakāya ratiyā rameyyāmāti_ tesaṃ taṃ 
+cetopaṇidhimanvāya sītaṃ hoti (S.3.256).
+
+==== Rati and arati in bhikkhus: wholesome and unwholesome
+
+One type of _rati_ and _arati_ concerns bhikkhus, not lay people, because they 
+are linked to _dhammavinaya_ and _brahmacariya_. Here they are opposites: 
+_rati_ is wholesome, and _arati_ is unwholesome. For example:
+
+[quote, A.5.122]
+____
+Disgruntlement in this teaching and training system is suffering, and delight 
+in it is happiness
+
+_anabhirati kho āvuso imasmiṃ dhammavinaye dukkhā abhirati sukhā._
+____
+
+[quote, A.3.146]
+____
+He lives the celibate life disgruntled...lives the celibate life with delight _
+
+_anabhirato... abhirato ca brahmacariyaṃ carati._
+____
+
+We choose the association with 'celibate life' as the default basis for our 
+renderings, namely:
+
+- _arati_: disgruntlement [with the celibate life]
+
+- _rati_: delight [in the celibate life]
+
+This is appropriate because _arati_ is linked to lust:
+
+• At one time, disgruntlement [with the celibate life] had arisen in 
+Venerable Vaṅgīsa. Lust had invaded his mind +
+☸ _Tena kho pana samayena āyasmato vaṅgīsassa anabhirati uppannā hoti 
+rāgo cittaṃ anuddhaṃseti_ S.1.186).
+
+But the terms could otherwise have been called:
+
+- disgruntlement [with the teaching and training system]
+
+- delight [in the teaching and training system]
+
+==== Aratirati: both unwholesome
+
+Sometimes _rati_ and _arati_ are both unwholesome, and not opposites:
+
+- _arati_: disgruntlement [with the celibate life]
+
+- _rati_: sensuous delight
+
+In this case, _rati_ means _kāmarati_, and because of the potential confusion, 
+it needs its 'sensuous' adjective:
+
+[quote, Th.v.1214]
+____
+Having abandoned disgruntlement [with the celibate life] (_aratiṃ_) and 
+sensuous delight (_ratiṃ_) entirely, and thoughts connected with the 
+household life, one should not cultivate craving for anything. One who is free 
+of craving, being without craving, he is a bhikkhu.
+
+_aratiṃ ratiñca pahāya sabbaso gehesitañca vitakkaṃ +
+Vanathaṃ na kareyya kuhiñci nibbanatho avanatho sa bhikkhu._
+____
+
+[quote, Dh.v.418; Sn.v.642; M.2.196]
+____
+One who has abandoned both sensuous delight (_ratiṃ_) and disgruntlement 
+&#8203;[with the celibate life] (_aratiṃ_), one who is freed from inward distress, 
+free of attachment, one who has transcended the whole world [of phenomena], a 
+Hero, he is what I call a Brahman.
+
+_Hitvā ratiñca aratiñca sītibhūtaṃ nirupadhiṃ +
+Sabbalokābhibhuṃ vīraṃ tamahaṃ brūmi brāhmaṇaṃ._
+____
+
+==== Disgruntlement [with the celibate life] and sensuous delight: stem from 
+love
+
+Disgruntlement [with the celibate life] and sensuous delight both stem from 
+love:
+
+____
+Disgruntlement [with the celibate life], sensuous delight, and excitement are 
+born here, [in oneself]. Arising here, [in oneself], are thoughts in the mind, 
+like boys throwing up a [captive] crow.
+
+_Aratī ratī lomahaṃso itojā +
+Ito samuṭṭhāya manovitakkā kumārakā dhaṅkamivossajanti._
+____
+
+[quote, Sn.v.271-2]
+____
+... They are born from love. They arise within oneself like the shoots from the 
+trunk of a banyan tree.
+
+_Snehajā attasambhūtā nigrodhasseva khandhajā._
+____
+
+==== Aratirati: the mastery of
+
+The _Ākaṅkheyya Sutta_ says disgruntlement [with the celibate life] and 
+sensuous delight are overcome through practises of virtue, jhāna, insight, and 
+the cultivation of solitude:
+
+____
+If a bhikkhu should wish 'May I overcome disgruntlement [with the celibate 
+life] and sensuous delight, and may disgruntlement [with the celibate life] not 
+overcome me; may I abide mastering disgruntlement [with the celibate life] 
+whenever it arises,'
+
+__ākaṅkheyya ce bhikkhave bhikkhu aratiratisaho assaṃ na ca maṃ arati 
+saheyya uppannaṃ aratiṃ abhibhuyya abhibhuyya vihareyyan ti_
+____
+
+____
+he should fulfil the precepts
+
+_sīlesvevassa paripūrakārī_
+____
+
+____
+be given to inward calm,
+
+_ajjhattaṃ cetosamathamanuyutto_
+____
+
+____
+be not neglectful of meditation,
+
+_anirākatajjhāno_
+____
+
+____
+be endowed with insightfulness,
+
+_vipassanāya samannāgato_
+____
+
+[quote, M.1.34]
+____
+cultivate solitary abodes.
+
+_brūhetā suññāgārānaṃ._
+____
+
+==== Overcoming disgruntlement: Ariyavaṃsa Sutta
+
+In the _Ariyavaṃsa Sutta_ (A.2.27), the battle against disgruntlement with 
+the celibate life is conveyed in terms of war_._ The sutta promotes lifestyle 
+guidelines, not quick techniques. The sutta says one overcomes _arati_ through 
+being content with 'any old robe, almsfood and abode whatsoever' 
+(_santuṭṭho hoti itarītarena cīvarena... piṇḍapātena... 
+senāsanena_) and through finding enjoyment in one's spiritual development 
+(_bhāvanārāmo hoti bhāvanārato pahānārāmo hoti pahānarato_):
+
+[quote, A.2.27-9]
+____
+Bhikkhus, when a bhikkhu is possessed of these four noble traditional ways of 
+behaviour, if he dwells in the east he overcomes disgruntlement [with the 
+celibate life], disgruntlement [with the celibate life] does not overcome him; 
+if he dwells in the west... in the north... in the south...
+
+_Imehi ca pana bhikkhave catūhi ariyavaṃsehi samannāgato bhikkhu 
+puratthimāya cepi disāya viharati sveva aratiṃ sahati na taṃ arati 
+sahati._
+____
+
+The _Dasuttara Sutta_ (D.3.249) gives a direct technique aimed at _arati_, 
+namely the practice of [unlimited, all-encompassing] joy (_muditā 
+cetovimutti_):
+
+____
+For this is the liberation from disgruntlement [with the celibate life] namely 
+the liberation [from perceptually obscuring states] through [unlimited, 
+all-encompassing] joy.
+
+_nissaraṇaṃ hetaṃ āvuso aratiyā yadidaṃ muditā cetovimuttī ti._
+____
+
+____
+It says if the practice of [unlimited, all-encompassing] joy is developed and 
+cultivated, it is impossible, out of the question, that disgruntlement [with 
+the celibate life] would plague one's mind. There is no such possibility.
+
+_aṭṭhānametaṃ āvuso anavakāso yaṃ muditāya cetovimuttiyā 
+bhāvitāya bahulīkatāya... atha ca panassa arati cittaṃ pariyādāya 
+ṭhassatī ti netaṃ ṭhānaṃ vijjati_
+____
+
+The _Udumbarika Sutta_ (D.3.49) says the practice of _muditā cetovimuttī_ 
+mentioned in the _Dasuttara Sutta_ in fact has several preliminary steps:
+
+1. Virtue
++
+****
+_na pāṇamatipāteti_, etc
+****
+
+2. Living in solitude
++
+****
+_so vivittaṃ senāsanaṃ bhajati_ etc
+****
+
+3. The practice of mindfulness
++
+****
+_ujuṃ kāyaṃ paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā_ etc
+****
+
+4. Freedom from the five hindrances
++
+****
+_so abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati etc_
+****
+
+5. Finally, the practice of the four divine abidings including _muditā_, the 
+subject of the _Dasuttara Sutta_
++
+****
+_muditāsahagatena cetasā ekaṃ disaṃ pharitvā viharati_ etc
+****
+
+Thus, again, overcoming _arati_ is not only a matter of practising _muditā_ 
+but also of undertaking lifestyle changes as well.
+
+The _Parisā Sutta_ says that in whatsoever community the bhikkhus dwell 
+together in unity (_samaggā_), on friendly terms (_sammodamānā_), without 
+quarrelling (_avivadamānā_), like milk and water mixed 
+(_khīrodakībhūtā_), viewing each other with affection (_aññamaññaṃ 
+piyacakkhūhi sampassantā_), such a community is called united (_samaggā 
+parisā_).
+
+[quote, A.1.243]
+____
+When bhikkhus dwell like this, they dwell in a divine abiding, that is to say, 
+in the liberation [from perceptually obscuring states] through _muditā_, 
+&#8203;[unlimited, all-encompassing] joy.
+
+_Brahmaṃ bhikkhave vihāraṃ tasmiṃ samaye bhikkhū viharanti yadidaṃ 
+muditāya cetovimuttiyā._
+____
+
+This implies that disgruntlement with the celibate life comes from living in 
+disunity, on unfriendly terms, quarrelling, and viewing other people with 
+disaffection. It is not just a matter of lust. Overcoming disgruntlement would 
+therefore involve either overcoming these factors, or living in solitude.
+
+==== Sensuous delight: kāmaratī
+
+Sensuous delight sometimes has a _kāma_- prefix:
+
+[quote, Thī.v.381]
+____
+Seeing your eyes, my sensuous delight (_kāmaratī_) increases all the more.
+
+_Tava me nayanānudikkhiya bhiyyo kāmaratī pavaḍḍhati._
+____
+
+Often, however, there is no _kāma_- prefix, and in translation, likewise, the 
+'sensuous' adjective is not necessary because the context is clear enough:
+
+[quote, Sn.v.59]
+____
+Being unsatisfied with amusement, delight (_ratiṃ_), and sensuous pleasure, 
+being indifferent [to them].
+
+_Khiḍḍaṃ ratiṃ kāmasukhañca loke analaṅkaritvā anapekkhamāno._
+____
+
+[quote, Sn.v.41]
+____
+In the midst of companions there is amusement, delight (_ratī_).
+
+_khiḍḍā ratī hoti sahāyamajjhe._
+____
+
+==== Arati: wholesome disgust
+
+_Arati_ can mean wholesome disgust:
+
+____
+And what Ānanda, is the perception of disgust for the whole world [of 
+phenomena]?
+
+_sabbaloke anabhiratasaññā_
+____
+
+[quote, A.5.111]
+____
+... In this regard, Ānanda, for whatever in the world [of phenomena] there is 
+clinging, grasping, obstinate adherence, stubborn attachment, and 
+identification, a bhikkhu abides abandoning, not grasping.
+
+_ye loke upayupādānā cetaso adhiṭṭhānābhinivesānusayā te pajahanto 
+viharati na upādiyanto._
+____
+
+For other examples, see Illustrations below.
+
+=== Illustrations
+
+.Illustration
+====
+ratiṃ
+
+delight
+====
+
+____
+When the thundercloud peals in the heavens, and the sky all around is full of 
+rain, and the bhikkhu meditates [happily] indeed in his mountain cave, one does 
+not find greater delight than this.
+
+_Tato ratiṃ paramataraṃ na vindati._
+____
+
+[quote, Th.v.522-523]
+____
+When, seated on the banks of rivers full of flowers and beautifully garlanded 
+woodland plants, he meditates happily indeed, one does not find greater delight 
+than this.
+
+_Tato ratiṃ paramataraṃ na vindati._
+____
+
+.Illustration
+====
+rati
+
+delight
+====
+
+____
+There is, Māgandiya, a delight that is unrelated to sensuous pleasures, 
+unrelated to spiritually unwholesome factors, which surpasses even divine 
+pleasure.
+
+_Yāhayaṃ māgaṇḍiya rati aññatreva kāmehi aññatra akusalehi 
+dhammehi api dibbaṃ sukhaṃ samadhigayha tiṭṭhati_
+____
+
+[quote, M.1.505]
+____
+Since I took pleasure in that delight, I did not covet what is inferior, nor 
+did I take pleasure in it.
+
+_tāya ratiyā ramamāno hīnassa na pihemi na tattha abhiramāmi._
+____
+
+.Illustration
+====
+rato
+
+taking delight
+====
+
+[quote, A.4.235]
+____
+The Buddha taking delight in unentrenched perception, taught me about 
+unentrenched perception
+
+_nippapañcarato buddho nippapañcaṃ adesayi._
+____
+
+.Illustration
+====
+arati
+
+disgruntlement [with the celibate life]
+====
+
+[quote, Sn.v.436]
+____
+Sensuous pleasure is your first army. Disgruntlement [with the celibate life], 
+your second.
+
+_Kāmā te paṭhamā senā dutiyā arati vuccati._
+____
+
+.Illustration
+====
+anabhiratiṃ
+
+disgruntlement [with the celibate life]
+====
+
+[quote, Vin.4.94]
+____
+Seeing a woman, [the preceptor] dismisses [his disciple], thinking, 'She will 
+arouse in him disgruntlement [with the celibate life].'
+
+_mātugāmaṃ passitvā anabhiratiṃ uppādessatī ti uyyojeti._
+____
+
+.Illustration
+====
+arati
+
+disgusted
+====
+
+[quote, Sn.v.938]
+____
+Seeing nothing in the end but strife, I became disgusted.
+
+_Osānetveva vyāruddhe disvā me arati ahu._
+____
+
+.Illustration
+====
+aratim
+
+disgust
+====
+
+[quote, Thī.v.338-9]
+____
+Then I experienced utter disgust for all sensuous pleasures.
+
+_Tatohaṃ sabbakāmesu bhusaṃ aratimajjhagaṃ._
+____
+
+.Illustration
+====
+arati
+
+&#8203;[a source of] disgust
+====
+
+[quote, S.1.128]
+____
+What you call sensuous delight has become for me [a source of] disgust.
+
+_Yaṃ tvaṃ kāmaratiṃ brūsi arati mayhaṃ sā ahūti._
+____
+
+.Illustration
+====
+aratiṃ
+
+disgruntlement [with the celibate life]; rame, find delight
+====
+
+[quote, S.1.180]
+____
+Disgruntlement [with the celibate life] cast off, I find delight alone in the 
+woods
+
+_vane... eko rame aratiṃ vippahāyāti._
+____
+

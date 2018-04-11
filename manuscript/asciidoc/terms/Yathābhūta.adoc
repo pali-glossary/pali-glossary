@@ -1,0 +1,401 @@
+== Yathābhūta
+
+=== Renderings
+
+- _yathābhūta_: according to reality
+
+- _yathābhūta_: things according to reality
+
+=== Introduction
+
+==== Yathābhūta: according to reality
+
+Where _yathābhūta_ has a specified object, we render it 'according to 
+reality':
+
+[quote, Sn.v.199]
+____
+Camouflaged by skin, the body is not seen according to reality.
+
+_Chaviyā kāyo paṭicchanno yathābhūtaṃ na dissati._
+____
+
+==== Yathābhūta: things according to reality
+
+Sometimes _yathābhūta_ has an unspecified object, which we call 'things':
+
+[quote, S.3.13-14]
+____
+A bhikkhu who is inwardly collected discerns things according to reality
+
+_Samāhito bhikkhave bhikkhu yathābhūtaṃ pajānāti._
+____
+
+Other translators likewise favour 'things'. Only Horner uses brackets:
+
+[quote, S.4.80]
+____
+Bodhi: 'A bhikkhu who is concentrated understands things according to reality'
+
+_yathābhūtaṃ pajānāti._
+____
+
+[quote, Th.v.662]
+____
+Norman: 'Not seeing things according to reality'
+
+_yathābhūtaṃ adassino._
+____
+
+[quote, M.1.323]
+____
+Horner: 'Could not know, could not see (things) as they really are'
+
+_yathābhūtaṃ na jāneyyaṃ na passeyyan ti._
+____
+
+==== Yathābhūta: emphasis means redundancy
+
+When _yathābhūta_ is used for emphasis we again say 'according to reality,' 
+though it is redundant. For example, apart from the emphasis, there is no 
+significant difference when the term is removed in these examples:
+
+• He does not know according to reality that he has a blemish. +
+• He does not know that he has a blemish. +
+☸ _atthi me ajjhattaṃ aṅgaṇan ti yathābhūtaṃ nappajānāti_ 
+(M.1.25).
+
+• That sensuous pleasures are like a [red-hot] charcoal pit is clearly seen 
+according to reality with perfect penetrative discernment by the bhikkhu +
+• That sensuous pleasures are like a [red-hot] charcoal pit is clearly seen 
+with perfect penetrative discernment by the bhikkhu +
+☸ _bhikkhuno aṅgārakāsūpamā kāmā yathābhūtaṃ sammappaññāya 
+sudiṭṭhā honti_ (D.3.283).
+
+• They are liberated [from perceptually obscuring states] according to 
+reality +
+• They are liberated [from perceptually obscuring states] +
+☸ _yathābhūte vimuccanti_ (It.44).
+
+=== Illustrations
+
+.Illustration
+====
+yathābhūte
+
+according to reality
+====
+
+[quote, It.44]
+____
+Those who see what is brought about as what is brought about, transcending what 
+is brought about, are liberated [from perceptually obscuring states] according 
+to reality, having destroyed craving for states of individual existence.
+
+_Ye bhūtaṃ bhūtato disvā bhūtassa ca atikkamā +
+Yathābhūte vimuccanti bhavataṇhāparikkhayā._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, S.3.173-4]
+____
+The ignorant Everyman does not discern according to reality the origination, 
+vanishing, sweetness, wretchedness, and deliverance in regards to the five 
+aggregates.
+
+_assutavā puthujjano rūpassa... viññāṇassa samudayañca atthaṅgamañca 
+assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, M.1.25]
+____
+He does not know according to reality that he has a blemish.
+
+_atthi me ajjhattaṃ aṅgaṇan ti yathābhūtaṃ nappajānāti._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, S.4.189]
+____
+He does not discern according to reality, with the liberation [from attachment 
+through inward calm] and the liberation [from uninsightfulness] through 
+penetrative discernment, where those unvirtuous, spiritually unwholesome 
+factors cease without remainder.
+
+_tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti 
+yatthassa te uppannā pāpakā akusalā dhammā aparisesā nirujjhanti._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, D.3.283]
+____
+That sensuous pleasures are like a [red-hot] charcoal pit is clearly seen 
+according to reality with perfect penetrative discernment by the bhikkhu whose 
+_āsavas_ are destroyed.
+
+_puna ca paraṃ āvuso khīṇāsavassa bhikkhuno aṅgārakāsūpamā kāmā 
+yathābhūtaṃ sammappaññāya sudiṭṭhā honti._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, D.1.40]
+____
+Some ascetic or Brahmanist may not discern according to reality what is 
+spiritually wholesome, nor what is spiritually unwholesome.
+
+_idaṃ kusalan ti yathābhūtaṃ nappajānāti idaṃ akusalan ti 
+yathābhūtaṃ nappajānāti._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, A.1.216-7]
+____
+Again, friend, one who is attached, overpowered, and overcome by attachment,... 
+does not discern according to reality his own well-being, nor that of others, 
+nor that of both himself and others.
+
+_Ratto kho āvuso rāgena abhibhūto pariyādinnacitto attatthampi 
+yathābhūtaṃ nappajānāti paratthampi yathābhūtaṃ nappajānāti. 
+Ubhayatthampi yathābhūtaṃ nappajānāti._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, S.2.132]
+____
+One who does not know and see old age and death according to reality should 
+vigorously endeavour [to attain] knowledge of old age and death according to 
+reality.
+
+_jarāmaraṇaṃ bhikkhave ajānatā apassatā yathābhūtaṃ jarāmaraṇe 
+yathābhūtaṃ ñāṇāya ātappaṃ karaṇīyaṃ._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, S.3.171]
+____
+The learned noble disciple discerns bodily form that is of an originated nature 
+according to reality, thus: 'Bodily form is of an originated nature.'
+
+_sutavā ariyasāvako samudayadhammaṃ rūpaṃ samudayadhammaṃ rūpan ti 
+yathābhūtaṃ pajānāti._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, S.4.144]
+____
+Whatever sense impression that arises due to visual sensation -- whether 
+pleasant, unpleasant, or neutral -- becomes manifest to him according to 
+reality, as unlasting.
+
+_yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā 
+dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccan ti yathābhūtaṃ 
+okkhāyati._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, M.2.128]
+____
+He is straightforward and aboveboard, presenting himself according to reality 
+to his teachers and to his knowledgeable companions in the religious life.
+
+_Asaṭho hoti amāyāvī yathābhūtaṃ attānaṃ āvīkattā satthari vā 
+viññūsu vā sabrahmacārīsu._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, Sn.v.194]
+____
+Camouflaged by skin, the body is not seen according to reality.
+
+_Chaviyā kāyo paṭicchanno yathābhūtaṃ na dissati._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+[quote, S.5.123-4]
+____
+Suppose, brahman, there is a bowl of water stirred by wind. If a clear-sighted 
+man were to examine his facial reflection in it, he would neither discern nor 
+see it according to reality.
+
+_Seyyathā pi brāhmaṇa udapatto vāterito calito bhanto ūmijāto tattha 
+cakkhumā puriso sakaṃ mukhanimittaṃ paccavekkhamāno yathābhūtaṃ 
+nappajāneyya na passeyya._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+according to reality
+====
+
+____
+Come, friends, abide contemplating the nature of the body, vigorously applied 
+&#8203;[to the practice], fully conscious, mentally concentrated, serene, inwardly 
+collected, inwardly undistracted
+
+__ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā_
+____
+
+[quote, S.5.145]
+____
+in order to know the body according to reality.
+
+_kāyassa yathābhūtaṃ ñāṇāya._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+things according to reality
+====
+
+[quote, Th.v.662-3]
+____
+Elated by anything with a pleasant nature, and cast down by anything with an 
+unpleasant nature, fools are struck down [by craving] on both accounts, not 
+seeing things according to reality.
+
+_Unnatā sukhadhammena dukkhadhammena c'onatā +
+Dvayena bālāhaññanti yathābhūtaṃ adassino._
+____
+
+.Illustration
+====
+yathābhūta
+
+things according to reality
+====
+
+[quote, A.3.20]
+____
+Without right inward collectedness, for one lacking in right inward 
+collectedness, the condition for knowledge and vision of things according to 
+reality is cut off;
+
+_sammāsamādhimhi asati sammāsamādhivipannassa hatūpanisaṃ hoti 
+yathābhūtañāṇadassanaṃ._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+things according to reality
+====
+
+____
+For one who knows and sees things according to reality, there is no need to 
+harbour the aspiration: 'May I be disillusioned with and unattached [to 
+originated phenomena].'
+
+_Yathābhūtaṃ bhikkhave jānato passato na cetanāya karaṇīyaṃ 
+nibbindāmi virajjāmī ti._
+____
+
+[quote, A.5.3]
+____
+It is natural that one who knows and sees things according to reality, is 
+disillusioned with and unattached [to originated phenomena].'
+
+_Dhammatā esā bhikkhave yaṃ yathābhūtaṃ jānaṃ passaṃ nibbindati 
+virajjati._
+____
+
+.Illustration
+====
+yathābhūtaṃ
+
+things according to reality; according to reality
+====
+
+• Bhikkhus, develop inward collectedness. A bhikkhu who is inwardly collected 
+discerns things according to reality. +
+_samādhiṃ bhikkhave bhāvetha. Samāhito bhikkhave bhikkhu yathābhūtaṃ 
+pajānāti._
+
+____
+And what does he discern according to reality?
+
+_kiñca yathābhūtaṃ pajānāti_
+____
+
+• The [co-conditional] origination and [co-conditional] vanishing of bodily 
+form... advertence. +
+_rūpassa samudayañca atthaṅgamañca... viññāṇassa samudayañca 
+atthaṅgamañca_ (S.3.13-14).
+

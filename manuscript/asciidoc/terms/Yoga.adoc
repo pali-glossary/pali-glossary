@@ -1,0 +1,489 @@
+== Yoga
+
+=== Renderings
+
+- _yoga_: bondage [to individual existence]
+
+- _yogā_: states of bondage [to individual existence]
+
+- yoga: tie (=__saṃyojana__ metri causa)
+
+- yoga: yoke
+
+=== Introduction
+
+==== Yoga: state of bondage [to individual existence]
+
+The fourth state of bondage [to individual existence] is uninsightfulness into 
+reality (_avijjāyogo_). The first three states of bondage [to individual 
+existence] (_yogā_) arise from attachment to:
+
+1. Sensuous pleasure
+
+2. Individual existence
+
+3. Views
+
+Therefore the four states of bondage [to individual existence] can be rendered 
+as:
+
+1. The bondage [to individual existence] that arises from [attachment to] 
+sensuous pleasure (_kāmayogo_).
+
+2. The bondage [to individual existence] that arises from [attachment to] 
+states of individual existence (_bhavayogo_).
+
+3. The bondage [to individual existence] that arises from dogmatism 
+(_diṭṭhiyogo_).
+
+4. The bondage [to individual existence] that arises from uninsightfulness into 
+reality (_avijjāyogo_, D.3.230).
+
+==== Where yoga stands for saṃyojana: tie
+
+For metrical purposes, _yoga_ sometimes stands for _saṃyojana_, 'tie'. 
+Consider these examples:
+
+1. They who are tethered [to individual existence] by the tie of craving 
+(_taṇhāyogena_),
++
+****
+_Taṇhāyogena saṃyuttā_ (It.50).
+****
++
+Here in verse, _yoga_ stands for _saṃyojana_, which can be proved because in 
+the following prose quote _taṇhāsaṃyojana_ replaces _taṇhāyogena_:
++
+[quote, It.8]
+____
+Tethered [to individual existence] by the tie of craving 
+(_taṇhāsaṃyojanena_), beings roam and wander the round of birth and death 
+for a long time.
+
+_Taṇhāsaṃyojanena hi bhikkhave saṃyuttā sattā dīgharattaṃ 
+sandhāvanti saṃsarantī ti._
+____
+
+2. In this next quote, again verse, _saṃyojana_ is shown to equal _yogāni_, 
+and therefore _pāpimayogāni_ means _pāpimasaṃyojanāni_:
+
+[quote, D.2.274]
+____
+Like the elephant that bursts all its fastenings and chains, they severed the 
+ties and bonds (_saṃyojana_) [to individual existence] in the sensuous plane 
+of existence, those ties of the Maleficent One (_pāpimayogāni_) so hard to 
+overcome.
+
+_Te kāmasaṃyojanabandhanāni pāpimayogāni duraccayāni +
+Nāgoca sandānaguṇāni chetvā._
+____
+
+The presence of plural _yogāni_ supports our assertion here, because according 
+to our schedule of renderings _yoga_ is usually uncountable 'bondage', whereas 
+_saṃyojana_ is countable 'tie.'
+
+==== Rarely: yoke
+
+_Yoga_ occasionally means yoke:
+
+[quote, It.53]
+____
+Beings who perceive [only] what can be expressed... come under the yoke of 
+death;
+
+_Akkheyyasaññino sattā... yogamāyanti maccuno._
+____
+
+=== Illustrations
+
+.Illustration
+====
+yogena
+
+tie=saṃyojana metri causa
+====
+
+[quote, It.50]
+____
+Beings who are tethered [to individual existence] by the tie of craving, whose 
+minds are attached to various states of individual existence, are tethered [to 
+individual existence] by Māra's tie. They have not reached safety from the 
+danger of bondage [to individual existence].
+
+_Taṇhāyogena saṃyuttā rattacittā bhavābhave +
+Te yogayuttā mārassa ayogakkhemino janā._
+____
+
+.Illustration
+====
+yogena
+
+bondage [to individual existence]
+====
+
+[quote, It.96]
+____
+Those who have overcome sensuous yearnings but have not accomplished the 
+destruction of perceptually obscuring states, tethered [to individual 
+existence] by the bondage [to individual existence] that arises from 
+&#8203;[attachment to] states of individual existence, are called non-returners.
+
+_Ye ca kāme pahantvāna appattā āsavakkhayaṃ bhavayogena saṃyuttā 
+anāgāmī ti vuccare._
+____
+
+.Illustration
+====
+yogena
+
+bondage [to individual existence]
+====
+
+[quote, A.2.12]
+____
+Tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] both sensuous pleasure and individual 
+existence, tethered [to individual existence] by the bondage [to individual 
+existence] that arises from dogmatism, led on by uninsightfulness into reality, 
+&#8203;[such] beings follow the round of birth and death, and go to rebirth and death.
+
+_Kāmayogena saṃyuttā bhavayogena cūbhayaṃ +
+Diṭṭhiyogena saṃyuttā avijjāya purakkhatā +
+Sattā gacchanti saṃsāraṃ jātimaraṇagāmino._
+____
+
+.Illustration
+====
+yoga
+
+bondage [to individual existence]
+====
+
+____
+Tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] both sensuous pleasure and individual 
+existence, he is a returner, returning to this [low] plane of existence.
+
+_Kāmayogayutto bhikkhave bhavayogayutto āgāmī hoti āgantā itthattaṃ_
+____
+
+____
+Not tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] sensuous pleasure, but by the bondage [to 
+individual existence] that arises from [attachment to] states of individual 
+existence, he is a non-returner, not returning to this [low] plane of existence.
+
+_Kāmayogavisaṃyutto bhikkhave bhavayogayutto anāgāmī hoti anāgantā 
+itthattaṃ_
+____
+
+[quote, It.95]
+____
+Not tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] either sensuous pleasure or individual 
+existence, he is an arahant with perceptually obscuring states destroyed.
+
+_Kāmayogavisaṃyutto bhikkhave bhavayogavisaṃyutto arahaṃ hoti 
+khīṇāsavo ti._
+____
+
+.Illustration
+====
+yogo
+
+bondage [to individual existence]
+====
+
+____
+What is the bondage [to individual existence] that arises from [attachment to] 
+sensuous pleasure?
+
+_Katamo ca bhikkhave kāmayogo?_
+____
+
+____
+In this regard, some person does not discern according to reality the 
+origination, vanishing, sweetness, wretchedness, and deliverance in regards to 
+sensuous pleasure,
+
+_Tassa kāmānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca 
+nissaraṇañca yathābhūtaṃ appajānato_
+____
+
+____
+And so in relation to sensuous pleasures, whatever the
+
+_yo kāmesu_
+____
+
+____
+attachment to sensuous pleasure _
+
+_kāmarāgo_
+____
+
+____
+spiritually fettering delight in sensuous pleasure _
+
+_kāmanandi_
+____
+
+____
+love of sensuous pleasure _
+
+_kāmasineho_
+____
+
+____
+infatuation with sensuous pleasure _
+
+_kāmamucchā_
+____
+
+____
+sensuous thirst _
+
+_kāmapipāsā_
+____
+
+____
+sensuous passion _
+
+_kāmapariḷāho_
+____
+
+____
+clinging to sensuous pleasure _
+
+_kāmajjhosānaṃ_
+____
+
+____
+craving for sensuous pleasure that lurk within him:_
+
+_kāmataṇhā sānuseti_
+____
+
+[quote, A.2.10]
+____
+this is called the bondage [to individual existence] that arises from 
+&#8203;[attachment to] sensuous pleasure
+
+_Ayaṃ vuccati bhikkhave kāmayogo._
+____
+
+.Illustration
+====
+yogo
+
+bondage [to individual existence]
+====
+
+• What is the bondage [to individual existence] that arises from [attachment 
+to] states of individual existence? +
+_Bhavayogo ca kathaṃ hoti?_
+
+____
+In this regard, some person does not discern according to reality the 
+origination, vanishing, sweetness, wretchedness, and deliverance in regards to 
+states of individual existence
+
+_bhavānaṃ samudayañca atthaṅgamañca assādañca ādīnavañca 
+nissaraṇañca yathābhūtaṃ nappajānāti._
+____
+
+And so in relation to states of individual existence, whatever the
+
+____
+attachment to individual existence _
+
+_bhavarāgo_
+____
+
+____
+spiritually fettering delight in individual existence _
+
+_bhavanandi_
+____
+
+____
+love of individual existence _
+
+_bhavasineho_
+____
+
+____
+infatuation with individual existence _
+
+_bhavamucchā_
+____
+
+____
+thirst for individual existence _
+
+_bhavapipāsā_
+____
+
+____
+passion for individual existence _
+
+_bhavapariḷāho_
+____
+
+____
+clinging to individual existence _
+
+_bhavajjhosānaṃ_
+____
+
+____
+craving for individual existence that lurk within him:_
+
+_bhavataṇhā sānuseti_
+____
+
+[quote, A.2.10]
+____
+this is called the bondage [to individual existence] that arises from 
+&#8203;[attachment to] states of individual existence.
+
+_Ayaṃ vuccati bhikkhave bhavayogo._
+____
+
+.Illustration
+====
+yogo
+
+bondage [to individual existence]
+====
+
+____
+What is the bondage [to individual existence] that arises from dogmatism?
+
+_Diṭṭhiyogo ca kathaṃ hoti?_
+____
+
+• In this regard, some person does not discern according to reality the 
+origination, vanishing, sweetness, wretchedness, and deliverance in regards to 
+views. +
+_Tassa diṭṭhīnaṃ samudayañca atthaṅgamañca assādañca ādīnavañca 
+nissaraṇañca yathābhūtaṃ appajānato_
+
+____
+And so in relation to views, whatever the
+
+_yo diṭṭhisu_
+____
+
+____
+attachment to views
+
+_diṭṭhirāgo_
+____
+
+____
+spiritually fettering delight in views
+
+_diṭṭhinandi_
+____
+
+____
+love of views
+
+_diṭṭhisineho_
+____
+
+____
+infatuation with views
+
+_diṭṭhimucchā_
+____
+
+____
+thirst for views
+
+_diṭṭhipipāsā_
+____
+
+____
+passion for views
+
+_diṭṭhipariḷāho_
+____
+
+____
+clinging to views
+
+_diṭṭhiajjhosānaṃ_
+____
+
+____
+craving for views that lurk within him:_
+
+_diṭṭhitaṇhā sānuseti_
+____
+
+[quote, A.2.11]
+____
+this is called the bondage [to individual existence] that arises from dogmatism
+
+_diṭṭhiyogo._
+____
+
+.Illustration
+====
+yogo
+
+bondage [to individual existence]
+====
+
+____
+What is the bondage [to individual existence] that arises from uninsightfulness 
+into reality?
+
+_Avijjāyogo ca kathaṃ hoti?_
+____
+
+____
+In this regard, some person does not discern according to reality the 
+origination, vanishing, sweetness, wretchedness, and deliverance in regards to 
+the six senses.
+
+_Idha bhikkhave ekacco channaṃ phassāyatanānaṃ samudayañca 
+atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ 
+nappajānāti._
+____
+
+____
+For him who does not discern according to reality the origination, vanishing, 
+sweetness, wretchedness, and deliverance in regards to the six senses
+
+_Tassa channaṃ phassāyatanānaṃ samudayañca atthaṅgamañca assādañca 
+ādīnavañca nissaraṇañca yathābhūtaṃ appajānato_
+____
+
+• the uninsightfulness and ignorance regarding the six senses that lurk 
+within him: this is called the bondage [to individual existence] that arises 
+from uninsightfulness into reality. +
+☸ _yā chasu phassāyatanesu avijjā aññāṇaṃ sānuseti ayaṃ vuccati 
+bhikkhave avijjāyogo_. (_Iti kāmayogo bhavayogo diṭṭhiyogo avijjāyogo_ 
+(A.2.10).
+
+.Illustration
+====
+yogaṃ
+
+bondage [to individual existence]
+====
+
+[quote, Sn.v.644]
+____
+He who, having abandoned the bondage to renewed states of human existence, has 
+transcended the bondage to renewed states of divine existence, he is 
+emancipated from all bondage [to individual existence]. He is what I call a 
+Brahman.
+
+_Hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā +
+Sabbayogavisaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ._
+____
+

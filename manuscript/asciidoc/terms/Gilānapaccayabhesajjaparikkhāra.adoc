@@ -1,0 +1,146 @@
+== Gilānapaccayabhesajjaparikkhāra
+
+=== Renderings
+
+- _gilānapaccayabhesajjaparikkhāra_: necessities, remedies, and essentials 
+&#8203;[that are needed] when ill
+
+- _gilānapaccayabhesajjaparikkhāra_: therapeutic requisites
+
+=== Introduction
+
+==== Full and abbreviated terms
+
+_Gilānapaccayabhesajjaparikkhāraṃ_ means 'necessities, remedies, and 
+essentials [that are needed] when ill.' This is unwieldy. We usually abbreviate 
+it to 'therapeutic requisites.'
+
+[quote, A.3.338]
+____
+Properly reflecting, he uses therapeutic requisites simply to ward off 
+troublesome feelings that have arisen and for maximum freedom from affliction.
+
+_Paṭisaṅkhā yoniso gilānapaccayabhesajjaparikkhāraṃ paṭisevati 
+yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya 
+avyābajjhaparamatāya._
+____
+
+==== Gilānapaccayabhesajjaparikkhāra: not 'medicinal requisites'
+
+We call it 'therapeutic requisites' not 'medicinal requisites,' because its 
+most prominent aspect is the five nutritive substances which bhikkhus can 
+consume in the evening:
+
+[quote, V.1.200]
+____
+These five remedies, that is to say ghee, fresh butter, oil, honey, molasses, 
+are remedies and are also agreed upon as remedies, and although they serve as 
+nutriment for people yet they cannot be reckoned as substantial food.
+
+_imāni kho pañca bhesajjāni seyyathīdaṃ sappi navanītaṃ telaṃ madhu 
+phāṇitaṃ bhesajjāni ceva bhesajjasammatāni ca lokassa āhāratthañca 
+pharanti na ca oḷāriko āhāro paññāyati._
+____
+
+==== Parsing of gilānapaccayabhesajjaparikkhāraṃ
+
+The correct parsing of _gilānapaccayabhesajjaparikkhāraṃ_ can be judged 
+from these quotes:
+
+1. Now at that time monks became ill and needed remedies.
++
+****
+_Tena kho pana samayena bhikkhu gilānā honti attho ca hoti bhesajjehi_ 
+(Vin.4.100).
+****
+
+2. 'Give food for the sick, give food for those who nurse the sick, give 
+remedies for the sick'
++
+****
+_Gilānabhattaṃ detha. Gilānupaṭṭhākabhattaṃ detha. 
+Gilānabhesajjaṃ dethā ti_ (Vin.1.72).
+****
+
+[quote, Vin.4.102]
+____
+3a) A four-month invitation [to ask] for necessities can be accepted by a 
+bhikkhu who is not ill.
+
+_Agilānena bhikkhunā cātumāsapaccayapavāraṇā sāditabbā._
+____
+
+[quote, Vin.4.102]
+____
+3b) A four-month invitation [to ask] for necessities can be accepted by a 
+bhikkhu who is not ill means: an invitation [to ask] for necessities [that are 
+needed] when ill may be accepted.
+
+_Agilānena bhikkhunā cātumāsappaccayapavāraṇā sāditabbā ti: 
+gilānapaccayapavāraṇā sāditabbā._
+____
+
+[quote, Vin.4.103]
+____
+3c) If one should accept for longer than that means: there is an invitation 
+limited to remedies, not limited to nights etc.
+
+_Tato ce uttariṃ sādiyeyyāti: atthi pavāraṇā bhesajjapariyantā na 
+rattipariyantā._
+____
+
+From these we conclude:
+
+1. When people are ill, there is a 'need' for remedies (_attho ca hoti_).
+
+2. _Gilānabhesajjaṃ_ means 'remedies for the sick.'
+
+3a) _Paccaya_ means 'necessities'.
+
+3b) _Gilānapaccaya_ means 'necessities [that are needed] when ill.'
+
+3c) _Gilānapaccaya_ is a near synonym of _bhesajja._
+
+==== In verse: paccaya
+
+In verse _gilānapaccayabhesajjaparikkhāra_ is sometimes abbreviated to 
+_paccaya_:
+
+[quote, Th.v.484]
+____
+'Good for those of Aṅga and Magadha whose robe material, almsfood, 
+therapeutic requisites, abodes, veneration, and homage this one enjoys. Good 
+for them,' he said.
+
+_Lābhā aṅgānaṃ magadhānaṃ yesāyaṃ paribhuñjati +
+Cīvaraṃ piṇḍapātañca paccayaṃ sayanāsanaṃ +
+Paccuṭṭhānañca sāmīciṃ tesaṃ lābhā ti cābravi._
+____
+
+[quote, Sn.v.339]
+____
+'Do not foster craving for robe material, almsfood, therapeutic requisites, and 
+abodes.
+
+_Cīvare piṇḍapāte ca paccaye sayanāsane etesu taṇhaṃ mākāsi._
+____
+
+=== Illustrations
+
+.Illustration
+====
+gilānapaccayabhesajjaparikkhārehi
+
+therapeutic requisites
+====
+
+[quote, It.111]
+____
+Brahmanists and householders are helpful, bhikkhus, in providing you with robe 
+material, almsfood, abodes, and therapeutic requisites.
+
+_Bahūkārā bhikkhave brāhmaṇagahapatikā tumhākaṃ ye te 
+paccupaṭṭhitā 
+cīvara-piṇḍapāta-senāsana-gilānapaccayabhesajjaparikkhārehi._
+____
+

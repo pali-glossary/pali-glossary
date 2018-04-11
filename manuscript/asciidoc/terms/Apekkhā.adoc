@@ -1,0 +1,286 @@
+== Apekkhā
+
+=== Renderings
+
+- _apekkhā_: affection
+
+- _apekkhā_: longing
+
+- _apekkhā_: concern
+
+- _apekkha_ (adj): looking for
+
+- _apekkha_ (adj): longing for
+
+- _anapekkha_ (adj): unconcerned
+
+- _anapekkha_ (adj): indifferent
+
+=== Introduction
+
+==== Apekkhā & Apekhā
+
+The spelling is either -kkh- or -kh-, which are used indiscriminately, says 
+PED. There is inconsistency between editions, and even within editions. For 
+example, both BJT and VRI versions read:
+
+_So taṃ namassaṃ acari mutyapekkho_ Sn.v.346
+
+_So taṃ namassaṃ acari mutyapekho_ Th.v.1264
+
+We have normalised our spellings to -_pekkh_-
+
+=== Illustrations
+
+.Illustration
+====
+apekkhassa
+
+looking for
+====
+
+[quote, Sn.v.481]
+____
+For he is the [unsurpassed] field for one looking for merit.
+
+_khettaṃ hi taṃ puññapekkhassa hoti._
+____
+
+.Illustration
+====
+apekkhā
+
+affection
+====
+
+[quote, S.1.77]
+____
+Passionate attachment to jewellery and earrings, and affection for children and 
+wives, are the strong bonds, say the wise.
+
+_Sārattarattā maṇikuṇḍalesu puttesu dāresu ca yā apekkhā. +
+Etaṃ daḷhaṃ bandhanamāhu dhīrā._
+____
+
+.Illustration
+====
+apekkha
+
+affection
+====
+
+• A man might think thus: 'I am attached and emotionally bound to that woman 
+by acute fondness and affection... How about if I got rid of my fondness and 
+attachment regarding that woman?'. +
+_ahaṃ kho amussā itthiyā sāratto paṭibaddhacitto tibbacchando 
+tibbāpekkho... Yannūnāhaṃ so me amussā itthiyā chandarāgo taṃ 
+pajaheyyan ti_ (M.2.224).
+
+.Illustration
+====
+apekkhava
+
+full of longing
+====
+
+[quote, Vin.4.214]
+____
+Filled with lust means: lustful, full of longing, emotionally bound.
+
+_Avassutā nāma: sārattā apekkhavatī paṭibaddhacittā._
+____
+
+.Illustration
+====
+apekkha
+
+longing
+====
+
+[quote, D.2.192]
+____
+Do not, sir, die filled with longing. To die filled with longing is unpleasant 
+and blameworthy. Of your eighty-four thousand cities, Kusāvatī is the chief. 
+Abandon fondness for them. Harbour no longing for life.
+
+_Mā kho tvaṃ deva sāpekkho kālamakāsi. Dukkhā sāpekkhassa kālakiriyā 
+garahitā ca sāpekkhassa kālakiriyā. Imāni te deva 
+caturāsītinagarasahassāni kusāvatirājadhānippamukhāni. Ettha deva 
+chandaṃ pajaha. Jīvite apekkhaṃ mākāsi._
+____
+
+.Illustration
+====
+apekkhaṃ
+
+longing
+====
+
+[quote, Th.v.10]
+____
+He has abandoned longing for this world and the next.
+
+_Vihari apekkhaṃ idha vā huraṃ vā._
+____
+
+COMMENT
+
+_Vihari_: 'he has abandoned.' Commentary: _viharī ti visesato hari apahari 
+apanesi_. _Apaharati_: 'takes away, removes' (DOP).
+
+.Illustration
+====
+anapekkhino
+
+long not
+====
+
+[quote, It.39]
+____
+Those of peaceful minds, who are aware, mindful, and meditative, rightly see 
+the nature of reality, and long not for sensuous pleasures.
+
+_Ye santacittā nipakā satimanto ca jhāyino** +
+**Sammā dhammaṃ vipassanti kāmesu anapekkhino._
+____
+
+.Illustration
+====
+apekkho
+
+longing
+====
+
+[quote, Sn.v.344]
+____
+He lived the religious life venerating you, longing for freedom [from 
+individual existence].
+
+_So taṃ namassaṃ acari mutyapekkho._
+____
+
+.Illustration
+====
+apekkhamānā
+
+longing
+====
+
+[quote, Sn.v.773-4]
+____
+Longing for the future or the past, yearning for present and former pleasures.
+
+_Pacchā pure vāpi apekkhamānā ime vā kāme purime vā jappaṃ._
+____
+
+.Illustration
+====
+apekkhaṃ
+
+concern
+====
+
+[quote, Th.v.1113]
+____
+Dwelling in the woods which resound with the cries of peacocks and herons, 
+being accompanied by leopards and tigers, give up concern for the body. Do not 
+fail [to do so]': so you used to urge me, mind.
+
+_Mayūrakoñcābhirutamhi kānane dīpīhi vyagghehi purakkhato vasaṃ +
+Kāye apekkhaṃ jaha mā virādhaya itissu maṃ citta pure niyuñjasi._
+____
+
+.Illustration
+====
+apekkhavā
+
+full of concern
+====
+
+____
+If that bodily form changes and alters, his mind is preoccupied with the change.
+
+_Tassa taṃ rūpaṃ vipariṇamati aññathā hoti. Tassa 
+rūpavipariṇāmaññathābhāvā rūpavipariṇāmānuparivatti 
+viññāṇaṃ hoti._
+____
+
+____
+Distress and other mental states born of this preoccupation plague his mind.
+
+_Tassa rūpavipariṇāmānuparivattijā paritassanā dhammasamuppādā 
+cittaṃ pariyādāya tiṭṭhanti._
+____
+
+[quote, M.3.227]
+____
+Thus he is fearful, distressed, and full of concern, and because of grasping he 
+is apprehensive.
+
+_Cetaso pariyādānā uttāsavā ca hoti vighātavā ca apekkhavā ca upādāya 
+ca paritassati._
+____
+
+.Illustration
+====
+anapekkhā
+
+unconcerned
+====
+
+[quote, A.3.6]
+____
+When the boy has grown up and has enough wisdom, then his nurse is unconcerned 
+about the boy, thinking, 'The boy can now safeguard himself. He will not be 
+negligent [in looking after himself]
+
+_Yato ca kho so bhikkhave kumāro vuddho hoti alaṃpañño anapekkhā pana 
+bhikkhave dhāti tasmiṃ kumāre hoti attaguttodāni kumāro nālaṃ 
+pamādāyā ti._
+____
+
+.Illustration
+====
+anapekkhinaṃ
+
+indifferent
+====
+
+[quote, Sn.v.857]
+____
+He is indifferent to sensuous pleasures.
+
+_kāmesu anapekkhinaṃ._
+____
+
+.Illustration
+====
+anapekkhamāno
+
+being indifferent
+====
+
+[quote, Sn.v.59]
+____
+Being unsatisfied with amusement, delight, and sensuous pleasure, being 
+indifferent [to them].
+
+_Khiḍḍaṃ ratiṃ kāmasukhañca loke analaṅkaritvā anapekkhamāno._
+____
+
+.Illustration
+====
+anapekkhā
+
+indifferent
+====
+
+[quote, Sn.v.200]
+____
+But when in the charnel ground it lies discarded, dead, bloated, and 
+discoloured, [even] relatives are indifferent to it.
+
+_Yadā ca so mato seti uddhumāto vinīlako +
+Apaviddho susānasmiṃ anapekkhā honti ñātayo._
+____
+

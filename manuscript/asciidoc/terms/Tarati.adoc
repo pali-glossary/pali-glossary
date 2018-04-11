@@ -1,0 +1,280 @@
+== Tarati
+
+=== Renderings
+
+- _tarati_: to cross
+
+- _tarati_: to overcome
+
+- _tarati_: to transcend
+
+- _tarati_: to cross [to the Far Shore]
+
+- _tarati_: to overcome [doubts]
+
+=== Introduction
+
+==== Tarati: cross water or cross to the Far Shore
+
+_Tarati_ means either cross water, physically or metaphorically, or cross to 
+the Far Shore. For example:
+
+[quote, Vin.4.65]
+____
+there is a river to be crossed
+
+_nadi taritabbā hoti._
+____
+
+[quote, Vin.1.191]
+____
+cows which were crossing the river Aciravati
+
+_aciravatiyā nadiyā gāvinaṃ tarantīnaṃ._
+____
+
+[quote, Sn.v.771]
+____
+He would cross the flood [of suffering] like one, having bailed a boat, who 
+reaches the far shore.
+
+_tare oghaṃ nāvaṃ sitvāva pāragū ti._
+____
+
+[quote, S.1.169]
+____
+they cross to the Far Shore (+ accusative)
+
+_taranti pāraṃ._
+____
+
+==== Tiṇṇa: overcome doubt
+
+_Tarati_'s past participle _tiṇṇa_ is sometimes used with words for doubt, 
+where it means 'overcome,' not 'crossed.' For example:
+
+[quote, D.1.204]
+____
+he abides having overcome doubt
+
+_tiṇṇavicikiccho viharati._
+____
+
+[quote, D.2.276]
+____
+my doubts are overcome
+
+_tiṇṇā me'ttha kaṅkhā._
+____
+
+==== Tiṇṇa: overcome attachment
+
+_Tiṇṇo_ is also used in relation to attachment, where again it means 
+'overcome,' not 'crossed':
+
+[quote, M.1.160]
+____
+He has overcome attachment to the world.
+
+_tiṇṇo loke visattikan ti._
+____
+
+==== Tiṇṇa: overcome grief and lamentation
+
+_Tiṇṇo_ is also used in relation to grief and lamentation, where again it 
+means 'overcome,' not 'crossed':
+
+[quote, Dh.v.195]
+____
+overcome grief and lamentation
+
+_tiṇṇasokapariddave._
+____
+
+==== Tiṇṇa: transcend birth and death
+
+_Tiṇṇo_ is also used in relation to birth and death, where it means 
+'transcend,' not 'crossed':
+
+[quote, Sn.v.355]
+____
+He completely transcended birth and death
+
+_atāri jātimaraṇaṃ asesaṃ._
+____
+
+==== Objectless tiṇṇa: crossed [to the Far Shore], or overcome [doubts]
+
+_Tiṇṇa_ sometimes occurs without an object. Where it is linked to 
+_pāragato_, we treat it as a synonym of _pāragato_:
+
+[quote, S.4.157]
+____
+Crossed [to the Far Shore], reached the Far Shore, the Brahman stands on Dry 
+Land._
+
+_tiṇṇo pāragato thale tiṭṭhati brāhmaṇo._
+____
+
+[quote, Sn.v.21]
+____
+I have crossed [to the Far Shore], reached the Far Shore, having eliminated the 
+flood [of suffering].
+
+_Tiṇṇo pāragato vineyya oghaṃ._
+____
+
+In the _Sabhiya Sutta_ it means overcome doubts:
+
+[quote, Sn.v.539]
+____
+You have helped me overcome [my doubts]
+
+_atāresimaṃ._
+____
+
+This parenthesis is confirmed in the next verse (_vicikicchā maṃ tārayi_, 
+Sn.v.540) and by the commentary (_Atāresi man ti kaṅkhāto maṃ tāresi_).
+
+==== Tarati: conclusion
+
+_Tarati_ therefore means:
+
+1. 'cross' water, physically or metaphorically
+
+2. 'cross' to the far shore
+
+3. 'overcome' attachment and hardship
+
+=== Illustrations
+
+.Illustration
+====
+taraṇāya
+
+crossing
+====
+
+[quote, Vin.4.65]
+____
+I allow you having pre-arranged it, to embark in one boat together with a 
+bhikkhunī if it is for the sake of crossing to the other bank.
+
+_Anujānāmi bhikkhave tiriyaṃ taraṇāya bhikkhuniyā saddhiṃ 
+saṃvidhāya ekaṃ nāvaṃ abhirūhituṃ._
+____
+
+.Illustration
+====
+tareyya
+
+cross
+====
+
+[quote, S.1.4; S.1.29]
+____
+One could cross from the realm of death to the Far Shore
+
+_maccudheyyassa tareyya pāran ti._
+____
+
+.Illustration
+====
+tiṇṇo
+
+crossed [to the Far Shore]
+====
+
+[quote, Sn.v.571]
+____
+Having crossed [to the Far Shore], you help this generation across.
+
+_tiṇṇo tāresimaṃ pajaṃ._
+____
+
+.Illustration
+====
+tiṇṇa
+
+crossed
+====
+
+[quote, Ud.75]
+____
+He has crossed the flood [of suffering] never before crossed.
+
+_udatāri oghaṃ atiṇṇapubbaṃ._
+____
+
+.Illustration
+====
+tare
+
+cross
+====
+
+[quote, Thī.v.10]
+____
+Cross the flood [of suffering], Upasama, the realm of death so hard to get 
+beyond.
+
+_Upasame tare oghaṃ maccudheyyaṃ suduttaraṃ._
+____
+
+.Illustration
+====
+tareyyaṃ cross
+
+[quote
+
+Sn.v.1069]
+====
+
+____
+I might cross this [wretched] flood [of suffering]
+
+_oghamimaṃ tareyyaṃ._
+____
+
+.Illustration
+====
+tareyya
+
+transcend
+====
+
+[quote, Sn.v.706]
+____
+He should transcend this hell
+
+_tareyya narakaṃ imaṃ._
+____
+
+.Illustration
+====
+tare
+
+overcome
+====
+
+[quote, Sn.v.1053]
+____
+He would overcome attachment to the world [of phenomena].
+
+_tare loke visattikaṃ._
+____
+
+.Illustration
+====
+atāri
+
+transcend
+====
+
+[quote, Sn.v.355]
+____
+He completely transcended birth and death
+
+_atāri jātimaraṇaṃ asesaṃ._
+____
+

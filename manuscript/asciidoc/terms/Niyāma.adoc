@@ -1,0 +1,217 @@
+== Niyāma
+
+=== Renderings
+
+- _niyāma_: the way [of rightness comprised of spiritually wholesome factors]
+
+- _sammattaniyāmaṃ_: the way of rightness [comprised of spiritually 
+wholesome factors]
+
+- _niyāmaṃ kusalesu dhammesu sammattaṃ_: the way of rightness comprised of 
+spiritually wholesome factors
+
+=== Introduction
+
+==== PED: definition
+
+PED says _niyāma_ means 'way, way to an end or aim, esp. to salvation, right 
+way (_sammattaniyāma_); method, manner. practice.'
+
+==== Niyāma: abbreviation
+
+_Niyāma_ is an abbreviation that occurs only in verse. The expanded form seen 
+in prose is: _niyāmaṃ kusalesu dhammesu sammattaṃ._ Bodhi apparently 
+agrees, because, commenting on S.1.196, he says '_Niyāma_ here no doubt 
+represents _sammattaniyāma_,' which is the abbreviation used in prose.
+
+==== Niyāma: in verse
+
+In verse, _niyāma_ occurs in the following ways:
+
+[quote, Verse: S.1.196]
+____
+They have reached and realised the way [of rightness comprised of spiritually 
+wholesome factors].
+
+_niyāmagataddasā._
+____
+
+[quote, Verse: Sn.v.371]
+____
+One who has realised the way [of rightness comprised of spiritually wholesome 
+factors]
+
+_niyāmadassī._
+____
+
+==== Niyāma: in prose
+
+In prose, _niyāma_ occurs in the following ways:
+
+[quote, A.1.121]
+____
+They have entered the way of rightness comprised of spiritually wholesome 
+factors
+
+_okkamati niyāmaṃ kusalesu dhammesu sammattaṃ._
+____
+
+[quote, A.3.175-6]
+____
+to enter the way of rightness comprised of spiritually wholesome factors
+
+_niyāmaṃ okkamituṃ kusalesu dhammesu sammattaṃ._
+____
+
+[quote, S.3.225]
+____
+one who has entered the way of rightness [comprised of spiritually wholesome 
+factors]
+
+_okkanto sammattaniyāmaṃ._
+____
+
+[quote, A.3.441]
+____
+he could enter the way of rightness [comprised of spiritually wholesome factors]
+
+_sammattaniyāmaṃ okkamissatī._
+____
+
+==== Conclusion
+
+From this we see:
+
+1. _Niyāma_ is always 'entered' in prose, and always 'realised' in verse.
+
+2. In prose, _niyāma_ is always associated with 'rightness' (_sammatta_), and 
+in translating verse, this term should be parenthesised.
+
+2. Where, in prose, _kusalesu dhammesu_ is missing, it should be parenthesised.
+
+==== 'Way of rightness comprised of spiritually wholesome factors': tautology
+
+'Rightness' (_sammatta_) is defined as the tenfold path:
+
+[quote, A.5.240]
+____
+There are these ten factors of rightness. Which ten? The tenfold path of right 
+factors.
+
+_Dasa ime bhikkhave sammattā. Katame dasa: sammādiṭṭhi sammā saṅkappo 
+sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati 
+sammāsamādhi sammāñāṇaṃ sammāvimutti._
+____
+
+'What is spiritually wholesome' (_kusala_) is defined in the same way:
+
+[quote, A.5.241]
+____
+What is spiritually wholesome? The tenfold path of right factors.
+
+_katamañca bhikkhave kusalaṃ. Sammādiṭṭhi sammāsaṅkappo sammāvācā 
+sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi 
+sammāñāṇaṃ sammāvimutti._
+____
+
+Therefore 'the way of rightness comprised of spiritually wholesome factors' is 
+tautological.
+
+=== Illustrations
+
+.Illustration
+====
+niyāma
+
+the way [of rightness comprised of spiritually wholesome factors]
+====
+
+[quote, S.1.196]
+____
+Indeed, for the sake of many the Sage attained enlightenment, for the bhikkhus 
+and bhikkhunīs who have reached and realised the way [of rightness comprised 
+of spiritually wholesome factors].
+
+_Bahūnaṃ vata atthāya bodhiṃ ajjhagamā muni +
+Bhikkhūnaṃ bhikkhunīnañca ye niyāmagataddasā._
+____
+
+Comment
+
+Bodhi says: '_Niyāma_ here no doubt represents _sammattaniyāma_.'
+
+.Illustration
+====
+sammattaniyāmaṃ
+
+the way of rightness [comprised of spiritually wholesome factors]
+====
+
+[quote, S.3.225]
+____
+One who has faith in [the significance of] these teachings and is intent on 
+them is called a 'faith follower,' one who has entered the way of rightness 
+&#8203;[comprised of spiritually wholesome factors], entered the plane of spiritually 
+outstanding people, transcended the plane of the common man.
+
+_Yo bhikkhave ime dhamme evaṃ saddahati adhivuccati ayaṃ vuccati 
+saddhānusārī okkanto sammattaniyāmaṃ sappurisabhumiṃ okkanto vītivatto 
+puthujjanabhumiṃ._
+____
+
+.Illustration
+====
+sammattaniyāmaṃ
+
+the way of rightness [comprised of spiritually wholesome factors],
+====
+
+[quote, A.3.441]
+____
+That without being well-adapted to and patient [with originated phenomena] he 
+could enter the way of rightness [comprised of spiritually wholesome factors] 
+is impossible
+
+_Anulomikāya khantiyā asamannāgato sammattaniyāmaṃ okkamissatī ti 
+netaṃ ṭhānaṃ vijjati._
+____
+
+.Illustration
+====
+niyāmaṃ kusalesu dhammesu sammattaṃ
+
+the way of rightness comprised of spiritually wholesome factors
+====
+
+[quote, A.3.175-6]
+____
+If one is possessed of five factors, though one listens to the teaching it is 
+not possible to enter the way of rightness comprised of spiritually wholesome 
+factors. Which five? ... if one is aggressive and hardhearted towards the 
+teacher
+
+_suṇantopi saddhammaṃ abhabbo niyāmaṃ okkamituṃ kusalesu dhammesu 
+sammattaṃ. Katamehi pañcahi... dhammadesake āhatacitto hoti khilajāto._
+____
+
+.Illustration
+====
+niyāmaṃ kusalesu dhammesu sammattaṃ
+
+the way of rightness comprised of spiritually wholesome factors
+====
+
+[quote, A.1.122]
+____
+The explanation of the teaching is made available for the sake of the person 
+who will enter the way of rightness comprised of spiritually wholesome factors 
+only if he gets to see the Perfect One and hear the teaching and discipline, 
+and will not do so if he fails to see the Perfect One and hear the teaching and 
+discipline.
+
+_Tatra bhikkhave yvāyaṃ puggalo labhanto'va tathāgataṃ dassanāya no 
+alabhanto labhanto'va tathāgatappaveditaṃ dhammavinayaṃ savaṇāya no 
+alabhanto okkamati niyāmaṃ kusalesu dhammesu sammattaṃ. Imaṃ kho 
+bhikkhave puggalaṃ paṭicca dhammadesanā anuññātā._
+____
+

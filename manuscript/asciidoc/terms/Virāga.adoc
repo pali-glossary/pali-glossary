@@ -1,0 +1,802 @@
+== Virāga
+
+=== Renderings
+
+- _virāga_: fading away
+
+- _virāga_: passing away
+
+- _virāga_: the passing away [of originated phenomena]
+
+- _virāga_: evanescent
+
+- _virāgadhamma_: destined to pass away
+
+- _virāga_: non-attachment
+
+- _virāga_: non-attachment [to originated phenomena]
+
+=== Introduction
+
+==== Virāga: two meanings
+
+_Virāga_ has two broad meanings:
+
+1. 'Non-attachment,' the opposite of attachment (_rāga_).
+
+2. 'Fading away' or 'passing away.' Accordingly, PED says _virāgin_ means 
+'fading in colour', and _rāgavirāgin,_ 'fading in the original dye' (sv 
+_Virāgin_).
+
+==== Virāga without a specified object
+
+_Virāga_ commonly has no specified object. This same issue arises with 
+_nirodha_, and has been discussed sv _Nirodha_, and we resolve it in the same 
+way, namely, that 'originated phenomena' is taken as the object. Proof for this 
+was given for _nirodha_, and we extend it here to _virāga_ because of the 
+common association of the two words, for example in this phrase:
+
+[quote, A.3.164]
+____
+Destruction of craving, the passing away [of originated phenomena], the ending 
+&#8203;[of originated phenomena], the Untroubled.
+
+_taṇhakkhayo virāgo nirodho nibbānaṃ._
+____
+
+We apply the same parenthesis where _virāga_ means 'non-attachment':
+
+[quote, Th.v.599]
+____
+The black crow dwelling [and feasting] in its home in the charnel ground 
+arouses mindfulness in me regarding the body that conduces to non-attachment 
+&#8203;[to originated phenomena].
+
+_Apaṇḍaro aṇḍasambhavo sīvathikāya niketacāriko uppādayātava me 
+satiṃ sandehasmiṃ virāganissitaṃ._
+____
+
+==== Association with nibbidā: non-attachment
+
+When _virāga_ is associated with _nibbidā_ ('disillusionment'), the context 
+demands that is is rendered as 'non-attachment', not 'fading or passing away':
+
+[quote, S.2.18]
+____
+If a bhikkhu is applying himself to disillusionment with old age and death, to 
+non-attachment to it, and to the ending of it, he is fit to be called a bhikkhu 
+who is practising in accordance with the teaching.
+
+_Jarāmaraṇassa ce bhikkhu nibbidāya virāgāya nirodhāya paṭipanno hoti 
+dhammānudhammapaṭipanno bhikkhū ti alaṃ vacanāya._
+____
+
+Otherwise, the context demands that is is rendered as 'fading or passing away' 
+not 'non-attachment.' For example:
+
+1. But with the complete fading away and ending of this craving comes the 
+ending of grasping.
++
+****
+_tassāyeva taṇhāya asesavirāganirodhā upādānanirodho_ (S.2.73; S.4.87).
+****
+
+2. With the destruction of all forms of craving comes the complete passing away 
+and ending [of originated phenomena], the Untroubled.
++
+****
+_sabbaso taṇhānaṃ khayā asesavirāganirodho nibbānaṃ_ (Ud.32-3).
+****
+
+==== Virāga in mindfulness with breathing
+
+In mindfulness with breathing _virāga_ occurs without an object:
+
+____
+I will breathe in... I will breathe out contemplating passing away_._
+
+_virāgānupassī assasissāmī ti sikkhati_
+____
+
+The discussion above would support this being parenthesised: 'I will breathe 
+in... I will breathe out contemplating the passing away [of originated 
+phenomena].' However, the object is already allocated in the _Kimbila Sutta_ 
+(S.5.325) and _Ānāpānasati Sutta_ (M.3.78):
+
+[quote, S.5.325]
+____
+When a bhikkhu is training himself to breathe in and breathe out contemplating 
+passing away, at that time he abides contemplating the nature of certain 
+objects of the systematic teachings.
+
+_Yasmiṃ samaye ānanda bhikkhu... virāgānupassī assasissāmī ti sikkhati 
+virāgānupassī passasissāmī ti sikkhati... dhammesu dhammānupassī ānanda 
+bhikkhu tasmiṃ samaye viharati._
+____
+
+'The phrase should be parenthesised accordingly:
+
+____
+I will breathe in... I will breathe out contemplating passing away [in relation 
+to certain objects of the systematic teachings].
+
+_virāgānupassī assasissāmī ti... passasissāmī ti sikkhati_
+____
+
+The 'objects of the systematic teachings' are listed in the _Satipaṭṭhāna 
+Sutta_:
+
+[quote, M.1.59-62]
+____
+In this regard a bhikkhu abides contemplating the nature of certain objects of 
+the systematic teachings in respect of the five hindrances... the five 
+aggregates... the six senses and their objects... the seven enlightenment 
+factors... the four noble truths.
+
+_Idha bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu 
+nīvaraṇesu... pañcasupādānakkhandhesu... chasu ajjhattikabāhiresu 
+āyatanesu... sattasu bojjhaṅgesu... catusu ariyasaccesu._
+____
+
+We discuss this same issue sv _Paṭinissaggānupassī assasissāmī ti 
+sikkhati_.
+
+==== Virāga as adjective
+
+_Virāga_ as an adjective we say 'evanescent':
+
+[quote, M.3.31]
+____
+Knowing bodily form to be powerless, evanescent, and unconsoling
+
+_rūpaṃ kho ahaṃ āvuso abalaṃ virāgaṃ anassāsikan ti viditvā._
+____
+
+=== Illustrations
+
+.Illustration
+====
+virāgī
+
+fade away
+====
+
+____
+Attachment is moderately blameworthy, and slow to fade away.
+
+_rāgo kho āvuso appasāvajjo dandhavirāgī_
+____
+
+____
+Hatred is very blameworthy, and quick to fade away.
+
+_doso mahāsāvajjo khippavirāgī_
+____
+
+[quote, A.1.200]
+____
+Undiscernment of reality is very blameworthy, and slow to fade away.
+
+_moho mahāsāvajjo dandhavirāgī ti._
+____
+
+.Illustration
+====
+virāgaṃ
+
+fade away
+====
+
+____
+And what are the varieties of suffering?
+
+_Katamā va bhikkhave dukkhassa vemattatā_
+____
+
+____
+Suffering that is inordinate
+
+_atthi bhikkhave dukkhaṃ adhimattaṃ_
+____
+
+____
+Suffering that is slight
+
+_atthi parittaṃ_
+____
+
+____
+Suffering that fades away quickly
+
+_atthi dandhavirāgaṃ_
+____
+
+[quote, A.3.416]
+____
+Suffering that fades away slowly
+
+_atthi khippaviragaṃ._
+____
+
+.Illustration
+====
+virāgā
+
+fading away
+====
+
+[quote, D.3.265]
+____
+With the fading away of rapture, a bhikkhu abides serene, mindful, and fully 
+conscious, experiencing physical pleasure. He enters and abides in third jhāna 
+in which the Noble Ones declare that he abides serene, mindful, and in physical 
+pleasure.
+
+_Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca 
+kāyena paṭisaṃvedeti yaṃ taṃ ariyā ācikkhanti upekkhako satimā 
+sukhavihārī ti taṃ tatiyaṃ jhānaṃ upasampajja viharati._
+____
+
+.Illustration
+====
+virāgo
+
+fades away
+====
+
+____
+When I confront the source of this suffering with effort, by confronting it 
+with effort [the suffering] fades away.
+
+_imassa kho me dukkhanidānassa saṅkhāraṃ padahato saṅkhārappadhānā 
+virāgo hoti_
+____
+
+[quote, M.2.223]
+____
+When the source of this suffering is passively observed, through developing 
+detached awareness, [the suffering] fades away.
+
+_imassa pana me dukkhanidānassa ajjhupekkhato upekkhaṃ bhāvayato virāgo 
+hotī ti._
+____
+
+.Illustration
+====
+virāga
+
+fading away
+====
+
+[quote, M.1.5-6]
+____
+Therefore, with the destruction, fading away, ending, giving up, and 
+relinquishment of all forms of craving the Perfect One has fully awakened to 
+unsurpassed, complete enlightenment, I declare.
+
+_Tasmātiha bhikkhave tathāgato sabbaso taṇhānaṃ khayā virāgā nirodhā 
+cāgā paṭinissaggā anuttaraṃ sammāsambodhiṃ abhisambuddho ti vadāmi._
+____
+
+.Illustration
+====
+virāga
+
+fading away
+====
+
+[quote, S.4.46-7]
+____
+Bhante, I understand the teaching to have been taught by the Blessed One for 
+the fading away of attachment.
+
+_Rāgavirāgatthañca khvāhaṃ bhante bhagavatā dhammaṃ desitaṃ 
+ājānāmī ti._
+____
+
+Compare:
+
+____
+Therefore the liberation [from attachment through inward calm] is due to the 
+fading away of attachment.
+
+_Iti kho bhikkhave rāgavirāgā cetovimutti_
+____
+
+[quote, A.1.61]
+____
+And the liberation [from uninsightfulness] through penetrative discernment is 
+due to the fading away of uninsightfulness into reality.
+
+_avijjāvirāgā paññāvimuttī ti._
+____
+
+.Illustration
+====
+virāga
+
+fading away
+====
+
+[quote, A.1.100]
+____
+For the fading away of attachment, two things should be developed. Which two? 
+Inward calm and insightfulness.
+
+_Rāgassa bhikkhave virāgāya dve dhammā bhāvetabbā. Katame dve? Samatho ca 
+vipassanā ca._
+____
+
+.Illustration
+====
+virāga
+
+passing away
+====
+
+[quote, A.2.161]
+____
+With the complete passing away and ending of the six senses comes the ending 
+and subsiding of entrenched perception
+
+_channaṃ āvuso phassāyatanānaṃ asesavirāganirodhā papañcanirodho 
+papañcavūpasamo ti._
+____
+
+.Illustration
+====
+virāgānupassī
+
+passing away
+====
+
+____
+He abides contemplating unlastingness in relation to the body and pleasant 
+sense impression
+
+_so kāye ca sukhāya ca vedanāya aniccānupassī viharati_
+____
+
+____
+their disappearance
+
+_vayānupassī viharati_
+____
+
+____
+their passing away
+
+_virāgānupassī viharati_
+____
+
+• their ending * +
+☸* _nirodhānupassī viharati_
+
+[quote, S.4.211]
+____
+their relinquishment
+
+_paṭinissaggānupassī viharati._
+____
+
+.Illustration
+====
+virāga
+
+the passing away [of originated phenomena]
+====
+
+[quote, A.5.110]
+____
+And what, Ānanda, is the perception of the passing away [of originated 
+phenomena]. In this regard, Ānanda, a bhikkhu... contemplates thus: 'This is 
+peaceful, this is sublime, namely: the quelling of all originated phenomena, 
+the relinquishment of the whole phenomenon of attachment, the destruction of 
+craving, the passing away [of originated phenomena], the Untroubled.'
+
+_Katamācānanda virāgasaññā? Idhānanda bhikkhu... iti paṭisañcikkhati 
+etaṃ santaṃ etaṃ paṇītaṃ yadidaṃ sabbasaṅkhārasamatho 
+sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nibbānan ti._
+____
+
+.Illustration
+====
+virāga
+
+the passing away [of originated phenomena]
+====
+
+____
+Bhikkhus, I will teach you the passing away [of originated phenomena] and the 
+path leading to the passing away [of originated phenomena]. Please listen.
+
+_Virāgañca vo bhikkhave desissāmi virāgagāmiñca maggaṃ taṃ suṇātha_
+____
+
+____
+What is the passing away [of originated phenomena]?
+
+_Katamañca bhikkhave virāgaṃ_
+____
+
+____
+The destruction of attachment, hatred, and undiscernment of reality. This is 
+called the passing away [of originated phenomena].
+
+_yo bhikkhave rāgakkhayo dosakkhayo mohakkhayo idaṃ vuccati bhikkhave 
+virāgaṃ_
+____
+
+[quote, S.4.368-373]
+____
+What is the path leading to the passing away [of originated phenomena]. 
+Mindfulness of the body.
+
+_Katamo ca bhikkhave virāgagāmī maggo? Kāyagatāsati._
+____
+
+Comment:
+
+This chapter of the _Saṃyutta Nikāya_ concerns synonyms of _nibbāna_, where 
+_virāga_ is not associated with _nibbidā_, so it is in accordance with the 
+rule noted in the introduction to call this 'passing away' not 'non-attachment.'
+
+.Illustration
+====
+virāgo
+
+the passing away [of originated phenomena]
+====
+
+____
+Of phenomena either originated or unoriginated
+
+_Yāvatā bhikkhave dhammā saṅkhatā vā asaṅkhatā vā_
+____
+
+____
+the passing away [of originated phenomena] is reckoned as best of them
+
+_virāgo tesaṃ dhammānaṃ aggamakkhāyati_
+____
+
+____
+in other words
+
+_yadidaṃ_
+____
+
+____
+the quelling of exuberance
+
+_madanimmadano_
+____
+
+____
+the elimination of thirst
+
+_pipāsavinayo_
+____
+
+____
+the uprooting of clinging
+
+__ālayasamugghāto_
+____
+
+____
+the curtailment of the round of rebirth
+
+_vaṭṭupacchedo_
+____
+
+____
+the destruction of craving
+
+_taṇhakkhayo_
+____
+
+____
+the passing away [of originated phenomena]
+
+_virāgo_
+____
+
+____
+the ending [of originated phenomena]
+
+_nirodho_
+____
+
+[quote, A.2.34]
+____
+the Untroubled
+
+_nibbānaṃ._
+____
+
+Comment:
+
+_Virāga_ is not associated here with _nibbidā_, so it is in accordance with 
+the rule noted in the introduction to call this 'passing away' not 
+'non-attachment.' _Virāga_ here is a synonym of _nibbāna_, as it also is in 
+this quote:
+
+[quote, S.4.368-373]
+____
+The destruction of attachment, hatred, and undiscernment of reality. This is 
+called the passing away [of originated phenomena].
+
+_yo bhikkhave rāgakkhayo dosakkhayo mohakkhayo idaṃ vuccati bhikkhave 
+virāgaṃ._
+____
+
+Comment:
+
+Note that _virāgo_ (passing away [of originated phenomena]) at A.2.34 runs 
+parallel to _rāgavirāgāya_ ('fading away of attachment') at Vin.3.20:
+
+____
+Is not, friend, the teaching explained in many ways by the Blessed One for the 
+fading away of attachment?
+
+_Nanu āvuso bhagavatā anekapariyāyena rāgavirāgāya dhammo desito?_
+____
+
+____
+Is not the teaching explained for
+
+_dhammo desito_
+____
+
+____
+the quelling of exuberance
+
+_madanimmadanāya_
+____
+
+[quote, Vin.3.20]
+____
+the elimination of thirst
+
+_pipāsavinayāya._
+____
+
+.Illustration
+====
+virāgadhammaṃ
+
+destined to pass away
+====
+
+[quote, S.3.24]
+____
+Bodily form, Ānanda, is unlasting, originated, and dependently arisen. It is 
+destined to be destroyed, to disappear, to pass away, to cease.
+
+_Rūpaṃ kho ānanda aniccaṃ saṅkhataṃ paṭiccasamuppannaṃ 
+khayadhammaṃ vayadhammaṃ virāgadhammaṃ nirodhadhammaṃ._
+____
+
+.Illustration
+====
+virāgadhammaṃ
+
+destined to pass away
+====
+
+[quote, It.69]
+____
+This [wretched human] body is perishable, bhikkhus; consciousness is destined 
+to pass away;
+
+_Bhidurāyaṃ bhikkhave kāye viññāṇaṃ virāgadhammaṃ._
+____
+
+.Illustration
+====
+virāgāya
+
+non-attachment
+====
+
+____
+How do those who are clear-sighted see [the nature of reality]?
+
+_Kathañca bhikkhave cakkhumanto passanti?_
+____
+
+____
+In this regard a bhikkhu sees what is brought about as what is brought about
+
+_Idha bhikkhu bhūtaṃ bhūtato passati_
+____
+
+____
+Seeing it thus
+
+_bhūtaṃ bhūtato disvā_
+____
+
+____
+he applies himself to disillusionment with what is brought about, to 
+non-attachment to what is brought about, and to the ending of what is brought 
+about
+
+_bhūtassa nibbidāya virāgāya nirodhāya paṭipanno hoti_
+____
+
+[quote, It.44]
+____
+Thus do those who are clear-sighted see [the nature of reality]
+
+_evaṃ kho bhikkhave cakkhumanto ca passantī ti._
+____
+
+.Illustration
+====
+virāgāya
+
+non-attachment
+====
+
+[quote, S.4.4]
+____
+The noble disciple is indifferent to the visual sense of the past, he does not 
+long for the visual sense of the future, he applies himself to disillusionment 
+with the visual sense of the present, to non-attachment to it, and to the 
+ending of it.
+
+_sutavā ariyasāvako atītasmiṃ cakkhusmiṃ anapekkho hoti; anāgataṃ 
+cakkhuṃ nābhinandati paccappannassa cakkhussa nibbidāya virāgāya 
+nirodhāya paṭipanno hoti._
+____
+
+.Illustration
+====
+virāga
+
+non-attachment [to originated phenomena]
+====
+
+[quote, S.5.78]
+____
+In this regard a bhikkhu develops the enlightenment factor of mindfulness (... 
+detached awareness) which conduces to seclusion [from sensuous pleasures and 
+spiritually unwholesome factors], to non-attachment [to originated phenomena], 
+to the ending [of originated phenomena], and which results in the 
+relinquishment [of the whole phenomenon of attachment].
+
+_Idha bhikkhave bhikkhu satisambojjhaṅgaṃ bhāveti (... 
+upekkhāsambojjhaṅgaṃ bhāveti) vivekanissitaṃ virāganissitaṃ 
+nirodhanissitaṃ vossaggapariṇāmiṃ._
+____
+
+.Illustration
+====
+virāga
+
+non-attachment
+====
+
+____
+-- For what purpose, bhante, is right vision [of things according to reality]?
+
+_Sammādassanaṃ pana bhante kimatthiyan ti?_
+____
+
+____
+-- Right vision [of things according to reality], Rādha, is for the sake of 
+disillusionment [with originated phenomena].
+
+_Sammādassanaṃ kho rādha nibbidatthaṃ_
+____
+
+____
+-- For what purpose, bhante, is disillusionment [with originated phenomena]?
+
+_Nibbidā pana bhante kimatthiyā ti?_
+____
+
+[quote, S.3.189]
+____
+-- Disillusionment [with originated phenomena] is for the sake of 
+non-attachment [to originated phenomena].
+
+_Nibbidā kho rādha virāgatthā._
+____
+
+____
+-- For what purpose, bhante, is non-attachment [to originated phenomena]?
+
+_Virāgo pana bhante kimatthiyo ti?_
+____
+
+____
+-- Non-attachment is for the sake of liberation [from perceptually obscuring 
+states].
+
+_Virāgo kho rādha vimuttattho_
+____
+
+____
+-- For what purpose, bhante, is liberation [from perceptually obscuring states]?
+
+_Vimutti pana bhante kimatthiyā ti?_
+____
+
+• -- Liberation [from perceptually obscuring states] is for the sake of 
+&#8203;[realising] the Untroubled. +
+_Vimutti kho rādha nibbānatthā_ (S.3.189).
+
+.Illustration
+====
+virāgena
+
+non-attachment [to originated phenomena]
+====
+
+____
+In the past I was fond of the teachings in verse so long as I had not realised 
+non-attachment [to originated phenomena].
+
+_Ahu pure dhammapadesu chando yāva virāgena na samāgamimha_
+____
+
+[quote, S.1.203]
+____
+But when, through knowledge [of things according to reality] I realised 
+non-attachment [to originated phenomena], I became what good men call 'One who 
+has laid down whatever is seen, heard, or sensed.'
+
+_Yato virāgena samāgamimha yaṃ kiñci diṭṭhaṃ vā sutaṃ mutaṃ vā 
++
+Aññāya nikkhepanamāhu santo ti._
+____
+
+.Illustration
+====
+virāgāya
+
+non-attachment [to originated phenomena]
+====
+
+____
+Bhikkhus, there is one thing if developed and cultivated leads to complete 
+disillusionment [with originated phenomena] (_ekantanibbidāya_), 
+non-attachment [to originated phenomena] (_virāgāya_), the ending [of 
+originated phenomena] (_nirodhāya_), inward peace (_upasamāya_), transcendent 
+insight (_abhiññāya_), enlightenment (_sambodhāya_), the Untroubled 
+(_nibbānāya_).
+
+_Ekadhammo bhikkhave bhāvito bahulīkato ekantanibbidāya virāgāya 
+nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati_
+____
+
+[quote, A.1.30]
+____
+What one thing? Meditation on the [perfection of the] Buddha's [transcendent 
+insight]
+
+_Katamo ekadhammo? Buddhānussati._
+____
+
+.Illustration
+====
+virāgā
+
+unattached [to originated phenomena]
+====
+
+[quote, M.3.20]
+____
+Seeing thus, the noble disciple is disillusioned with bodily form... 
+advertence; Being disillusioned [with originated phenomena], he is unattached 
+&#8203;[to originated phenomena]. Being unattached [to originated phenomena], he is 
+liberated [from perceptually obscuring states].
+
+_Evaṃ passaṃ bhikkhave sutavā ariyasāvako rūpasmiṃ nibbindati 
+vedanāyapi nibbindati saññāyapi nibbindati saṅkhāresupi nibbindati 
+viññāṇasmimpi nibbindati nibbindaṃ virajjati virāgā vimuccati._
+____
+

@@ -1,0 +1,180 @@
+== Abhijjhā
+
+=== Renderings
+
+- _abhijjhā_: greed
+
+- _abhijjhālu_: greedy
+
+=== Introduction
+
+==== Abhijjhā: greed not covetousness
+
+_Abhijjhā_ has long been called 'covetousness,' which means the desire for 
+other's possessions, but it more likely means 'greed,' because:
+
+1. PED says it is 'almost identical in meaning with _lobha.'_
+
+2. The _Sāḷha Sutta_ (A.1.194) says _lobho_ and _abhijjhā_ are synonyms 
+(_taṃ kiṃ maññatha sāḷhā atthi lobho ti? Evaṃ bhante. Abhijjhā ti 
+kho ahaṃ sāḷhā etamatthaṃ vadāmi_ (A.1.194).
+
+3. In the scriptures _abhijjhā_ stands for the first of the five hindrances, 
+where it is linked to sensuous pleasure (_abhijjhālū kāmesu_ It.91), and is 
+listed with the other four hindrances (_vyāpannacittā thīnamiddha uddhatā 
+vicikicchī_ M.1.17-18). In this last reference it is linked to _rāga_ 
+(_abhijjhālū kāmesu tibbasārāgā_ M.1.17-18).
+
+==== Abhijjhā: broad meaning more likely
+
+Objection to rendering _abhijjhā_ as greed may be raised on the grounds that 
+_abhijjhā_ is explained in terms of covetousness:
+
+[quote, M.3.49]
+____
+'In this regard, some person is greedy. He covets others' property and 
+possessions: "Oh, may what belongs to another be mine!"'
+
+_idha bhante ekacco abhijjhālu hoti yaṃ taṃ parassa 
+paravittūpakaraṇaṃ taṃ abhijjhātā hoti aho vata yaṃ parassa taṃ 
+mamassā ti._
+____
+
+But this is in illustration of the two types of mental conduct, good and bad, 
+where _abhijjhālū_ and _vyāpannacitto_ are bad, and _anabhijjhālū_ and 
+_avyāpannacitto_ are good. In this situation, it is likely the two words stand 
+for two broad categories (greed and hatred), not one narrow category and one 
+broad category (covetousness and hatred). The same is true of 
+_abhijjhādomanassā,_ where it is more likely that _abhijjhā_ has a broad 
+meaning, not a narrow meaning. For example:
+
+1. While I am pacing back and forth thus, neither greed nor dejection nor 
+unvirtuous, spiritually unwholesome factors will pursue me.
++
+****
+_nābhijjhādomanassā pāpakā akusalā dhammā anvāssavissantī ti_ 
+(M.3.113).
+****
+
+2. A bhikkhu abides contemplating the nature of the body, vigorously, fully 
+consciously, and mindfully, having eliminated greed and dejection in regard to 
+the world [of phenomena].
++
+****
+_vineyya loke abhijjhādomanassaṃ_ (S.5.182).
+****
+
+==== Abhijjhā: not in relation to others' possessions
+
+_Abhijjhā_ is not always linked to others' possessions:
+
+[quote, Th.v.794-5]
+____
+In seeing a visible object with mindfulness muddled, focusing on the agreeable 
+aspect, one experiences it with a mind of attachment and persists in cleaving 
+to it. Many sense impressions arising from the visible object blossom [within 
+oneself], greed and vexation as well, by which one's mind becomes disturbed.
+
+_Rūpaṃ disvā sati muṭṭhā piyaṃ nimittaṃ manasikaroto +
+Sārattacitto vedeti tañca ajjhosa tiṭṭhati +
+Tassa vaḍḍhanti vedanā anekā rūpasambhavā +
+Abhijjhā ca vihesā ca cittamassūpahaññati._
+____
+
+=== Illustrations
+
+.Illustration
+====
+abhijjhā
+
+greed
+====
+
+[quote, M.3.136]
+____
+He, having abandoned these five hindrances which are spiritual defilements and 
+weakening to penetrative discernment, abides contemplating the nature of the 
+body, vigorously, fully consciously, and mindfully, having eliminated greed and 
+dejection in regard to the world [of phenomena].
+
+_So ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalikaraṇe 
+kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke 
+abhijjhādomanassaṃ._
+____
+
+.Illustration
+====
+abhijjhā
+
+greed
+====
+
+____
+-- 'What do you think, Sāḷha: is there greed (_lobho_)?'
+
+_Taṃ kiṃ maññatha sāḷhā atthi lobho ti?_
+____
+
+-- 'Yes, bhante.
+
+[quote, A.1.194]
+____
+-- 'I call it greed (_abhijjhā_), Sāḷha.
+
+_Abhijjhā ti kho ahaṃ sāḷhā etamatthaṃ vadāmi._
+____
+
+.Illustration
+====
+abhijjhā
+
+greed
+====
+
+____
+There are these four spiritual shackles
+
+_cattārome bhikkhave ganthā_
+____
+
+____
+the spiritual shackle of greed
+
+_abhijjhā kāyagantho_
+____
+
+____
+the spiritual shackle of ill will
+
+_vyāpādo kāyagantho_
+____
+
+____
+the spiritual shackle of adherence to observances and practices
+
+_sīlabbataparāmāso kāyagantho_
+____
+
+[quote, S.5.59]
+____
+the spiritual shackle of stubborn attachment to dogmatic opinions.
+
+_idaṃsaccābhiniveso kāyagantho._
+____
+
+.Illustration
+====
+abhijjhālu
+
+greedy
+====
+
+In this regard, some person is
+
+- greedy (_abhijjhālu hoti_) and abides with a greedy attitude 
+(_abhijjhāsahagatāya saññāya viharati_);
+
+- unbenevolent (_vyāpādavā_) and abides with an unbenevolent attitude
+
+- malicious (_vihesavā_) and abides with a malicious attitude (M.3.55).
+

@@ -1,0 +1,388 @@
+== Saṅgha
+
+=== Renderings
+
+- _saṅgha_: flock
+
+- _saṅgha_: herd
+
+- _saṅgha_: host
+
+- _saṅgha_: group
+
+- _saṅgha_: assembly
+
+- _saṅgha_: assembly of bhikkhus
+
+- _saṅgha_: community
+
+- _saṅgha_: community of bhikkhus
+
+- _saṅgha_: community of bhikkhunīs
+
+- _saṅgha_: community of disciples
+
+- _saṅgha_: monastic community
+
+- _saṅgha_: ordained community
+
+=== Illustrations
+
+.Illustration
+====
+saṅgho
+
+flock
+====
+
+[quote, Vin.3.148]
+____
+A great flock of birds
+
+_mahāsakuṇasaṅgho._
+____
+
+.Illustration
+====
+saṅgho
+
+herd
+====
+
+[quote, M.1.118]
+____
+A great herd of deer
+
+_mahāmigasaṅgho ti._
+____
+
+.Illustration
+====
+saṅgho
+
+host
+====
+
+[quote, Sn.v.680]
+____
+A host of devas
+
+_devasaṅgho._
+____
+
+.Illustration
+====
+saṅghā
+
+group
+====
+
+[quote, Sn.v.589]
+____
+A group of relatives
+
+__ñātisaṅghā._
+____
+
+.Illustration
+====
+saṅghena
+
+group
+====
+
+[quote, M.2.164]
+____
+Journeying on foot amongst the Kosalan people together with a large group of 
+bhikkhus.
+
+_kosalesu cārikaṃ caramāno mahatā bhikkhusaṅghena saddhiṃ._
+____
+
+.Illustration
+====
+saṅghassa
+
+assembly
+====
+
+[quote, Sn.v.550]
+____
+In the midst of the assembly of ascetics you shine like the sun
+
+_majjhe samaṇasaṅghassa ādicco va virocasi._
+____
+
+.Illustration
+====
+saṅghaṃ
+
+assembly
+====
+
+[quote, D.1.50]
+____
+King Ajātasattu gazed at the assembly of bhikkhus which remained as silent as 
+a serene lake.
+
+_ajātasattu vedehiputto tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṅghaṃ 
+anuviloketvā rahadamiva vippasannaṃ._
+____
+
+.Illustration
+====
+saṅghe
+
+assembly
+====
+
+[quote, D.2.155]
+____
+There is not one bhikkhu in this assembly of bhikkhus who is unsure or uncertain
+
+_natthi imasmiṃ bhikkhusaṅghe ekabhikkhussapi kaṅkhā vā vimati vā._
+____
+
+.Illustration
+====
+saṅgho
+
+assembly of bhikkhus
+====
+
+[quote, Vin.2.80]
+____
+The assembly of bhikkhus gives him an acquittal due to complete mindfulness by 
+a procedure that is legitimate and with an assembly that is complete.
+
+_tassa saṅgho sativinayaṃ deti dhammena samaggena._
+____
+
+.Illustration
+====
+saṅgha
+
+assembly of bhikkhus
+====
+
+[quote, Vin.4.37]
+____
+Being examined in the midst of the assembly of bhikkhus on some matter or 
+offence.
+
+_saṅghamajjhe vatthusmiṃ vā āpattiyā vā anuyuñjīyamāno._
+____
+
+.Illustration
+====
+saṅghaṃ
+
+community
+====
+
+[quote, A.3.206]
+____
+Householder, you have served the community of bhikkhus with gifts of robe 
+material, almsfood, abodes, and therapeutic requisites.
+
+_Tumhepi kho gahapati bhikkhusaṅghaṃ paccupaṭṭhitā 
+cīvara-piṇḍapāta-senāsana-gilānapaccayabhesajjaparikkhārena._
+____
+
+.Illustration
+====
+saṅgho
+
+community
+====
+
+• This is the community of the Blessed One's disciples. +
+_esa bhagavato sāvakasaṅgho_ (A.3.286).
+
+.Illustration
+====
+saṅghā
+
+communities; saṅgho,community
+====
+
+[quote, It.88]
+____
+Among whatever communities or groups there may be, the community of the Perfect 
+One's disciples is declared supreme.
+
+_Yāvati bhikkhave saṅghā vā gaṇā va tathāgatasāvakasaṅgho tesaṃ 
+aggamakkhāyati._
+____
+
+.Illustration
+====
+saṅgho
+
+community of bhikkhus
+====
+
+[quote, Vin.1.229]
+____
+A group of four bhikkhus is the least that can be called 'a community of 
+bhikkhus.'
+
+_catuvaggo pacchimo saṅgho ti._
+____
+
+.Illustration
+====
+saṅgho
+
+community of bhikkhus
+====
+
+[quote, A.5.73]
+____
+On what grounds is there schism in the community of bhikkhus?
+
+_Kittāvatā nu kho bhante saṅgho bhinno hotī ti?._
+____
+
+.Illustration
+====
+saṅghaṃ
+
+community of bhikkhus
+====
+
+[quote, D.3.193]
+____
+'I, bhante, go to the Blessed One for refuge, and to the teaching, and to the 
+community of bhikkhus.
+
+_Esāhaṃ bhante bhagavantaṃ saraṇaṃ gacchāmi dhammañca 
+bhikkhusaṅghañca._
+____
+
+.Illustration
+====
+saṅgho
+
+community of bhikkhunīs
+====
+
+[quote, Vin.4.294]
+____
+Do not, lady, consort with a layman or layman's son. Be secluded [from them]. 
+The community of bhikkhunīs indeed praises such seclusion in a sister.
+
+_māyye saṃsaṭṭhā vihari gahapatinānāpi gahapatiputtenāpi viviccayye 
+vivekaññeva bhaginiyā saṅgho vaṇṇetī ti._
+____
+
+.Illustration
+====
+saṅgho
+
+community of disciples
+====
+
+[quote, M.2.120]
+____
+The community of disciples is applied to an excellent practice.
+
+_supaṭipanno saṅgho ti._
+____
+
+[quote, A.3.286]
+____
+The community of the Blessed One's disciples is applied to an excellent practice
+
+_supaṭipanno bhagavato sāvakasaṅgho._
+____
+
+Comment:
+
+i.e. __saṅgho = sāvakasaṅgho__=community of disciples
+
+.Illustration
+====
+saṅghamhā
+
+monastic community
+====
+
+[quote, A.3.146]
+____
+A bhikkhu is not fit to live apart from the monastic community if he possesses 
+certain qualities
+
+_nālaṃ saṅghamhā vavakāsituṃ._
+____
+
+.Illustration
+====
+saṅgha
+
+monastic community
+====
+
+[quote, M.1.469]
+____
+Friends, when a forest-dwelling bhikkhu comes to the monastic community and is 
+living with the monastic community, he should be respectful and deferential 
+towards his companions in the religious life.
+
+_Āraññakenāvuso bhikkhunā saṅghagatena saṅghe viharantena 
+sabrahmacārīsu sagāravena bhavitabbaṃ sappatissena._
+____
+
+.Illustration
+====
+saṅgha
+
+ordained community
+====
+
+There are seven kinds of offering to the ordained community (_saṅghagatā 
+dakkhiṇā_):
+
+____
+\1. a gift to the twofold ordained community headed by the Buddha
+
+_buddhapamukhe ubhato saṅghe dānaṃ deti_
+____
+
+____
+\2. a gift to the twofold ordained community after the Buddha's passing
+
+_tathāgate parinibbute ubhato saṅghe dānaṃ deti_
+____
+
+____
+\3. a gift to the community of bhikkhus
+
+_bhikkhusaṅghe dānaṃ deti_
+____
+
+____
+\4. a gift to the community of bhikkhunīs
+
+_bhikkhunīsaṅghe dānaṃ deti_
+____
+
+____
+\5. a gift to an appointed number both bhikkhus and bhikkhunīs
+
+_ettakā me bhikkhū ca bhikkhuniyo ca saṅghato uddissathā ti dānaṃ deti_
+____
+
+____
+\6. a gift to an appointed number of bhikkhus
+
+_ettakā me bhikkhū saṅghato uddissathā ti dānaṃ deti_
+____
+
+[quote, M.3.255-6]
+____
+\7. a gift to an appointed number of bhikkhunīs
+
+_ettikā me bhikkhuniyo saṅghato uddissathā ti dānaṃ deti._
+____
+

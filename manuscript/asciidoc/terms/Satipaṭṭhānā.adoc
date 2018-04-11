@@ -1,0 +1,487 @@
+== Satipaṭṭhānā
+
+=== Renderings
+
+- _satipaṭṭhānā_: bases of mindfulness (_Samudaya Sutta_)
+
+- _satipaṭṭhāna_: the [contemplation of the] bases of mindfulness 
+(_Satipaṭṭhāna Sutta_).
+
+- _satipaṭṭhāna_: basic practice of mindfulness (_Vibhaṅga Sutta_).
+
+- _satipaṭṭhānā_: opportunities for mindfulness (_Saḷāyatanavibhaṅga 
+Sutta_).
+
+=== Introduction
+
+==== Samudaya Sutta: base of mindfulness
+
+The commentaries offer two possible etymologies of _satipaṭṭhāna_, via 
+either an action noun ('establishment') or a non-action noun ('base'), thus:
+
+- _sati + upaṭṭhāna_ (action noun): 'the four establishments of 
+mindfulness'
+
+- _sati + paṭṭhāna_ (non-action noun): 'the four bases of mindfulness.'
+
+In the _Samudaya Sutta_ (S.5.184) _satipaṭṭhāna_ is presented in terms of 
+the [co-conditional] origination and [co-conditional] vanishing of the body and 
+other objects of mindfulness. The sutta begins:
+
+[quote, S.5.184]
+____
+Bhikkhus, I will teach you the [co-conditional] origination and 
+&#8203;[co-conditional] vanishing of the four bases of mindfulness. Please listen. And 
+what is the [co-conditional] origination of the body? With the origination of 
+food comes the origination of the body.
+
+_catunnaṃ bhikkhave satipaṭṭhānānaṃ samudayañca atthaṅgamañca 
+desissāmi. Taṃ suṇātha. Ko ca bhikkhave kāyassa samudayo. 
+Āhārasamudayā kāyassa samudayo._
+____
+
+Here _satipaṭṭhāna_ is represented by 'body,' a non-action noun. Therefore 
+_satipaṭṭhāna_ is 'base,' not 'establishment.'
+
+==== Satipaṭṭhāna Sutta: the [contemplation of the] bases of mindfulness
+
+The _Satipaṭṭhāna Sutta_ (M.1.56) says:
+
+____
+This is the one-destination path for the purification of beings... namely, the 
+four _satipaṭṭhānā_. What four? In this regard a bhikkhu abides 
+contemplating the nature of the body etc.
+
+_ekāyano ayaṃ bhikkhave maggo sattānaṃ visuddhiyā... yadidaṃ cattāro 
+satipaṭṭhānā. Katame cattāro? Idha bhikkhave bhikkhu kāye 
+kāyānupassī viharati...._
+____
+
+Thus the one-destination path is said to be:
+
+1. four bases ('the four _satipaṭṭhānā_')
+
+2. the contemplation of those bases
+
+The one-destination path would not be simply four bases, but rather the 
+contemplation of those bases_._ In which case 'four _satipaṭṭhānā_' is an 
+abbreviation, to be parenthesised like this:
+
+____
+This is the one-destination path for the purification of beings... namely, the 
+&#8203;[contemplation of the] four bases of mindfulness.'
+
+_ekāyano ayaṃ bhikkhave maggo... yadidaṃ cattāro satipaṭṭhānā._
+____
+
+Here, _satipaṭṭhānā_ is again linked to non-action nouns, so again means 
+'bases of mindfulness.'
+
+==== Vibhaṅga Sutta: basic practice of mindfulness
+
+The _Vibhaṅga Sutta_ (S.5.183) is unusual for two reasons. Firstly, 
+_satipaṭṭhāna_ occurs in singular case even in reference to all four 
+bases. Secondly, the context suggests _paṭṭhāna_ means 'basic practice' 
+because it is contrasted with 'development.'
+
+[quote, S.5.183]
+____
+I will teach you the basic practice of mindfulness, and the development of the 
+basic practice of mindfulness
+
+_satipaṭṭhānañca vo bhikkhave desissāmi satipaṭṭhānaṃ 
+bhāvanañca._
+____
+
+____
+And what is the basic practice of mindfulness?
+
+_Katamañca bhikkhave satipaṭṭhānaṃ_
+____
+
+____
+In this regard a bhikkhu abides contemplating the nature of the body... sense 
+impressions... the mind... the nature of certain objects of the systematic 
+teachings, vigorously, fully consciously, and mindfully, having eliminated 
+greed and dejection in regard to the world [of phenomena].
+
+_idha bhikkhave bhikkhu kāye kāyānupassī... dhammesu dhammānupassī 
+viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ._
+____
+
+____
+And what is the development of the basic practice of mindfulness?
+
+_Katamā ca bhikkhave satipaṭṭhānabhāvanā_
+____
+
+____
+In this regard a bhikkhu abides contemplating [co-conditional] origination in 
+relation to the body etc... [co-conditional] disappearance in relation to the 
+body etc... [co-conditional] origination and disappearance in relation to the 
+body etc, vigorously, fully consciously, and mindfully, having eliminated greed 
+and dejection in regard to the world [of phenomena].
+
+_idha bhikkhave bhikkhu samudayadhammānupassī... vayadhammānupassī... 
+samudayavayadhammānupassī kāyasmiṃ viharati ātāpī sampajāno satimā 
+vineyya loke abhijjhādomanassaṃ._
+____
+
+That _paṭṭhāna_ could mean 'basic' is surprising. This meaning is more 
+apparent in later Pāli literature, as Rhys Davids explains:
+
+- The mediaeval use of _paṭṭhāna_ (in its Sanskrit form) was in the sense 
+of 'starting off,' 'going away,' 'departure.' It is the title of the most often 
+quoted book in the Abhidhamma, and there means probably 'Origins,' 
+'Starting-points,' as it gives under twenty-four categories the paccayas 
+(causes) of phenomena -- Dialogues of the Buddha (Dial.2.324).
+
+==== Saḷāyatanavibhaṅga Sutta: opportunities for mindfulness
+
+Finally, we consider the three _satipaṭṭhāna_ (_tayo satipaṭṭhānā_) 
+of the _Saḷāyatanavibhaṅga Sutta_. The sutta says a teacher's disciples 
+may or may not listen to him. These challenges for the teacher are called 
+'opportunities for mindfulness' because for the accomplished teacher they are 
+opportunities to establish in himself mindfulness and full consciousness (_sato 
+sampajāno_). The humorous overtones of this are obvious.
+
+==== Contemplating [co-conditional] origination in relation to phenomena: 
+advanced mindfulness
+
+To abide contemplating origination and disappearance is called 'the development 
+of the basic practice of mindfulness' (_satipaṭṭhānabhāvanā_, S.5.183). 
+We use the term '[co-conditional] origination' as suggested by the following 
+quote:
+
+• Bhikkhus, I will teach you the [co-conditional] origination and 
+&#8203;[co-conditional] vanishing of the four bases of mindfulness. Please listen. +
+_catunnaṃ bhikkhave satipaṭṭhānānaṃ samudayañca atthaṅgamañca 
+desissāmi. Taṃ suṇātha._
+
+1. With the origination of food comes the origination of the body. With the 
+ending of food comes the vanishing of the body.
++
+****
+_Āhārasamudayā kāyassa samudayo āhāranirodhā kāyassa atthaṅgamo._
+****
+
+2. With the origination of sensation comes the origination of sense 
+impressions. With the ending of sensation comes the vanishing of sense 
+impressions.
++
+****
+_Phassasamudayā vedanānaṃ samudayo. Phassanirodhā vedanānaṃ 
+atthaṅgamo._
+****
+
+3. With the origination of denomination-and-bodily-form comes the origination 
+of the mind. With the ending of denomination-and-bodily-form comes the 
+vanishing of the mind.
++
+****
+_Nāmarūpasamudayā cittassa samudayo. Nāmarūpanirodhā cittassa 
+atthaṅgamo._
+****
+
+4. With the origination of attention comes the origination of objects of the 
+systematic teachings. With the ending of attention comes the vanishing of 
+objects of the systematic teachings.
++
+****
+_Manasikārasamudayā dhammānaṃ samudayo. Manasikāranirodhā dhammānaṃ 
+atthaṅgamo ti_ (S.5.184).
+****
+
+=== Illustrations
+
+.Illustration
+====
+satipaṭṭhānānaṃ
+
+bases of mindfulness, Samudaya Sutta
+====
+
+• Bhikkhus, I will teach you the [co-conditional] origination and 
+&#8203;[co-conditional] vanishing of the four bases of mindfulness. Please listen. +
+_catunnaṃ bhikkhave satipaṭṭhānānaṃ samudayañca atthaṅgamañca 
+desissāmi. Taṃ suṇātha._
+
+• And what is the [co-conditional] origination of the body? +
+_Ko ca bhikkhave kāyassa samudayo._
+
+____
+With the origination of food comes the origination of the body.
+
+_Āhārasamudayā kāyassa samudayo_
+____
+
+[quote, S.5.184]
+____
+With the ending of food comes the vanishing of the body.
+
+__āhāranirodhā kāyassa atthaṅgamo._
+____
+
+.Illustration
+====
+satipaṭṭhānā
+
+bases of mindfulness, Satipaṭṭhāna Sutta
+====
+
+____
+This is the one-destination path for the purification of beings...
+
+_ekāyano ayaṃ bhikkhave maggo sattānaṃ visuddhiyā..._
+____
+
+____
+namely, the [contemplation of the] four bases of mindfulness
+
+_yadidaṃ cattāro satipaṭṭhānā_
+____
+
+____
+What four?
+
+_katame cattāro_
+____
+
+____
+In this regard a bhikkhu abides contemplating the nature of the body
+
+_idha bhikkhave bhikkhu kāye kāyānupassī viharati_
+____
+
+____
+the nature of sense impressions
+
+_vedanāsu vedanānupassī viharati_
+____
+
+____
+the nature of the mind
+
+_citte cittānupassī viharati_
+____
+
+[quote, S.5.141]
+____
+the nature of certain objects of the systematic teachings
+
+_dhammesu dhammānupassī viharati._
+____
+
+.Illustration
+====
+satipaṭṭhānaṃ
+
+basic practice of mindfulness, Vibhaṅga Sutta
+====
+
+____
+Bhikkhus, I will teach you the basic practice of mindfulness, and the 
+development of the basic practice of mindfulness, and the practice leading to 
+the development of the basic practice of mindfulness. Please listen...
+
+_Satipaṭṭhānañca vo bhikkhave desissāmi satipaṭṭhānaṃ 
+bhāvanañca satipaṭṭhānabhāvanāgāminiñca paṭipadaṃ. Taṃ 
+suṇātha._
+____
+
+____
+And what is the basic practice of mindfulness?
+
+_Katamañca bhikkhave satipaṭṭhānaṃ_
+____
+
+____
+In this regard a bhikkhu abides contemplating the nature of the body, 
+vigorously, fully consciously, and mindfully, having eliminated greed and 
+dejection in regard to the world [of phenomena].
+
+_idha bhikkhave bhikkhu kāye kāyānupassī viharati ātāpī sampajāno 
+satimā vineyya loke abhijjhādomanassaṃ_
+____
+
+____
+He abides contemplating the nature of sense impressions... the nature of the 
+mind... the nature of certain objects of the systematic teachings, vigorously, 
+fully consciously, and mindfully, having eliminated greed and dejection in 
+regard to the world [of phenomena].
+
+_Vedanāsu vedanānupassī... Dhammesu dhammānupassī viharati ātāpī 
+sampajāno satimā vineyya loke abhijjhādomanassaṃ._
+____
+
+____
+This is called the basic practice of mindfulness.
+
+_Idaṃ vuccati bhikkhave satipaṭṭhānaṃ._
+____
+
+____
+And what is the development of the basic practice of mindfulness?
+
+_Katamā ca bhikkhave satipaṭṭhānabhāvanā_
+____
+
+____
+In this regard a bhikkhu abides contemplating [co-conditional] origination in 
+relation to the body, vigorously, fully consciously, and mindfully, having 
+eliminated greed and dejection in regard to the world [of phenomena].
+
+_idha bhikkhave bhikkhu samudayadhammānupassī kāyasmiṃ viharati ātāpī 
+sampajāno satimā vineyya loke abhijjhādomanassaṃ._
+____
+
+____
+He abides contemplating [co-conditional] disappearance in relation to the body, 
+vigorously, fully consciously, and mindfully, having eliminated greed and 
+dejection in regard to the world [of phenomena]
+
+_Vayadhammānupassī kāyasmiṃ viharati ātāpī sampajāno satimā vineyya 
+loke abhijjhādomanassaṃ._
+____
+
+____
+He abides contemplating [co-conditional] origination and disappearance in 
+relation to the body, vigorously, fully consciously, and mindfully, having 
+eliminated greed and dejection in regard to the world [of phenomena].
+
+_Samudayavayadhammānupassī kāyasmiṃ viharati ātāpī sampajāno satimā 
+vineyya loke abhijjhādomanassaṃ._
+____
+
+He abides contemplating [co-conditional] origination in relation to sense 
+impression... the mind... objects of the systematic teachings...
+
+____
+This is called the development of the basic practice of mindfulness.
+
+_Ayaṃ vuccati bhikkhave satipaṭṭhānabhāvanā._
+____
+
+____
+And what is the practice leading to the development of the basic practice of 
+mindfulness?
+
+_Katamā ca bhikkhave satipaṭṭhānabhāvanāgāminī paṭipadā_
+____
+
+[quote, S.5.183]
+____
+It is this noble eightfold path, namely: right perception [of reality]... right 
+inward collectedness.
+
+_ayameva ariyo aṭṭhaṅgiko maggo. Seyyathīdaṃ sammādiṭṭhi 
+sammāsamādhi._
+____
+
+.Illustration
+====
+satipaṭṭhānā
+
+opportunities for mindfulness, Saḷāyatanavibhaṅga Sutta
+====
+
+____
+There are three opportunities for mindfulness that a Noble One undertakes, 
+undertaking which a Noble One is a teacher fit to instruct a group.
+
+_Tayo satipaṭṭhānā yadariyo sevati yadariyo sevamāno satthā 
+gaṇamanusāsitumarahati ti_
+____
+
+In this regard, out of tender concern for their welfare, the Teacher explains 
+his teaching to disciples, saying 'This is for your welfare and happiness.'
+
+Either
+
+1. All disciples do not listen
+
+2. Some do not listen, some do
+
+3. All disciples listen
+
+With that the Perfect One:
+
+1. is not pleased and feels no pleasure. He abides free of defilement, mindful, 
+and fully conscious.
++
+****
+_na ceva attamano hoti na ca attamanataṃ paṭisaṃvedeti. Anavassuto ca 
+viharati sato sampajāno._
+****
+
+2. is neither pleased or displeased and feels no pleasure or displeasure. Freed 
+of both pleasure and displeasure, he abides serene, mindful, and fully 
+conscious.
++
+****
+_na ceva attamano hoti na ca attamanataṃ paṭisaṃvedeti na ca anattamano 
+hoti na ca anattamanataṃ paṭisaṃvedeti. Attamanatañca anattamanatañca 
+tadūbhayaṃ abhinivajjetvā so upekkhako viharati sato sampajāno._
+****
+
+3. is pleased and feels pleasure. He abides free of defilement, mindful, and 
+fully conscious.
++
+****
+_attamano ceva hoti attamanatañca paṭisaṃvedeti. Anavassuto ca viharati 
+sato sampajāno._
+****
+
+This is called
+
+1. the first opportunity for mindfulness that a Noble One undertakes, 
+undertaking which a Noble One is a teacher fit to instruct a group.
++
+****
+_Idaṃ bhikkhave paṭhamaṃ satipaṭṭhānaṃ yadariyo sevati yadariyo 
+sevamāno satthā gaṇamanusāsitumarahati._
+****
+
+2. the second opportunity for mindfulness that a Noble One undertakes, 
+undertaking which a Noble One is a teacher fit to instruct a group._ +
+☸ Idaṃ vuccati bhikkhave dutiyaṃ satipaṭṭhānaṃ yadariyo sevati 
+yadariyo sevamāno satthā gaṇamanusāsitumarahati._
+
+3. the third opportunity for mindfulness that a Noble One undertakes, 
+undertaking which a Noble One is a teacher fit to instruct a group.
++
+****
+_Idaṃ vuccati bhikkhave tatiyaṃ satipaṭṭhānaṃ yadariyo sevati 
+yadariyo sevamāno satthā gaṇamanusāsitumarahati_ (M.3.221-2).
+****
+
+.Illustration
+====
+satipaṭṭhānaṃ
+
+basic practice of mindfulness, Sedaka Sutta
+====
+
+____
+"If one wishes to protect oneself, one should undertake the basic practice of 
+mindfulness.
+
+_Attānaṃ bhikkhave rakkhissāmī ti satipaṭṭhānaṃ sevitabbaṃ_
+____
+
+____
+If one wishes to protect others, one should undertake the basic practice of 
+mindfulness.
+
+_paraṃ rakkhissāmī ti satipaṭṭhānaṃ sevitabbaṃ_
+____
+
+[quote, S.5.169]
+____
+Protecting oneself, one protects others. Protecting others, one protects 
+oneself."
+
+_attānaṃ bhikkhave rakkhanto paraṃ rakkhati paraṃ rakkhanto attānaṃ 
+rakkhatī ti._
+____
+

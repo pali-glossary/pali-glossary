@@ -1,0 +1,189 @@
+== Capala
+
+=== Renderings
+
+- _capala_: fidgety
+
+- _capala_: fluttery
+
+- _capala_: puffed up
+
+=== Introduction
+
+==== Capala: two meanings
+
+Opinion is divided regarding the meaning of _capala_.
+
+- PED says: 'moving to and fro, wavering, trembling, unsteady, fickle.'
+
+- Bodhi says: vain (A.3.391); personally vain (M.1.470);
+
+- Norman says: vain (Th.v.157); unsteady (Dh.v.33).
+
+Thus PED says movement, Bodhi says vanity, and Norman says both. And so do we, 
+but in three words: fidgety, fluttery, and puffed up.
+
+==== Introduction: uddhacca and capala
+
+Both _uddhata_ and _capala_ which frequently occur together, have double 
+meanings. See Glossary sv _Uddhacca_. Their double meanings mirror each other, 
+and can grouped as follows:
+
+Group 1:
+
+- _uddhata_: restless
+
+- _capala_: fidgety/ fluttery
+
+Group 2:
+
+- _uddhata_: vain
+
+- _capala_: puffed up
+
+==== Double meanings of uddhata and capala: illustrated
+
+The meanings of _uddhacca_ and _capala_ can be illustrated as follows:
+
+1. _uddhata,_ restless
+
+• When one's mind is restless it is timely to develop the enlightenment 
+factors of tranquillity, inward collectedness, and detached awareness. +
+☸ _Yasmiṃ bhikkhave samaye uddhataṃ cittaṃ hoti kālo tasmiṃ samaye 
+passaddhisambojjhaṅgassa bhāvanāya_... (S.5.115).
+
+2. _capala,_ fluttery:
+
+[quote, Dh.v.33]
+____
+Like a fletcher straightens an arrow, the wise man straightens up his unsteady, 
+fluttery mind, which is hard to supervise, hard to restrain.
+
+_Phandanaṃ capalaṃ cittaṃ durakkhaṃ dunnivārayaṃ +
+Ujuṃ karoti medhāvī usukāro va tejanaṃ._
+____
+
+3. _uddhato capalo,_ vain, puffed up:
+
+[quote, Th.v.1080]
+____
+A vain, puffed up bhikkhu clothed in rag-robes does not look glorious because 
+of it. He is like a monkey in a lion-skin.
+
+_Uddhato capalo bhikkhu paṃsukūlena pāruto +
+Kapīva sīhacammena na so tenupasobhati._
+____
+
+4. _uddhato capalo,_ vain, puffed up:
+
+[quote, Th.v.157]
+____
+Because of improper contemplation I was addicted to finery. I was vain, puffed 
+up, and afflicted by lust for sensuous pleasure.
+
+_Ayoniso manasikārā maṇḍanaṃ anuyuñjisaṃ +
+Uddhato capalo cāsiṃ kāmarāgena aṭṭito._
+____
+
+=== Illustrations
+
+.Illustration
+====
+capalena
+
+fidgety
+====
+
+[quote, M.1.470]
+____
+When a forest-dwelling bhikkhu visits and lives with the monastic community he 
+should not be restless and fidgety.
+
+_Āraññakenāvuso bhikkhunā saṅghagatena saṅghe viharantena anuddhatena 
+bhavitabbaṃ acapalena._
+____
+
+.Illustration
+====
+capalā
+
+fidgety
+====
+
+[quote, A.3.355]
+____
+These bhikkhus say, "We are study bhikkhus, we are study bhikkhus," but they 
+are restless, frivolous, fidgety, talkative, garrulous, of muddled mindfulness, 
+not fully conscious, inwardly uncollected, mentally scattered, [and are 
+dwelling with] their sense faculties unrestrained [from attraction and 
+repulsion, through mindfulness].
+
+_ime pana dhammayogamhā dhammayogamhā ti uddhatā unnaḷā capalā mukharā 
+vikiṇṇavācā muṭṭhassatī asampajānā asamāhitā vibbhantacittā 
+pākatindriyā._
+____
+
+.Illustration
+====
+capalaṃ
+
+fluttery
+====
+
+[quote, Dh.v.33]
+____
+Like a fletcher straightens an arrow, the wise man straightens up his unsteady, 
+fluttery mind, which is hard to supervise, hard to restrain.
+
+_Phandanaṃ capalaṃ cittaṃ durakkhaṃ dunnivārayaṃ +
+Ujuṃ karoti medhāvī usukāro va tejanaṃ._
+____
+
+.Illustration
+====
+capalo
+
+puffed up
+====
+
+[quote, Th.v.157]
+____
+Because of improper contemplation I was addicted to finery. I was vain, puffed 
+up, and afflicted by lust for sensuous pleasure.
+
+_Ayoniso manasikārā maṇḍanaṃ anuyuñjisaṃ +
+Uddhato capalo cāsiṃ kāmarāgena aṭṭito._
+____
+
+.Illustration
+====
+capalo
+
+puffed up
+====
+
+[quote, Th.v.1080]
+____
+A vain, puffed up bhikkhu clothed in rag-robes does not look glorious because 
+of it. He is like a monkey in a lion-skin.
+
+_Uddhato capalo bhikkhu paṃsukūlena pāruto +
+Kapīva sīhacammena na so tenupasobhati._
+____
+
+.Illustration
+====
+capalā
+
+puffed up
+====
+
+[quote, Th.v.960]
+____
+With hair sleek with oil, puffed up, wearing eye-shadow, they will travel the 
+highway clad in ivory-coloured clothing.
+
+_Telasaṇṭhehi kesehi capalā añjitakkhikā +
+Rathiyāya gamissanti dantavaṇṇikapārutā._
+____
+

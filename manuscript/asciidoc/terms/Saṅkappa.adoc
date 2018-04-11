@@ -1,0 +1,484 @@
+== Saṅkappa
+
+=== Renderings
+
+- _saṅkappa_: thought
+
+- _saṅkappa_: reflection
+
+- _saṅkappa_: mind
+
+- _saṅkappa_: intent
+
+- _saṅkappa_: objective
+
+- _manasaṅkappa_: thought
+
+- _paripuṇṇasaṅkappo_: satisfied
+
+- _paripuṇṇasaṅkappo_: objective fulfilled
+
+- _sammāsaṅkappo_: right thought
+
+=== Introduction
+
+==== Introduction: saṅkappa and vitakka
+
+The following quotes show that _saṅkappa_ and _vitakka_ are synonyms:
+
+1. Unvirtuous, spiritually unwholesome thoughts (_vitakkā_) are 'flies.'... On 
+him who does not guard the senses of sight and hearing, whose sense faculties 
+are unrestrained [from attraction and repulsion, through mindfulness], his 
+thoughts (_saṅkappā_) bound up with attachment will attack him like flies.
++
+****
+_Pāpakā akusalā vitakkā makkhikā... Aguttaṃ cakkhusotasmiṃ indriyesu 
+asaṃvutaṃ makkhikā anupatissanti saṅkappā rāganissitā_ (A.1.280).
+****
+
+2. But where, carpenter, are these spiritually wholesome thoughts 
+(_saṅkappā_) stopped without remainder? Their ending is spoken of too. As to 
+this, carpenter, a bhikkhu, with the subsiding of thinking (_vitakka_) and 
+pondering... enters and abides in second jhāna. Here do these spiritually 
+wholesome thoughts (_saṅkappā_) cease without remainder.
++
+****
+_Ime ca thapati kusalasaṅkappā kuhiṃ aparisesā nirujjhanti. Nirodhopi 
+nesaṃ vutto. Idha thapati bhikkhū vitakkavicārānaṃ vūpasamā 
+ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ 
+samādhijaṃ pītisukhaṃ dutiyaṃjhānaṃ upasampajja viharati. Etthete 
+kusalasaṅkappā aparisesā nirujjhanti_ (M.2.27-8).
+****
+
+3. Whatever thought (_saṅkappaṃ_) I wish to think, I think. Whatever 
+thought I do not wish to think, I do not think. Indeed, brahman, I am master of 
+the mind in the ways of thought (_vitakkapathe_).
++
+****
+_yaṃ saṅkappaṃ ākaṅkhāmi saṅkappetuṃ taṃ saṅkappaṃ 
+saṅkappemi. Yaṃ saṅkappaṃ nākaṅkhāmi saṅkappetuṃ na taṃ 
+saṅkappaṃ saṅkappemi. Ahañhi brāhmaṇa cetovasippatto vitakkapathe_ 
+(A.2.36).
+****
+
+=== Illustrations
+
+.Illustration
+====
+saṅkappo
+
+thought
+====
+
+____
+Three spiritually unwholesome ways of thought: sensuous thought, unbenevolent 
+thought, malicious thought.
+
+_Tayo akusalasaṅkappā: kāmasaṅkappo vyāpādasaṅkappo 
+vihiṃsāsaṅkappo._
+____
+
+[quote, D.3.215]
+____
+Three spiritually wholesome ways of thought: unsensuous thought, benevolent 
+thought, compassionate thought.
+
+_Tayo kusalasaṅkappā: nekkhammasaṅkappo avyāpādasaṅkappo 
+avihiṃsāsaṅkapo._
+____
+
+.Illustration
+====
+saṅkappo
+
+thought
+====
+
+____
+Because of mental imagery of visible objects, thought of visible objects arises
+
+_rūpasaññaṃ paṭicca uppajjati rūpasaṅkappo_
+____
+
+[quote, S.2.144]
+____
+Because of thought of visible objects, desire for visible objects arises
+
+_rūpasaṅkappaṃ paṭicca uppajjati rūpacchando._
+____
+
+.Illustration
+====
+saṅkappo
+
+thought
+====
+
+[quote, A.5.218]
+____
+For one who has right thought, wrong thought is purged away, and those many 
+unvirtuous, spiritually unwholesome factors that arise due to wrong thought, 
+those also are purged away from him, while those many spiritually wholesome 
+factors that arise due to right thought reach perfection through spiritual 
+cultivation.
+
+_Sammāsaṅkappassa bhikkhave micchāsaṅkappo viritto hoti ye ca 
+micchāsaṅkappapaccayā aneke pāpakā akusalā dhammā sambhavanti te cassa 
+virittā honti. Sammāsaṅkappa paccayā ca aneke kusalā dhammā bhāvanā 
+pāripūriṃ gacchanti._
+____
+
+.Illustration
+====
+saṅkappo
+
+thought
+====
+
+[quote, D.2.217]
+____
+From right perception [of reality] arises right thought; from right thought 
+arises right speech.
+
+_Sammādiṭṭhissa bho sammāsaṅkappo pahoti sammāsaṅkappassa 
+sammāvācā pahoti sammāvācassa sammākammanto pahoti._
+____
+
+.Illustration
+====
+saṅkappo
+
+thought
+====
+
+[quote, M.1.402]
+____
+Since there is indeed a world beyond, one who thinks 'There is no world beyond' 
+has wrong thought.
+
+_santaṃ yeva kho pana paraṃ lokaṃ natthi paro loko ti saṅkappeti 
+svāssa hoti micchāsaṅkappo._
+____
+
+.Illustration
+====
+saṅkappa
+
+thought
+====
+
+____
+In whatever direction the one of extensive wisdom goes, in that very direction 
+I am inclined also to go.
+
+_Yaṃ yaṃ disaṃ vajati bhūripañño sa tena teneva nato'hamasmi._
+____
+
+[quote, Sn.v.1143-4]
+____
+But I am old and feeble, therefore my body does not go there, but I go 
+constantly through the mechanism of thought, for my mind, brahman, is joined to 
+him.
+
+_Jiṇṇassa me dubbalathāmakassa teneva kāyo na paleti tattha +
+Saṅkappayantāya vajāmi niccaṃ mano hi me brāhmaṇa tena yutto._
+____
+
+.Illustration
+====
+manasaṅkappo
+
+thought
+====
+
+[quote, M.3.49]
+____
+He has an unbenevolent mind and hateful thoughts: "May those beings be killed, 
+slaughtered, annihilated, or destroyed, or may they not exist at all."
+
+_vyāpannacitto kho pana hoti paduṭṭhamanasaṅkappo. Ime sattā haññantu 
+vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun ti._
+____
+
+.Illustration
+====
+manasaṅkappo
+
+thought
+====
+
+[quote, Th.v.972]
+____
+But one who is perfect in virtue, free of attachment, inwardly collected, and 
+whose thoughts are pure, is indeed worthy of the ochre [robe].
+
+_Yo ca sīlena sampanno vītarāgo samāhito +
+Odātamanasaṅkappo sa ve kāsāvamarahati._
+____
+
+.Illustration
+====
+saṅkappa
+
+reflection (=parivitakko)
+====
+
+[quote, A.4.235]
+____
+Knowing my reflection (_saṅkappa_), the Teacher, unsurpassed in the world, 
+through his psychic power approached me with a mind-made body.
+
+_Mama saṅkappamaññāya satthā loke anuttaro +
+Manomayena kāyena iddhiyā upasaṅkami._
+____
+
+Comment:
+
+____
+The Anuruddha Sutta says while Venerable Anuruddha was alone in solitary 
+retreat, this reflection (_parivitakko_) arose in his mind.
+
+_Atha kho āyasmato anuruddhassa rahogatassa paṭisallīnassa evaṃ cetaso 
+parivitakko udapādi_
+____
+
+____
+'This teaching is for those of few needs, not for those who are full of needs' 
+etc
+
+_Appicchassāyaṃ dhammo nāyaṃ dhammo mahicchassa_
+____
+
+And the other eight thoughts of a Great Man (_aṭṭha mahā purisavitakkā_) 
+(A.4.228).
+
+.Illustration
+====
+saṅkappā
+
+mind
+====
+
+[quote, D.2.120]
+____
+Bhikkhus, be diligently applied [to the practice], be mindful, virtuous, and 
+have well-collected minds. Supervise your minds [with mindfulness].
+
+_Appamattā satimanto susīlā hotha bhikkhavo +
+Susamāhitasaṅkappā sacittamanurakkhatha._
+____
+
+Compare:
+
+[quote, S.4.125]
+____
+The mind is collected and concentrated.
+
+_samāhitaṃ cittaṃ ekaggaṃ._
+____
+
+.Illustration
+====
+saṅkappo
+
+mind
+====
+
+[quote, A.2.23]
+____
+He who with restless mind talks much frivolous speech, whose mind is 
+uncollected, who takes no delight in the true teaching, is a fool.
+
+_Yo uddhatena cittena samphañca bahubhāsati +
+Asamāhitasaṅkappo asaddhammarato mago._
+____
+
+Compare:
+
+[quote, M.1.105]
+____
+uncollected mind
+
+_asamāhitañca cittaṃ._
+____
+
+.Illustration
+====
+saṅkappo
+
+intent
+====
+
+[quote, Dh.v.74]
+____
+Let both householders and ascetics think this was done by me. Let them be under 
+my will in whatever their duties. Such is the intent of the fool. His desire 
+and conceit grow.
+
+_Mameva kataṃ maññantū gihī pabbajitā ubho +
+Mameva ativasā assu kiccākiccesu kismiñci +
+Iti bālassa saṅkappo icchā māno ca vaḍḍhati._
+____
+
+.Illustration
+====
+saṅkappo
+
+objective
+====
+
+[quote, D.2.287]
+____
+Long I wandered, objective unfulfilled, doubtful and uncertain [about the way 
+of spiritual fulfilment, and of unfulfilment], in quest of the Perfect One.
+
+_Apariyositasaṅkappo vicikiccho kathaṅkathī +
+Vicariṃ dīghamaddhānaṃ anvesanto tathāgataṃ._
+____
+
+.Illustration
+====
+saṅkappo
+
+objective
+====
+
+[quote, D.2.224]
+____
+He has fulfilled the objectives and aspirations related to the fundamental 
+principles of the religious life.
+
+_pariyositasaṅkappo ajjhāsayaṃ ādibrahmacariyaṃ._
+____
+
+.Illustration
+====
+saṅkappā
+
+objective
+====
+
+[quote, Th.v.60]
+____
+The objectives I had as my goal when I entered my hut have been accomplished.
+
+_Te me ijjhaṃsu saṅkappā yadattho pavisiṃ kuṭiṃ._
+____
+
+.Illustration
+====
+saṅkappo
+
+objective
+====
+
+[quote, Vin.3.73]
+____
+If a bhikkhu intentionally deprives a human being of life or provides him with 
+a means to die or glorifies the beauty of death or encourages him to die, 
+saying "My good fellow, what use to you is this wretched and difficult life? 
+Death for you is better than life"; or with this thought and objective in mind 
+glorifies in various ways the beauty of death, or encourages him to die, he is 
+pārājika, no longer in communion.
+
+_Yo pana bhikkhu sañcicca manussaviggahaṃ jīvitā voropeyya 
+satthahārakaṃ vāssa pariyeseyya maraṇavaṇṇaṃ vā saṃvaṇṇeyya 
+maraṇāya vā samādapeyya: ambho purisa kiṃ tuyhaminā pāpakena 
+dujjīvitena matante jīvitā seyyo ti iti cittamano cittasaṅkappo 
+anekapariyāyena maraṇavaṇṇaṃ vā saṃvaṇṇeyya maraṇāya vā 
+samādapeyya ayampī pārājiko hoti asaṃvāso ti._
+____
+
+The Word Commentary says:
+
+[quote, Vin.3.74]
+____
+Objective in mind: aware of death, wishing for death, intending death
+
+_cittasaṅkappo ti maraṇasaññī maraṇacetano maraṇādhippāyo._
+____
+
+.Illustration
+====
+paripuṇṇasaṅkappo
+
+objectives are fulfilled
+====
+
+[quote, Th.v.546]
+____
+I am one whose objectives are fulfilled, like the full moon on the fifteenth 
+day [of the half-month]. All my perceptually obscuring states are destroyed. 
+There are now [for me] no renewed states of individual existence.
+
+_Sohaṃ paripuṇṇasaṅkappo cando pannaraso yathā +
+Sabbāsavaparikkhīṇo natthi dāni punabbhavo ti._
+____
+
+.Illustration
+====
+paripuṇṇasaṅkappā
+
+objectives fulfilled
+====
+
+[quote, M.3.276]
+____
+Although these bhikkhunīs were pleased with Nandaka's explanation of the 
+teaching, their objectives were not fulfilled...
+
+_tā bhikkhuniyo nandakassa dhammadesanāya attamanā ceva honti no ca kho 
+paripuṇṇasaṅkappā ti._
+____
+
+.Illustration
+====
+paripuṇṇasaṅkappo
+
+satisfied
+====
+
+[quote, S.1.80]
+____
+When one is pleased and satisfied with certain visible objects, then one does 
+not desire any other visible object higher or more sublime that those visible 
+objects._
+
+_Yehi ca yo rūpehi attamano hoti paripuṇṇasaṅkappo so tehi rūpehi 
+aññaṃ rūpaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti._
+____
+
+.Illustration
+====
+paripuṇṇasaṅkappā
+
+satisfied
+====
+
+[quote, D.2.236]
+____
+The six _khattiyas_ were delighted and satisfied with their respective gains: 
+'What we wanted, desired, aimed at and strove for, we have got.'
+
+_atha kho bho te cha khattiyā yathāsakena lābhena attamanā ahesuṃ 
+paripuṇṇasaṅkappā yaṃ vata no ahosi icchitaṃ yaṃ ākaṅkhitaṃ 
+yaṃ adhippetaṃ yaṃ adhipatthitaṃ taṃ no laddhanti._
+____
+
+.Illustration
+====
+paripuṇṇasaṅkappo
+
+satisfied
+====
+
+[quote, A.5.92]
+____
+A woman or man examining the facial image in the mirror would endeavour to 
+remove a speck or stain. When he no longer sees it he is pleased and satisfied, 
+thinking, 'How wonderful indeed for me. I am indeed clean.'
+
+_No ce tattha passati rajaṃ vā aṅgaṇaṃ vā tenevattamano hoti 
+paripuṇṇasaṅkappo lābhā vata me paripuṇṇaṃ vata me ti._
+____
+

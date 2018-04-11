@@ -1,0 +1,1104 @@
+== Kamma
+
+=== Renderings
+
+- _kamma_: conduct
+
+- _kamma_: deed
+
+- _kamma_: accumulated merit
+
+- _kamma_: accumulated demerit
+
+- _kamma_: karmically consequential conduct
+
+- _kamma_: the operation of the karmic mechanism
+
+- _kamma_: legal act of an assembly of bhikkhus
+
+- _kaṇhakamma_: accumulated demerit
+
+- _pāpakamma_: accumulated demerit
+
+=== Introduction
+
+==== Kamma: conduct
+
+_Kamma_ often means 'conduct' or 'deed'. For example:
+
+[quote, A.2.69-70]
+____
+A noble disciple is endowed with blameless bodily conduct.
+
+_anavajjena kāyakammena samannāgato hoti._
+____
+
+[quote, Sn.v.230-232]
+____
+Although he may do an unvirtuous deed by body, speech, or mind, he is incapable 
+of hiding it.
+
+_Kiñcāpi so kammaṃ karoti pāpakaṃ kāyena vācā uda cetasā vā +
+Abhabbo so tassa paṭicchādāya._
+____
+
+==== Kamma: the operation of the karmic mechanism
+
+_Kamma_ can mean 'the operation of the karmic mechanism,' called _kammayanta_ 
+at quotes below, Th.v.574 and Th.v.419.
+
+____
+He is superstitious. He believes in luck, not in the operation of the karmic 
+mechanism.
+
+_kotuhalamaṅgaliko hoti maṅgalaṃ pacceti no kammaṃ_
+____
+
+[quote, A.3.206]
+____
+He is not superstitious. He believes in the operation of the karmic mechanism, 
+not in luck.
+
+_akotuhalamaṅgaliko hoti kammaṃ pacceti no maṅgalaṃ._
+____
+
+Because merit and demerit is accumulated, it means that all but arahants are 
+caught in the operation of the karmic mechanism:
+
+[quote, Th.v.574]
+____
+Thus does [one who is attached to] the [human] body take his course, driven by 
+the operation of the karmic mechanism
+
+_Evāyaṃ vattate kāyo kammayantena yantito._
+____
+
+[quote, Th.v.419]
+____
+By destroying the origin of ignorance [of things according to reality], [the 
+eightfold path, _ariyo aṭṭhaṅgiko maggo_, Th.v.421] is a destroyer of the 
+operation of the karmic mechanism.
+
+_Aññāṇamūlabhedāya kammayantavighāṭano._
+____
+
+PED (sv _yanta_) for _kammayanta_ (Th.v.419) gives 'the machinery of Kamma,' 
+and (sv _yantita_) renders _kammayantena_ (Th.v.574) as 'impelled by the 
+machinery of Karma.'
+
+==== Kamma: the field
+
+_Kamma_ is sometimes called 'the field,' which we take to mean 'the [field of] 
+operation of the karmic mechanism':
+
+- Thus Ānanda,
+
+____
+... the [field of] operation of the karmic mechanism is the field.
+
+_kammaṃ khettaṃ_
+____
+
+____
+...the stream of sense consciousness, the seed.
+
+_viññāṇaṃ bījaṃ_
+____
+
+____
+... craving, the moisture.
+
+_taṇhā sneho._
+____
+
+____
+... For beings [obstructed by] uninsightfulness into reality, and [tethered to 
+individual existence] by craving.
+
+_avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ_
+____
+
+____
+... the stream of sense consciousness is established in the low plane of 
+existence.
+
+_hīnāya dhātuyā viññāṇaṃ patiṭṭhitaṃ_
+____
+
+[quote, A.1.223-4]
+____
+... In this way renewed states of individual existence and rebirth occur in the 
+future.
+
+_evaṃ āyatiṃ punabbhavābhinibbatti hoti._
+____
+
+==== English word karma
+
+Karma means:
+
+- the principle of retributive justice determining a person's state of life and 
+the state of his reincarnations as the effect of his past deeds
+
+- the doctrine of inevitable consequence
+
+- destiny or fate (Collins Dictionary).
+
+We therefore avoid using the term because of the connotations of fatalism or 
+fate. Nonetheless, we use 'karmic'.
+
+==== Merit and demerit: upacita
+
+Where kamma is 'accumulated' (_upacita_) it stands for merit or demerit. For 
+example:
+
+[quote, Vin.2.193]
+____
+This is the first time that demerit whose consequence comes without delay has 
+been accumulated by Devadatta.
+
+_idaṃ bhikkhave devadattena paṭhamaṃ ānantariyakammaṃ upacitaṃ._
+____
+
+[quote, D.2.136]
+____
+Venerable Cunda the metalworker has accumulated merit that is conducive to long 
+life
+
+_Āyusaṃvattanikaṃ āyasmatā cundena kammāraputtena kammaṃ upacitaṃ._
+____
+
+==== The arahant: no further karmically consequential conduct
+
+The arahant does not undertake karmically consequential deeds:
+
+____
+-- What do you think, bhikkhus: can a bhikkhu whose _āsavas_ are destroyed 
+(_khīṇāsavo bhikkhu_) undertake a karmically consequential deed that is 
+meritorious, demeritorious, or karmically neutral?
+
+_puññābhisaṅkhāraṃ vā abhisaṅkhareyya apuññābhisaṅkhāraṃ vā 
+abhisaṅkhareyya āneñjābhisaṅkhāraṃ vā abhisaṅkhareyyā ti_
+____
+
+-- No, bhante (S.2.83).
+
+==== The arahant: destruction of merit and demerit
+
+The scriptures sometimes suggest the arahant has destroyed all merit and 
+demerit. For example:
+
+[quote, Th.v.80]
+____
+Whatever karmically consequential conduct was undertaken by me, whether small 
+or great, all that [accumulated merit and demerit] is exhausted.
+
+_Yaṃ mayā pakataṃ kammaṃ appaṃ vā yadi vā bahuṃ; +
+Sabbametaṃ parikkhīṇaṃ._
+____
+
+[quote, M.2.105]
+____
+While I undertook much karmically consequential conduct of the kind which leads 
+to [rebirth in] the plane of misery, yet its karmic consequence has reached me 
+now. I enjoy my food free of karmic debt.
+
+_Tādisaṃ kammaṃ katvāna bahuṃ duggatigāminaṃ; +
+Phuṭṭho kammavipākena anaṇo bhuñjāmi bhojanaṃ._
+____
+
+Yet the scriptures also unequivocably say the opposite, that till the time of 
+their death arahants continue to receive the karmic consequences of previous 
+karmically consequential conduct:
+
+[quote, A.3.414]
+____
+The bhikkhu... who is free of perceptually obscuring states... undertakes no 
+new karmically consequential conduct and nullifies previous karmically 
+consequential conduct by the gradual experience [of its consequences].
+
+_bhikkhu... anāsavaṃ... so navañca kammaṃ na karoti purāṇañca 
+kammaṃ phussa phussa vyantīkaroti._
+____
+
+[quote, S.2.64-5]
+____
+And the body, too, is to be regarded as the consequences of previous karmically 
+consequential conduct, even for arahants.
+
+_kāyo... purāṇamidaṃ bhikkhave kammaṃ... daṭṭhabbaṃ._
+____
+
+Therefore when the scriptures say arahants have exhausted their merit and 
+demerit, it either means:
+
+1. that they will have done so by the time of their final passing, or
+
+2. that when accumulated merit and demerit is exhausted, there still remains 
+the consequences of that merit and demerit.
+
+==== The non-returner and demerit
+
+A non-returner receives within his very lifetime all unpleasant karmic 
+consequences of past conduct:
+
+[quote, A.5.300]
+____
+Whatever demeritorious karmically consequential conduct was previously 
+undertaken by this [wretched human] body born of deeds, all [the consequences 
+of] that must be experienced now [in this lifetime]; it will not [be able to] 
+arise hereafter.' Thus developed, the liberation [from perceptually obscuring 
+states] through [unlimited, all-encompassing] goodwill leads to 
+non-returnership for a wise bhikkhu here who has not penetrated to a more 
+exalted liberation.
+
+_yaṃ kho me idha kiñcī pubbe iminā karajakāyena pāpakammaṃ kataṃ 
+sabbaṃ taṃ idha vedanīyaṃ na taṃ anugaṃ bhavissatī ti. Evaṃ 
+bhāvitā kho bhikkhave mettācetovimutti anāgāmitāya saṃvattati idha 
+paññassa bhikkhuno uttariṃ vimuttiṃ appaṭivijjhato._
+____
+
+A non-returner is therefore left to receive after death only pleasant karmic 
+consequences.
+
+==== Nullifying karmically consequential deeds
+
+Karmically consequential deeds are nullified by experiencing their karmic 
+consequence, a process described in these quotes:
+
+[quote, A.5.292]
+____
+'I declare that there can be no nullification of karmically consequential deeds 
+which have been intentionally undertaken and karmically accumulated without 
+experiencing [their karmic consequences], either in this life, or on rebirth, 
+or in some other subsequent [existence].'
+
+_Nāhaṃ bhikkhave sañcetanikānaṃ kammānaṃ katānaṃ upacitānaṃ 
+appaṭisaṃviditvā vyantībhāvaṃ vadāmi. Tañca kho diṭṭhe vā 
+dhamme upapajje vā apare vā pariyāye._
+____
+
+[quote, A.2.198]
+____
+Previous karmically consequential conduct is nullified by the gradual 
+experience [of its consequences]
+
+_purāṇañca kammaṃ phussa phussa vyantīkaroti._
+____
+
+==== The four types of deeds
+
+There are four types of deeds. The first three types are:
+
+- dark (_kammaṃ kaṇhaṃ_)
+
+- bright (_kammaṃ sukkaṃ_),
+
+- dark-and-bright (_kammaṃ kaṇhasukkaṃ_) (M.1.389).
+
+Here, 'dark' means 'a hostile karmically consequential deed' (_savyāpajjhaṃ 
+kāyasaṅkhāraṃ... vacīsaṅkhāraṃ... manosaṅkhāraṃ 
+abhisaṅkharoti_, M.1.391) and 'bright' means 'an unhostile karmically 
+consequential deed' (_avyāpajjhaṃ_ M.1.391).
+
+The karmic consequences of such deeds are also dark, bright, or dark-and-bright 
+(_kaṇhavipākaṃ sukkavipākaṃ kaṇhasukkavipākaṃ_) where 'dark' means 
+hostile sense impression (_savyāpajjhaṃ vedanaṃ_ M.1.389) and 'bright' 
+means unhostile sense impression (_avyāpajjhaṃ vedanaṃ_ M.1.390).
+
+For those wishing to escape karmically consequential conduct there is a fourth 
+type of deed called 'neither-dark-nor-bright' (_kammaṃ akaṇhaṃ 
+asukkaṃ_) which leads to the destruction of karmically consequential conduct 
+(_kammakkhayāya saṃvattati_). This deed involves
+
+1. The intentionality to abandon karmically consequential conduct that is dark 
+with dark karmic consequences
++
+****
+_yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ tassa pahānāya yā cetanā_
+****
+
+2. The intentionality to abandon karmically consequential conduct that is 
+bright with bright karmic consequences
++
+****
+_yampidaṃ kammaṃ sukkaṃ sukkavipākaṃ tassa pahānāya yā cetanā_
+****
+
+3. The intentionality to abandon karmically consequential conduct that is 
+dark-and-bright with dark-and-bright karmic consequences.
++
+****
+_yampidaṃ kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ tassa pahānāya 
+yā cetanā_ (M.1.391).
+****
+
+[quote, M.1.391]
+____
+This is called conduct that is neither-dark-nor-bright with 
+neither-dark-nor-bright karmic consequences that leads to the destruction of 
+karmically consequential conduct.
+
+_idaṃ vuccati puṇṇa kammaṃ akaṇhaṃ asukkaṃ 
+akaṇhāsukkavipākaṃ kammakkhayāya saṃvattati._
+____
+
+The seven enlightenment factors are such conduct (_kammaṃ kammakkhayāya 
+saṃvattati,_ A.2.237). So is the eightfold path (_sammādiṭṭhi... 
+sammāsamādhī,_ A.2.237).
+
+==== On making the suttas incomprehensible
+
+The sutta we have just quoted can be made incomprehensible, if, instead of 
+saying one should abandon karmically consequential conduct, the sutta is 
+rendered to say that one should 'abandon all conduct, whether dark or bright.' 
+This would contradict much of the Buddha's teaching, which constantly praises 
+the cultivation of good conduct:
+
+• The refraining from everything unvirtuous; the undertaking of what is 
+spiritually wholesome... this is the training system of the Buddhas. +
+☸ _sabbapāpassa akaraṇaṃ kusalassa upasampadā... etaṃ buddhānaṃ 
+sāsanaṃ_ ... (Dh.v.183).
+
+[quote, It.14-16]
+____
+Do not be afraid of acts of merit. This is called pleasant, desirable, 
+likeable, agreeable, and pleasing, namely meritorious deeds
+
+_Mā bhikkhave puññānaṃ bhāyittha sukhassetaṃ bhikkhave adivacanaṃ 
+iṭṭhassa kantassa piyassa manāpassa yadidaṃ puññāni._
+____
+
+==== Merit is not obstructive
+
+Although non-greed, non-hatred, and discernment of reality are bases for the 
+arising of [meritorious] deeds (_alobho... adoso... amoho nidānaṃ 
+kammānaṃ samudayāya_), when greed, hatred, and undiscernment of reality 
+disappear, that merit is abandoned (_lobhe... dose... mohe vigate evaṃ taṃ 
+kammaṃ pahīṇaṃ hoti_, A.1.134-5). If it was not abandoned, then merit 
+would prevent one's final liberation, because:
+
+[quote, A.5.292]
+____
+I declare that there is no putting an end to suffering without experiencing the 
+consequences of karmically consequential deeds which have been intentionally 
+undertaken and karmically accumulated.
+
+_Na tvevāhaṃ bhikkhave sañcetanikānaṃ kammānaṃ katānaṃ 
+upacitānaṃ appaṭisaṃviditvā dukkhassantakiriyaṃ vadāmi._
+____
+
+==== Kamma in disciplinary procedures
+
+In the context of discipline, _kamma_ means 'legal act of an assembly of 
+bhikkhus.'
+
+=== Illustrations
+
+.Illustration
+====
+kammena
+
+conduct
+====
+
+A noble disciple (_ariyasāvako_) is endowed with
+
+____
+blameless bodily conduct
+
+_anavajjena kāyakammena samannāgato hoti_
+____
+
+____
+blameless verbal conduct
+
+_anavajjena vacīkammena samannāgato hoti_
+____
+
+[quote, A.2.69-70]
+____
+blameless mental conduct
+
+_anavajjena manokammena samannāgato hoti._
+____
+
+.Illustration
+====
+kammaṃ
+
+conduct
+====
+
+[quote, A.2.72]
+____
+The ignorant engage in spiritually unwholesome conduct that arises from 
+attachment, hatred, and undiscernment of reality.
+
+_Rāgajañca dosajañca mohajañcāpaviddasu karonti akusalaṃ kammaṃ._
+____
+
+.Illustration
+====
+kammassa
+
+conduct/deed; kammānaṃ types of conduct
+====
+
+____
+'Of what conduct of mine is this the fruit, of what deed the karmic 
+consequence, that I now have such great spiritual power and might?'
+
+_kissa nu kho me idaṃ kammassa phalaṃ kissa kammassa vipāko yenāhaṃ 
+etarahi evaṃ mahiddhiko evaṃ mahānubhāvo ti_
+____
+
+[quote, It.14-16]
+____
+Then it occurred to me that it was the fruit and karmic consequences of three 
+types of conduct, namely giving, inward taming, and restraint [in conduct].
+
+_Tassa mayhaṃ bhikkhave etadahosi tiṇṇaṃ kho me idaṃ kammānaṃ 
+phalaṃ tiṇṇaṃ kammānaṃ vipāko yenāhaṃ etarahi evaṃ mahiddhiko 
+evaṃ mahānubhāvo ti seyyathīdaṃ dānassa damassa saṃyamassā ti._
+____
+
+.Illustration
+====
+kammaṃ
+
+deed
+====
+
+[quote, Sn.v.230-232]
+____
+Although he may do an unvirtuous deed by body, speech, or mind, he is incapable 
+of hiding it.
+
+_Kiñcāpi so kammaṃ karoti pāpakaṃ kāyena vācā uda cetasā vā +
+Abhabbo so tassa paṭicchādāya._
+____
+
+.Illustration
+====
+kammaṃ
+
+conduct
+====
+
+____
+What is conduct that is dark with dark karmic consequences?
+
+_Katamañca bhikkhave kammaṃ kaṇhaṃ kaṇhavipākaṃ?_
+____
+
+____
+In this regard, some person is a killer, a thief, an adulterer, a liar, or a 
+drinker.
+
+_Idha bhikkhave ekacco pāṇātipātī hoti adinnādāyī hoti kāmesu 
+micchācārī hoti musāvādī hoti surāmerayamajjapamādaṭṭhāyī hoti_
+____
+
+____
+And what is conduct that is bright with bright karmic consequences?
+
+_Katamañca bhikkhave kammaṃ sukkaṃ sukkavipākaṃ?_
+____
+
+[quote, A.2.234-5]
+____
+In this regard, someone refrains from killing, stealing, adultery, lying, and 
+drinking alcohol.
+
+_Idha bhikkhave ekacco pāṇātipātā paṭivirato hoti adinnādānā 
+paṭivirato hoti kāmesu micchācārā paṭivirato hoti musāvādā 
+paṭivirato hoti surāmerayamajjapamādaṭṭhānā paṭivirato hoti._
+____
+
+.Illustration
+====
+kamma
+
+deeds
+====
+
+____
+Killing is threefold, I declare: due to greed, hatred, and undiscernment of 
+reality.
+
+_Pāṇātipātampahaṃ bhikkhave tividhaṃ vadāmi lobhahetukampi 
+dosahetukampi mohahetukampi._
+____
+
+____
+Stealing is threefold, I declare: due to greed, hatred, and undiscernment of 
+reality.
+
+_Adinnādānampahaṃ bhikkhave kividhaṃ vadāmi lobhahetukampi dosahetukampi 
+mohahetukampi._
+____
+
+____
+Thus greed is a basis for the arising of karmically consequential deeds; 
+likewise hatred and undiscernment of reality.
+
+_Iti kho bhikkhave lobho kammanidānasambhavo doso kammanidānasambhavo moho 
+kammanidānasambhavo._
+____
+
+[quote, A.5.262]
+____
+The destruction of greed, hatred, and undiscernment of reality each produces 
+the destruction of a basis of karmically consequential deeds.
+
+_Lobhakkhayā kammanidānasaṅkhayo dosakkhayā kammanidānasaṅkhayo 
+mohakkhayā kammanidānasaṅkhayo ti._
+____
+
+.Illustration
+====
+kamma
+
+conduct
+====
+
+____
+Bhikkhus, not from conduct born of greed, hatred, and undiscernment of reality 
+are there devas, men, and other fortunate beings to be discerned; but 
+hell-beings, animals, ghosts, and other unfortunate beings.
+
+_Na bhikkhave lobhajena kammena dosajena kammena mohajena kammena devā 
+paññāyanti na manussā paññayanti yā vā panaññāpi kāci sugatiyo. 
+Atha kho bhikkhave lobhajena kammena dosajena kammena mohajena kammena nirayo 
+paññāyati tiracchānayoni paññāyati pettivisayo paññāyati yā vā 
+panaññāpi kāci duggatiyo._
+____
+
+[quote, A.3.338-9]
+____
+Bhikkhus, not from conduct born of non-greed, non-hatred, and discernment of 
+reality are there hell-beings, animals, ghosts, and other unfortunate beings to 
+be discerned; but devas, men, and other fortunate beings.
+
+_Na bhikkhave alobhajena kammena adosajena kammena amoha jena kammena 
+nirayopaññāyati. Tiracchānayoni paññāyati. Pettivisayo paññāyati yā 
+vā panaññāpi kāci duggatiyo. Atha kho bhikkhave alobhajena kammena 
+adosajena kammena amohajena kammena devā paññāyanti manussā paññāyanti 
+yā vā panaññāpi kāci sugatiyo._
+____
+
+.Illustration
+====
+kammaṃ
+
+conduct; kamma, karmically consequential conduct
+====
+
+____
+Conduct produced from, born of, due to, originated by greed, hatred, and 
+undiscernment of reality is spiritually unwholesome and blameworthy.
+
+_yaṃ bhikkhave lobhapakataṃ... dosapakataṃ... mohapakataṃ kammaṃ 
+mohajaṃ mohanidānaṃ mohasamudayaṃ taṃ kammaṃ akusalaṃ taṃ 
+kammaṃ sāvajjaṃ_
+____
+
+____
+It has unpleasant karmic consequences and leads to the [further] origination of 
+karmically consequential conduct. It does not lead to the ending of karmically 
+consequential conduct.
+
+_taṃ kammaṃ dukkhavipākaṃ taṃ kammaṃ kammasamudayāya saṃvattati. 
+Na taṃ kammaṃ kammanirodhāya saṃvattati._
+____
+
+____
+Conduct produced from, born of, due to, originated by non-greed, non-hatred, 
+and discernment of reality is spiritually wholesome and blameless.
+
+_yaṃ bhikkhave alobho... adoso... amohapakataṃ kammaṃ amohajaṃ 
+amohanidānaṃ amohasamudayaṃ. Taṃ kammaṃ kusalaṃ taṃ kammaṃ 
+anavajjaṃ_
+____
+
+[quote, A.1.263]
+____
+It has pleasant karmic consequences and leads to the ending of karmically 
+consequential conduct. It does not lead to the origination of karmically 
+consequential conduct.
+
+_taṃ kammaṃ sukhavipākaṃ taṃ kammaṃ kammanirodhāya. Na taṃ 
+kammaṃ kammasamudayāya saṃvattati._
+____
+
+.Illustration
+====
+kammaṃ
+
+conduct; karmically consequential conduct
+====
+
+____
+What, bhikkhus, is conduct that is neither-dark-nor-bright with 
+neither-dark-nor-bright karmic consequences that leads to the destruction of 
+karmically consequential conduct?
+
+_Katamañca bhikkhave kammaṃ akaṇhaṃ asukkaṃ akaṇhāsukkavipākaṃ 
+kammakkhayāya saṃvattati?_
+____
+
+[quote, A.2.237]
+____
+The eightfold path.
+
+_Sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo 
+sammāvāyāmo sammāsati sammāsamādhī._
+____
+
+.Illustration
+====
+kammaṃ
+
+karmically consequential conduct
+====
+
+____
+He undertakes no new karmically consequential conduct
+
+_so navañca kammaṃ na karoti_
+____
+
+[quote, A.2.197]
+____
+As to previous karmically consequential conduct, he nullifies it by the gradual 
+experience [of its consequences]
+
+_purāṇañca kammaṃ phussa phussa vyantīkaroti._
+____
+
+.Illustration
+====
+kammaṃ
+
+karmically consequential conduct
+====
+
+[quote, S.5.86-7]
+____
+With the abandonment of craving, karmically consequential conduct is abandoned. 
+With the abandonment of karmically consequential conduct, suffering is 
+abandoned.
+
+_Taṇhāya pahānā kammaṃ pahīyati. Kammassa pahānā dukkhaṃ pahīyati._
+____
+
+.Illustration
+====
+kammaṃ
+
+conduct; kamma, karmically consequential conduct
+====
+
+____
+And what is conduct that is dark with dark karmic consequences
+
+_Katamañca puṇṇa kammaṃ kaṇhaṃ kaṇhavipākaṃ_
+____
+
+____
+In this regard, some person undertakes a hostile karmically consequential deed 
+by way of body... speech... mind
+
+_idha puṇṇa ekacco savyāpajjhaṃ kāyasaṅkhāraṃ... 
+vacīsaṅkhāraṃ... manosaṅkhāraṃ abhisaṅkharoti_
+____
+
+____
+And what, Puṇṇa, is conduct that is bright with bright karmic consequences?
+
+_kammaṃ sukkaṃ sukkavipākaṃ_
+____
+
+____
+In this regard, some person undertakes an unhostile karmically consequential 
+deed by way of body... speech... mind
+
+_avyāpajjhaṃ kāyasaṅkhāraṃ... vacīsaṅkhāraṃ... 
+manosaṅkhāraṃ abhisaṅkharoti_
+____
+
+____
+What, Puṇṇa, is conduct that is neither-dark-nor-bright with 
+neither-dark-nor-bright karmic consequences that leads to the destruction of 
+karmically consequential conduct?
+
+_kammaṃ akaṇhaṃ asukkaṃ akaṇhāsukkavipākaṃ kammakkhayāya 
+saṃvattati_
+____
+
+____
+The intentionality to abandon karmically consequential conduct that is dark 
+with dark karmic consequences
+
+_yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ tassa pahānāya yā cetanā_
+____
+
+____
+or intentionality to abandon karmically consequential conduct that is bright 
+with bright karmic consequences
+
+_yampidaṃ kammaṃ sukkaṃ sukkavipākaṃ tassa pahānāya yā cetanā_
+____
+
+____
+or intentionality to abandon karmically consequential conduct that is 
+dark-and-bright with dark-and-bright karmic consequences
+
+_yampidaṃ kammaṃ kaṇhasukkaṃ kaṇhasukkavipākaṃ tassa pahānāya 
+yā cetanā_
+____
+
+[quote, M.1.391]
+____
+is conduct that is neither-dark-nor-bright with neither-dark-nor-bright karmic 
+consequences that leads to the destruction of karmically consequential conduct.
+
+_idaṃ vuccati puṇṇa kammaṃ akaṇhaṃ asukkaṃ 
+akaṇhāsukkavipākaṃ kammakkhayāya saṃvattati._
+____
+
+.Illustration
+====
+kammaṃ
+
+karmically consequential conduct/deeds
+====
+
+____
+Intentionality is karmically consequential conduct, I declare.
+
+_Cetanāhaṃ bhikkhave kammaṃ vadāmi_
+____
+
+____
+In applying intention, one undertakes karmically consequential conduct by way 
+of body, speech, or mind.
+
+_cetayitvā kammaṃ karoti kāyena vācāya manasā_
+____
+
+____
+What is the basis for the arising of karmically consequential deeds?
+
+_Katamo ca bhikkhave kammānaṃ nidānasambhavo_
+____
+
+____
+Sensation is the basis for the arising of karmically consequential deeds.
+
+_phasso bhikkhave kammānaṃ nidānasambhavo_
+____
+
+____
+What is the diversity in karmically consequential deeds?
+
+_Katamā ca bhikkhave kammānaṃ vemattatā:_
+____
+
+____
+There is a deed [whose karmic consequence is] to be experienced in hell, or as 
+an animal, a ghost, a human, or as a deva.
+
+_atthi bhikkhave kammaṃ nirayavedanīyaṃ atthi kammaṃ 
+tiracchānayonivedanīyā atthi kammaṃ pettivisayavedanīyaṃ atthi kammaṃ 
+manussalokavedanīyaṃ atthi kammaṃ devalokavedanīyaṃ._
+____
+
+____
+What is the karmic consequence of karmically consequential deeds?
+
+_Katamo ca bhikkhave kammānaṃ vipāko_
+____
+
+____
+The karmic consequence of karmically consequential deeds is threefold: that 
+which arises in this life, or on rebirth, or in some other subsequent 
+&#8203;[existence].
+
+_Tividhāhaṃ bhikkhave kammānaṃ vipākaṃ vadāmi diṭṭhevā dhamme 
+upajje vā apare vā pariyāye._
+____
+
+____
+What is the [co-conditional] ending of karmically consequential deeds?
+
+_Katamo ca bhikkhave kammanirodho_
+____
+
+[quote, A.3.415]
+____
+The ending of sensation is the ending of karmically consequential deeds.
+
+_Phassanirodho bhikkhave kammanirodho._
+____
+
+.Illustration
+====
+kammaṃ
+
+deed; kammaṃ, karmically consequential conduct
+====
+
+____
+What is previous karmically consequential conduct?
+
+_purāṇaṃ kammaṃ_
+____
+
+____
+The visual sense should be seen as [the consequence of] previous karmically 
+consequential conduct, originated, arisen from intentionality, and to be 
+necessarily experienced.
+
+_Cakkhu bhikkhave purāṇakammaṃ abhisaṅkhataṃ abhisañcetayitaṃ 
+vedaniyaṃ daṭṭhabbaṃ_
+____
+
+____
+The auditory sense... The olfactory sense... The gustatory sense... The tactile 
+sense... The mental sense should be seen as [the consequence of] previous 
+karmically consequential conduct, originated, arisen from intentionality, and 
+to be necessarily experienced.
+
+_mano purāṇakammo abhisaṅkhato abhisañcetayito vedaniyo daṭṭhabbo_
+____
+
+____
+This is called previous karmically consequential conduct.
+
+_Idaṃ vuccati bhikkhave purāṇakammaṃ._
+____
+
+____
+What is new karmically consequential conduct?
+
+_Katamañca bhikkhave navaṃ kammaṃ_
+____
+
+____
+Whatever deed one does in the present by way of body, speech, or mind.
+
+_yaṃ kho bhikkhave etarahi kammaṃ karoti kāyena vācāya manasā_
+____
+
+____
+What is the ending of karmically consequential conduct?
+
+_Katamo ca bhikkhave kammanirodho_
+____
+
+[quote, S.4.132-3]
+____
+He who attains liberation [from perceptually obscuring states] through the 
+ending of karmically consequential conduct by way of body, speech, and mind, 
+this is called the ending of karmically consequential conduct.
+
+_yo kho bhikkhave kāyakammavacīkammamanokammassa nirodhā vimuttiṃ phusati. 
+Ayaṃ vuccati bhikkhave kammanirodho._
+____
+
+.Illustration
+====
+kammānaṃ
+
+karmically consequential deeds: kammaṃ, accumulated merit
+====
+
+____
+There are three bases for the arising of karmically consequential deeds. What 
+three?
+
+_Tīṇi'māni bhikkhave nidānāni kammānaṃ samudayāya. Katamāni tīṇi:_
+____
+
+____
+Greed is a basis for the origination of karmically consequential deeds.
+
+_lobho nidānaṃ kammānaṃ samudayāya_
+____
+
+____
+Hatred is a basis for the origination of karmically consequential deeds.
+
+_doso nidānaṃ kammānaṃ samudayāya_
+____
+
+____
+Undiscernment of reality is a basis for the origination of karmically 
+consequential deeds.
+
+_moho nidānaṃ kammānaṃ samudayāya._
+____
+
+____
+Karmically consequential conduct produced from greed, born of greed, due to 
+greed, originated by greed bears fruit wherever the rebirth of one's 
+individuality occurs.
+
+_Yaṃ bhikkhave lobhapakataṃ... mohapakataṃ kammaṃ mohajaṃ 
+mohanidānaṃ mohasamudayaṃ yatthassa attabhāvo nibbattati tattha taṃ 
+kammaṃ vipaccati.._
+____
+
+____
+Wherever that karmically consequential conduct bears fruit, there one 
+experiences the karmic consequences of one's conduct, either in this life, or 
+on rebirth, or in some other subsequent [existence].
+
+_Yattha taṃ kammaṃ vipaccati tattha tassa kammassa vipākaṃ 
+paṭisaṃvedeti diṭṭhe vā dhamme upapajje vā apare vā pariyāye._
+____
+
+____
+There are three bases for the arising of karmically consequential deeds
+
+_Tīṇi'māni bhikkhave nidānāni kammānaṃ samudayāya. Katamāni tīṇi:_
+____
+
+____
+Non-greed is a basis for the origination of karmically consequential deeds.
+
+_alobho nidānaṃ kammānaṃ samudayāya_
+____
+
+____
+Non-hatred is a basis for the origination of karmically consequential deeds.
+
+_adoso nidānaṃ kammānaṃ samudayāya_
+____
+
+____
+Penetrative discernment is a basis for the origination of karmically 
+consequential deeds.
+
+_amoho nidānaṃ kammānaṃ samudayāya_
+____
+
+____
+But with the disappearance of greed, hatred, and undiscernment of reality, that 
+accumulated merit is abandoned.
+
+_lobhe... dose... mohe vigate evaṃ taṃ kammaṃ pahīṇaṃ hoti_
+____
+
+[quote, A.1.134-5]
+____
+It is chopped down at the root, completely and irreversibly destroyed, never to 
+arise again in future.
+
+_Yaṃ bhikkhave alobhapakataṃ kammaṃ alobhajaṃ alobhanidānaṃ 
+alobhasamudayaṃ lobhe vigate... dose vigate... mohe vigate evaṃ taṃ 
+kammaṃ pahīṇaṃ hoti ucchinnamūlaṃ tālāvatthukataṃ 
+anabhāvakataṃ āyatiṃ anuppādadhammaṃ._
+____
+
+Comment:
+
+If the merit of good conduct was not automatically abandoned in this way, then 
+doing good deeds would block one's final liberation because one is obliged to 
+receive the karmic consequences of all conduct.
+
+.Illustration
+====
+kamma
+
+karmically consequential conduct
+====
+
+[quote, A.3.185]
+____
+This Venerable is owner of his karmically consequential conduct, inheritor of 
+it, born of it, intimately related to it, has it as his refuge. He is the 
+inheritor of whatever karmically consequential conduct he undertakes whether 
+meritorious or demeritorious.
+
+_Kammassako ayamāyasmā kammadāyādo kammayonī kammabandhū 
+kammapaṭisaraṇo. Yaṃ kammaṃ karissati kalyāṇaṃ vā pāpakaṃ vā 
+tassa dāyādo bhavissatī ti._
+____
+
+.Illustration
+====
+kamma
+
+karmically consequential conduct
+====
+
+[quote, D.3.145-6]
+____
+He was resolute in applying himself to spiritually wholesome factors... By 
+undertaking that karmically consequential conduct, heaping it up, lavishly and 
+abundantly, with the demise of the body at death he was reborn in the realm of 
+happiness, in the heavenly worlds.
+
+_daḷhasamādāno ahosi kusalesu dhammesu... so tassa kammassa katattā 
+upacitattā ussannattā vipulantā kāyassa bhedā parammaraṇā sugatiṃ 
+saggaṃ lokaṃ upapajjati._
+____
+
+.Illustration
+====
+pāpakammā
+
+accumulated demerit; pāpaṃ pubbe kataṃ, demerit
+====
+
+A brahman told the bhikkhunī Puṇṇikā that whoever does a demeritorious 
+deed (_pāpakamma pakubbatī_) is released from the accumulated demerit by 
+water ablution (_dakābhisecanā sopi pāpakammā pamuccati_).
+
+Puṇṇikā replied that if rivers could carry off one's accumulated demerit 
+(_pāpaṃ pubbe kataṃ vahuṃ_), they would carry off one's accumulated 
+merit as well (_puññampimā vaheyyuṃ_) (Thī.v.236-251).
+
+.Illustration
+====
+pāpakammaṃ kataṃ
+
+demeritorious conduct
+====
+
+[quote, A.2.196]
+____
+Previous demeritorious conduct whose karmic consequence has not yet ripened.
+
+_pubbe pāpakammaṃ kataṃ avipakkavipākaṃ._
+____
+
+.Illustration
+====
+kaṇhakammo
+
+accumulated demerit
+====
+
+[quote, M.1.39]
+____
+The stream Bāhumatī: a fool may bathe there forever yet will not purify 
+himself of accumulated demerit.
+
+_bāhumatiṃ nadiṃ niccampi bālo pakkhanno kaṇhakammo na sujjhati._
+____
+
+.Illustration
+====
+kammaṃ
+
+legal act of an assembly of bhikkhus
+====
+
+A legal act done with an incomplete assembly of bhikkhus (_vaggakammaṃ_) is 
+invalid ('reversible, not fit to stand,' _kuppaṃ aṭṭhānārahaṃ_) 
+(Vin.1.316).
+

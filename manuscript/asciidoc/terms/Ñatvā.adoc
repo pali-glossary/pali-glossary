@@ -1,0 +1,312 @@
+== Ñatvā
+
+=== Renderings
+
+- _ñatvā_: knowing
+
+- _ñatvā_: knowing [according to reality]
+
+- _ñatvā_: recognising
+
+=== Introduction
+
+==== Ñatvā: usual meanings
+
+_Ñatvā_ is the absolutive of _jānāti_, to be rendered as either:
+
+1. knowing, or having known.
+
+2. recognising, or having recognised.
+
+==== Ñatvā+yathābhūtaṃ
+
+Sometimes _ñatvā_ is linked to _yathābhūtaṃ_, thus implying insightful 
+knowing:
+
+[quote, Dh.v.203]
+____
+&#8203;[For one] knowing this according to reality, the Untroubled is happiness 
+supreme.
+
+_Etaṃ ñatvā yathābhūtaṃ nibbānaṃ paramaṃ sukhaṃ._
+____
+
+[quote, A.4.238]
+____
+Knowing the world [of phenomena] according to reality
+
+_Lokaṃ ñatvā yathābhūtaṃ._
+____
+
+[quote, A.3.354]
+____
+Having in this way known things according to reality, his mind is completely 
+liberated [from perceptually obscuring states].
+
+_Evaṃ ñatvā yathābhūtaṃ... sammācittaṃ vimuccati._
+____
+
+==== Ñatvā+parenthesis: 'knowing [according to reality]'
+
+Where _ñatvā_ means knowing insightfully, and where _yathābhūtaṃ_ is 
+missing, it needs to be parenthesised:
+
+1. One who knows the All in every way [according to reality] is not attached to 
+anything.
++
+****
+_Yo sabbaṃ sabbato ñatvā sabbatthesu na rajjati_ (It.4).
+****
+
+2. Knowing the arising of nonexistence [according to reality], and knowing that 
+spiritually fettering delight is a tie to individual existence, knowing this 
+thus, then he sees this matter [according to reality].
++
+****
+_Ākiñcaññasambhavaṃ ñatvā nandi saṃyojanaṃ iti +
+****
+Evametaṃ abhiññāya tato tattha vipassati_ (Sn.v.1115).
+
+=== Illustrations
+
+.Illustration
+====
+ñatvā
+
+knowing
+====
+
+• In knowing a mentally known object with mindfulness muddled... +
+_Dhammaṃ ñatvā sati muṭṭhā_ (S.4.76).
+
+.Illustration
+====
+ñatvā
+
+knowing
+====
+
+[quote, Dh.v.319]
+____
+Knowing wrongdoing as wrongdoing, and innocence as innocence.
+
+_Vajjañca vajjato ñatvā avajjañca avajjato._
+____
+
+.Illustration
+====
+ñatvā
+
+knowing
+====
+
+[quote, S.1.162]
+____
+Knowing that his foe is angry
+
+_Paraṃ saṅkupitaṃ ñatvā._
+____
+
+.Illustration
+====
+ñatvā
+
+knowing
+====
+
+[quote, It.69]
+____
+Knowing the body as perishable, and consciousness as perishable,
+
+_Kāyañca bhiduraṃ ñatvā viññāṇañca pabhaṅguṇaṃ._
+____
+
+.Illustration
+====
+ñatvā
+
+knowing
+====
+
+[quote, Sn.v.9]
+____
+Knowing that everything in the world is untrue [to itself]
+
+_sabbaṃ vitathamidanti ñatvā loke._
+____
+
+.Illustration
+====
+ñatvā
+
+recognising
+====
+
+____
+'Brahmanic sacrifices glorify sights and sounds also flavours, sensuous 
+pleasures, and women.
+
+_Rūpe ca sadde ca atho rase ca +
+Kāmitthiyo cābhivadanti yaññā_
+____
+
+[quote, Vin.1.37]
+____
+'Recognising that this was a spiritual stain amidst objects of attachment I 
+lost my taste for sacrifices and offerings.'
+
+_Etaṃ malan ti upadhīsu ñatvā +
+Tasmā na yiṭṭhe na hute arañjin ti._
+____
+
+.Illustration
+====
+ñatvā
+
+recognising
+====
+
+____
+Seeing sensuous pleasures as [dangerous as] a blazing [grass torch being 
+carried against the wind], and gold pieces as [dangerous as a sharp] knife, and 
+life from the time of conception as suffering, and great danger in the 
+&#8203;[possibility of the] hells,
+
+_Kāme ādittato disvā jātarūpāni satthato +
+Gabbhavokkantito dukkhaṃ nirayesu mahabbhayaṃ._
+____
+
+[quote, Th.v.791]
+____
+Recognising this danger, I was filled with an earnest attitude [to the 
+practice].
+
+_Etamādīnavaṃ ñatvā saṃvegaṃ alabhiṃ tadā._
+____
+
+.Illustration
+====
+ñatvā
+
+recognising
+====
+
+[quote, Dh.v.22]
+____
+The wise, recognising this special quality of diligence, rejoice in it, taking 
+delight in the Noble People's sphere of personal application.
+
+_Etaṃ visesato ñatvā appamādamhi paṇḍitā +
+Appamāde pamodanti ariyānaṃ gocare ratā._
+____
+
+.Illustration
+====
+ñatvā
+
+recognising
+====
+
+[quote, Sn.v.61]
+____
+&#8203;[All of] this is bondage [to individual existence]. Here there is little 
+enjoyment and much suffering. Recognising it as a hook, the intelligent man 
+should live the religious life as solitarily as a rhinoceros horn.
+
+_Saṅgo eso parittamettha sokhyaṃ appassādo dukkhamettha bhiyyo +
+Gaḷo eso iti ñatvā mutimā eko care khaggavisāṇakappo._
+____
+
+.Illustration
+====
+ñatvā
+
+recognising
+====
+
+[quote, Sn.v.297]
+____
+'They give food, strength, a good appearance, and thus pleasure. Recognising 
+this good reason, they did not kill cows.
+
+_Annadā baladā cetā vaṇṇadā sukhadā tathā +
+Etamatthavasaṃ ñatvā nāssu gāvo haniṃsu te._
+____
+
+.Illustration
+====
+ñatvā
+
+recognising
+====
+
+[quote, Sn.v.821]
+____
+'Recognising the wretchedness of all this, the sage for his whole life 
+resolutely lives the religious life by himself. He does not pursue sexual 
+intercourse.
+
+_Etamādīnavaṃ ñatvā muni pubbāpare idha +
+Ekacariyaṃ daḷhaṃ kayirā na nisevetha methunaṃ._
+____
+
+.Illustration
+====
+ñatvā
+
+knowing [according to reality]: the nature of reality
+====
+
+[quote, Sn.v.856]
+____
+'A person for whom there is no attachment, who, knowing the nature of reality 
+&#8203;[according to reality], is not attached
+
+_Yassa nissayatā natthi ñatvā dhammaṃ anissito._
+____
+
+.Illustration
+====
+ñatvā
+
+knowing [according to reality]
+====
+
+[quote, Sn.v.911]
+____
+Knowing commonplace opinions [according to reality], he remains indifferent to 
+them, thinking, "Let other people adopt them [if they wish]."
+
+__Ñatvā ca so sammutiyo puthujjā upekkhatī uggahaṇanti maññe._
+____
+
+.Illustration
+====
+ñatvā
+
+knowing [according to reality]
+====
+
+[quote, S.1.61]
+____
+Knowing the world's unlastingness [according to reality], they put an end to 
+suffering.
+
+_Loke aniccataṃ ñatvā dukkhassantaṃ akaṃsu te._
+____
+
+.Illustration
+====
+ñatvā
+
+knowing things [according to reality]
+====
+
+[quote, Th.v.372]
+____
+Knowing things [according to reality] he would achieve states of great 
+distinction.
+
+__Ñatvā ca dhammesu visesī assa._
+____
+

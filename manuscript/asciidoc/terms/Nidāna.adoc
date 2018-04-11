@@ -1,0 +1,300 @@
+== Nidāna
+
+=== Renderings
+
+- _nidāna_: reason
+
+- _nidāna_: basis
+
+- _nidāna_: source
+
+- _nidāna_: due to
+
+- _tatonidānaṃ_: on that account
+
+=== Illustrations
+
+.Illustration
+====
+nidānaṃ
+
+reason
+====
+
+____
+For whatever the reason
+
+_yatonidānaṃ_
+____
+
+____
+that entrenched perception and conception assail a man
+
+_purisaṃ papañcasaññāsaṅkhā samudācaranti_
+____
+
+____
+if there is found nothing there to be delighted in, welcomed, or clung to
+
+_ettha ce natthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ_
+____
+
+[quote, M.1.109]
+____
+this is the end of the proclivity to attachment
+
+_esevanto rāgānusayānaṃ._
+____
+
+.Illustration
+====
+nidāna
+
+basis
+====
+
+____
+What is the basis for the arising of sensuous yearnings?
+
+_Katamo ca bhikkhave kāmānaṃ nidānasambhavo:_
+____
+
+[quote, A.3.411]
+____
+Sensation is the basis for the arising of sensuous yearnings
+
+_phasso bhikkhave kāmānaṃ nidānasambhavo._
+____
+
+.Illustration
+====
+nidāno
+
+basis
+====
+
+____
+Attachment has craving as its basis, craving as its origin; it is generated and 
+produced by craving.
+
+_upadhi taṇhānidāno taṇhāsamudayo taṇhājātiko taṇhāpabhavo_
+____
+
+[quote, S.2.108]
+____
+When there is craving, attachment arises. Without craving, attachment does not 
+arise.
+
+_taṇhāya sati upadhi hoti taṇhāya asati upadhi na hotī ti._
+____
+
+.Illustration
+====
+nidānaṃ
+
+basis
+====
+
+[quote, D.2.277]
+____
+Envy and stinginess have what is agreeable and disagreeable as their basis and 
+origin. They are generated and produced by what is agreeable and disagreeable.
+
+_Issāmacchariyaṃ kho devānaminda piyāppiyanidānaṃ piyāppiyasamudayaṃ 
+piyāppiyajātikaṃ piyāppiyapabhavaṃ._
+____
+
+.Illustration
+====
+nidānā
+
+basis
+====
+
+[quote, Sn.v.1050]
+____
+Countless kinds of suffering arise in the world with attachment as their basis.
+
+_Upadhinidānā pabhavanti dukkhā ye keci lokasmiṃ anekarūpā._
+____
+
+.Illustration
+====
+nidānaṃ
+
+basis
+====
+
+[quote, S.1.117]
+____
+How could anyone incline to sensuous pleasures who sees the basis of suffering?
+
+_Yo dukkhamaddakkhi yato nidānaṃ kāmesu so jantu kathaṃ nameyya._
+____
+
+.Illustration
+====
+nidāno
+
+source
+====
+
+____
+Where is the source of attachment and hatred?
+
+_Rāgo ca doso ca kutonidānā_
+____
+
+[quote, Sn.v.271-2]
+____
+The source of attachment and hatred is here, [in oneself].
+
+_Rāgo ca doso ca itonidāno._
+____
+
+Norman: 'from this [body] passion and hatred have their origin.'
+
+.Illustration
+====
+nidānāni
+
+bases; nidānaṃ, due to
+====
+
+____
+Greed, hatred, and undiscernment of reality are bases for the arising of 
+karmically consequential deeds.
+
+_lobho... doso... moho nidānaṃ kammānaṃ samudayāya._
+____
+
+[quote, A.1.134]
+____
+Karmically consequential conduct produced from greed, born of greed, due to 
+greed, originated by greed bears fruit wherever the rebirth of one's 
+individuality occurs.
+
+_Yaṃ bhikkhave lobhapakataṃ kammaṃ lobhajaṃ lobhanidānaṃ 
+lobhasamudayaṃ yatthassa attabhāvo nibbattati tattha taṃ kammaṃ 
+vipaccati._
+____
+
+.Illustration
+====
+nidānaṃ
+
+due to
+====
+
+[quote, A.1.263]
+____
+Conduct produced from, born of, due to, originated by greed, hatred, and 
+undiscernment of reality is spiritually unwholesome.
+
+_Yaṃ bhikkhave lobho... doso... mohapakataṃ kammaṃ mohajaṃ 
+mohanidānaṃ mohasamudayaṃ taṃ kammaṃ akusalaṃ._
+____
+
+.Illustration
+====
+nidānaṃ
+
+due to
+====
+
+____
+On account of sensuous pleasures, due to sensuous pleasures, as a consequence 
+of sensuous pleasures, simply on account of sensuous pleasures,
+
+_kāmahetu kāmanidānaṃ kāmādhikaraṇaṃ kāmānameva hetu_
+____
+
+[quote, M.1.87]
+____
+they misconduct themselves by way of body, speech, and mind.
+
+_kāyena... vācāya... manasā duccaritaṃ caranti._
+____
+
+.Illustration
+====
+nidānaṃ
+
+due to
+====
+
+[quote, M.1.305-6]
+____
+We are now experiencing painful, racking, piercing sense impression because of 
+sensuous pleasure, due to sensuous pleasure.
+
+_imehi mayaṃ kāmahetu kāmanidānaṃ dukkhā tibbā kharā kaṭukā 
+vedanā vediyāmā ti._
+____
+
+.Illustration
+====
+nidānaṃ
+
+on account of it
+====
+
+[quote, M.2.64]
+____
+Having had that pile of gold coins and bullion loaded onto carts and carried 
+away, you should have it dumped midstream in the river Ganges. For what reason? 
+Because, householder, grief, lamentation, physical pain, psychological pain, 
+and vexation will surely arise on account of it.
+
+_imaṃ hiraññasuvaṇṇassa puñjaṃ sakaṭesu āropetvā nibbāhāpetvā 
+majjhegaṅgāya nadiyā sote osīdāpeyyāsi. Taṃ kissa hetu? Uppajjissanti 
+hi te gahapati tatonidānaṃ sokaparidevadukkhadomanassupāyāsā ti._
+____
+
+.Illustration
+====
+nidānā
+
+on that account
+====
+
+[quote, M.3.66]
+____
+For one who engages in wrongful bodily conduct, it is impossible, out of the 
+question, that at death he would arise in the realm of happiness, in the 
+heavenly worlds on that account, for that reason.
+
+_Aṭṭhānametaṃ anavakāso yaṃ kāyaduccaritasamaṅgī tannidānā 
+tappaccayā kāyassa bhedā parammaraṇā sugatiṃ saggaṃ lokaṃ 
+uppajjeyya netaṃ ṭhānaṃ vijjatī ti._
+____
+
+.Illustration
+====
+nidānaṃ
+
+on that account
+====
+
+[quote, M.3.159]
+____
+If a man seeking an entrance to hidden treasure suddenly discovers five 
+entrances, elation would arise in him on that account.
+
+_Seyyathā pi anuruddhā puriso ekaṃ nidhimukhaṃ gavesanto sakideva 
+pañcanidhimukhāni adhigaccheyya tassa tatonidānaṃ ubbillaṃ uppajjeyya._
+____
+
+.Illustration
+====
+nidānaṃ
+
+on that account
+====
+
+• Suddenly, without reflecting, he would drink the beverage, he would not 
+reject it, and on that account he would meet with death or deadly pain. +
+_So taṃ pānīyakaṃsaṃ sahasā apaṭisaṅkhā piveyya na 
+paṭinissajjeyya so tatonidānaṃ maraṇaṃ vā nigaccheyya 
+maraṇamattaṃ vā dukkhaṃ_ (S.2.110).
+

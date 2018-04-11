@@ -1,0 +1,315 @@
+== Sāsana
+
+=== Renderings
+
+- _sāsana_: training system
+
+- _sāsana_: call, advice, explanation, or teaching (=__anusāsana__, in verse)
+
+=== Introduction
+
+==== Sāsana in verse: teaching
+
+In verse _sāsana_ is sometimes used as an abbreviation for _anusāsana_, and 
+so means call, advice, explanation, or teaching_._ This can be seen in the 
+following quote where _sāsanaṃ_ is equivalent to _vacanaṃ_, and is also 
+linked to _anusāsanī_:
+
+[quote, Thī.v.119-121]
+____
+Having heard Paṭācārā's words and advice... 'We have done your bidding.'
+
+_Tassā tā vacanaṃ sutvā paṭācārāya sāsanaṃ... katā te 
+anusāsanī._
+____
+
+=== Illustrations
+
+.Illustration
+====
+sāsanaṃ
+
+call (=anusāsanaṃ)
+====
+
+____
+'Bhikkhus, watch the approaching host of devas.'
+
+_Devakāyā abhikkantā te vijānātha bhikkhavo_
+____
+
+[quote, D.2.256]
+____
+Hearing the Buddha's call, the bhikkhus vigorously endeavoured to comply.
+
+_Te ca ātappamakaruṃ sutvā buddhassa sāsanaṃ._
+____
+
+.Illustration
+====
+sāsanaṃ
+
+advice (=anusāsanaṃ)
+====
+
+[quote, Sn.v.482]
+____
+It is well, Blessed One, that, having received your advice, I can thus know who 
+should consume an offering from one like me, and whom I should seek at the time 
+of alms bestowal.
+
+_Sādhāhaṃ bhagavā tathā vijaññaṃ yo dakkhiṇaṃ bhuñjeyya 
+mādisassa +
+Yaṃ yaññakāle pariyesamāno pappuyya tava sāsanaṃ._
+____
+
+COMMENT
+
+Commentary: _Tava sāsanan ti tava ovādaṃ_
+
+.Illustration
+====
+sāsanaṃ
+
+explanation (=anusāsanaṃ)
+====
+
+[quote, Sn.v.814]
+____
+Tell us of the distress, dear sir, that befalls one who is applied to sexual 
+intercourse. Having heard your explanation we will train ourselves in seclusion 
+&#8203;[from sensuous pleasures and spiritually unwholesome factors].
+
+_Methunamanuyuttassa vighātaṃ brūhi mārisa +
+Sutvāna tava sāsanaṃ viveke sikkhissāmase._
+____
+
+COMMENT
+
+Commentary: _Sutvāna tava sāsanan ti tava vacanaṃ sutvā_.
+
+.Illustration
+====
+sāsanā
+
+teachings (=anusāsanā)
+====
+
+[quote, Sn.v.1084]
+____
+Those before Gotama who explained teachings, saying how things were and how 
+they would be, all that was a matter of hearsay.
+
+_Ye me pubbe viyākaṃsu huraṃ gotamasāsanā +
+Iccāsi iti bhavissati sabbaṃ taṃ itihītihaṃ._
+____
+
+.Illustration
+====
+sāsanaṃ
+
+teaching (=anusāsanaṃ)
+====
+
+[quote, Th.v.360]
+____
+The fool listens to the teaching of the Conqueror with a critical attitude.
+
+_Upārambhacitto dummedho suṇāti jinasāsanaṃ._
+____
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, S.1.52]
+____
+Happy indeed are those human beings honouring the Sublime One, applying 
+themselves to Gotama's training system, who train in it with diligence.
+
+_Sukhitā vata te manujā sugataṃ payirupāsiya +
+Yuñjaṃ gotama sāsane appamattānusikkhareti._
+____
+
+.Illustration
+====
+sāsanaṃ
+
+training system
+====
+
+• The refraining from everything unvirtuous; the undertaking of what is 
+spiritually wholesome... this is the training system of the Buddhas. +
+☸ _sabbapāpassa akaraṇaṃ kusalassa upasampadā... etaṃ buddhānaṃ 
+sāsanaṃ_ ... (Dh.v.183).
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, M.1.445]
+____
+Bhante, I have long been one who did not fulfil the training in the Teacher's 
+training system.
+
+_So hi nūnāhaṃ bhante dīgharattaṃ satthusāsane sikkhāya 
+aparipūrakārī ahosin ti._
+____
+
+.Illustration
+====
+sāsana
+
+training system
+====
+
+[quote, M.1.129]
+____
+Bhikkhus, even if thugs should sever your limbs one by one with a two-handled 
+saw, he whose mind was thereby filled with hatred would not on that account be 
+a practiser of my training system.
+
+_Ubhatodaṇḍakena pi ce bhikkhave kakacena corā ocarakā aṅgamaṅgāni 
+okanteyyuṃ tatrāpi yo mano padūseyya na me so tena sāsanakaro._
+____
+
+.Illustration
+====
+sāsanaṃ
+
+training system
+====
+
+[quote, Thī.v.150]
+____
+The three final knowledges are attained. The Buddha's training system is not 
+&#8203;[undertaken] in vain.
+
+_Tisso vijjā anuppattā amoghaṃ buddhasāsanaṃ._
+____
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, Sn.v.570]
+____
+Within seven days we were inwardly tamed through your training system, Blessed 
+One.
+
+_Sattarattena bhagavā dantāmha tava sāsane._
+____
+
+.Illustration
+====
+sāsanaṃ
+
+training system
+====
+
+[quote, Sn.v.815]
+____
+'In one who is applied to sexual intercourse the training system is forgotten 
+and he conducts himself wrongly. This is ignoble of him.
+
+_Methunamanuyuttassa mussate vāpi sāsanaṃ +
+Micchā ca paṭipajjati etaṃ tasmiṃ anariyaṃ_
+____
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, Sn.v.993]
+____
+He should not be negligent in [practising] Gotama's training system.
+
+_sāsane gotamassa na pamajjeyya_
+____
+
+.Illustration
+====
+sāsanaṃ
+
+training system
+====
+
+[quote, Th.v.24]
+____
+The three final knowledges are attained. I have fulfilled the Buddha's training 
+system.
+
+_Tisso vijjā anuppattā kataṃ buddhassa sāsanan ti._
+____
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, Th.v.212]
+____
+Under the training system of the Perfectly Enlightened One a good person goes 
+forth [into the ascetic life] with ease
+
+_sunikkamo sādhu subuddhasāsane._
+____
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, Th.v.256]
+____
+Apply yourself to the Buddha's training system.
+
+_yuñjatha buddhasāsane._
+____
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, Th.v.377]
+____
+I went forth [into the ascetic life] under the Conqueror's training system.
+
+_pabbajiṃ jinasāsane._
+____
+
+.Illustration
+====
+sāsane
+
+training system
+====
+
+[quote, Th.v.389]
+____
+He in the training system of the King of Righteousness who has no respect for 
+his companions in the religious life is far from the Untroubled.
+
+_Yassa sabrahmacārīsu gāravo nūpalabbhati +
+Ārakā hoti nibbānā dhammarājassa sāsane._
+____
+

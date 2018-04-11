@@ -1,0 +1,183 @@
+== Padussati
+
+=== Renderings
+
+- _padussati_: to pollute (the sea)
+
+- _padussati_: to defile (the mind)
+
+- _padussati_: to be filled with hatred
+
+=== Introduction
+
+==== Padussati: two roots
+
+_Padussati_ has two roots, so two possible meanings: to defile, and to be 
+filled with hatred. Although this division is visible in the suttas (see our 
+Illustrations below), PED has overlooked this, saying:
+
+- _Padussati_ [_pa+dussati_] to do wrong, offend against, make bad, corrupt
+
+This is in spite of PED's recognising the two roots of _padosa_:
+
+1. _Padosa1_ [pa+dosa1, Sk. pradoṣa] defect, fault, blemish, badness, 
+corruption, sin
+
+2. _Padosa2_ [pa+dosa2, Sk. pradveṣa, see remarks to dosa2] anger, hatred, 
+ill--will; always as mano° "anger in mind" M I.377.
+
+==== Translating appaduṭṭhassa
+
+One result of this in the translation of _appaduṭṭhassa_ in Dh.v.125, which 
+has been called 'innocent,' 'harmless,' or 'inoffensive':
+
+- Whoever does harm to an innocent man, a pure man who is without blemish, evil 
+comes back to that very fool like fine dust thrown against the wind (Norman, 
+Dh.v.125).
+
+- Whoever harms a harmless person, one pure and guiltless (Narada, Dh.v.125).
+
+Our own findings show that _padussati_ means unpolluted, undefiled, or free of 
+hatred, but not innocent or harmless.
+
+____
+Whoever wrongs a man who is free of hatred, a pure person unblemished [by 
+spiritual defilement], the demerit rebounds on the fool himself like fine dust 
+thrown against the wind (Varado, Dh.v.125).
+
+_Yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa +
+Tameva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto_
+____
+
+And the internal evidence supports us, because _appaduṭṭhassa_ is here a 
+synonym of _suddhassa_ and _anaṅgaṇassa_. Our translation recognises the 
+synonymity (free of hatred, pure, unblemished [by spiritual defilement]), but 
+Norman's does not (innocent, pure, without blemish). Whereas our adjectives 
+describe spiritual qualities, innocent concerns conduct, the opposite of 
+'whoever who does harm.'
+
+=== Illustrations: defilement and pollution
+
+.Illustration
+====
+padūsituṃ
+
+pollute
+====
+
+[quote, It.86]
+____
+Whoever might think he could pollute the sea with a pot of poison would not be 
+able to do so, for awesome is the great ocean.
+
+_Samuddaṃ visakumbhena yo maññeyya padūsituṃ +
+Na so tena padūseyya bhesmā hi udadhī mahā._
+____
+
+.Illustration
+====
+padūsenti
+
+defile
+====
+
+[quote, D.1.20]
+____
+There are certain devas called Defiled in Mind. They spend an excessive amount 
+of time gazing at each other. By doing so they defile each others' minds, and 
+thereby become weary in body and mind.
+
+_Santi bhikkhave manopadosikā nāma devā. Te ativelaṃ aññamaññaṃ 
+upanijjhāyanti. Te ativelaṃ aññamaññaṃ upanijjhāyantā 
+aññamaññamhi cittāni padūsenti. Te aññamaññamhi paduṭṭhacittā 
+kilantakāyā kilantacittā._
+____
+
+.Illustration
+====
+paduṭṭhena
+
+defiled
+====
+
+[quote, Dh.v.1]
+____
+If one speaks or acts with a defiled mind, suffering thence follows one as 
+surely as the cartwheel follows the foot of the ox.
+
+_Manasā ce paduṭṭhena bhāsati vā karoti vā +
+Tato naṃ dukkhamanveti cakkaṃ va vahato padaṃ._
+____
+
+.Illustration
+====
+paduṭṭha
+
+defiled
+====
+
+[quote, A.1.8]
+____
+A certain person whose mind is defiled
+
+_ekaccaṃ puggalaṃ paduṭṭhacittaṃ._
+____
+
+Context:
+
+_Idāhaṃ bhikkhave ekaccaṃ puggalaṃ paduṭṭhacittaṃ evaṃ cetasā 
+ceto paricca pajānāmi: imamhi ce ayaṃ samaye puggalo kālaṃ kareyya 
+yathābhataṃ nikkhitto evaṃ niraye. Taṃ kissa hetu: cittaṃ hissa 
+bhikkhave paduṭṭhaṃ_ (A.1.8).
+
+.Illustration
+====
+padosaye
+
+defile
+====
+
+[quote, S.4.71]
+____
+Seeing visible objects that delight the mind and seeing those that give no 
+delight, dispel the path of attachment to the delightful, and do not defile the 
+mind by thinking, '[The other] is displeasing to me.'
+
+_Na c'appiyaṃ me ti manaṃ padosaye._
+____
+
+=== Illustrations: hatred
+
+.Illustration
+====
+padūseyya
+
+filled with hatred
+====
+
+[quote, M.1.129]
+____
+Bhikkhus, even if thugs should sever your limbs one by one with a two-handled 
+saw, he whose mind was thereby filled with hatred would not on that account be 
+a practiser of my training system.
+
+_Ubhatodaṇḍakena pi ce bhikkhave kakacena corā ocarakā aṅgamaṅgāni 
+okanteyyuṃ tatrāpi yo mano padūseyya na me so tena sāsanakaro._
+____
+
+.Illustration
+====
+paduṭṭha
+
+hateful
+====
+
+[quote, M.3.49]
+____
+He has an unbenevolent mind and hateful thoughts: "May those beings be killed, 
+slaughtered, annihilated, or destroyed, or may they not exist at all."
+
+_vyāpannacitto kho pana hoti paduṭṭhamanasaṅkappo. Ime sattā haññantu 
+vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun ti._
+____
+

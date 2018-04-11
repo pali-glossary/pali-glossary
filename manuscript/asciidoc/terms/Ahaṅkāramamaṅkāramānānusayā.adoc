@@ -1,0 +1,133 @@
+== Ahaṅkāramamaṅkāramānānusayā
+
+=== Renderings
+
+- _ahaṅkāramamaṅkāra mānānusayā_: the illusion of personal identity, 
+the illusion of personal ownership, and the proclivity to self-centredness
+
+=== Introduction
+
+==== Ahaṅkāramamaṅkāramānānusayā: others' translations
+
+_Ahaṅkāramamaṅkāramānānusayā_ has been rendered as follows:
+
+- Horner: 'the tendency to pride that "I am the doer, mine is the doer"' (MLS 
+Vol.3, p39).
+
+- Bodhi: 'I-making, mine-making, and the underlying tendency to conceit' (MLDB 
+p.908).
+
+- PED: _ahaṅkāra_ selfishness, egotism, arrogance; _mamaṅkāra_, selfish 
+attachment, self-interest, selfishness; _mān'ānusaya_ bias of conceit.
+
+Horner uses inverted commas, but there is no support for inverted commas either 
+in the phrase itself, or even when it is divided up, as at (A.3.444 
+(_ahaṅkārā ca me uparujjhissanti; mamaṅkārā ca me uparujjhissanti_).
+
+==== The suffix -kara
+
+The suffix -_kāra_ has three possible meanings, says PED (sv -_kāra_):
+
+1. 'Doer or maker of': for example, owl _uhuṅkāra_ is the maker of the 'uhu' 
+sound; fletcher _usukāra_ the maker of arrows (_usu_).
+
+2. 'Production or application of': for example, _sakkāra_, application of 
+honour i.e. the act of honouring. Bodhi chooses this meaning, but with an 
+unnatural form: 'I-making, mine-making.'
+
+3. 'State of': for example, darkness or blindness _andhakāra_. Darkness is the 
+'state of being dark', or the 'state of what is dark'. Blindness is the 'state 
+of being blind', or the 'state of one who is blind'.
+
+==== Renderings for ahaṅkāra and mamaṅkāra
+
+Various ways of rendering _ahaṅkāra_ and _mamaṅkāra_ could be extracted 
+from this.
+
+1. 'The doer or maker of me and of mine': this is unlikely because 
+_ahaṅkāra_ and _mamaṅkāra_ need to be uprooted (_ahaṅkārā ca me 
+uparujjhissanti; mamaṅkārā ca me uparujjhissanti_). So, if anything, it 
+would be 'the assumption that there is a doer or maker' that would be uprooted.
+
+2. 'The production of me or mine' (e.g. I-making, mine-making): But this would 
+similarly lead to the problematic idea of 'uprooting production.'
+
+3. 'The state of what is me or what belongs to me': this option has most 
+potential. But _ahaṅkāra_ and _mamaṅkāra_ would be better as:
+
+- _Ahaṅkāra_, the state of what is me: 'personal identity.'
+
+- _Mamaṅkāra,_ the state of what belongs to me: 'personal ownership.'
+
+But because _ahaṅkāra_ and _mamaṅkāra_ need to be uprooted (_ahaṅkārā 
+ca me uparujjhissanti; mamaṅkārā ca me uparujjhissanti_) these would work 
+better as:
+
+- _Ahaṅkāra_, 'the illusion of personal identity.'
+
+- _Mamaṅkāra,_ 'the illusion of personal ownership.'
+
+==== Rendering mānānusayo
+
+Finally, _mānānusayo_ is 'the proclivity to self-centredness.' See Glossary 
+sv _Anusaya_.
+
+==== Link to the three reflections on the voidness of personal qualities [in 
+the five aggregates]
+
+Our rendering is supported by the following quote, in which:
+
+1. 'The illusion of personal identity does not exist' (_ahaṅkāra na hoti_) 
+corresponds to 'perceiving the five aggregates as "not [in reality] what I am"' 
+(_n'eso'hamasmi_).
+
+2. 'The illusion of personal ownership does not exist' (_mamaṅkāra na hoti_) 
+corresponds to 'perceiving the five aggregates as "not [in reality] mine"' 
+(_n'etaṃ mama_).
+
+3. 'The proclivity to self-centredness does not exist' (_mānānusayā na 
+hoti_) corresponds to 'perceiving the five aggregates as "not my [absolute] 
+Selfhood"' (_na me so attā_).
+
+The quote is this:
+
+• Knowing and seeing what in this [wretched human] body together with its 
+advertence and all external phenomena, do the illusion of personal identity, 
+the illusion of personal ownership, and the proclivity to self-centredness not 
+exist? +
+_Kathaṃ pana bhante jānato kathaṃ passato imasmiñca saviññāṇake 
+kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na 
+hontī ti?_
+
+• ... Whatever bodily form... advertence, past, future, or present, internal 
+or external, gross or subtle, inferior or sublime, far or near, one perceives 
+all advertence according to reality with perfect penetrative discernment as 
+"not [in reality] mine," "not [in reality] what I am," "not my [absolute] 
+Selfhood." +
+_Yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā 
+bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā 
+yaṃ dūre santike vā sabbaṃ viññāṇaṃ n'etaṃ mama n'eso'hamasmi na 
+me so attā_ ti (M.3.18-9).
+
+=== Illustrations
+
+.Illustration
+====
+the illusion of personal identity
+
+the illusion of personal ownership, and the proclivity to self-centredness
+====
+
+[quote, M.1.486]
+____
+Therefore I say with the destruction, fading away, ending, giving up, and 
+relinquishment of all thinking in personal terms, of all states of inward 
+distraction, all illusions of personal identity, all illusions of personal 
+ownership, and of the proclivity to self-centredness, the Perfect One is 
+liberated [from perceptually obscuring states] through being without grasping.
+
+_Tasmā tathāgato sabbamaññitānaṃ sabbamathitānaṃ 
+sabbaahaṅkāramamaṅkāramānānusayānaṃ khayā virāgā nirodhā cāgā 
+paṭinissaggā anupādā vimutto ti vadāmī ti._
+____
+

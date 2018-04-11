@@ -1,0 +1,425 @@
+== Kaṇha; Sukka
+
+=== Renderings
+
+- _kaṇha_: dark
+
+- _kaṇha_: inwardly dark
+
+- _kaṇha_: inward darkness
+
+- _sukka_: bright
+
+- _sukka_: inwardly bright
+
+- _kaṇhakamma_: accumulated demerit
+
+=== Introduction
+
+==== Inward darkness
+
+Inward darkness (either _tama_ or _kaṇha_) connotes all spiritually 
+unwholesome states. For example, Māra's tenfold army is called 'the forces of 
+inward darkness' (_kaṇhassābhippahārinī_, Sn.v.439):
+
+[quote, Sn.v.436-439]
+____
+Sensuous pleasure is your first army. Disgruntlement [with the celibate life], 
+your second. Third is hunger and thirst. The fourth is called craving. Lethargy 
+and torpor are your fifth. The sixth is called fear. Your seventh is doubt 
+&#8203;[about the significance of abandoning spiritually unwholesome factors and 
+undertaking spiritually wholesome factors]. Denigration and obstinacy are your 
+eighth. Gain, renown, honour, and ill-gotten prestige [are your ninth]. 
+Extolling oneself and despising others, [considering them inferior due to 
+conceit, is your tenth]. That is your army, Namuci, the forces of inward 
+darkness. None but the heroic will conquer it. Having conquered it one finds 
+happiness.
+
+_Kāmā te paṭhamā senā dutiyā arati vuccati +
+Tatiyā khuppipāsā te catutthī taṇhā pavuccati +
+Pañcamaṃ thīnamiddhaṃ te chaṭṭhā bhīru pavuccati +
+Sattamī vicikicchā te makkho thambho te aṭṭhamo +
+Lābho siloko sakkāro micchāladdho ca yo yaso +
+Yo cattānaṃ samukkaṃse pare ca avajānati +
+Esā namuci te senā kaṇhassābhippahārinī +
+Na naṃ asūro jināti jetvā ca labhate sukhaṃ._
+____
+
+Sometimes individual factors are singled out as factors of inward darkness. For 
+example, 1) craving 2) mental impurity 3) passionate attachment:
+
+1. He destroyed craving for denomination-and-bodily-form in this world, the 
+stream of inward darkness which had long been lurking in him.'
++
+****
+_Acchecchi taṇhaṃ idha nāmarūpe kaṇhassa sotaṃ 
+dīgharattānusayitaṃ_ (Sn.v.355).
+****
+
+2. When he is conscious of a state of mental impurity he should dispel it with 
+the thought: "It is part of inward darkness."
++
+****
+_Yadāvilattaṃ manaso vijaññā kaṇhassa pakkho ti vinodayeyya_ (Sn.v.967).
+****
+
+3. Those who are full of passionate attachment, enveloped in a mass of inward 
+darkness, will never see [the nature of reality] which is obscure, deep, hard 
+to discern, subtle, going against the stream.
++
+****
+_Paṭisotagāmiṃ nipuṇaṃ gambhīraṃ duddasaṃ aṇuṃ +
+****
+Rāgarattā na dakkhinti tamokkhandhena āvutāti_ (S.1.137).
+
+However, that inward darkness equals the _āsavas_ is most clearly seen from 
+this quote:
+
+[quote, Th.v.627]
+____
+In the first watch of the night I recalled my previous births. In the middle 
+watch of the night I purified my divine vision. In the last watch of the night 
+I obliterated the mass of inward darkness.
+
+_Rattiyā paṭhamaṃ yāmaṃ pubbajātimanussariṃ +
+Rattiyā majjhimaṃ yāmaṃ dibbacakkhuṃ visodhayiṃ +
+Rattiyā pacchime yāme tamokkhandhaṃ padālayiṃ._
+____
+
+This quote should be compared to the Buddha's enlightenment where inward 
+darkness is replaced by the three _āsavas_:
+
+____
+I directed my mind to the knowledge through recalling of past lives;
+
+_pubbenivāsānussatiñāṇāya cittaṃ abhininnāmesiṃ._
+____
+
+____
+... I recalled my manifold former lives with their aspects and particulars.
+
+_Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi._
+____
+
+____
+This was the first final knowledge attained by me in the first watch of the 
+night;
+
+_Ayaṃ kho me brāhmaṇa rattiyā paṭhame yāme paṭhamā vijjā adhigatā_
+____
+
+____
+I directed my mind towards the knowledge of the transmigration of beings
+
+_sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmesiṃ._
+____
+
+____
+... Thus with purified divine vision surpassing that of men, I saw beings 
+passing away and being reborn, inferior and superior, well-favoured and 
+ill-favoured, fortunate and unfortunate, and discerned how beings fare 
+according to their deeds.
+
+_Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne 
+uppajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate 
+yathākammūpage satte pajānāmi._
+____
+
+____
+This was the second final knowledge attained by me in the middle watch of the 
+night.
+
+_Ayaṃ kho me brāhmaṇa rattiyā majjhime yāme dutiyā vijjā adhigatā_
+____
+
+• I directed my mind towards the knowledge of the destruction of perceptually 
+obscuring states. +
+_āsavānaṃ khayañāṇāya cittaṃ abhininnāmesiṃ._
+
+• ... thus knowing, thus seeing, my mind was freed from the three 
+perceptually obscuring states. +
+_Tassa me evaṃ jānato evaṃ passato kāmāsavā pi cittaṃ vimuccittha. 
+Bhavāsavā pi cittaṃ vimuccittha. Avijjāsavā pi cittaṃ vimuccittha._
+
+• With release, there was the knowledge I was released. I knew that birth was 
+destroyed. The religious life has been fulfilled. What had to be done has been 
+done. There will be no further arising in any state of individual existence +
+_Vimuttasmiṃ vimuttami ti ñāṇaṃ ahosi. Khīṇā jāti vusitaṃ 
+brahmacariyaṃ kataṃ karaṇīyaṃ nāparaṃ itthattāyāti 
+abbhaññāsiṃ._
+
+[quote, Vin.3.3-4]
+____
+This was, brahman, the third final knowledge attained by me in the last watch 
+of the night.
+
+_Ayaṃ kho me brāhmaṇa rattiyā pacchime yāme tatiyā vijjā adhigatā._
+____
+
+=== Illustrations
+
+.Illustration
+====
+kaṇhaṃ
+
+dark
+====
+
+____
+What is conduct that is dark with dark karmic consequences?
+
+_Katamañca bhikkhave kammaṃ kaṇhaṃ kaṇhavipākaṃ_
+____
+
+[quote, A.2.234]
+____
+In this regard, some person is a killer, a thief, an adulterer, a liar, or a 
+drinker.
+
+_Idha bhikkhave ekacco pāṇātipātī hoti adinnādāyī hoti kāmesu 
+micchācārī hoti musāvādī hoti surāmerayamajjapamādaṭṭhāyī hoti._
+____
+
+.Illustration
+====
+kaṇhakammo
+
+accumulated demerit
+====
+
+[quote, M.1.39]
+____
+The stream Bāhumatī: a fool may bathe there forever yet will not purify 
+himself of accumulated demerit.
+
+_bāhumatiṃ nadiṃ niccampi bālo pakkhanno kaṇhakammo na sujjhati._
+____
+
+.Illustration
+====
+sukkaṃ
+
+bright
+====
+
+____
+What is conduct that is bright with bright karmic consequences?
+
+_Katamañca bhikkhave kammaṃ sukkaṃ sukkavipākaṃ_
+____
+
+[quote, A.2.234]
+____
+In this regard, some person refrains from killing, stealing, adultery, lying, 
+and drinking.
+
+_Idha bhikkhave ekacco pāṇātipātā paṭivirato hoti adinnādānā 
+paṭivirato hoti kāmesu micchācārā paṭivirato hoti musāvādā 
+paṭivirato hoti surāmerayamajjapamādaṭṭhānā paṭivirato hoti._
+____
+
+.Illustration
+====
+kaṇha
+
+dark; sukka, bright
+====
+
+____
+What is the dark path of practice? The tenfold wrong factors.
+
+_katamo ca bhikkhave kaṇhamaggo: micchādiṭṭhi... micchāsamādhi 
+micchāñāṇaṃ micchāvimutti._
+____
+
+[quote, A.5.244]
+____
+What is the bright path of practice? The tenfold right factors.
+
+_Katamo ca bhikkhave sukkamaggo: sammādiṭṭhi... sammāsamādhi 
+sammāñāṇaṃ sammāvimutti._
+____
+
+.Illustration
+====
+kaṇhaṃ
+
+dark; sukkaṃ, bright
+====
+
+[quote, S.5.24]
+____
+Having abandoned dark [spiritually unwholesome] factors, a wise person should 
+develop bright [spiritually wholesome] factors.
+
+_Kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito._
+____
+
+COMMENT
+
+1. Commentary to S.5.24: _Kaṇhan ti akusaladhammaṃ. Sukkan ti 
+kusaladhammaṃ_.
+
+2. What are spiritually unwholesome factors? Namely, the eightfold path [of 
+wrong factors].
++
+****
+_Katame ca bhikkhave akusalā dhammā seyyathīdaṃ micchādiṭṭhi... 
+micchāsamādhi_ (S.5.18).
+****
+
+3. What are spiritually wholesome factors? Namely, the eightfold path [of right 
+factors].
++
+****
+_Katame ca bhikkhave kusalā dhammā seyyathīdaṃ sammādiṭṭhi... 
+sammāsamādhi_ (S.5.18).
+****
+
+.Illustration
+====
+sukko
+
+bright
+====
+
+[quote, S.2.240]
+____
+Because his mind was overpowered and overcome by gains, honour, and renown, 
+Devadatta's bright moral nature was eradicated.
+
+_Lābhasakkārasilokana abhibhūtassa pariyādinnacittassa bhikkhave 
+devadattassa sukko dhammo samucchedamagamā._
+____
+
+.Illustration
+====
+sukkā
+
+bright
+====
+
+[quote, It.36]
+____
+Two bright qualities protect the world. Which two? Shame of wrongdoing and fear 
+of wrongdoing.
+
+_Dveme bhikkhave sukkā dhammā lokaṃ pālenti. Katame dve? Hiri ca 
+ottappañca._
+____
+
+.Illustration
+====
+sukka
+
+bright
+====
+
+[quote, Dh.v.72]
+____
+Knowledge [of a craft] arises for a fool to his harm. It destroys his bright 
+moral nature, cleaving his head.
+
+_Yāvadeva anatthāya ñattaṃ bālassa jāyati +
+Hanti bālassa sukkaṃsaṃ muddhamassa vipātayaṃ._
+____
+
+.Illustration
+====
+sukka
+
+bright
+====
+
+[quote, Thī.v.358]
+____
+Sensuous pleasures have endless dangers. They are full of suffering. They are 
+&#8203;[like] deadly poison. They offer little enjoyment, stir up spiritual 
+defilements, and wither away the bright aspects [of one's nature].
+
+_Anantādīnavā kāmā bahudukkhā mahāvisā +
+Appassādā raṇakarā sukkapakkhavisosanā._
+____
+
+.Illustration
+====
+kaṇhassa
+
+inward darkness
+====
+
+[quote, Sn.v.355]
+____
+'He destroyed craving for denomination-and-bodily-form in this world, the 
+stream of inward darkness which had long been lurking in him.'
+
+_Acchecchi taṇhaṃ idha nāmarūpe kaṇhassa sotaṃ 
+dīgharattānusayitaṃ._
+____
+
+.Illustration
+====
+kaṇha
+
+inward darkness
+====
+
+Sensuous pleasure is your first army. Disgruntlement [with the celibate life], 
+your second. Third is hunger and thirst. The fourth is called craving.
+
+Lethargy and torpor are your fifth. The sixth is called fear. Your seventh is 
+doubt [about the significance of abandoning spiritually unwholesome factors and 
+undertaking spiritually wholesome factors]. Denigration and obstinacy are your 
+eighth.
+
+Gain, renown, honour, and ill-gotten prestige [are your ninth]. Extolling 
+oneself and despising others, [considering them inferior due to conceit, is 
+your tenth].
+
+That is your army, Namuci, the forces of inward darkness. None but the heroic 
+will conquer it. Having conquered it one finds happiness.
+
+• _Kāmā te paṭhamā senā dutiyā arati vuccati +
+Tatiyā khuppipāsā te catutthī taṇhā pavuccati_
+
+• _Pañcamaṃ thīnamiddhaṃ te chaṭṭhā bhīru pavuccati +
+Sattamī vicikicchā te makkho thambho te aṭṭhamo_
+
+• _Lābho siloko sakkāro micchāladdho ca yo yaso +
+Yo cattānaṃ samukkaṃse pare ca avajānati_
+
+• _Esā namuci te senā kaṇhassābhippahārinī +
+Na naṃ asūro jināti jetvā ca labhate sukhaṃ_ (Sn.v.436-439).
+
+.Illustration
+====
+kaṇhassa
+
+inward darkness
+====
+
+[quote, Sn.v.967]
+____
+When he is conscious of a state of mental impurity he should dispel it with the 
+thought: 'It is part of inward darkness'
+
+_Yadāvilattaṃ manaso vijaññā kaṇhassa pakkho ti vinodayeyya._
+____
+
+.Illustration
+====
+kaṇha
+
+inwardly dark; sukka, inwardly bright
+====
+
+[quote, S.5.104]
+____
+There are spiritually wholesome and spiritually unwholesome factors; 
+blameworthy and blameless factors; inferior and superior factors; and inwardly 
+dark and bright factors with their correlative combinations.
+
+_Atthi bhikkhave kusalākusalā dhammā sāvajjānavajjā dhammā 
+hīnappaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā._
+____
+

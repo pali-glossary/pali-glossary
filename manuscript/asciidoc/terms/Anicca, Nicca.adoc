@@ -1,0 +1,432 @@
+== Anicca; Nicca
+
+=== Renderings
+
+- _nicca_: everlasting
+
+- _nicca_: lasting
+
+- _nicca_: constantly
+
+- _anicca_: unlasting
+
+- _anicca_: unlastingness
+
+=== Introduction
+
+==== Step-by-step change
+
+_Anicca_ concerns change that is either step-by-step or continuous. For 
+example, the _Sattasuriyuggamana Sutta_ (A.4.100) describes seven successive 
+disasters that will step-by-step destroy Planet Earth. Firstly the vegetation 
+will be destroyed, then the rivers and lakes, the oceans, the mountains, and 
+finally the planet itself. Each destructive step is said to illustrate _anicca_ 
+(_evaṃ aniccā bhikkhave saṅkhārā_).
+
+[quote, A.4.101]
+____
+Bhikkhus, there comes a time when for many hundreds and thousands of years 
+there is no rain. Without rain, all grass and vegetation, all trees yielding 
+medicine, all the palms and giants of the jungle become parched and dried up 
+and are no more. Thus unlasting are originated phenomena.
+
+_evaṃ aniccā bhikkhave saṅkhārā._
+____
+
+==== Continuous change
+
+More usually, however, _anicca_ refers to a continuous process, where the 
+practice involves the uninterrupted observation of change. For example:
+
+• Some person abides contemplating unlastingness in relation to all 
+originated phenomena, perceiving unlastingness, experiencing unlastingness ** +
+**__☸ idhekacco puggalo_ sabbasaṅkhāresu aniccānupassī viharati 
+aniccasaññī aniccapaṭisaṃvedī_
+
+____
+... continuously
+
+_satataṃ_
+____
+
+____
+... without a break
+
+_samitaṃ_
+____
+
+____
+... uninterruptedly
+
+_abbokiṇṇaṃ_
+____
+
+____
+... intent upon it mentally
+
+_cetasā adhimuccamāno_
+____
+
+[quote, A.4.13]
+____
+... penetrating it with penetrative discernment
+
+_paññāya pariyogāhamāno._
+____
+
+We illustrate this idea with the following quote:
+
+[quote, S.2.266]
+____
+As swift as are the sun and moon, and as swift as are the devas that run before 
+the sun and moon, the factors essential to life perish even more swiftly than 
+that. Therefore, bhikkhus, you should train yourselves thus: 'We will abide 
+diligently applied [to the practice]'
+
+_yathā ca candimasuriyānaṃ javo yathā ca yā devatā candimasuriyānaṃ 
+purato dhāvanti tāsaṃ devatānaṃ javo tato sīghataraṃ āyusaṅkhārā 
+khīyanti. Tasmātiha bhikkhave evaṃ sikkhitabbaṃ appamattā viharissāmā 
+ti._
+____
+
+==== The problem of 'impermanent'
+
+_Anicca_ is usually termed 'impermanent.' And if permanent means 'continuing or 
+enduring without fundamental or marked change' (Webster's), then impermanent 
+means continuing or enduring with fundamental or marked change. In which case, 
+permanence means lastingness without change, and impermanence means lastingness 
+with change. But the concept that things last, continue, or endure to the 
+slightest degree is not supported by the scriptures.
+
+1. Firstly, we have noted that _anicca_ is continuous and uninterrupted, and 
+this discounts any degree of lastingness.
+
+2. Secondly, there are three marks of the originated.
++
+****
+_Tīṇi'māni bhikkhave saṅkhatassa saṅkhatalakkhaṇāni_
+****
+
+____
+an arising is discernable
+
+_uppādo paññāyati_
+____
+
+____
+a disappearance is discernable
+
+_vayo paññāyati_
+____
+
+[quote, A.1.152]
+____
+a changeability while persisting is discernable
+
+__ṭhitassa aññathattaṃ paññāyati._
+____
+
+The idea of 'changeability while persisting' again negates any possibility of 
+lastingness. Hence 'impermanence' is unsatisfactory for this reason.
+
+==== Nicca: lasting and everlasting
+
+_Nicca_ stems from _ni_, which means 'downward'=onward, on and on, says PED. We 
+give it two meanings corresponding with the two meanings for _anicca_.
+
+1. When we call it 'everlasting', it is commonly linked to 'eternal':
+
+[quote, M.1.138]
+____
+Having passed on, that I will be -- everlasting, enduring, eternal, of an 
+unchangeable nature; I will endure like unto eternity itself':
+
+_so pecca bhavissāmi nicco dhuvo sassato avipariṇāmadhammo sassatisamaṃ 
+tatheva ṭhassāmī ti._
+____
+
+2. Where _nicca_ is linked to 'unlasting' we call it 'lasting':
+
+[quote, S.3.187]
+____
+Is bodily form lasting or unlasting?
+
+_rūpaṃ niccaṃ vā aniccaṃ vā ti._
+____
+
+=== Illustrations
+
+.Illustration
+====
+niccā
+
+lasting
+====
+
+[quote, S.1.22]
+____
+There are among humans no sensuous pleasures that are lasting.
+
+_na santi kāmā manujesu niccā._
+____
+
+.Illustration
+====
+aniccaṃ unlasting
+
+[quote
+
+S.3.76]
+====
+
+____
+You should abandon fondness for what is unlasting.
+
+_Yaṃ kho bhikkhu aniccaṃ tatra te chando pahātabbo ti._
+____
+
+.Illustration
+====
+aniccato
+
+unlasting
+====
+
+[quote, Th.v.1091]
+____
+Seeing all states of individual existence [according to reality] as unlasting
+
+_Aniccato sabbabhavaṃ vipassaṃ._
+____
+
+.Illustration
+====
+anicca
+
+unlastingness
+====
+
+____
+How is the perception of the unlastingness [of the five aggregates] developed 
+and cultivated?
+
+_kathaṃ bhāvitā ca bhikkhave aniccasaññā kathaṃ bahulīkatā..._
+____
+
+[quote, S.3.155]
+____
+Such is bodily form, such its [co-conditional] origination, such its 
+&#8203;[co-conditional] vanishing etc
+
+_Iti rūpaṃ iti rūpassa samudayo iti rūpassa atthaṅgamo._
+____
+
+.Illustration
+====
+anicca
+
+unlastingness; aniccaṃ unlasting
+====
+
+____
+And what, Ānanda, is the perception of the unlastingness [of the five 
+aggregates]
+
+_katamācānanda aniccasaññā_
+____
+
+____
+In this regard, Ānanda, a bhikkhu... reflects
+
+_iti paṭisaṃcikkhati_
+____
+
+____
+The five aggregates are unlasting
+
+_rūpaṃ aniccaṃ vedanā aniccā saññā aniccā saṅkhārā aniccā 
+viññāṇaṃ aniccan ti_
+____
+
+[quote, A.5.109]
+____
+Thus he abides contemplating unlastingness in relation to these five aggregates
+
+_aniccānupassī viharati._
+____
+
+.Illustration
+====
+anicca
+
+unlastingness
+====
+
+____
+What, Ānanda, is the perception of the unlastingness of all originated 
+phenomena?
+
+_Katamācānanda sabbasaṅkhāresu aniccasaññā_
+____
+
+____
+In this regard a bhikkhu is revolted, appalled, and disgusted by all originated 
+phenomena.
+
+_idhānanda bhikkhu sabbasaṅkhārehi aṭṭīyati harāyati jigucchati._
+____
+
+[quote, A.5.111]
+____
+This, Ānanda, is called the perception of the unlastingness of all originated 
+phenomena
+
+_ayaṃ vuccatānanda sabbasaṅkhāresu aniccasaññā._
+____
+
+.Illustration
+====
+anicca
+
+unlastingness
+====
+
+[quote, A.3.447]
+____
+To abandon the view that there is sweetness in originated phenomena the 
+perception of the unlastingness [of the five aggregates] should be developed .
+
+_Assādadiṭṭhiyā pahānāya aniccasaññā bhāvetabbā._
+____
+
+.Illustration
+====
+anicca
+
+unlastingness
+====
+
+[quote, A.4.47]
+____
+If a bhikkhu's mind is imbued with the perception of the unlastingness [of the 
+five aggregates], his mind draws back, bends back, turns away from gains, 
+honour, and renown and is not attracted to it, and either indifference or 
+loathing is established in him.
+
+_Aniccasaññā paricitena bhikkhave bhikkhuno cetasā bahulaṃ viharato 
+lābhasakkārasiloke cittaṃ patilīyati patikuṭati pativaṭṭati na 
+sampasārīyati upekkhā vā paṭikkūlyatā vā saṇṭhāti._
+____
+
+.Illustration
+====
+anicca
+
+unlastingness
+====
+
+[quote, A.3.30]
+____
+When one abides contemplating unlastingness in relation to the six senses, a 
+repulsion to sensation is established in oneself;
+
+_Chasu kho nāgita phassāyatanesu aniccānupassīno viharato phasse 
+pāṭikkūlyatā saṇṭhāti._
+____
+
+.Illustration
+====
+aniccā
+
+unlasting
+====
+
+In the past this Mount Vepulla was called Pācinavaṃsa, and the people were 
+called Tivaras whose lifespan was 40,000 years. They could climb Mount 
+Pācinavaṃsa in four days and descend in four days. At that time the Blessed 
+One Kakusandha, arahant, perfectly enlightened, had arisen in the world. His 
+two chief disciples were named Vidhura and Sañjīva, an excellent pair. Now 
+see, bhikkhus! That mountain's name has disappeared, those people have died, 
+and that Blessed One has passed away to the Untroubled-without-residue.
+
+[quote, S.2.191]
+____
+Thus unlasting are originated phenomena, thus unenduring are originated 
+phenomena, thus unconsoling are originated phenomena. It is time enough, 
+bhikkhus, to be disillusioned with all originated phenomena, to be unattached 
+to them, to be liberated from them.
+
+_Evaṃ aniccā bhikkhave saṅkhārā evaṃ addhuvā bhikkhave saṅkhārā 
+evaṃ anassāsikā bhikkhave saṅkhārā. Yāvañcidaṃ bhikkhave alameva 
+sabbasaṅkhāresu nibbindituṃ alaṃ virajjituṃ alaṃ vimuccituṃ._
+____
+
+.Illustration
+====
+aniccatā
+
+unlastingness
+====
+
+Now there comes a time, friends, when the external Gaseousness Phenomenon is 
+agitated. It blows away village, town, city, district, and country. But there 
+comes a time when, in the last month of the hot season, people try to stir a 
+breeze with a fan or bellows, and even the grass at the fringe of a thatch roof 
+does not stir.
+
+[quote, M.1.185-9]
+____
+So when even in the external Gaseousness Phenomenon with all its vastness, 
+unlastingness is discernable, destruction is discernable, disappearance is 
+discernable, changeableness is discernable, then what to say of this 
+short-lasting body?
+
+_Tassā hi nāma āvuso bāhirāya vāyodhātuyā tāva mahallikāya aniccatā 
+paññāyissati khayadhammatā paññāyissati vayadhammatā paññāyissati 
+vipariṇāmadhammatā paññāyissati. Kiṃ panimassa mattaṭṭhakassa 
+kāyassa._
+____
+
+.Illustration
+====
+niccaṃ
+
+constantly
+====
+
+[quote, It.93]
+____
+They extinguish the fire of attachment, constantly perceiving the foul.
+
+_Te nibbāpenti rāgaggiṃ niccaṃ asubhasaññino._
+____
+
+.Illustration
+====
+niccaṃ
+
+constantly
+====
+
+[quote, Sn.v.1144]
+____
+I go constantly through the mechanism of thought, for my mind, brahman, is 
+joined to him.
+
+_Saṅkappayantāya vajāmi niccaṃ mano hi me brāhmaṇa tena yutto._
+____
+
+.Illustration
+====
+niccaṃ
+
+constantly
+====
+
+[quote, S.2.158]
+____
+With those who are constantly energetic.
+
+_niccaṃ āraddhaviriyehi._
+____
+

@@ -1,0 +1,475 @@
+== Asmi
+
+=== Renderings
+
+- _asmi_ (verb): I am
+
+- _asmi_ (noun): the notion "I am"
+
+- _asmi_ (noun): "[in reality] what I am"
+
+- _asmi_ (adjective): egocentric
+
+- _asmī ti māna_: self-centredness (equivalent to _māna_)
+
+- _asmimāna_: self-centredness (equivalent to _māna_)
+
+- _asmī ti anusayo_: the proclivity to self-centredness
+
+=== Introduction
+
+==== Potential meanings of asmi
+
+_Asmi_ means 'I am' (verb), but the _Khemaka Sutta_ (S.3.126-132) shows four 
+other renderings may occasionally be justified.
+
+1. the notion "I am" (noun)
+
+2. "[in reality] what I am" (noun)
+
+3. egocentric (adjective)
+
+4. redundancy in the phrase _asmī ti māno_ (='self-centredness'), because 
+_māno_ is equivalent to _asmī ti māno_. This is covered sv _māno_.
+
+==== Asmi in the Khemaka Sutta: 'the notion "I am"
+
+In the _Khemaka Sutta_, Venerable Khemaka said the notion "I am" was still to 
+be found in him in relation to the five grasped aggregates 
+(_pañcasupādānakkhandhesu asmī ti adhigataṃ_). He said this was a vague 
+sense, like perfume around a lotus, not located in any particular part of the 
+flower. Here, therefore, _asmī ti_ is rendered 'the notion "I am."'
+
+==== Asmi in the Khemaka Sutta: "[in reality] what I am"
+
+Venerable Khemaka said that although the notion "I am" was still found in him, 
+nonetheless he did not regard any particular one of aggregates as "[in reality] 
+what I am" (_ayamahamasmī ti ca na samanupassāmī ti_). Here, therefore, 
+_asmī ti_ is "[in reality] what I am."
+
+==== Asmi in the Khemaka Sutta: egocentric
+
+____
+The bhikkhus asked him: 'Friend Khemaka, when you mention this notion "I am" 
+(_asmī ti vadesi_) what do you say is "[in reality] what I am"? (_kimetaṃ 
+asmī ti vadesi?_). Do you say that the five aggregates are "[in reality] what 
+I am," or do you say that "[in reality] what I am" is separate from the five 
+aggregates?
+
+_Rūpaṃ asmī ti vadesi? Aññatra rūpā asmī ti vadesi?... Viññāṇaṃ 
+asmī ti vadesi? Aññatra viññāṇā asmī ti vadesi?_
+____
+
+Venerable Khemaka replied: 'Friends, I do not say the five aggregates are "[in 
+reality] what I am," nor do I say that "[in reality] what I am" is separate 
+from the five aggregates.' Then he explained:
+
+'Friends, even though a noble disciple has abandoned the five ties to 
+individual existence in the low plane of existence (_pañcorambhāgiyāni 
+saṃyojanāni_) still, in regard to the five grasped aggregates 
+(_pañcasupādānakkhandhesu_) there remains within him
+
+____
+a residual self-centredness _
+
+_anusahagato asmī ti māno_
+____
+
+____
+a residual egocentric desire
+
+_asmī ti chando_
+____
+
+____
+a residual proclivity to self-centredness that have not yet been abolished
+
+_asmī ti anusayo asamūhato._
+____
+
+____
+If he abides contemplating the [co-conditional] arising and disappearance of 
+the five grasped aggregates, these three residual phenomena are abolished.
+
+_pañcasupādānakkhandhesu udayabbayānupassino viharato._
+____
+
+Venerable Khemaka compared these three residual phenomena to the aroma of a 
+cloth cleaned with cowdung, which even though clean, would retain an unpleasant 
+aroma. If placed in a sweet-scented casket, the aroma would dissipate. 
+Likewise, with proper practice, the dung-like aroma of self-centredness will 
+fade away.
+
+Thus, in the phrase _asmī ti chando_, _asmī ti_ is adjectival and we call it 
+'egocentric,' which produces a comprehensible translation. In comparison, Bodhi 
+persistently calls it "I am" as follows:
+
+- 'there lingers in him a residual conceit "I am" (_asmī ti māno_), a desire 
+"I am" (_asmī ti chando_), an underlying tendency "I am" (_asmī ti anusayo_) 
+that have not yet been abolished' (CDB p.945).
+
+==== Asmī ti māna and asmī ti anusayo in the quote just given
+
+These have been rendered in the quotation as:
+
+- _asmī ti māna_: self-centredness
+
+- _asmī ti anusayo_: proclivity to self-centredness
+
+We justify calling _asmi_ 'self-centredness' as follows:
+
+Other suttas show that _māna_ equals the notion "I am" (_asmī ti bhikkhave 
+mānagatametaṃ_: S.4.202-3). This suggests that _asmimāno_ is a redundancy 
+(i.e. a compound of two equivalent terms), and that _asmimāno_ is a synonym of 
+_māno._ Therefore all three terms (_asmi_, _māna_, and _asmimāna_) do or can 
+mean 'self-centredness.' This is discussed further sv _Māna._
+
+==== Differentiating the qualities of "I am"
+
+"I am" is used by the ignorant Everyman but also by the arahant, who 'makes use 
+of conventional speech without grasping it' (_yañca loke vuttaṃ teneva 
+voharati aparāmasanti_) (S.1.14; M.1.500). But there seems no grammatical 
+device to indicate the different quality of their "I am's." Although the 
+_Taṇhājālinī Sutta_ (A.2.212-3) says the thought 'I am this way' 
+(_evamasmī ti hoti_) is imbued with _taṇhā_, this is obviously not true for 
+arahants' "I am's." The Buddha himself said:
+
+[quote, It.101]
+____
+'I am a Brahman'
+
+_ahamasmi bhikkhave brāhmaṇo._
+____
+
+[quote, Dh.v.353]
+____
+'I have understood the All'
+
+_sabbavidu'hamasmi._
+____
+
+[quote, Vin.1.8]
+____
+'I am freed from inward distress'
+
+_sītibhūtosmi._
+____
+
+Translators might like to indicate the non-ignorant quality of such I am's, but 
+how could this be done? One cannot possibly have the arahant say:
+
+- 'I (conventionally speaking) am a Brahman'
+
+- I (conventionally speaking) have understood the All etc.
+
+Or have the common man say:
+
+- 'I (grasped as such) am this way'
+
+The context, however, makes it clear which "I am's" are likely imbued with 
+_taṇhā_, and which are not.
+
+=== Illustrations
+
+.Illustration
+====
+asmimānassa
+
+self-centredness
+====
+
+[quote, Ud.10]
+____
+The elimination of self-centredness is happiness supreme
+
+_asmimānassa vinayo etaṃ ve paramaṃ sukhan ti._
+____
+
+.Illustration
+====
+asmī ti diṭṭhimānānusayaṃ
+
+self-centredness
+====
+
+• He uproots the proclivity to self-centredness +
+_asmī ti diṭṭhimānānusayaṃ samūhanitvā_ (M.1.47).
+
+COMMENT:
+
+_Asmī ti diṭṭhimānānusayaṃ_ is similar to Venerable Khemaka's _asmī 
+ti anusayo_ which we translated above as 'a proclivity to self-centredness.' We 
+consider that the two phrases are equivalent because:
+
+1. _asmī ti_ and _māno_ are synonyms meaning self-centredness, and
+
+2. because self-centredness is essentially a view, the word _diṭṭhi_ is 
+redundant.
+
+Bodhi translates it as 'the underlying tendency to the view and conceit "I 
+am,"' and Horner 'addiction to the latent view "I am."'
+
+.Illustration
+====
+asmimāna
+
+self-centredness
+====
+
+[quote, Ud.37]
+____
+In one who perceives the voidness of personal qualities [in all things], 
+self-centredness is uprooted. He realises the Untroubled in this very lifetime
+
+_anattasaññi asmimānasamugghātaṃ pāpuṇāti diṭṭheva dhamme 
+nibbānaṃ ti._
+____
+
+.Illustration
+====
+ahamasmi
+
+I am
+====
+
+____
+-- If there were no sense impression in any way, would there be the thought "I 
+am this"?
+
+_yattha panāvuso sabbaso vedayitaṃ natthi api nu kho tattha ayamahamasmī ti 
+siyā ti_
+____
+
+-- No, bhante (D.2.67).
+
+.Illustration
+====
+ahamasmi
+
+I am
+====
+
+[quote, M.2.237]
+____
+When this Venerable regards himself thus: 'I am at peace. I am inwardly at 
+peace. I am free of grasping' that is declared to be grasping on the part of 
+this good ascetic or Brahmanist.
+
+_santo'hamasmi nibbuto'hamasmi anupādino'hamasmī ti samanupassati tadapi 
+imassa bhoto samaṇassa brāhmaṇassa upādānamakkhāyati._
+____
+
+.Illustration
+====
+ahamasmi
+
+I am
+====
+
+[quote, D.2.93]
+____
+I am a stream-enterer, no more liable to rebirth in the plane of damnation, 
+assured of deliverance, with enlightenment as my destiny.
+
+_sotāpanno'hamasmi avinipātadhammo niyato sambodhiparāyaṇo ti._
+____
+
+.Illustration
+====
+ahamasmi
+
+I am
+====
+
+Bhikkhus, there are these three modes [of self-centredness] (_tisso vidhā_). 
+What three?
+
+____
+'I am better' mode [of self-centredness]
+
+_seyyo'hamasmī ti vidhā_
+____
+
+____
+'I am equal' mode [of self-centredness]
+
+_sadiso'hamasmī ti vidhā_
+____
+
+[quote, S.5.56]
+____
+'I am worse' mode [of self-centredness]
+
+_hīno'hamasmī ti vidhā._
+____
+
+.Illustration
+====
+asmi
+
+notion "I am"; I am
+====
+
+The _Taṇhājālinī Sutta_ (A.2.212-3) lists 36 assertions of personal 
+identity which arise with the notion "I am." The sutta says when there is the 
+notion "I am" (_asmī ti bhikkhave sati_) there come the thoughts
+
+- I am here _itthasmī ti hoti_
+
+- I am this way _evamasmī ti hoti_
+
+- I am otherwise _aññathasmī ti hoti_
+
+and other similar thoughts.
+
+The sutta continues: when there is the thought
+
+'Because of this, I am' (_iminā asmī ti bhikkhave sati_) there come the 
+thoughts:
+
+- Because of this, I am here _iminā itthasmī ti hoti_
+
+- Because of this, I am this way _iminā evamasmī ti hoti_
+
+• Because of this, I am otherwise _iminā aññathasmī ti hoti_
+
+and other such thoughts (A.2.212-3).
+
+.Illustration
+====
+asmi
+
+notion "I am"
+====
+
+[quote, Sn.v.916]
+____
+A wise person should completely destroy the origin of entrenched conception, 
+the notion "I am."
+
+_mūlaṃ papañcasaṅkhāya mantā asmī ti sabbamuparundhe._
+____
+
+.Illustration
+====
+asmi
+
+the notion "I am"; I am
+====
+
+____
+The notion "I am" is a matter of thinking in personal terms.
+
+_asmī ti maññitametaṃ_
+____
+
+____
+'I am this' is a matter of thinking in personal terms.
+
+_ayamahamasmī ti maññitametaṃ_
+____
+
+• Thinking in personal terms is an illness, a carbuncle, a [piercing] arrow. 
+Therefore train yourselves with the thought, 'We will live with minds free of 
+thinking in personal terms.' +
+_maññitaṃ bhikkhave rogo maññitaṃ gaṇḍo maññitaṃ sallaṃ 
+tasmātiha bhikkhave amaññamānena cetasā viharissāmāti evaṃ hi vo 
+bhikkhave sikkhitabbaṃ_
+
+• The notion "I am" is +
+_Asmī ti bhikkhave_
+
+____
+a matter of spiritual instability
+
+_iñjitametaṃ_
+____
+
+____
+a matter of spiritual unsteadiness
+
+_phanditametaṃ_
+____
+
+____
+a matter of entrenched perception
+
+_papañcitametaṃ_
+____
+
+[quote, S.4.202-3]
+____
+an acquiescence in self-centredness
+
+_mānagatametaṃ._
+____
+
+.Illustration
+====
+asmi
+
+notion "I am"
+====
+
+• So, too, the notion "I am" occurs with the grasping of (the five 
+aggregates), not without grasping. +
+☸ _Evameva kho āvuso ānanda rūpaṃ upādāya asmī ti hoti no 
+anupādāya_... _viññāṇaṃ upādāya asmī ti hoti no anupādāya_ 
+(S.3.105).
+
+.Illustration
+====
+asmi
+
+notion "I am"; ahamasmi, "[in reality] what I am"
+====
+
+[quote, D.3.250]
+____
+If the notion "I am" has vanished, and one does not regard anything as "[in 
+reality] what I am,"' it is impossible, out of the question, that the arrow of 
+doubt and uncertainty [about the significance of the teaching] would plague 
+your mind.
+
+_aṭṭhānametaṃ āvuso anavakāso yaṃ asmī ti vigate ayamahamasmī ti 
+asamanupassato atha ca panassa vicikicchākathaṅkathāsallaṃ cittaṃ 
+pariyādāya ṭhassatī ti._
+____
+
+.Illustration
+====
+ahamasmi
+
+"[in reality] what I am"
+====
+
+____
+-- That which is unlasting, existentially void, destined to change, is it 
+fitting to regard it as "[in reality] mine," or "[in reality] what I am," or 
+"my [absolute] Selfhood"?
+
+_Yaṃ panāniccaṃ dukkhaṃ vipariṇāmadhammaṃ kallannu taṃ 
+samanupassituṃ etaṃ mama eso'hamasmi eso me attā ti_
+____
+
+-- No, Master Gotama (M.1.232-3).
+
+.Illustration
+====
+asmi
+
+"[in reality] what I am"
+====
+
+[quote, M.1.185-9]
+____
+So when even in the external Solidness Phenomenon with all its vastness, 
+unlastingness is discernable, destruction is discernable, disappearance is 
+discernable, changeableness is discernable, then what to say of this 
+short-lasting body evolved from craving? There can be no considering that as 
+"[in reality] me," or as "[in reality] mine," or as "[in reality] what I am."
+
+_Kiṃ panimassa mattaṭṭhakassa kāyassa taṇhūpādinnassa. Ahan ti vā 
+maman ti vā asmī ti va atha khvāssa notevettha hoti._
+____
+

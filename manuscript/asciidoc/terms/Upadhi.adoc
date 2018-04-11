@@ -1,0 +1,461 @@
+== Upadhi
+
+=== Renderings
+
+- _upadhi_: a state of attachment
+
+- _upadhi_: the phenomenon of attachment
+
+- _upadhi_: an object of attachment
+
+- _upadhi_: a worldly object of attachment
+
+=== Introduction
+
+==== Upadhi: four meanings
+
+_Upadhi_ is often divided into two groups. PED, DOP, and Bodhi, for example, 
+all broadly say it means either possessions, or attachment to possessions, 
+which Bodhi renders as 'acquisitions' and 'acquisition' respectively. But 
+_upadhi_ has four meanings:
+
+==== 1) States of attachment, plural
+
+For example:
+
+[quote, S.1.107]
+____
+'The Buddha, having destroyed all states of attachment'
+
+_sabbūpadhīnaṃ parikkhayā buddho._
+____
+
+The usual twofold classification system fails to capture this meaning, because 
+its plural obliges one to say the Buddha destroyed all his possessions, which 
+is how Bodhi translates it: 'With the destruction of all acquisitions the 
+Awakened One sleeps' (Bodhi, S.1.107).
+
+==== 2) The phenomenon of attachment, singular
+
+For example:
+
+[quote, M.2.260]
+____
+The phenomenon of attachment is the origin of _dukkha_'
+
+_upadhi dukkhassa mūlan ti._
+____
+
+Or, more concisely:
+
+[quote, M.2.260]
+____
+Attachment is the origin of _dukkha_.
+
+_upadhi dukkhassa mūlan ti._
+____
+
+But one must be careful about conciseness. It can lead to double meanings, to 
+confusing state of attachment, object of attachment, and phenomenon of 
+attachment.
+
+==== 3) Objects of attachment, commonly plural
+
+For example:
+
+[quote, It.69]
+____
+All objects of attachment are unlasting'
+
+_sabbe upadhī aniccā._
+____
+
+==== 4) Worldly objects of attachment
+
+For example:
+
+[quote, M.1.162]
+____
+Wife, children, men and women slaves, goats, sheep, fowl, pigs, elephants, 
+cattle, horses, mares, gold, and silver are subject to birth. These worldly 
+objects of attachment are subject to birth.
+
+_Puttabhariyaṃ bhikkhave jātidhammaṃ dāsidāsaṃ jātidhammaṃ 
+ajeḷakaṃ jātidhammaṃ kukkuṭasūkaraṃ jātidhammaṃ 
+hatthigavāssavaḷavaṃ jātidhammaṃ jātarūparajataṃ jātidhammaṃ. 
+Jātidhammāhete bhikkhave upadhayo._
+____
+
+[quote, M.1.435]
+____
+A bhikkhu secluded from worldly objects of attachment, with the abandonment of 
+spiritually unwholesome factors and the allayment of all unvirtuous conduct by 
+way of body... enters and abides in first jhāna.
+
+_upadhivivekā akusalānaṃ dhammānaṃ pahānā sabbaso 
+kāyaduṭṭhullānaṃ paṭipassaddhiyā... paṭhamaṃ jhānaṃ 
+upasampajja viharati._
+____
+
+==== Discriminating upadhi's
+
+- When a bhikkhu attains jhāna, he is 'secluded from _upadhi_' 
+(_upadhivivekā_) i.e. secluded from 'worldly objects of attachment,' not 'all 
+objects of attachment'. He still has a body.
+
+- When a bhikkhu attains _nibbāna_ he relinquishes all _upadhi_ 
+(_sabbūpadhipaṭinissaggo_) i.e. relinquishes 'the whole phenomenon of 
+attachment,' not 'all attachments' (M.1.436).
+
+=== Illustrations
+
+.Illustration
+====
+upadhi
+
+(the phenomenon of) attachment; object of attachment
+====
+
+____
+Having understood that attachment is the origin of suffering,
+
+_upadhi dukkhassa mūlan ti iti viditvā_
+____
+
+____
+being free of attachment,
+
+_nirupadhi_
+____
+
+____
+liberated [from perceptually obscuring states] through the destruction of 
+attachment,
+
+_upadhisaṅkhaye vimutto_
+____
+
+[quote, M.2.260-261]
+____
+it is not possible that he would arouse his body or apply his mind to any 
+object of attachment.
+
+_upadhismiṃ vā kāyaṃ upasaṃharissati cittaṃ vā uppādessatī ti 
+netaṃ ṭhānaṃ vijjati._
+____
+
+.Illustration
+====
+upadhiṃ
+
+(the phenomenon of) attachment.
+====
+
+____
+Suffering arises because of attachment
+
+_upadhiṃ paṭicca dukkhamidaṃ sambhoti_
+____
+
+____
+With the destruction of all grasping
+
+_sabbūpādānakkhayā_
+____
+
+[quote, Ud.33]
+____
+There is no arising of suffering
+
+_natthi dukkhassa sambhavo._
+____
+
+Comment:
+
+_Ūpādāna_ ('grasping') substitutes for _upadhiṃ_ ('phenomenon of 
+attachment').
+
+.Illustration
+====
+upadhikā
+
+(the phenomenon of) attachment
+====
+
+The various kinds of psychic power (_anekavihitaṃ iddhividhaṃ_) are the 
+ability of multiplying one's body, then unmultiplying it, etc. (D.1.77-9)
+
+[quote, D.3.112-3]
+____
+These powers are associated with perceptually obscuring states and with 
+attachment, and are called 'ignoble'
+
+_iddhi yā sāsavā saupadhikā no ariyā ti vuccati._
+____
+
+.Illustration
+====
+upadhiṃ (the phenomenon of) attachment
+
+[quote
+
+S.1.117]
+====
+
+____
+Knowing attachment in the world [of phenomena] as bondage [to individual 
+existence], a person should train for its elimination.
+
+_Upadhiṃ viditvā saṅgo ti loke tasseva jantu vinayāya sikkheti._
+____
+
+.Illustration
+====
+upadhi
+
+(the phenomenon of) attachment
+====
+
+____
+The many diverse kinds of suffering that arise in the world [headed by] old age 
+and death: this suffering has attachment as its basis, attachment as its 
+origin; it is generated and produced by attachment.
+
+_upadhinidānaṃ upadhisamudayaṃ upadhijātikaṃ upadhipabhavaṃ_
+____
+
+____
+When there is attachment, old age and death arise.
+
+_upadhismiṃ sati jarāmaraṇaṃ hoti_
+____
+
+[quote, S.2.108]
+____
+Without attachment, old age and death do not arise.
+
+_upadhismiṃ asati jarāmaraṇaṃ na hotī ti._
+____
+
+.Illustration
+====
+upadhi
+
+(the phenomenon of) attachment
+====
+
+____
+Attachment has craving as its basis, craving as its origin; it is generated and 
+produced by craving.
+
+_upadhi taṇhānidāno taṇhāsamudayo taṇhājātiko taṇhāpabhavo_
+____
+
+____
+When there is craving, attachment arises.
+
+_taṇhāya sati upadhi hoti_
+____
+
+[quote, S.2.108]
+____
+Without craving, attachment does not arise.
+
+_taṇhāya asati upadhi na hotī ti._
+____
+
+.Illustration
+====
+upadhī
+
+worldly objects of attachment; upadhi, the phenomenon of attachment
+====
+
+____
+Formerly, when he was ignorant, worldly objects of attachment were accepted and 
+received by him.
+
+_upadhī honti samattā samādinnā_
+____
+
+____
+Later he abandoned them, so they were chopped down at the root, completely and 
+irreversibly destroyed, never to arise again in future.
+
+_pahīnā honti ucchinnamūlā tālāvatthukatā anabhāvakatā āyatiṃ 
+anuppādadhammā._
+____
+
+____
+A bhikkhu possessing such [resolve for relinquishment] possesses the supreme 
+resolve for relinquishment.
+
+_paramena cāgādhiṭṭhānena samannāgato hoti._
+____
+
+[quote, M.3.245]
+____
+For this, bhikkhu, is the supreme noble relinquishment, namely the 
+relinquishment of the whole phenomenon of attachment.
+
+_paramo ariyo cāgo yadidaṃ sabbūpadhipaṭinissaggo._
+____
+
+.Illustration
+====
+upadhiko
+
+state of attachment
+====
+
+[quote, Sn.v.789]
+____
+If a man's spiritual purity was on account of his vision, if he abandoned 
+suffering by knowledge, then a man with one state of attachment would be 
+spiritually purified by means of another
+
+_diṭṭhena ce suddhi narassa hoti ñāṇena vā so pajahāti dukkhaṃ +
+Aññena so sujjhati sopadhiko._
+____
+
+.Illustration
+====
+upadhī
+
+states of attachment
+====
+
+[quote, Sn.v.546]
+____
+You have transcended states of attachment,
+
+_upadhī te samatikkantā._
+____
+
+.Illustration
+====
+upadhīnaṃ
+
+states of attachment
+====
+
+• With the destruction of all states of attachment the Buddha sleeps. Why 
+should this concern you, Māra? +
+_Sabbūpadhīnaṃ parikkhayā buddho soppati kiṃ tavettha mārā ti_ 
+(S.1.107).
+
+.Illustration
+====
+upadhī
+
+worldly objects of attachment; nirupadhī, without worldly objects of 
+attachment; nirupadhī, free of attachment
+====
+
+&#8203;[Māra:]
+
+One with sons rejoices in sons. One with cattle likewise rejoices in cattle.
+
+____
+Worldly objects of attachment are truly a man's delight. One without worldly 
+objects of attachment does not rejoice.
+
+_upadhī hi narassa nandanā na hi so nandati yo nirupadhī ti._
+____
+
+&#8203;[The Buddha:]
+
+One with sons grieves over sons. One with cattle likewise grieves over cattle.
+
+[quote, S.1.107-8]
+____
+Worldly objects of attachment are truly a man's grief. One who is free of 
+attachment does not grieve.
+
+_Upadhī hi narassa socanā na hi so socati yo nirupadhī ti._
+____
+
+.Illustration
+====
+upadhīsu
+
+objects of attachment
+====
+
+[quote, S.1.186]
+____
+People are ensnared by objects of attachment, by what is seen, heard, sensed, 
+and cognised.
+
+_upadhīsu janā gathitāse diṭṭhasute paṭighe ca mute ca._
+____
+
+.Illustration
+====
+upadhī
+
+objects of attachment
+====
+
+____
+This [wretched human] body is perishable, bhikkhus; consciousness is destined 
+to pass away;
+
+_Bhidurāyaṃ bhikkhave kāye viññāṇaṃ virāgadhammaṃ_
+____
+
+____
+All objects of attachment are unlasting, existentially void, destined to change.
+
+_sabbe upadhī aniccā dukkhā vipariṇāmadhammā ti_
+____
+
+____
+Knowing the body as perishable, and consciousness as perishable,
+
+_Kāyañca bhiduraṃ ñatvā viññāṇañca pabhaṅguṇaṃ_
+____
+
+[quote, It.69]
+____
+Seeing fear in objects of attachment, he has gone beyond birth and death
+
+_upadhīsu bhayaṃ disvā jātimaraṇamaccagā._
+____
+
+.Illustration
+====
+upadhi
+
+(phenomenon of) attachment; upadhi, objects of attachment
+====
+
+[quote, M.1.453-4]
+____
+In this regard, some person applies himself to the abandonment and 
+relinquishment of attachment. Whilst doing so, memories and thoughts concerning 
+objects of attachment assail him.
+
+_idhūdāyi ekacco puggalo upadhipahānāya paṭipanno hoti 
+upadhipaṭinissaggāya. Tamenaṃ upadhipahānāya paṭipannaṃ 
+upadhipaṭinissaggāya upadhipaṭisaṃyuttā sarasaṅkappā samudācaranti._
+____
+
+.Illustration
+====
+upadhīsu
+
+objects of attachment
+====
+
+[quote, Sn.v.364]
+____
+He sees no substantial reality in objects of attachment. Having eliminated his 
+fondness and attachment regarding objects of attachment, he is free of 
+attachment, not needing to be led by others. He would properly fulfil the 
+ideals of religious asceticism in the world.
+
+_Na so upadhīsu sārameti ādānesu vineyya chandarāgaṃ +
+So anissito anaññaneyyo sammā so loke paribbajeyya._
+____
+

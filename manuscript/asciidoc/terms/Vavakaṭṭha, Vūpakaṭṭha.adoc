@@ -1,0 +1,265 @@
+== Vavakaṭṭha; Vūpakaṭṭha
+
+=== Renderings
+
+- _vūpakaṭṭha_: withdrawn
+
+_• kāyavūpakāsena vūpakaṭṭho_: physically withdrawn [from human 
+fellowship]
+
+- _gaṇasmā vūpakaṭṭho_: withdrawn from human fellowship
+
+_• cittavūpakāsena vūpakaṭṭho_: psychologically withdrawn [from 
+sensuous pleasures and spiritually unwholesome factors]
+
+- _vūpakaṭṭha_: withdrawn [from human fellowship, sensuous pleasures, and 
+spiritually unwholesome factors]
+
+- _vavakaṭṭhaṃ cittaṃ hoti_: psychologically withdrawn [from sensuous 
+pleasures and spiritually unwholesome factors]
+
+=== Introduction
+
+==== Vavakaṭṭha and vūpakaṭṭha
+
+_Vavakaṭṭha_ and _vūpakaṭṭha_ are past participles from _vavakassati_. 
+_Vūpakaṭṭha_ is possibly a 're-translation' of _vavakaṭṭha_, says PED. 
+The words are identical in meaning, and interchangeable:
+
+- _cittena vivekapoṇena vivekapabbhārena vavakaṭṭhena_ (A.4.233).
+
+- _cittena vivekapoṇena vivekapabbhārena vūpakaṭṭhena_ (M.3.111).
+
+But there is a difference: _Vavakaṭṭha_ is rare, occurring just 5 times in 
+the suttas, always with _citta_. _Vūpakaṭṭha_ occurs 133 times in a 
+variety of contexts.
+
+==== Vivekakaṭṭha: error
+
+We follow Bodhi in reading _vavakaṭṭha_ for _vivekakaṭṭha_ (NDB n.1687; 
+n.1694, re passages at A.4.224 and A.4.233). He says that 'since compounds with 
+_viveka_ precede this word, it is easy to see how the original word could have 
+undergone mutation.' The sequence at A.4.224 is: _vivekaninnaṃ cittaṃ hoti 
+vivekapoṇaṃ vivekapabbhāraṃ vavakaṭṭhaṃ_.
+
+==== Vapakassati: error
+
+PED says _vapakassati_ (A.3.393-4) should read _vavakassati_.
+
+==== Vavakassati and vavakāsituṃ: their objects
+
+_Vavakassati_ and its infinitive _vavakāsituṃ_ either have an explicit 
+object, or an object that can be easily identified from context:
+
+1. When he lives apart from the Teacher or a companion in the religious life of 
+the standing of a teacher
++
+****
+_Yato ca kho so vavakassateva satthārā vavakassati garuṭṭhānīyehi 
+sabrahmacārihi_... (A.3.393).
+****
+
+2. Bhikkhus, possessed of five factors a bhikkhu is not fit to live apart from 
+the monastic community.
++
+****
+_Pañcahi bhikkhave dhammehi samannāgato bhikkhu nālaṃ saṅghamhā 
+vavakāsituṃ_ (A.3.145).
+****
+
+3. On what grounds is there schism in the community of bhikkhus? Bhikkhus 
+proclaim what is not the teaching to be the teaching, and visa versa... On 
+these ten grounds they [legalistically] withdraw and separate [from the 
+resident community of bhikkhus]. They perform legal acts separately and recite 
+the Pātimokkha separately. It is in this way, Upāli, that there is schism in 
+the community of bhikkhus.
++
+****
+_Kittāvatā nu kho bhante saṅgho bhinno hotī ti? Idhūpāli bhikkhu 
+adhammaṃ dhammo ti dipenti dhammaṃ adhammo ti dīpenti... Te imehi dasahi 
+vatthūhi avakassanti vavakassanti āveni kammāni karonti āveni 
+pātimokkhaṃ uddisanti. Ettāvatā kho upāli saṅgho bhinno hotī ti_ 
+(A.5.74; Vin.2.204).
+****
+
+4. Now at that time the bhikkhunī Thullanandā, having ordained her pupil 
+neither withdrew her [from her husband's whereabouts] nor had her withdrawn. 
+Her husband seized her.
++
+****
+_tena kho pana samayena thullanandā bhikkhunī sahajīviniṃ 
+vuṭṭhāpetvā neva vūpakāsesi na vūpakāsāpesi. Sāmiko aggahesi_ 
+(Vin.4.326).
+****
+
+==== Vūpakaṭṭho: its objects
+
+The two kinds of 'withdrawal' are 1) of body and 2) of mind, as the following 
+quote shows:
+
+[quote, S.5.67]
+____
+When one has heard the teaching from [excellent] bhikkhus one dwells withdrawn 
+in two ways: physically withdrawn [from human fellowship], and psychologically 
+withdrawn [from sensuous pleasures and spiritually unwholesome factors].
+
+_tathārūpānaṃ bhikkhave bhikkhūnaṃ dhammaṃ sutvā dvayena 
+vūpakaṭṭho viharati kāyavūpakāsena ca cittavūpakāsena ca._
+____
+
+==== Kāyavūpakāsa: source of its parenthesis
+
+Where necessary, we parenthesise _kāyavūpakāsa_ ('physically withdrawn [from 
+human fellowship]') in accordance with the following quote:
+
+[quote, M.3.110]
+____
+A bhikkhu dwells alone, withdrawn from human fellowship.
+
+_bhikkhu eko gaṇasmā vūpakaṭṭho viharati._
+____
+
+==== Cittavūpakāsa: source of its parenthesis
+
+We parenthesise _cittavūpakāsa_ ('psychologically withdrawn [from sensuous 
+pleasures and spiritually unwholesome factors]') in accordance with the 
+following quotes:
+
+1. A certain bhikkhu who had gone for his daytime abiding in a woodland grove 
+'kept thinking unvirtuous, spiritually unwholesome thoughts associated with the 
+household life.'
++
+****
+_so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi gehanissite_ 
+(S.1.197).
+****
+
+2. Those ascetics and Brahmanists who live physically withdrawn from sensuous 
+pleasures but whose hankering, love, infatuation, thirst, and passion for 
+sensuous pleasures has not been fully abandoned and quelled internally... are 
+incapable of knowledge and vision [of things according to reality], and supreme 
+enlightenment.
++
+****
+_ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva kāmehi 
+vūpakaṭṭhā viharanti yo ca nesaṃ kāmesu kāmacchando kāmasneho 
+kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṃ na suppahīno 
+hoti na suppaṭippassaddho... abhabbāva te ñāṇāya dassanāya anuttarāya 
+sambodhāya_ (M.1.241).
+****
+
+3. Secluded from sensuous pleasures and spiritually unwholesome factors, a 
+bhikkhu enters and abides in first jhāna, which is accompanied by thinking and 
+pondering, and rapture and physical pleasure born of seclusion [from sensuous 
+pleasures and spiritually unwholesome factors].
++
+****
+_Idhāvuso visākha bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi 
+savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ 
+upasampajja viharati_ (M.1.301).
+****
+
+==== Vūpakaṭṭha: with no object
+
+When _vūpakaṭṭha_ has no explicit object, the considerations above show 
+that it is a combination of _kāyavūpakāsa_ and _cittavūpakāsa_, therefore 
+needs a combination of their parentheses:
+
+[quote, S.4.145]
+____
+Bhante, it would be good if the Blessed One would explain the teaching to me in 
+brief, so that, having heard the teaching from the Blessed One, I might abide 
+alone, withdrawn [from human fellowship, sensuous pleasures, and spiritually 
+unwholesome factors], diligently, vigorously, and resolutely applied [to the 
+practice].
+
+_sādhu me bhante bhagavā saṅkhittena dhammaṃ desetu yamahaṃ bhagavato 
+dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyanti._
+____
+
+==== Vūpakaṭṭha, viveka, and paviveka: a comparison
+
+_Viveka_ applies to the mind, and means seclusion [from sensuous pleasures and 
+spiritually unwholesome factors]. _Paviveka_ means physical seclusion. 
+_Vūpakaṭṭha_, if unqualified, means _viveka_ plus _paviveka_. See Glossary 
+sv _Viveka_ and sv _Paviveka_.
+
+==== Physical seclusion implies the striving for mental seclusion
+
+That the Buddha regarded living secludedly (_pavivitta_) to be inseparably 
+linked to the development of seclusion [from sensuous pleasures and spiritually 
+unwholesome factors] (_viveka_) is discussed sv _Paviveka_.
+
+==== Vavakaṭṭhaṃ: assigning its object
+
+_Vavakaṭṭha_ always has the same explicit object. So, in its five 
+occurrences it has only one meaning:
+
+_• Vavakaṭṭhaṃ cittaṃ hoti_: psychologically withdrawn [from sensuous 
+pleasures and spiritually unwholesome factors]
+
+=== Illustrations
+
+.Illustration
+====
+gaṇasmā vūpakaṭṭho
+
+withdrawn from human fellowship
+====
+
+____
+'At present I am living crowded by bhikkhus and bhikkhunīs, by male and female 
+lay followers, by kings and royal ministers, by non-Buddhist ascetics and their 
+disciples.
+
+_ahaṃ kho etarahi ākiṇṇo viharāmi bhikkhūhi bhikkhunīhi upāsakehi 
+upāsikāhi raññā rājamahāmattehi titthiyehi titthiyasāvakehi._
+____
+
+____
+How about if I lived alone, withdrawn from human fellowship?
+
+_Yannūnāhaṃ eko gaṇasmā vūpakaṭṭho vihareyyanti._
+____
+
+[quote, A.4.436]
+____
+He resorts to a secluded abode: the forest, the root of a tree, a mountain, a 
+grotto, a hillside cave, a charnel ground, a quiet grove, the open air, a heap 
+of straw.
+
+_So vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ 
+kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjaṃ._
+____
+
+.Illustration
+====
+cittena... vavakaṭṭhena
+
+psychologically withdrawn [from sensuous pleasures and spiritually unwholesome 
+factors]
+====
+
+____
+In this regard, the bhikkhu living secludedly may be visited by bhikkhus, 
+bhikkhunīs, laymen, laywomen, kings and kings' ministers, and non-Buddhist 
+ascetics and their disciples.
+
+_idha bhikkhave bhikkhuno pavivittassa viharato bhavanti upasaṅkamitāro 
+bhikkhū bhikkhūniyo upāsakā upāsikāyo rājāno rājamahāmattā titthiyā 
+titthiyasāvakā._
+____
+
+[quote, A.4.233]
+____
+In that case, the bhikkhu, mentally inclining, verging, and drifting towards 
+seclusion [from sensuous pleasures and spiritually unwholesome factors], 
+psychologically withdrawn [from sensuous pleasures and spiritually unwholesome 
+factors], taking delight in the practice of unsensuousness, is one whose words 
+are exclusively connected with religious inspiration.
+
+_Tatra bhikkhu vivekaninnena cittena vivekapoṇena vivekapabbhārena 
+vavakaṭṭhena nekkhammābhiratena aññadatthu 
+uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
+____
+

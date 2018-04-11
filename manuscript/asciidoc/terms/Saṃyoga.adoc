@@ -1,0 +1,433 @@
+== Saṃyoga
+
+=== Renderings
+
+- _saṃyoga_: bondage
+
+- _saṃyogaṃ_: bond [that binds one to renewed states of individual 
+existence] (_metri causa_ for _bandhana)_
+
+- _saṃyogaṃ_: tie to individual existence (_metri causa_ for _saṃyojana)_
+
+- _saṃyoga_: emotional bondage
+
+- _saṃyoga_: bondage [to individual existence]
+
+- _visaṃyoga_: emancipation
+
+- _visaṃyoga_: emancipation [from individual existence]
+
+- a__saṃyoga__: emancipation [from individual existence]
+
+=== Introduction
+
+==== Saṃyoga metri causa for bandhana
+
+Sometimes _saṃyoga_ stands _metri causa_ for _bandhana_. For example:
+
+[quote, Sn.v.733]
+____
+Having overcome Māra's bond [that binds one to renewed states of individual 
+existence], they do not come to renewed states of individual existence.
+
+_Abhibhuyya mārasaṃyogaṃ nāgacchanti punabbhavan ti._
+____
+
+Only here is Māra's bond called _mārasaṃyoga_. Usually (23 times) it is 
+called _mārabandhana_ (Māra's bond [that binds one to renewed states of 
+individual existence], S.1.24; S.4.92; S.4.202). So _mārasaṃyoga_ stands 
+_metri causa_ for _mārabandhana_.
+
+==== Saṃyoga metri causa for saṃyojana
+
+_Saṃyoga_'s relationship to _saṃyojana_ is that of 'bondage' (_saṃyogo,_ 
+uncountable) to 'bond' (_saṃyojana,_ countable):
+
+[quote, S.4.36]
+____
+Where there is attachment, there is bondage [to individual existence]. Tethered 
+&#8203;[to individual existence] by the bond of spiritually fettering delight, 
+Migajāla, a bhikkhu is called 'one living with a partner.'
+
+_sārāge sati saṃyogo hoti nandisaṃyojanasaṃyutto kho migajāla bhikkhu 
+sadutiyavihārī ti vuccati._
+____
+
+A countable noun is called for in the following quote, and _saṃyoga_ 
+therefore stands for _saṃyojana._
+
+[quote, S.3.143]
+____
+He should abandon all ties to individual existence.
+
+_Pajahe sabbasaṃyogaṃ._
+____
+
+The commentary agrees: _sabbaṃ dasavidhampi saṃyojanaṃ_.
+
+==== Parenthesising saṃyoga and visaṃyoga
+
+Where _saṃyoga_ and _visaṃyoga_ lack an object, we parenthesise, calling 
+them:
+
+- _saṃyoga_: bondage [to individual existence]
+
+- _visaṃyoga_: emancipation [from individual existence]
+
+This is justified for two reasons:
+
+1. by _saṃyoga_'s relationship to _saṃyutto_ which we parenthesise likewise 
+(and explain sv _Saṃyutta_)_,_ as seen in the following quote. See Glossary 
+sv _Saṃyutta_:
+
+[quote, S.4.36]
+____
+When there is spiritually fettering delight, there is attachment. Where there 
+is attachment, there is bondage [to individual existence]. Tethered [to 
+individual existence] by the bond of spiritually fettering delight, Migajāla, 
+a bhikkhu is called 'one living with a partner.'
+
+_nandiyā sati sārāgo hoti sārāge sati saṃyogo hoti 
+nandisaṃyojanasaṃyutto kho migajāla bhikkhu sadutiyavihārī ti vuccati._
+____
+
+2. by _saṃyoga_'s relationship to _saṃyojana_, as noted above.
+
+=== Illustrations
+
+.Illustration
+====
+saṃyogaṃ
+
+emotional bondage; saṃyogaṃ, bondage [to individual existence]
+====
+
+____
+Being thus excited and delighted, she desires an emotional bondage with those 
+about her.
+
+_Sā tattha rattā tatrābhiratā bahiddhā saṃyogaṃ ākaṅkhati._
+____
+
+____
+And whatsoever physical and psychological pleasure arises from this emotional 
+bondage, that she desires.
+
+_Yañcassā saṃyogapaccayā uppajjati sukhaṃ somanassaṃ tañca 
+ākaṅkhati._
+____
+
+[quote, A.4.57]
+____
+Taking delight in and bound to her femininity, she has fallen into bondage [to 
+individual existence] amongst men.
+
+_Itthatte bhikkhave abhiratā sattā purisesu saṃyogaṃ gatā._
+____
+
+.Illustration
+====
+saṃyogaṃ
+
+emotional bondage
+====
+
+[quote, S.1.226]
+____
+For all living beings, emotional bondage is supreme among enjoyments.
+
+_Saṃyogaparamātveva sambhogā sabbapāṇinaṃ._
+____
+
+.Illustration
+====
+saṃyogā
+
+emotionally bound
+====
+
+[quote, S.3.69]
+____
+Beings are attached to bodily form. Being attached, they are emotionally bound 
+to it. Being emotionally bound, they are [thereby] spiritually defiled.
+
+_sattā rūpasmiṃ sārajjanti sārāgā saṃyujjanti saṃyogā 
+saṅkilissanti._
+____
+
+[quote, S.3.69]
+____
+Beings are disillusioned with bodily form. Being disillusioned, they are 
+unattached to it. Being unattached to it they are [thereby] spiritually 
+purified.
+
+_sattā rūpasmiṃ nibbindanti nibbindaṃ virajjanti virāgā visujjhanti._
+____
+
+.Illustration
+====
+saṃyogena
+
+emotional bondage
+====
+
+[quote, A.4.56]
+____
+He is called one who lives the celibate life impurely. He is tethered [to 
+individual existence] by emotional bondage to sexuality. He is not freed from 
+birth, old age, and death, from grief, lamentation, physical pain, 
+psychological pain, and vexation.
+
+_Ayaṃ vuccati brāhmaṇa aparisuddhaṃ brahmacariyaṃ carati saṃyutto 
+methunena saṃyogena. Na parimuccati jātiyā jarāya maraṇena sokehi 
+paridevehi dukkhehi domanassehi upāyāsehi._
+____
+
+.Illustration
+====
+saṃyoge
+
+tie [to individual existence]
+====
+
+[quote, Sn.v.522]
+____
+Having freed himself of all ties and bonds [to individual existence], he is 
+attached to nothing.
+
+_Sabbasaṃyoge visajja bandhanāni sabbattha na sajjati._
+____
+
+COMMENT
+
+_Sabbasaṃyoge_ is metri causa for _sabbasaṃyojane_. The commentary agrees: 
+_dasasaṃyojanabhedāni ca sabbabandhanāni_. See Introduction. _Bandhana_ is 
+usually linked to _saṃyojana_, and both are countable nouns, and synonyms:
+
+[quote, S.1.191; Th.v.1234]
+____
+Having severed the ties and bonds [to individual existence].
+
+_Saṃyojanabandhanacchidā._
+____
+
+.Illustration
+====
+saṃyogāya
+
+bondage [to individual existence]
+====
+
+[quote, M.1.411]
+____
+The view of theirs that there is no complete ending of individual existence, is 
+close to attachment, in the vicinity of bondage [to individual existence].
+
+_natthi sabbaso bhavanirodho ti tesamayaṃ diṭṭhi sārāgāya santike 
+saṃyogāya santike...._
+____
+
+.Illustration
+====
+saṃyogo
+
+bondage [to individual existence]
+====
+
+____
+When there is no spiritually fettering delight, there is no attachment. When 
+there is no attachment, there is no bondage [to individual existence].
+
+_nandiyā asati sārāgo na hoti. Sārāge asati saṃyogo na hoti_
+____
+
+[quote, S.4.36-7]
+____
+Not tethered [to individual existence] by the bond of spiritually fettering 
+delight, Migajāla, a bhikkhu is called 'one living unaccompanied.'
+
+_nandisaṃyojana visaṃyutto kho migajāla bhikkhu ekavihārītī vuccati._
+____
+
+.Illustration
+====
+asaṃyogāya
+
+emancipation [from individual existence]
+====
+
+[quote, M.1.411]
+____
+The view of theirs that there is a complete ending of individual existence, is 
+close to non-attachment [to originated phenomena], in the vicinity of 
+emancipation [from individual existence]...
+
+_atthi sabbaso bhavanirodho ti tesamayaṃ diṭṭhi asārāgāya santike 
+asaṃyogāya santike._
+____
+
+.Illustration
+====
+saṃyogāya
+
+bondage [to individual existence]; visaṃyogāya, emancipation [from 
+individual existence]
+====
+
+Gotamī, things (_dhamme_) of which you might consider:
+
+____
+'These things lead to... emancipation [from individual existence], not bondage 
+&#8203;[to individual existence]
+
+_visaṃyogāya no saṃyogāya_
+____
+
+You can definitely consider
+
+____
+this is [in accordance with] the teaching
+
+_eso dhammo_
+____
+
+____
+this is [in accordance with] the discipline
+
+_eso vinayo_
+____
+
+[quote, A.4.280]
+____
+this is [in accordance with] the Teacher's training system
+
+_etaṃ satthusāsanan ti._
+____
+
+.Illustration
+====
+visaṃyogo
+
+emancipation
+====
+
+____
+Four states of emancipation:
+
+_Cattāro visaṃyogā_
+____
+
+____
+Emancipation from the bondage [to individual existence] that arises from 
+&#8203;[attachment to] sensuous pleasure
+
+_kāmayogavisaṃyogo_
+____
+
+____
+Emancipation from the bondage [to individual existence] that arises from 
+&#8203;[attachment to] states of individual existence
+
+_bhavayogavisaṃyogo_
+____
+
+____
+Emancipation from the bondage [to individual existence] that arises from 
+dogmatism
+
+_diṭṭhiyogavisaṃyogo_
+____
+
+[quote, D.3.230]
+____
+Emancipation from the bondage [to individual existence] that arises from 
+uninsightfulness into reality
+
+_avijjāyogavisaṃyogo._
+____
+
+.Illustration
+====
+visaṃyogo
+
+emancipation
+====
+
+____
+What is emancipation from the bondage [to individual existence] that arises 
+from [attachment to] sensuous pleasure?
+
+_Katamo ca bhikkhave kāmayogavisaṃyogo?_
+____
+
+____
+In this regard, some person discerns according to reality the origination, 
+vanishing, sweetness, wretchedness, and deliverance in regards to sensuous 
+pleasure,
+
+_Idha bhikkhave ekacco kāmānaṃ samudayañca atthaṅgamañca assādañca 
+ādīnavañca nissaraṇañca yathābhūtaṃ pajānāti._
+____
+
+____
+And so in relation to sensuous pleasures, whatever the
+
+_yo kāmesu_
+____
+
+____
+attachment to sensuous pleasure _
+
+_kāmarāgo_
+____
+
+____
+spiritually fettering delight in sensuous pleasure _
+
+_kāmanandi_
+____
+
+____
+love of sensuous pleasure _
+
+_kāmasineho_
+____
+
+____
+infatuation with sensuous pleasure _
+
+_kāmamucchā_
+____
+
+____
+sensuous thirst _
+
+_kāmapipāsā_
+____
+
+____
+sensuous passion _
+
+_kāmapariḷāho_
+____
+
+____
+clinging to sensuous pleasure _
+
+_kāmajjhosānaṃ_
+____
+
+____
+craving for sensuous pleasure, they do not lurk within him.
+
+_kāmataṇhā sā nānuseti_
+____
+
+[quote, A.2.11]
+____
+This is called emancipation from the bondage [to individual existence] that 
+arises from [attachment to] sensuous pleasure.
+
+_Ayaṃ vuccati bhikkhave kāmayogavisaṃyogo._
+____
+

@@ -1,0 +1,213 @@
+== Nāmarūpa
+
+=== Renderings
+
+- _nāmarūpa_: denomination-and-bodily-form
+
+=== Introduction
+
+==== Nāma: name, countable noun
+
+_Nāma_ means 'name':
+
+[quote, Sn.v.808]
+____
+Those people whose names are such-and-such are both seen and heard. But when he 
+has died, only a person's name will live on to be uttered.
+
+_Diṭṭhāpi sutāpi te janā yesaṃ nāmamidaṃ pavuccati +
+Nāmaṃyevāvasissati akkheyyaṃ petassa jantuno._
+____
+
+[quote, Sn.v.344]
+____
+The name Nigrodhakappa was given to that Brahman by you, Blessed One.
+
+_Nigrodhakappo iti tassa nāmaṃ tayā kataṃ bhagavā brāhmaṇassa._
+____
+
+==== Nāma: denomination, uncountable noun
+
+_Nāma_ can also mean 'denomination':
+
+____
+What has conquered everything? What is the most extensive thing? What is the 
+one thing that has everything under its control?
+
+_Kiṃsu sabbaṃ addhabhavi kismā bhiyyo na vijjati +
+Kissassa ekadhammassa sabbeva vasamanvagū ti_
+____
+
+[quote, S.1.39]
+____
+... Denomination has conquered everything. Denomination is the most extensive 
+thing. Denomination is the one thing that has everything under its control._
+
+_nāmaṃ sabbaṃ addhabhavi nāmā bhiyyo na vijjati +
+Nāmassa ekadhammassa sabbeva vasamanvagū ti._
+____
+
+_Nāma_ cannot be called 'name' here ('Name is the one thing that has all under 
+its control'). The context requires an uncountable noun.
+
+==== Nāmarūpam
+
+In _nāmarūpam, nāma_ is defined like this:
+
+[quote, M.1.53]
+____
+Sense impression, perception, intentionality, sensation, and the paying of 
+attention, are called _nāmaṃ_.
+
+_Vedanā saññā cetanā phasso manasikāro idaṃ vuccatāvuso nāmaṃ._
+____
+
+Translators usually call these five factors 'name,' which is unfitting. An 
+uncountable noun is needed.
+
+=== Illustrations
+
+.Illustration
+====
+nāmarūpaṃ denomination-and-bodily-form
+
+____
+And what is denomination-and-bodily-form
+
+what is the [co-conditional] origination of denomination-and-bodily-form, what 
+is the [co-conditional] ending of denomination-and-bodily-form, what is the 
+practice leading to the ending of denomination-and-bodily-form?
+====
+
+_Katamaṃ panāvuso nāmarūpaṃ? Katamo nāmarūpasamudayo? Katamo 
+nāmarūpanirodho? Katamā nāmarūpanirodhagāminī paṭipadā ti?._
+____
+
+____
+Sense impression, perception, intentionality, sensation, and the paying of 
+attention, are called 'denomination.'
+
+_Vedanā saññā cetanā phasso manasikāro idaṃ vuccatāvuso nāmaṃ_
+____
+
+____
+The four great material phenomena and any bodily form derived from the four 
+great material phenomena: this is called bodily form
+
+_Cattāri ca mahābhūtāni catunnañca mahābhūtānaṃ upādāya rūpaṃ._
+____
+
+____
+This denomination and this bodily form are called denomination-and-bodily-form.
+
+_Idañca nāmaṃ idañca rūpaṃ idaṃ vuccatāvuso nāmarūpaṃ._
+____
+
+____
+With the origination of the stream of sense consciousness comes the origination 
+of denomination-and-bodily-form._
+
+_Viññāṇasamudayā nāmarūpasamudayo_
+____
+
+____
+With the ending of the stream of sense consciousness comes the ending of 
+denomination-and-bodily-form._
+
+_Viññāṇanirodhā nāmarūpanirodho_
+____
+
+[quote, M.1.53]
+____
+The practice leading to the ending of denomination-and-bodily-form is the noble 
+eightfold path.
+
+_ayameva ariyo aṭṭhaṅgiko maggo nāmarūpanirodhagāminī paṭipadā._
+____
+
+.Illustration
+====
+nāmarūpaṃ denomination-and-bodily-form
+
+____
+When there is what
+
+does denomination-and-bodily-form arise? What is denomination-and-bodily-form 
+dependent on?_
+====
+
+_kimhi nu kho sati nāmarūpaṃ hoti. Kiṃ paccayā nāmarūpan ti._
+____
+
+____
+Then through proper contemplation, there took place in me a realisation through 
+penetrative discernment _
+
+_Tassa mayhaṃ bhikkhave yoniso manasikārā ahu paññāya abhisamayo ti_
+____
+
+____
+When there is the stream of sense consciousness, denomination-and-bodily-form 
+arises. Denomination-and-bodily-form arises dependent on the stream of sense 
+consciousness.
+
+_viññāṇe kho sati nāmarūpaṃ hoti viññāṇapaccayā nāmarūpan ti_
+____
+
+____
+"Then it occurred to me:
+
+_tassa mayhaṃ bhikkhave etadahosi_
+____
+
+____
+When there is what, does the stream of sense consciousness arise? What is the 
+stream of sense consciousness dependent on?_
+
+_kimhi nu kho sati viññāṇaṃ hoti. Kiṃ paccayā viññāṇan ti._
+____
+
+____
+Then through proper contemplation, there took place in me a realisation through 
+penetrative discernment _
+
+_Tassa mayhaṃ bhikkhave yoniso manasikārā ahu paññāya abhisamayo:_
+____
+
+____
+When there is denomination-and-bodily-form, the stream of sense consciousness 
+arises. The stream of sense consciousness arises dependent on 
+denomination-and-bodily-form.
+
+_nāmarūpe kho sati viññāṇaṃ hoti nāmarūpapaccayā viññāṇan ti_
+____
+
+____
+Then it occurred to me:
+
+_tassa mayhaṃ bhikkhave etadahosi_
+____
+
+____
+The stream of sense consciousness turns back at denomination-and-bodily-form; 
+it does not go further.
+
+_paccudāvattati kho idaṃ viññāṇaṃ nāmarūpamhā nāparaṃ gacchati_
+____
+
+____
+On account of this one can be born, age and die, pass away and be reborn,_
+
+_Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā_
+____
+
+[quote, S.2.104]
+____
+Namely through the stream of sense consciousness being dependent on 
+denomination-and-bodily-form; and denomination-and-bodily-form being dependent 
+on the stream of sense consciousness._
+
+_yadidaṃ nāmarūpapaccayā viññāṇaṃ viññāṇapaccayā 
+nāmarūpaṃ._
+____
+

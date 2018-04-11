@@ -1,0 +1,2734 @@
+== Dhamma; Dhammin
+
+=== Renderings
+
+- _dhammin_: productive of
+
+- _dhammin_: subject to
+
+- _dhammin_: of a nature to
+
+- _dhammin_: destined to
+
+- _dhamma_: matter
+
+- _dhamma_: phenomenon
+
+- _dhamma_: phenomenon of (a redundancy)
+
+- _dhamma_: thing
+
+- _dhamma_: condition
+
+- _dhamma_: principle
+
+- _dhamma_: issue
+
+- _dhamma_: quality
+
+- _dhamma_: moral nature
+
+- _dhamma_: state
+
+- _dhamma_: attainment
+
+- _dhamma_: factor
+
+- _dhamma_: religious doctrine
+
+- _dhamma_: teaching
+
+- _dhamma_: the teaching
+
+- _dhamma_: righteousness
+
+- _dhamma_: significance
+
+- _dhamma_: the Buddha's teaching
+
+- _dhamma_: righteous
+
+- _dhamma_: what is righteous
+
+- _dhamma_: good spiritual quality
+
+- _dhamma_: religious
+
+- _dhamma_: legitimate
+
+- _dhamma_: mentally known object
+
+- _dhammā_: certain objects of the systematic teachings
+
+- _dhamma_: the practice
+
+- _dhamma_: the practice of the teaching
+
+- _dhamma_: natural law
+
+- _dhamma_: reality
+
+- _dhamma_: profound truth
+
+- _dhamma_: the Untroubled
+
+- _dhamma_: the nature of reality
+
+- _dhammaṃ deseti_: explain the teaching
+
+- _dhammasamādhī_: inward collectedness based on righteous reflection
+
+- _dhammadesanā_: religious discourse
+
+- _saddhamma_: good quality
+
+- _saddhamma_: true teaching
+
+- _dhammaṭṭho_: established in righteousness
+
+=== Introduction
+
+==== Fluctuation of meaning
+
+The fluctuation in the meaning of _dhamma_ makes for difficult translating. 
+Consider, for example, Dh.v.259, where _dhamma_ has three meanings:
+
+1. the teaching
+
+2. the nature of reality
+
+3. the practice
+
+[quote, Dh.v.259]
+____
+One is not expert in the teaching (_dhamma_) through being loquacious. He who, 
+after hearing just a little, realises the nature of reality (_dhammaṃ_) with 
+his very being, and is not negligent of the practice (_dhammaṃ_), is truly 
+expert in the teaching (_dhamma_).
+
+_Na tāvatā dhammadharo yāvatā bahu bhāsati; Yo ca appampi sutvāna 
+dhammaṃ kāyena passati sa ve dhammadharo hoti yo dhammaṃ nappamajjati._
+____
+
+==== 'The practice'
+
+'The practice' means 'the practice of the teaching':
+
+[quote, S.1.169]
+____
+The practice is a lake with fords of virtue, unmuddied, praised by good people 
+to good people, where those who are blessed with profound knowledge go to 
+bathe, and, dry-limbed, cross to the Far Shore.
+
+_Dhammo rahadobrāhmaṇa sīlatittho anāvilo sabbhi sataṃ pasattho +
+Yattha have vedaguno sinātā anallagattā va taranti pāraṃ._
+____
+
+==== Dhammaṭṭho: 'established in righteousness'
+
+_Dhammaṭṭho_ is associated with arahantship. In the commentary to the 
+following quote, it is analysed as _dhamme ṭhito_:
+
+[quote, Thī.v.740]
+____
+He is possessed of the supreme goal, he is established in righteousness.
+
+_So atthavā so dhammaṭṭho._
+____
+
+In the following quote it is analysed as _asekkhadhammesu nibbānadhamme eva 
+vā ṭhito_:
+
+[quote, It.53]
+____
+The one who is blessed with profound knowledge, being established in 
+righteousness, though he makes use of conception he is beyond the limits of 
+conception.
+
+_Saṅkhāya sevī dhammaṭṭho saṅkhaṃ nopeti vedagū ti._
+____
+
+==== Satipaṭṭhāna Sutta: singular not plural
+
+The _Satipaṭṭhāna Sutta_ says:
+
+[quote, S.5.183]
+____
+A bhikkhu abides contemplating [co-conditional] origination in relation to the 
+body... [co-conditional] disappearance in relation to the body... 
+&#8203;[co-conditional] origination and disappearance in relation to the body.
+
+_bhikkhu samudayadhammānupassī kāyasmiṃ viharati... vayadhammānupassī 
+kāyasmiṃ viharati... samudayavayadhammānupassī kāyasmiṃ viharati._
+____
+
+If _dhamma_ in _samudayadhammānupassī kāyasmiṃ_ is regarded as a plural 
+then 'origination factors of the body' would be meant, and one would have 
+expected a genitive case here, not a locative. The genitive occurs in such 
+phrases as:
+
+____
+the maintenance and nourishment of this [wretched human] body
+
+_imassa kāyassa ṭhitiyā yāpanāya_
+____
+
+____
+the demise of the body
+
+_kāyassa bhedā_
+____
+
+Therefore we treat the word as a singular. That we also treat it as redundant, 
+we will explain below.
+
+==== Satipaṭṭhāna Sutta: the problem of pluralising
+
+If '[co-conditional] origination' is converted into 'origination factors' it 
+has the following effect: instead of contemplating the phenomena of origination 
+and disappearance in relation to phenomena, one instead focuses on the various 
+factors that give rise to phenomena. This has two drawbacks:
+
+1. One remains enmeshed in the conception of 'things.'
+
+2. This practice would not be possible when mindfulness is practised without 
+thinking:
+
+[quote, A.4.301]
+____
+When you have thus developed and cultivated this meditation, then bhikkhu you 
+should develop this meditation accompanied by thinking and pondering; without 
+thinking, just pondering; without thinking or pondering.
+
+_Yato kho te bhikkhu ayaṃ samādhi evaṃ bhāvito hoti bahulīkato tato 
+tvaṃ bhikkhū imaṃ samādhiṃ savitakkampi savicāraṃ bhāveyyāsi. 
+Avitakkampi vicāramattaṃ bhāveyyāsi. Avitakkampi avicāraṃ bhāveyyāsi._
+____
+
+==== Kālāma Sutta: teachings
+
+In the _Kālāma Sutta dhammā_ means 'teachings,' and is equivalent to 
+_vādaṃ_ in the following passage, which we have divided into Question and 
+Answer:
+
+*Question:*
+
+____
+-- There are some ascetics and Brahmanists, bhante, who visit Kesaputta. They 
+expound and explain only their own teachings (_vādaṃ_); the teachings 
+(_vādaṃ_) of others they despise, revile, and pull to pieces. Some other 
+ascetics and Brahmanists too, bhante, come to Kesaputta. They also expound and 
+explain only their own teachings; the teachings of others they despise, revile, 
+and pull to pieces."
+
+_Te sakaṃyeva vādaṃ dīpenti jotenti parappavādaṃ pana khuṃsenti 
+vambhenti paribhavanti omakkhiṃ karonti_
+____
+
+____
+... Bhante, there is unsureness, there is doubt in us concerning them. Which of 
+these reverend ascetics and Brahmanists spoke the truth and which falsehood?"
+
+_Tesaṃ no bhante amhākaṃ hoteva kaṅkhā hoti vicikicchā. Ko su nāma 
+imesaṃ bhavataṃ samaṇabrāhmaṇānaṃ saccaṃ āha ko musā ti?_
+____
+
+*Answer:*
+
+____
+-- Kālāmas, if you yourselves should consider:
+
+_Yadā tumhe kālāmā attanāva jāneyyātha_
+____
+
+____
+... These teachings (_dhammā_) are unwholesome;
+
+_ime dhammā akusalā_
+____
+
+____
+... these teachings (_dhammā_) are unvirtuous;
+
+_ime dhammā sāvajjā_
+____
+
+____
+... these teachings (_dhammā_) are denounced by the wise;
+
+_ime dhammā viññugarahitā_
+____
+
+____
+... when followed and taken up
+
+_ime dhammā samattā samādinnā_
+____
+
+____
+... these teachings (_dhammā_) lead to harm and suffering
+
+_ahitāya dukkhāya saṃvattantīti_
+____
+
+[quote, A.1.189]
+____
+... you should abandon them.
+
+_atha tumhe kālāmā pajaheyyātha._
+____
+
+==== Dhammesu dhammānupassī viharati: certain objects of the systematic 
+teachings
+
+_Dhammesu dhammānupassī viharati_ in the _Satipaṭṭhāna Sutta_ is defined 
+in relation to five groups of systematic teachings:
+
+[quote, M.1.59-62]
+____
+In this regard a bhikkhu abides contemplating the nature of certain objects of 
+the systematic teachings in respect of the (1) five hindrances... (2) the five 
+aggregates... (3) the six senses and their objects... (4) the seven 
+enlightenment factors... (5) the four noble truths.
+
+_Idha bhikkhave bhikkhu dhammesu dhammānupassī viharati pañcasu 
+nīvaraṇesu... pañcasupādānakkhandhesu... chasu ajjhattikabāhiresu 
+āyatanesu... sattasu bojjhaṅgesu... catusu ariyasaccesu._
+____
+
+But only the aggregates and sense bases really fit here, because the purpose of 
+_Satipaṭṭhāna_ is:
+
+1. to profoundly understand objects:
+
+[quote, S.5.182]
+____
+As he abides contemplating the nature of certain objects of the systematic 
+teachings, those objects are profoundly understood.
+
+_Dhammesu dhammānupassī viharati ātāpī sampajāno satimā vineyya loke 
+abhijjhādomanassaṃ. Tassa dhammesu dhammānupassino viharato dhammā 
+pariññātā honti.._
+____
+
+The five aggregates are the objects to be profoundly understood:
+
+[quote, S.3.26]
+____
+What things should be profoundly understood? The five aggregates.
+
+_Katame ca bhikkhave pariññeyyā dhammā. Rūpaṃ bhikkhave pariññeyyo 
+dhammo... viññāṇaṃ pariññeyyo dhammo._
+____
+
+2. to abandon fondness for and attachment to objects:
+
+[quote, S.5.182]
+____
+As he abides contemplating the nature of certain objects of the systematic 
+teachings, whatever fondness he has for those objects of the systematic 
+teachings is abandoned.
+
+_Tassa dhammesu dhammānupassino viharato yo dhammesu chando so pahīyati._
+____
+
+Objects where fondness and attachment are to be abandoned are the five 
+aggregates, the six senses, and the elements of sensation:
+
+[quote, S.3.178]
+____
+You should abandon fondness for what is unlasting. What is unlasting? The five 
+aggregates.
+
+_Yaṃ hi bhikkhave aniccaṃ tatra vo rāgo pahātabbo. Kiñca bhikkhave 
+aniccaṃ. Rūpaṃ bhikkhave aniccaṃ tatra vo rāgo pahātabbo... 
+Viññāṇaṃ aniccaṃ tatra vo rāgo pahātabbo._
+____
+
+[quote, S.4.149]
+____
+You should abandon attachment for what is unlasting. What is unlasting? The six 
+senses.
+
+_Yaṃ bhikkhave aniccaṃ tatra vo rāgo pahātabbo. Kiñca bhikkhave 
+aniccaṃ. Cakkhuṃ bhikkhave aniccaṃ tatra vo rāgo pahātabbo... mano 
+anicco tatra vo rāgo pahātabbo._
+____
+
+[quote, S.4.145]
+____
+You should abandon fondness for what is unlasting. What is unlasting? The 
+elements of sensation.
+
+_Yaṃ kho koṭṭhita aniccaṃ tatra te chando pahātabbo. Kiñca 
+koṭṭhita aniccaṃ. Cakkhuṃ kho koṭṭhita aniccaṃ tatra te chando 
+pahātabbo. Rūpā aniccā tatra te chando pahātabbo. Cakkhuviññāṇaṃ 
+aniccaṃ tatra te chando pahātabbo. Cakkhusamphasso anicco tatra te chando 
+pahātabbo. Yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ 
+vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccaṃ tatra te chando 
+pahātabbo._
+____
+
+3. to observe the cessation of objects. For example, in mindfulness with 
+breathing, the object of contemplation is said to be the fourth of the bases of 
+mindfulness:
+
+[quote, S.5.325]
+____
+at that time he abides contemplating the nature of certain objects of the 
+systematic teachings.
+
+_dhammesu dhammānupassī ānanda bhikkhu tasmiṃ samaye viharati._
+____
+
+Therefore, with mindfulness with breathing, one can parenthesise the 
+instructions as follows:
+
+- He trains himself: I will breathe in... I will breathe out contemplating
+
+____
+... unlastingness [in relation to certain objects of the systematic teachings]
+
+_Aniccānupassī assasissāmī ti... passasissāmī ti sikkhati_
+____
+
+• ... passing away [in relation to certain objects of the systematic 
+teachings] +
+☸ virāgā__nupassī assasissāmī ti... passasissāmī ti sikkhati__
+
+____
+... ending [in relation to certain objects of the systematic teachings]
+
+_nirodhānupassī assasissāmī ti... passasissāmī ti sikkhati_
+____
+
+[quote, S.5.324]
+____
+... relinquishment [in relation to certain objects of the systematic teachings]
+
+_paṭinissaggānupassī assasissāmī ti... passasissāmī ti sikkhati._
+____
+
+The practice of observing the cessation of objects is associated in the suttas 
+with the aggregates and the elements of sensation. It is not associated with 
+the hindrances, the enlightenment factors, or the noble truths. This is clearly 
+seen in the suttas beginning with the _Cakkhu Aniccānupassī Sutta_ (A.4.146), 
+and with the _Aniccānupassanā Sutta_ (A.5.359).
+
+Therefore the _dhammesu dhammānupassī_ reflection concerns certain objects of 
+the systematic teachings, namely the five aggregates and the eighteen or more 
+elements of sensation.
+
+==== Redundancy: dhammin, the phenomenon of
+
+Where _dhammin_ means the phenomenon of, we treat it as redundant:
+
+[quote, S.5.183]
+____
+He abides contemplating [co-conditional] disappearance in relation to the body, 
+vigorously, fully consciously, and mindfully, having eliminated greed and 
+dejection in regard to the world [of phenomena]
+
+_Vayadhammānupassī kāyasmiṃ viharati ātāpī sampajāno satimā vineyya 
+loke abhijjhādomanassaṃ._
+____
+
+=== Illustrations
+
+.Illustration
+====
+dhammaṃ
+
+productive of
+====
+
+[quote, S.4.27]
+____
+All is productive of grief. What is the all that is productive of grief? The 
+eye is productive of grief.
+
+_Sabbaṃ bhikkhave sokadhammaṃ. Kiñca bhikkhave sabbaṃ sokadhammaṃ: 
+cakkhuṃ bhikkhave sokadhammaṃ._
+____
+
+.Illustration
+====
+dhammaṃ
+
+productive of
+====
+
+[quote, S.4.27]
+____
+All is productive of defilement. What is the all that is productive of 
+defilement? The eye is productive of defilement.
+
+_Sabbaṃ bhikkhave saṅkilesadhammaṃ. Kiñca bhikkhave sabbaṃ 
+saṅkilesadhammaṃ: cakkhuṃ bhikkhave saṅkilesadhammaṃ._
+____
+
+.Illustration
+====
+dhammaṃ
+
+productive of
+====
+
+[quote, M.1.162]
+____
+Gold and silver are productive of defilement
+
+_jātarūparajataṃ saṅkilesadhammaṃ._
+____
+
+.Illustration
+====
+dhammaṃ
+
+productive of
+====
+
+[quote, M.1.162]
+____
+What is the ignoble search? In this regard, a certain person... being himself 
+productive of grief seeks what is likewise productive of grief; being himself 
+productive of defilement seeks what is likewise productive of defilement.
+
+_Katamā ca bhikkhave anariyā pariyesanā? Idha bhikkhave ekacco... attanā 
+sokadhammo samāno sekādhammaññeva pariyesati attanā saṅkilesadhammo 
+samāno saṅkilesadhammaññeva pariyesati._
+____
+
+.Illustration
+====
+dhammaṃ
+
+productive of
+====
+
+[quote, M.1.162]
+____
+And what may be said to be productive of grief? Wife, children, men and women 
+slaves, goats, sheep, fowl, pigs, elephants, cattle, horses, mares, gold, and 
+silver are productive of grief. These worldly objects of attachment are 
+productive of grief. And one who is tied to these things, infatuated with them, 
+clinging to them, being himself productive of grief seeks what is also 
+productive of grief.
+
+_Kiñca bhikkhave sokadhammaṃ vadetha? Puttabhariyaṃ bhikkhave 
+sokadhammaṃ dāsidāsaṃ sokadhammaṃ ajeḷakaṃ sokadhammaṃ 
+kukkuṭasūkaraṃ sokadhammaṃ hatthigavāssavaḷavaṃ sokadhammaṃ. 
+Sokadhammā hete bhikkhave upadhayo etthāyaṃ gathito mucchito ajjhāpanno 
+attanā sokadhammo samāno sokadhammaññeva pariyesati._
+____
+
+.Illustration
+====
+dhammaṃ
+
+productive of
+====
+
+[quote, M.1.162]
+____
+And what may be said to be productive of defilement? Wife, children, men and 
+women slaves, goats, sheep, fowl, pigs, elephants, cattle, horses, mares, gold, 
+and silver are productive of defilement. These worldly objects of attachment 
+are productive of defilement. And one who is tied to these things, infatuated 
+with them, clinging to them, being himself productive of defilement seeks what 
+is also productive of defilement.
+
+_Kiñca bhikkhave saṅkilesadhammaṃ vadetha? Puttabhariyaṃ bhikkhave 
+saṅkilesadhammaṃ dāsidāsaṃ saṅkilesadhammaṃ ajeḷakaṃ 
+saṅkilesadhammaṃ kukkuṭasūkaraṃ saṅkilesadhammaṃ 
+hatthigavāssavaḷavaṃ saṅkilesadhammaṃ jātarūparajataṃ 
+saṅkilesadhammaṃ. Saṅkilesadhammā hete bhikkhave upadhayo. Etthāyaṃ 
+gatito mucchito ajjhāpanno attanā saṅkilesadhammo samāno 
+saṅkilesadhammaññeva pariyesati._
+____
+
+.Illustration
+====
+dhammaṃ
+
+subject to
+====
+
+[quote, S.4.26-8]
+____
+All is subject to birth. What is the all that is subject to birth? The eye is 
+subject to birth.
+
+_Sabbaṃ bhikkhave jātidhammaṃ. Kiñca bhikkhave sabbaṃ jātidhammaṃ 
+cakkhuṃ bhikkhave jātidhammaṃ._
+____
+
+.Illustration
+====
+dhamma
+
+the nature of reality; dhammaṃ, of a nature to; dhammaṃ, destined to
+====
+
+[quote, Vin.1.11]
+____
+While this discourse was being propounded, the uncorrupted, stainless vision of 
+the nature of reality arose within Venerable Koṇḍañña that whatever is of 
+an originated nature is destined to cease.
+
+_Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne āyasmato koṇḍaññassa 
+virajaṃ vītamalaṃ dhammacakkhuṃ udapādi yaṃ kiñci samudayadhammaṃ 
+sabbaṃ taṃ nirodhadhamman ti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+destined to
+====
+
+____
+This [wretched human] body is perishable, bhikkhus; consciousness is destined 
+to pass away;
+
+_Bhidurāyaṃ bhikkhave kāye viññāṇaṃ virāgadhammaṃ_
+____
+
+[quote, It.69]
+____
+All objects of attachment are unlasting, existentially void, and destined to 
+change.
+
+_sabbe upadhī aniccā dukkhā vipariṇāmadhammā ti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+destined to
+====
+
+[quote, S.4.26-8]
+____
+All is destined to disappear. What is the all that is destined to disappear? 
+The eye is destined to disappear.
+
+_Sabbaṃ bhikkhave vayadhammaṃ. Kiñca bhikkhave sabbaṃ vayadhammaṃ: 
+cakkhuṃ bhikkhave vayadhammaṃ._
+____
+
+.Illustration
+====
+dhammā
+
+phenomena
+====
+
+[quote, A.3.444]
+____
+Conditionality will be clearly seen by me, as well as conditionally arisen 
+phenomena
+
+_hetuca me sudiṭṭho bhavissati hetusamuppannā ca dhammā._
+____
+
+.Illustration
+====
+dhammaṃ
+
+phenomenon
+====
+
+[quote, M.1.293]
+____
+One discerns a knowable phenomenon with the eye of penetrative discernment.
+
+_Neyyaṃ kho āvuso dhammaṃ paññācakkhunā pajānātī ti._
+____
+
+.Illustration
+====
+dhammā
+
+things
+====
+
+[quote, M.1.228]
+____
+All originated phenomena are unlasting; all things are void of personal 
+qualities
+
+_sabbe saṅkhārā aniccā sabbe dhammā anattā ti._
+____
+
+.Illustration
+====
+dhammānaṃ
+
+matters
+====
+
+Poṭṭhapāda was perplexed by a discussion he had heard regarding the higher 
+extinction of consciousness, and thought:
+
+[quote, D.1.180]
+____
+Ah, surely the Blessed One, the Sublime One is supremely proficient in these 
+matters.
+
+_aho nūna bhagavā aho nūna sugato yo imesaṃ dhammānaṃ sukusalo ti._
+____
+
+.Illustration
+====
+dhammā
+
+thing; dhammaṃ teaching
+====
+
+____
+When a bhikkhu has heard that all things are unsuited to stubborn attachment
+
+_bhikkhuno sutaṃ hoti sabbe dhammā nālaṃ abhinivesāyāti_
+____
+
+[quote, M.1.252]
+____
+he fully understands the whole teaching,
+
+_so sabbaṃ dhammaṃ abhijānāti._
+____
+
+Comment:
+
+Regarding the shift from plural _dhammā_ to singular _dhammaṃ_ translators 
+negotiate it differently.
+
+- Horner ignores the singular and says 'any conditions... all the conditions' 
+(MLS.1.306).
+
+- Bodhi ignores the plural and says 'nothing... everything' (MLDB.344).
+
+- Woodward follows the cases, saying 'things... condition' (GS.4.53).
+
+We regard the change in case to indicate a change in meaning.
+
+.Illustration
+====
+dhammā
+
+thing; dhammā, teachings
+====
+
+____
+Which two things are very useful? Mindfulness and full consciousness.
+
+_Katame dve dhammā bahukārā? Sati ca sampajaññaṃ ca._
+____
+
+____
+Which two things should be developed? Inward calm and insightfulness
+
+_Katame dve dhammā bhāvatabbā? Samatho ca vipassanā ca._
+____
+
+_..._
+
+____
+Which two things should be realised? Insightfulness into reality and liberation 
+&#8203;[from perceptually obscuring states].
+
+_Katame dve dhammā sacchikātabbā? Vijjā ca vimutti ca._
+____
+
+[quote, D.3.273-4]
+____
+That makes twenty teachings which are true, factual, correct, not incorrect, 
+not mistaken, fully awakened to by the Perfect One.
+
+_Iti ime vīsati dhammā bhūtā tacchā tathā avitathā anaññathā sammā 
+tathāgatena abhisambuddhā._
+____
+
+.Illustration
+====
+dhammā
+
+principles
+====
+
+____
+There are these six principles of cordiality...
+
+_chayime bhikkhave dhammā sārāṇīyā..._
+____
+
+[quote, M.1.322]
+____
+In this regard, a bhikkhu maintains loving conduct of body, speech, and mind 
+towards his companions in the religious life...
+
+_Idha bhikkhave bhikkhuno mettaṃ kāyakammaṃ... mettaṃ vacīkammaṃ... 
+mettaṃ manokammaṃ paccupaṭṭhitaṃ hoti sabrahmacārīsu._
+____
+
+.Illustration
+====
+dhamme
+
+principles
+====
+
+____
+If a bhikkhu is reproving, wanting to reprove another, he should do so having 
+established five principles within himself.
+
+_Codakena āvuso bhikkhunā paraṃ codetukāmena pañca dhamme ajjhattaṃ 
+upaṭṭhepetvā paro codetabbo:_
+____
+
+____
+I will speak at the right time, not the wrong time
+
+_kālena vakkhāmi no akālena_
+____
+
+____
+I will speak truth not falsehood
+
+_bhūtena vakkhāmi no abhūtena_
+____
+
+____
+I will speak gently not harshly
+
+_saṇhena vakkhāmi no pharusena_
+____
+
+____
+I will speak what is conducive to spiritual well-being not unconducive to 
+spiritual well-being
+
+_atthasaṃhitena vakkhāmi no anatthasaṃhitena_
+____
+
+[quote, D.3.236-7; A.3.196]
+____
+I will speak with a mind of [unlimited, all-encompassing] goodwill not with 
+inner hatred
+
+_mettacittena vakkhāmi no dosantarenā ti._
+____
+
+.Illustration
+====
+dhammā
+
+conditions
+====
+
+[quote, A.2.188]
+____
+Eight worldly conditions whirl around the world [of beings], and the world [of 
+beings] whirls around eight worldly conditions, namely: acquisition and loss, 
+imprestige and prestige, criticism and praise, pleasure and pain.
+
+_aṭṭha lokadhammā lokaṃ anuparivattanti loko ca aṭṭha lokadhamme 
+anuparivattati: lābho ca alābho ca ayaso ca yaso ca nindā ca pasaṃsā ca 
+sukhañca dukkhañcā ti._
+____
+
+.Illustration
+====
+dhammānaṃ
+
+issues
+====
+
+____
+For the ignorant Everyman, through contemplating issues that should not be 
+contemplated and through not contemplating issues that should be contemplated, 
+both unarisen perceptually obscuring states arise, and arisen perceptually 
+obscuring states increase.
+
+_Tassa amanasikaraṇīyānaṃ dhammānaṃ manasikārā 
+manasikaraṇīyānaṃ dhammānaṃ amanasikārā anuppannā ceva āsavā 
+uppajjanti uppannā ca āsavā pavaḍḍhanti._
+____
+
+____
+This is how he improperly contemplates:
+
+_So evaṃ ayoniso manasikaroti_
+____
+
+'Was I in the past? Was I not in the past? What was I in the past? How was I in 
+the past? Having been what, what was I in the past? Shall I be in the future? 
+Shall I not be in the future? What shall I be in the future? How shall I be in 
+the future? Having been what, what shall I be in the future?' Or else he is 
+uncertain about the present in regard to himself: 'Am I? Am I not? What am I? 
+How am I? Where has this being come from? Where is it bound?' (M.1.8).
+
+.Illustration
+====
+dhammānaṃ
+
+issues
+====
+
+____
+The learned noble disciple, through contemplating issues that should be 
+contemplated and through not contemplating issues that should not be 
+contemplated, unarisen āsavas do not arise, and arisen āsavas are abandoned.
+
+_Tassa amanasikaraṇīyānaṃ dhammānaṃ amanasikārā 
+manasikaraṇīyānaṃ dhammānaṃ manasikārā anuppannā ceva āsavā na 
+uppajjanti uppannā ca āsavā pahīyanti._
+____
+
+He properly contemplates:
+
+____
+This is suffering
+
+_So idaṃ dukkhan ti yoniso manasikaroti_
+____
+
+____
+This is the origin of suffering
+
+_ayaṃ dukkhasamudayo ti yoniso manasikaroti_
+____
+
+____
+This is the ending of suffering
+
+_ayaṃ dukkhanirodho ti yoniso manasikaroti_
+____
+
+[quote, M.1.9]
+____
+This is the practice leading to the ending of suffering.
+
+_ayaṃ dukkhanirodhagāminīpaṭipadā ti yoniso manasikaroti._
+____
+
+.Illustration
+====
+dhammo
+
+quality
+====
+
+____
+What qualities make him difficult to admonish?
+
+_Katame cāvuso dovacassakaraṇā dhammā?_
+____
+
+____
+In this regard a bhikkhu has unvirtuous desires and is dominated by unvirtuous 
+desires.
+
+_Idhāvuso bhikkhu pāpiccho hoti pāpikānaṃ icchānaṃ vasaṃ gato_
+____
+
+[quote, M.1.95]
+____
+This is a quality that makes him difficult to admonish
+
+_ayampi dhammo dovacassakaraṇo._
+____
+
+.Illustration
+====
+dhammānaṃ
+
+good spiritual qualities
+====
+
+[quote, A.5.136]
+____
+Not applying oneself and lack of reflection are obstacles to [the development 
+of] good spiritual qualities.
+
+_ananuyogo apaccavekkhaṇā dhammānaṃ paripantho._
+____
+
+.Illustration
+====
+saddhammena
+
+good quality
+====
+
+[quote, A.4.110]
+____
+With learning as his weaponry, the noble disciple abandons what is spiritually 
+unwholesome and develops what is spiritually wholesome, abandons what is 
+unvirtuous and develops what is virtuous, and keeps himself in perfect purity. 
+He possesses this fourth good quality.
+
+_Sutāvudho bhikkhave ariyasāvako akusalaṃ pajahati kusalaṃ bhāveti 
+sāvajjaṃ pajahati anavajjaṃ bhāveti suddhaṃ attānaṃ pariharati. 
+Iminā catutthena saddhammena samannāgate hoti._
+____
+
+.Illustration
+====
+saddhammā
+
+good quality
+====
+
+[quote, D.3.252]
+____
+Seven good qualities. In this regard a bhikkhu has faith [in the perfection of 
+the Perfect One's transcendent insight], shame of wrongdoing, a fear of 
+wrongdoing, is learned, energetic, has mindfulness established, and is blessed 
+with penetrative discernment.
+
+_Satta saddhammā: idhāvuso bhikkhu saddho hoti hirīmā hoti ottappī hoti 
+bahussuto hoti āraddhaviriyo hoti upaṭṭhitasati hoti paññavā hoti._
+____
+
+.Illustration
+====
+dhammo
+
+moral nature
+====
+
+[quote, S.2.240]
+____
+Because his mind was overpowered and overcome by gains, honour, and renown, 
+Devadatta's bright moral nature was eradicated.
+
+_Lābhasakkārasilokana abhibhūtassa pariyādinnacittassa bhikkhave 
+devadattassa sukko dhammo samucchedamagamā._
+____
+
+[quote, S.2.240]
+____
+Because his mind was overpowered and overcome by gains, honour, and renown, 
+Devadatta's good moral nature was eradicated...
+
+_Lābhasakkārasilokana abhibhūtassa pariyādinnacittassa bhikkhave 
+devadattassa kusalo dhammo samacchedamagamā._
+____
+
+.Illustration
+====
+dhamma
+
+moral nature
+====
+
+[quote, Ud.52]
+____
+And the Venerable MahāMoggallāna saw that person sitting in the midst of the 
+assembly of bhikkhus -- unvirtuous, of an unvirtuous moral nature, of foul and 
+odious behaviour, secretive in conduct, no ascetic though pretending to be one, 
+not celibate though pretending to be so, spiritually rotten, full of 
+defilement, and morally decayed.
+
+_Addasā kho āyasmā mahāmoggallāno taṃ puggalaṃ dussīlaṃ 
+pāpadhammaṃ asucisaṅkassarasamācāraṃ paṭicchannakammantaṃ 
+assamaṇaṃ samaṇapaṭiññaṃ abrahmacāriṃ brahmacārīpaṭiññaṃ 
+antopūtiṃ avassutaṃ kasambujātaṃ majjhe bhikkhusaṅghassa nisinnaṃ._
+____
+
+.Illustration
+====
+dhamma
+
+moral nature
+====
+
+[quote, Th.v.786]
+____
+Just as a thief of an unvirtuous moral nature who is captured at the entrance 
+of a break [in a house-wall] is punished on account of his own conduct, 
+likewise people of an unvirtuous moral nature who have passed on are punished 
+in the world beyond on account of their own conduct.
+
+_Coro yathā sandhimukhe gahīto sakammunā haññati pāpadhammo +
+Evaṃ pajā pecca paramhi loke sakammunā haññati pāpadhammā._
+____
+
+.Illustration
+====
+dhammaṃ
+
+state
+====
+
+____
+On grounds [of what attainment], friend Kālāma, having realised this state 
+for yourself through transcendent insight and abiding in it, do you make it 
+known to others?_
+
+_kittāvatā no āvuso kālāma imaṃ dhammaṃ sayaṃ abhiññā 
+sacchikatvā upasampajja pavedesī ti._
+____
+
+____
+In reply he declared [that he had realised] the state of awareness of 
+nonexistence._
+
+_Evaṃ vutte bhikkhave āḷāro kālāmo ākiñcaññāyatanaṃ pavedesi._
+____
+
+____
+In no short time, I quickly realised that state for myself through transcendent 
+insight and abided in it.
+
+_So kho ahaṃ bhikkhave nacirasseva khippameva taṃ dhammaṃ sayaṃ 
+abhiññā sacchikatvā upasampajja vihāsiṃ_
+____
+
+[quote, M.1.164-6]
+____
+But it occurred to me that this state does not conduce to disillusionment [with 
+originated phenomena], nor to non-attachment [to originated phenomena], nor to 
+the ending [of originated phenomena], nor to the Untroubled, but only to 
+rebirth in the state of awareness of nonexistence.
+
+_Tassa mayhaṃ bhikkhave etadahosi nāyaṃ dhammo nibbidāya na virāgāya na 
+nirodhāya na nibbānāya saṃvattati yāvadeva 
+ākiñcaññāyatanūpapattiyā ti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+attainment
+====
+
+____
+If a bhikkhu, though not recalling it, should claim with reference to himself a 
+superhuman attainment of knowledge and vision that is worthy of the Noble Ones, 
+saying "Thus I know; thus I see;" then, whether or not he is later interrogated 
+about it, fallen and seeking purification, he says "Friends, though not 
+knowing, I said 'I know'; though not seeing, I said 'I see.' I boasted vainly 
+and falsely"; unless it was from over-estimation, he is pārājika, no longer 
+in communion.
+
+_Yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ attūpanāyikaṃ 
+alamariyañāṇadassanaṃ samudācareyya Iti jānāmi iti passāmī ti_
+____
+
+Word Analysis:
+
+- not known (_anabhijānan ti_): he claims to have an excellent attainment 
+(_atthi me kusalo dhammo ti)_ that does not exist; it is it not found, known or 
+seen
+
+- superhuman attainment (_uttarimanussadhammo_):
+
+- jhāna (_jhānaṃ_)
+
+- deliverance [from perceptually obscuring states] (_vimokkho_)
+
+- inward collectedness (_samādhi_)
+
+- attainment (_samāpatti_)
+
+- knowledge and vision [of things according to reality] (_ñāṇadassanaṃ_)
+
+- development of the path (_maggabhāvanā_)
+
+- realisation of the fruits (_phalasacchikiriyā_)
+
+- abandonment of the imperfections (_kilesappahānaṃ_)
+
+- freedom from the five hindrances (_vinīvaraṇatā cittassa_)
+
+- taking delight in solitude (_suññāgāre abhirati_) (Vin.3.91).
+
+.Illustration
+====
+dhammā
+
+factors
+====
+
+____
+-- 'Kālāmas, being full of greed and hatred, and lacking in penetrative 
+discernment, being overpowered and overcome by greed, hatred, and undiscernment 
+of reality a person
+
+_Luddho... lobhena abhibhūto... duṭṭho... dosena abhibhūto... mūḷho... 
+mohena abhibhūto_
+____
+
+- kills
+
+- steals
+
+- commits adultery
+
+- lies
+
+and encourages others to act likewise.
+
+Will that not be for his long-lasting harm and suffering?
+
+-- 'Yes, bhante.'
+
+____
+-- 'What do you think, Kālāmas? Are these factors spiritually wholesome, or 
+spiritually unwholesome?'
+
+_Taṃ kiṃ maññatha kālāmā ime dhammā kusalā vā akusalā vā ti?_
+____
+
+[quote, A.1.189-191]
+____
+-- 'Spiritually unwholesome, bhante'
+
+_Akusalā bhante._
+____
+
+.Illustration
+====
+dhammā
+
+factors
+====
+
+[quote, M.3.56]
+____
+Bhante, when pursuing certain visible objects known via the visual sense, 
+spiritually unwholesome factors flourish and spiritually wholesome factors 
+fade, such visible objects should not be pursued.
+
+_yathārūpaṃ bhante cakkhuviññeyyaṃ rūpaṃ sevato akusalā dhammā 
+abhivaḍḍhanti kusalā dhammā parihāyanti. Evarūpaṃ cakkhuviññeyyaṃ 
+rūpaṃ na sevitabbaṃ._
+____
+
+.Illustration
+====
+dhammā
+
+factors
+====
+
+____
+What are spiritually unwholesome factors? Namely, the eightfold path [of wrong 
+factors].
+
+_Katame ca bhikkhave akusalā dhammā seyyathīdaṃ micchādiṭṭhi... 
+micchāsamādhi._
+____
+
+[quote, S.5.18]
+____
+What are spiritually wholesome factors? Namely, the eightfold path [of right 
+factors].
+
+_Katame ca bhikkhave kusalā dhammā seyyathīdaṃ sammādiṭṭhi... 
+sammāsamādhi._
+____
+
+.Illustration
+====
+dhamme
+
+factors
+====
+
+Now, of those ascetics and Brahmanists whose doctrine and dogmatic view is 
+this: There is no merit in giving, donating and offering; no fruit or result of 
+good and bad deeds; no this world, no hereafter; no duties to parents; no 
+spontaneously arisen beings; no ascetics and Brahmanists conducting and 
+applying themselves rightly in the world who, having realised this world and 
+the hereafter for themselves through transcendent insight make them known to 
+others.
+
+____
+It is to be expected that they will avoid these three spiritually wholesome 
+factors, namely: good conduct by way of body, speech, and mind.
+
+_yamidaṃ kāyasucaritaṃ vacīsucaritaṃ manosucaritaṃ ime tayo kusale 
+dhamme abhinivajjetvā_
+____
+
+____
+And will practise three spiritually unwholesome factors, namely: bad conduct by 
+way of body, speech, and mind.
+
+_yamidaṃ kāyaduccaritaṃ vacīduccaritaṃ manoduccaritaṃ ime tayo 
+akusale dhamme samādāya vattissanti_
+____
+
+For what reason? Because they do not see
+
+____
+the danger, degradation, and defilement in spiritually unwholesome factors
+
+_na hi te bhonto samaṇabrāhmaṇā passanti akusalānaṃ dhammānaṃ 
+ādīnavaṃ okāraṃ saṅkilesaṃ_
+____
+
+[quote, M.1.402]
+____
+and in spiritually wholesome factors and in the practice of unsensuousness, the 
+advantage and associated purity.
+
+_kusalānaṃ dhammānaṃ nekkhamme ānisaṃsaṃ vodānapakkhaṃ._
+____
+
+.Illustration
+====
+dhammā
+
+factors
+====
+
+____
+And how is there unrestraint [of the sense faculties]?
+
+_Katañcava bhikkhave asaṃvaro hoti._
+____
+
+____
+In this regard, in seeing a visible object via the visual sense, a bhikkhu is 
+intent upon an agreeable visible object and troubled by a disagreeable visible 
+object.
+
+_Idha bhikkhave bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe adhimuccati 
+appiyarūpe rūpe vyāpajjati_
+____
+
+[quote, S.4.189]
+____
+He abides without having established mindfulness of the body, with a small 
+mind, and he does not discern according to reality, with the liberation [from 
+attachment through inward calm] and the liberation [from uninsightfulness] 
+through penetrative discernment, where those unvirtuous, spiritually 
+unwholesome factors cease without remainder.
+
+_anupaṭṭhitakāyasati ca viharati parittacetaso tañca cetovimuttiṃ 
+paññāvimuttiṃ yathābhūtaṃ nappajānāti yatthassa te uppannā pāpakā 
+akusalā dhammā aparisesā nirujjhanti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+religious doctrine
+====
+
+____
+In what way, headman, does the Nigaṇṭha Nātaputta explain religious 
+doctrine to disciples?"
+
+_kathaṃ nu kho gāmaṇi nigaṇṭho nātaputto sāvakānaṃ dhammaṃ 
+desetī ti_
+____
+
+____
+"Bhante, the Nigaṇṭha Nātaputta explains religious doctrine to disciples 
+thus:
+
+_Evaṃ kho bhante nigaṇṭho nātaputto sāvakānaṃ dhammaṃ deseti:_
+____
+
+____
+'Anyone at all who kills... who takes what is not given... who engages in 
+sexual misconduct... who speaks falsehood, is bound for [rebirth in] the plane 
+of sub-human existence, bound for hell.
+
+_Yo koci pāṇamatipāteti... adinnamādiyati... kāmesu micchā carati... 
+musā haṇati sabbo so āpāyiko nerayiko._
+____
+
+____
+'One is led on (to rebirth) by the manner in which one usually dwells.'
+
+_Yaṃ bahulaṃ yaṃ bahulaṃ viharati tena tena niyyatī ti_
+____
+
+[quote, S.4.317]
+____
+It is in such a way, bhante, that the Nigaṇṭha Nātaputta explains 
+religious doctrine to disciples.
+
+_Evaṃ kho bhante nigaṇṭho nātaputto sāvakānaṃ dhammaṃ desetīti._
+____
+
+.Illustration
+====
+dhammadesanā
+
+religious discourse
+====
+
+[quote, D.1.110]
+____
+When the Blessed One knew that Pokkharasāti's mind was ready, teachable, free 
+of the five hindrances, uplifted, and serene, then he expounded the religious 
+discourse unique to the Buddhas
+
+_atha yā buddhānaṃ sāmukkaṃsikā dhammadesanā taṃ pakāsesi: 
+dukkhaṃ samudayaṃ nirodhaṃ maggaṃ._
+____
+
+.Illustration
+====
+dhamma
+
+the teaching
+====
+
+[quote, M.1.1]
+____
+I will expound for your benefit a systematic exposition on the essence of the 
+whole teaching.
+
+_Sabbadhammamūlapariyāyaṃ vo bhikkhave desessāmi._
+____
+
+.Illustration
+====
+dhammaṃ
+
+the teaching
+====
+
+[quote, Sn.v.1053]
+____
+I shall explain the teaching to you, which is fathomable in this lifetime, 
+which is not just hearsay, understanding which, one living the religious life, 
+one who is mindful, would overcome attachment to the world [of phenomena].
+
+_kittayissāmi te dhammaṃ diṭṭhe dhamme anitihaṃ yaṃ viditvā sato 
+caraṃ tare loke visattikaṃ._
+____
+
+.Illustration
+====
+dhammaṃ
+
+the teaching; dhamma, righteousness
+====
+
+____
+If a bhikkhu has an unordained person recite the teaching sentence by sentence, 
+it is an offence of pācittiya.
+
+_Yo pana bhikkhu anupassampannaṃ padaso dhammaṃ vāceyya pācittiyaṃ._
+____
+
+Word Analysis:
+
+[quote, Vin.4.15]
+____
+"The teaching" is the words of the Buddha, his disciples, sages, and devas that 
+relate to spiritual well-being and righteousness.
+
+_dhammo nāma buddhabhāsito sāvakabhāsito isibhāsito devabhāsato 
+atthūpasaṃhito dhammūpasaṃhito._
+____
+
+.Illustration
+====
+dhammaṃ
+
+the Buddha's teaching
+====
+
+[quote, Thī.v.184]
+____
+The religious philosophers outside this [training system] are attached to 
+dogmatic views. They do not know the Buddha's teaching. They are ignorant of 
+the Buddha's teaching.
+
+_Ito bahiddhā pāsaṇḍā diṭṭhiyo upanissitā +
+Na te dhammaṃ vijānanti na te dhammassa kovidā._
+____
+
+.Illustration
+====
+dhammo
+
+teaching
+====
+
+[quote, D.2.154]
+____
+The Blessed One addressed Venerable Ānanda: "It may be, Ānanda, that you may 
+now think, 'The words of the Teacher are ended; we have no teacher more!' But 
+it should not be seen like that. The teaching and discipline that I have 
+explained and established will, after my passing, be your teacher."
+
+_Yo kho ānanda mayā dhammo ca vinayo ca desito paññatto so vo mamaccayena 
+satthā ti._
+____
+
+.Illustration
+====
+dhamma
+
+righteousness
+====
+
+____
+Because this is a term for the Perfect One:
+
+_tathāgatassa hetaṃ vāseṭṭhā adhivacanaṃ_
+____
+
+[quote, D.3.84]
+____
+The embodiment of the teaching, the embodiment of Brahmā, one who has become 
+righteousness itself, one who has become Brahmā
+
+_dhammakāyo iti pi brahmakāyo iti pi dhammabhūto iti pi brahmabhūto iti pi._
+____
+
+.Illustration
+====
+dhammo
+
+the teaching
+====
+
+____
+The teaching indeed protects the one who practises the teaching;
+
+_Dhammo have rakkhati dhammacāriṃ_
+____
+
+____
+The teaching when well practised brings happiness.
+
+_Dhammo suciṇṇo sukhamāvahati_
+____
+
+____
+This is the advantage of the teaching when it is well practised:
+
+_Esānisaṃso dhamme suciṇṇe_
+____
+
+[quote, Th.v.303-4]
+____
+The one who practises the teaching does not [on rebirth] go to the plane of 
+misery.
+
+_Na duggatiṃ gacchati dhammacārī._
+____
+
+.Illustration
+====
+dhamma
+
+the teaching
+====
+
+But for me Venerable Sāriputta was an advisor and counsellor, one who 
+instructed, exhorted, inspired, and gladdened me.
+
+____
+He was unwearying in explaining the teaching; he was helpful to his companions 
+in the religious life.
+
+_akilāsu dhammadesanāya anuggāhako sabrahmacārīnaṃ._
+____
+
+[quote, S.5.162]
+____
+We recollect the nourishment of the teaching, the wealth of the teaching, the 
+help of the teaching given by Venerable Sāriputta.
+
+_Taṃ mayaṃ āyasmato sāriputtassa dhammojaṃ dhammabhogaṃ 
+dhammānuggahaṃ anussarāmā ti._
+____
+
+.Illustration
+====
+dhammo
+
+teaching
+====
+
+____
+There has appeared in Magadha before you an impure teaching thought out by 
+defiled minds.
+
+_Pāturahosi magadhesu pubbe dhammo asuddho samalehi cintito_
+____
+
+[quote, Vin.1.5]
+____
+Open the door to the Deathless; let them hear the teaching awakened to by one 
+free of [the three] spiritual stains.
+
+_Apāpuretaṃ amatassa dvāraṃ suṇantu dhammaṃ vimalenānubuddhaṃ._
+____
+
+.Illustration
+====
+saddhamma
+
+true teaching; asaddhamma, untrue teaching
+====
+
+____
+Bhikkhus, I will explain to you the true teaching and the untrue teaching
+
+_Saddhammañca vo bhikkhave desissāmi asaddhammañca._
+____
+
+____
+What is the untrue teaching? The tenfold path of wrong factors.
+
+_Katamo ca bhikkhave asaddhammo: micchādiṭṭhi micchāsaṅkappo 
+micchāvācā micchākammanto micchāājīvo micchāvāyāmo micchāsati 
+micchāsamādhi micchāñāṇaṃ micchāvimutti. Ayaṃ vuccati bhikkhave 
+asaddhammo._
+____
+
+[quote, A.5.245]
+____
+And what is the true teaching? The tenfold path of right factors.
+
+_Katamo ca bhikkhave saddhammo: sammādiṭṭhi sammāsaṅkappo sammāvācā 
+sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi 
+sammāñāṇaṃ sammāvimutti. Ayaṃ vuccati bhikkhave saddhammo ti._
+____
+
+.Illustration
+====
+dhammo
+
+teaching
+====
+
+____
+Non-Buddhist ascetics may say
+
+_aññatitthiyā paribbājakā evaṃ vadeyyuṃ_
+____
+
+____
+'Friends, we too have confidence in the Teacher, that is our teacher.
+
+_amhākampi kho āvuso atthi satthari pasādo yo amhākaṃ satthā_
+____
+
+[quote, M.1.64]
+____
+We too have confidence in the teaching, that is our teaching.
+
+_Amhākampi atthi dhamme pasādo yo amhākaṃ dhammo._
+____
+
+.Illustration
+====
+dhammā
+
+teachings
+====
+
+[quote, Vin.2.96]
+____
+Those teachings which are excellent in the beginning, the middle, and the end, 
+whose spirit and letter proclaim the utterly complete and pure religious life: 
+teachings like this are much heard by him.
+
+_ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā 
+sātthaṃ savyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ 
+abhivadanti tathārūpāssa dhammā bahussutā honti._
+____
+
+.Illustration
+====
+dhamma
+
+teaching
+====
+
+[quote, M.3.248]
+____
+At Benares in the Deer Park at Isipatana the Perfect One, the Arahant, the 
+Perfectly Enlightened One, set rolling the unsurpassed Wheel of the Teaching, 
+which cannot be reversed by any ascetic, Brahmanist, deva, māra, or brahmā, 
+or by anyone in the world, that is, the explaining, teaching, proclaiming, 
+establishing, disclosing, analysing, and elucidating of the four noble truths.
+
+_Tathāgatena bhikkhave arahatā sammāsambuddhena bārāṇasiyaṃ isipatane 
+migadāye anuttaraṃ dhammacakkaṃ pavattitaṃ appavattiyaṃ samaṇena vā 
+brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasmiṃ 
+yadidaṃ catunnaṃ ariyasaccānaṃ ācikkhanā desanā paññapanā 
+paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṃ._
+____
+
+.Illustration
+====
+saddhammaṃ
+
+true teaching
+====
+
+[quote, It.111]
+____
+Householders and ascetics alike, each supported by the other, both fathom the 
+true teaching; both attain unsurpassed safety from the danger of bondage [to 
+individual existence]:
+
+_sāgārā anagārā ca ubho aññoññanissitā; ārādhayanti saddhammaṃ 
+yogakkhemaṃ anuttaraṃ._
+____
+
+.Illustration
+====
+dhamme
+
+teaching
+====
+
+• A forest bhikkhu should endeavour [to study and master] advanced aspects of 
+the teaching and discipline +
+_Āraññakenāvuso bhikkhunā abhidhamme abhivinaye yogo karaṇīyo_ 
+(M.1.472).
+
+.Illustration
+====
+ariyadhamma
+
+teaching that is noble
+====
+
+____
+Bhikkhus, I will explain to you the teaching that is noble and the teaching 
+that is ignoble.
+
+_Ariyadhammañca vo bhikkhave desissāmi anariyadhammañca._
+____
+
+____
+What is the teaching that is ignoble? The tenfold path of wrong factors.
+
+_Katamo ca bhikkhave anariyo dhammo. Micchādiṭṭhi micchāsaṅkappo 
+micchāvācā micchākammanto micchāājīvo micchāvāyāmo micchāsati 
+micchāsamādhi micchāñāṇaṃ micchāvimutti._
+____
+
+[quote, A.5.242]
+____
+And what is the teaching that is noble? The tenfold path of right factors.
+
+_Katamo ca bhikkhave ariyo dhammo: sammādiṭṭhi sammāsaṅkappo 
+sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati 
+sammāsamādhi sammāñāṇaṃ sammāvimutti._
+____
+
+.Illustration
+====
+dhamma
+
+righteous
+====
+
+____
+Bhikkhus, I will explain to you what is righteous and what is unrighteous.
+
+_Dhammañca vo bhikkhave desissāmi adhammañca_
+____
+
+____
+What is unrighteous? The tenfold path of wrong factors.
+
+_Katamo ca bhikkhave adhammo: micchādiṭṭhi micchāsaṅkappo micchāvācā 
+micchākammanto micchāājīvo micchāvāyāmo micchāsati micchāsamādhi 
+micchāñāṇaṃ micchāvimutti. Ayaṃ vuccati bhikkhave adhammo._
+____
+
+[quote, A.5.242]
+____
+And what is righteous? The tenfold path of right factors.
+
+_Katamo ca bhikkhave dhammo: sammādiṭṭhi sammāsaṅkappo sammāvācā 
+sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi 
+sammāñāṇaṃ sammāvimutti. Ayaṃ vuccati bhikkhave dhammoti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+what is righteous
+====
+
+[quote, A.2.18]
+____
+If one transgresses what is righteous through desire, hatred, fear, or 
+undiscernment of reality, one's glory fades like the moon in the waning 
+fortnight.
+
+_Chandā dosā bhayā mohā yo dhammaṃ ativattati +
+Nihīyati tassa yaso kālapakkheva candimā ti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+the teaching; dhammā, what is righteous
+====
+
+[quote, M.1.135]
+____
+Thus the teaching explained by me is comparable to a raft, being for the sake 
+of crossing [the flood of suffering], not for the sake of clinging to it. When 
+you know that the teaching explained by me is comparable to a raft, you should 
+abandon even what is righteous, how much more so what is unrighteous.
+
+_evameva kho bhikkhave kullūpamo mayā dhammo desito nittharaṇatthāya no 
+gahaṇatthāya. Kullūpamaṃ vo bhikkhave dhammaṃ desitaṃ ājānantehi 
+dhammā pi vo pahātabbā pageva adhammā._
+____
+
+.Illustration
+====
+dhammaṃ
+
+what is righteous
+====
+
+[quote, It.84]
+____
+A person who is undiscerning of reality does not know what is beneficial, nor 
+see what is righteous.
+
+_Mūḷho atthaṃ na jānāti mūḷho dhammaṃ na passati._
+____
+
+.Illustration
+====
+dhamma
+
+significance; dhammānaṃ teaching
+====
+
+____
+A bhikkhu investigates the meaning of the teachings he has retained in mind._
+
+_dhatānañca dhammānaṃ atthūpaparikkhitā hoti_
+____
+
+[quote, A.4.298]
+____
+Realising their meaning and significance, he practises in accordance with the 
+teaching._
+
+_atthamaññāya dhammamaññāya dhammānudhammapaṭipanno ca hoti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+teaching; dhamme, significance
+====
+
+____
+When a teacher explains the Buddha's teaching
+
+_dhammaṃ deseti_
+____
+
+____
+The bhikkhu accordingly realises the meaning and significance of the teaching.
+
+_dhamme atthappaṭisaṃvedī ca hoti dhammapaṭisaṃvedī ca_
+____
+
+[quote, D.3.242]
+____
+This gives rise to gladness.
+
+_tassa atthapaṭisaṃvedino dhammapaṭisaṃvedino pāmujjaṃ jāyati._
+____
+
+.Illustration
+====
+dhammasamādhī
+
+inward collectedness based on righteous reflection
+====
+
+The Buddha told a headman he could overcome his unsureness about conflicting 
+religious teachings through inward collectedness, which he said is attained by 
+reflecting on one's virtuousness as follows (_so iti paṭisaṃcikkhati_):
+
+-- 'I harm no one at all, whether weak or strong. In both respects I have made 
+a lucky throw: since I am restrained in conduct of body, speech, and mind, and 
+since, with the demise of the body at death, I will be reborn in the realm of 
+happiness, in the heavenly worlds.'
+
+____
+'[As he reflects thus] gladness arises. In one who is glad, rapture arises. For 
+one whose mind is rapturous, his body grows tranquil. His body tranquil, he 
+experiences physical pleasure. Experiencing physical pleasure, his mind becomes 
+collected.'
+
+_tassa pāmojjaṃ jāyati pamuditassa pīti jāyati pītimanassa kāyo 
+passambhati passaddhakāyo sukhaṃ vediyati sukhino cittaṃ samādhiyati_
+____
+
+____
+'This, headman, is inward collectedness based on righteous reflection.
+
+_Ayaṃ kho so gāmaṇi dhammasamādhī._
+____
+
+[quote, S.4.351-2]
+____
+'If you were to obtain inward collectedness based on reflection in this way, 
+you would abandon that state of unsureness.
+
+_Tatra ce tvaṃ cittasamādhiṃ paṭilabheyyāsi evaṃ tvaṃ imaṃ 
+kaṅkhādhammaṃ pajaheyyāsi._
+____
+
+.Illustration
+====
+dhammena
+
+righteousness
+====
+
+[quote, Sn.v.1002]
+____
+If he remains a layman, having conquered the world he will rule without 
+violence, without a sword, but by righteousness
+
+_Sace agāraṃ ajjhāvasati vijeyya paṭhaviṃ imaṃ +
+Adaṇḍena asatthena dhammenamanusāsati._
+____
+
+.Illustration
+====
+dhamma
+
+righteousness
+====
+
+[quote, It.15]
+____
+For many hundreds of times I was a king, a Wheel-turning monarch, faring 
+righteously, a King of Righteousness, a conqueror of the four corners of the 
+earth.
+
+_Anekasatakkhattuṃ rājā ahosiṃ cakkavattī dhammiko dhammarājā 
+cāturanto vijitāvī._
+____
+
+.Illustration
+====
+dhammo
+
+righteous
+====
+
+[quote, A.5.231]
+____
+Wrong view [of reality] is unrighteous; right perception [of reality] is 
+righteous
+
+_micchādiṭṭhi bhikkhave adhammo sammādiṭṭhi dhammo._
+____
+
+.Illustration
+====
+dhamma
+
+religious
+====
+
+[quote, Ud.80]
+____
+He was instructing the bhikkhus with a religious discourse concerning the 
+Untroubled,
+
+_nibbānapaṭisaṃyuttāya dhammiyā kathāya sandasseti._
+____
+
+.Illustration
+====
+dhamma
+
+religious
+====
+
+[quote, S.1.26]
+____
+A great concourse takes place in the woods. The deva hosts have assembled. We 
+have come to this religious gathering, to see the community of bhikkhus, 
+undefeated [by Māra's army].
+
+_Mahāsamayo pavanasmiṃ devakāyā samāgatā +
+Āgatamha imaṃ dhammasamayaṃ dakkhitāye aparājitasaṅghan ti._
+____
+
+.Illustration
+====
+dhammika
+
+legitimate
+====
+
+[quote, M.2.220]
+____
+I did not see any legitimate defence of their position
+
+_na kañci sahadhammikaṃ vādapaṭihāraṃ samanupassāmi._
+____
+
+.Illustration
+====
+dhammaṃ
+
+suitable
+====
+
+[quote, Sn.v.982]
+____
+'Whatever I had that was suitable for offering has all been disposed of by me'
+
+_yaṃ kho mamaṃ deyyadhammaṃ sabbaṃ vissajjitaṃ mayā._
+____
+
+Comment:
+
+_Deyyadhamma_: 'a gift, lit. that which has the quality of being given' (PED).
+
+.Illustration
+====
+dhammaṃ
+
+mentally known object
+====
+
+____
+in seeing a visible object
+
+_rūpaṃ disvā_
+____
+
+____
+in hearing an audible object
+
+_saddaṃ sutvā_
+____
+
+____
+in smelling a smellable object
+
+_gandhaṃ ghāyitvā_
+____
+
+____
+in tasting a tasteable object
+
+_rasaṃ sāyitvā_
+____
+
+____
+in feeling a tangible object
+
+_phoṭṭhabbaṃ phusitvā_
+____
+
+[quote, S.4.75]
+____
+in knowing a mentally known object
+
+_dhammaṃ viññāya._
+____
+
+.Illustration
+====
+dhamma
+
+certain objects of the systematic teachings
+====
+
+____
+Bhikkhus, there are these four bases of mindfulness. What four?
+
+_Cattārome bhikkhave satipaṭṭhānā katame cattāro_
+____
+
+____
+In this regard a bhikkhu abides contemplating the nature of the body... the 
+nature of sense impressions... the nature of the mind... the nature of certain 
+objects of the systematic teachings, vigorously, fully consciously, and 
+mindfully, having eliminated greed and dejection in regard to the world [of 
+phenomena].
+
+_idha bhikkhave bhikkhu kāye kāyānupassī viharati... Vedanāsu 
+vedanānupassī viharati... citte cittānupassī viharati... Dhammesu 
+dhammānupassī viharati ātāpī sampajāno satimā vineyya loke 
+abhijjhādomanassaṃ._
+____
+
+[quote, S.5.181-2]
+____
+As he abides contemplating the nature of certain objects of the systematic 
+teachings, whatever fondness he has for those objects of the systematic 
+teachings is abandoned. Because fondness is abandoned, the Deathless is realised
+
+_Tassa dhammesu dhammānupassino viharato yo dhammesu chando so pahīyati. 
+Chandassa pahānā amataṃ sacchikataṃ hotīti._
+____
+
+.Illustration
+====
+dhamma
+
+certain objects of the systematic teachings
+====
+
+• When a bhikkhu is training himself: +
+_Yasmiṃ samaye ānanda bhikkhu_
+
+'I will breathe in... I will breathe out contemplating
+
+____
+unlastingness [in relation to certain objects of the systematic teachings]
+
+_aniccānupassī assasissāmī ti sikkhati_
+____
+
+• passing away [in relation to certain objects of the systematic teachings] +
+☸ virāgā__nupassī assasissāmī ti sikkhati__
+
+____
+ending [in relation to certain objects of the systematic teachings]
+
+_nirodhānupassī assasissāmī ti sikkhati_
+____
+
+____
+relinquishment [in relation to certain objects of the systematic teachings]
+
+_paṭinissaggānupassī assasissāmī ti sikkhati_
+____
+
+[quote, S.5.325]
+____
+... at that time he abides contemplating the nature of certain objects of the 
+systematic teachings, vigorously, fully consciously, and mindfully, having 
+eliminated greed and dejection in regard to the world [of phenomena].
+
+_dhammesu dhammānupassī ānanda bhikkhu tasmiṃ samaye viharati ātāpī 
+sampajāno satimā vineyya loke abhijjhādomanassaṃ._
+____
+
+.Illustration
+====
+objects of the systematic teachings
+
+• Bhikkhus
+
+I will teach you the [co-conditional] origination and [co-conditional] 
+vanishing of the four bases of mindfulness. Please listen. +
+====
+
+_catunnaṃ bhikkhave satipaṭṭhānānaṃ samudayañca atthaṅgamañca 
+desissāmi. Taṃ suṇātha._
+
+• And what is the [co-conditional] origination of objects of the systematic 
+teachings? +
+(_Ko ca bhikkhave dhammānaṃ samudayo_)
+
+• With the origination of attention comes the origination of objects of the 
+systematic teachings. With the ending of attention comes the vanishing of 
+objects of the systematic teachings. +
+_Manasikārasamudayā dhammānaṃ samudayo. Manasikāranirodhā dhammānaṃ 
+atthaṅgamo ti_ (S.5.184).
+
+.Illustration
+====
+dhammo
+
+practice
+====
+
+[quote, Sn.v.393]
+____
+The entire bhikkhu practice cannot be pursued by one with [householders'] 
+possessions.
+
+_Nahesa labbhā sapariggahena phassetuṃ yo kevalo bhikkhu dhammo._
+____
+
+.Illustration
+====
+dhammaṃ
+
+practice
+====
+
+____
+Bhikkhus, I will explain to you the practice associated with perceptually 
+obscuring states and the practice free of perceptually obscuring states.
+
+_sāsavañca vo bhikkhave dhammaṃ desissāmi anāsavañca._
+____
+
+____
+What is the practice associated with perceptually obscuring states?
+
+_katamo ca bhikkhave sāsavo dhammo_
+____
+
+____
+Killing, stealing, sexual misconduct, lying, malicious speech, harsh speech, 
+frivolous speech, greed, ill will, wrong view [of reality].
+
+_pāṇātipāto adinnādānaṃ kāmesu micchācāro musāvādo 
+pisuṇāvācā pharusāvācā samphappalāpo abhijjhā vyāpādo 
+micchādiṭṭhi._
+____
+
+____
+What is the practice free of perceptually obscuring states?
+
+_Katamo ca bhikkhave anāsavo dhammo_
+____
+
+[quote, A.5.275]
+____
+Refraining from killing, from stealing, from sexual misconduct, from lying, 
+from malicious speech, from harsh speech and from frivolous speech; non-greed, 
+goodwill, and right perception [of reality].
+
+_pāṇātipātā veramaṇī adinnādānā veramaṇī kāmesu micchācārā 
+veramaṇī musāvādā veramaṇī pisuṇāya vācāya veramaṇī pharusāya 
+vācāya veramaṇī samphappalāpā veramaṇī anabhijjhā avyāpādo 
+sammādiṭṭhī._
+____
+
+.Illustration
+====
+dhammaṃ
+
+practice
+====
+
+____
+Bhikkhus, I will explain to you the practice associated with perceptually 
+obscuring states and the practice free of perceptually obscuring states
+
+_Sāsavañca vo bhikkhave dhammaṃ desissāmi anāsavañca._
+____
+
+____
+What is the practice associated with perceptually obscuring states?
+
+_Katamo ca bhikkhave sāsavo dhammo_
+____
+
+____
+The tenfold path of wrong factors.
+
+_micchādiṭṭhi micchāsaṅkappo micchāvācā micchākammanto 
+micchāājīvo micchāvāyāmo micchāsati micchāsamādhi micchāñāṇaṃ 
+micchāvimutti. Ayaṃ vuccati bhikkhave sāsavo dhammo._
+____
+
+____
+What is the practice free of perceptually obscuring states?
+
+_Katamo ca bhikkhave anāsavo dhammo_
+____
+
+[quote, A.5.242]
+____
+The tenfold path of right factors.
+
+_sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo 
+sammāvāyāmo sammāsati sammāsamādhi sammāñāṇaṃ sammāvimutti. 
+Ayaṃ vuccati bhikkhave anāsavo dhammo ti._
+____
+
+.Illustration
+====
+dhamma
+
+practice
+====
+
+[quote, Th.v.930]
+____
+This is the era of unvirtuous practices and spiritual defilements. But those 
+who possess what remains of the true teaching are dedicated to physical 
+seclusion.
+
+_Pāpakānañca dhammānaṃ kilesānañca yo utu +
+Upaṭṭhitā vivekāya ye ca saddhammasesakā._
+____
+
+.Illustration
+====
+dhammatā
+
+practices
+====
+
+[quote, A.2.36]
+____
+By him are many folk established in the noble practice, namely in the aggregate 
+of practices that are virtuous and spiritually wholesome.
+
+_bahu'ssa janatā ariye ñāye patiṭṭhāpitā yadidaṃ kalyāṇadhammatā 
+kusaladhammatā._
+____
+
+Comment:
+
+The -tā suffix denotes multitude, collection (PGPL: para 581).
+
+.Illustration
+====
+saddhamma
+
+true teaching; dhammatā, natural law
+====
+
+[quote, S.1.140]
+____
+The Buddhas of the past, the future Buddhas, and he who is the Buddha now, 
+removing the grief of the many, all have dwelt, dwell, and will dwell, deeply 
+revering the true teaching. For Buddhas this is a natural law.
+
+_Sabbe saddhammagaruno vihaṃsu viharanti ca +
+Athopi viharissanti esā buddhāna dhammatā._
+____
+
+Comment:
+
+_Dhammatā_ means 'conformity to the Dhammaniyāma, fitness, propriety; a 
+general rule, higher law, cosmic law, general practice, regular phenomenon, 
+usual habit' (PED).
+
+.Illustration
+====
+dhammo
+
+the nature of reality; dhammo, teaching
+====
+
+____
+Then Venerable AññaKoṇḍañña having seen the nature of reality, attained 
+insight into the nature of reality, known the nature of reality, penetrated 
+into the nature of reality... asked the Blessed One for ordination.
+
+_Atha kho āyasmā aññātakoṇḍañño diṭṭhadhammo pattadhammo 
+viditadhammo pariyogāḷhadhammo_
+____
+
+[quote, Vin.1.12]
+____
+'Come, bhikkhu. Well explained is the teaching. Live the religious life for 
+making a complete end of suffering.'
+
+_Svākkhāto dhammo. Cara brahmacariyaṃ sammā dukkhassa antakiriyāyā ti._
+____
+
+.Illustration
+====
+dhammā
+
+factors; dhamma, teaching
+====
+
+____
+There are spiritually wholesome and spiritually unwholesome factors; 
+blameworthy and blameless factors; inferior and superior factors; and inwardly 
+dark and bright factors with their correlative combinations.
+
+_Atthi bhikkhave kusalākusalā dhammā sāvajjānavajjā dhammā 
+hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā._
+____
+
+[quote, S.5.66]
+____
+Much proper contemplation in that regard is a condition that nourishes both the 
+arising of the unarisen enlightenment factor of examination of the teaching, 
+and the perfection through spiritual cultivation of the arisen enlightenment 
+factor of examination of the teaching.
+
+_Tattha yoniso manasikārabahulīkāro ayamāhāro anuppannassa vā 
+dhammavicayasambojjhaṅgassa uppādāya uppannassa vā 
+dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā._
+____
+
+.Illustration
+====
+dhammaṃ
+
+nature of reality; dhammesu, profound truths
+====
+
+[quote, M.2.211]
+____
+I, Bhāradvāja, am one of those ascetics and Brahmanists who claim to have 
+realised the fundamental principles of the religious life, having fully 
+understood the nature of reality for themselves, having reached in this 
+lifetime the consummation and perfection of transcendent insight into profound 
+truths not heard before.
+
+_Tatra bhāradvāja ye te samaṇabrāhmaṇā pubbe ananussutesu dhammesu 
+sāmaññeva dhammaṃ abhiññāya 
+diṭṭhadhammābhiññāvosānapāramippattā ādibrahmacariyaṃ 
+paṭijānanti tesāhamasmi._
+____
+
+.Illustration
+====
+dhamma
+
+nature of reality
+====
+
+[quote, S.2.25]
+____
+Whether or not there is an arising of Perfect Ones, there persists that 
+phenomenon, a stability in the nature of reality, an orderliness in the nature 
+of reality, namely specific conditionality.
+
+_uppādā vā tathāgatānaṃ anuppādā vā tathāgatānaṃ ṭhitāva sā 
+dhātu dhammaṭṭhitatā dhammaniyāmatā idappaccayatā._
+____
+
+.Illustration
+====
+dhamma
+
+nature of reality
+====
+
+[quote, A.1.286]
+____
+Whether or not there is an arising of Perfect Ones, there persists that 
+phenomenon, that stability in the nature of reality, that orderliness in the 
+nature of reality, [namely] the unlastingness of all originated phenomena.
+
+_Uppādā vā bhikkhave tathāgatānaṃ anuppādā vā tathāgatānaṃ 
+ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā sabbe saṅkhārā 
+aniccā ti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+the nature of reality
+====
+
+[quote, M.1.190]
+____
+He who sees dependent origination [according to reality] sees the nature of 
+reality; he who sees the nature of reality sees dependent origination 
+&#8203;[according to reality].
+
+_yo paṭiccasamuppādaṃ passati so dhammaṃ passati. Yo dhammaṃ passati 
+so paṭiccasamuppādaṃ passatī ti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+the nature of reality
+====
+
+____
+Even if a bhikkhu holding onto my robe were to follow close behind me 
+step-by-step, yet if he were greedy for sensuous pleasure, full of attachment, 
+with an unbenevolent mind and hateful thoughts, unmindful, not fully conscious, 
+inwardly uncollected, mentally scattered, of unrestrained sense faculties, 
+nonetheless he is far from me, and I am far from him. For what reason? Because 
+he does not see the nature of reality. Not perceiving the nature of reality he 
+does not see me.
+
+_Taṃ kissa hetu: dhammaṃ hi so bhikkhave bhikkhu na passati dhammaṃ 
+apassanto na maṃ passati._
+____
+
+[quote, It.91]
+____
+Even if a bhikkhu lived a thousand miles from me, but was not greedy for 
+sensuous pleasure, not full of attachment, with a benevolent mind and unhateful 
+thoughts, with mindfulness established, fully conscious, inwardly collected, 
+mentally undistracted, with sense faculties restrained [from attraction and 
+repulsion, through mindfulness], nonetheless he is close to me, and I am close 
+to him. For what reason? Because he sees the nature of reality. Perceiving the 
+nature of reality he sees me [according to reality].
+
+_Taṃ kissa hetu: dhammaṃ hi so bhikkhave bhikkhū passati dhammaṃ 
+passanto maṃ passatī ti._
+____
+
+.Illustration
+====
+dhammaṃ
+
+the nature of reality
+====
+
+[quote, S.3.120]
+____
+'Why do you want to see this foul body? One who sees the nature of reality sees 
+me [according to reality]. One who sees me [according to reality] sees the 
+nature of reality.'
+
+_Kiṃ te iminā pūtikāyena diṭṭhena yo kho vakkali dhammaṃ passati so 
+maṃ passati yo maṃ passati so dhammaṃ passati._
+____
+
+.Illustration
+====
+dhammaṃ
+
+reality
+====
+
+- I have seen lay followers who are experts in the teaching saying that 
+sensuous pleasures are unlasting, but they are full of passionate attachment to 
+jewellery and earrings, and of affection for children and wives.
+
+[quote, Th.v.187-8]
+____
+Certainly they do not really know [this] according to reality, even though they 
+say that sensuous pleasures are unlasting.
+
+_Addhā na jānanti yathāva dhammaṃ kāmā aniccā iti cā pi āhu._
+____
+
+.Illustration
+====
+dhammā
+
+profound truths; dhamman, nature of reality
+====
+
+[quote, Ud.1]
+____
+When profound truths become manifest to the vigorous, meditative Brahman, then 
+all his unsureness [about the significance of the teaching] disappears, for he 
+discerns the conditioned nature of reality.
+
+_Yadā have pātubhavanti dhammā ātāpino jhāyato brāhmaṇassa +
+Athassa kaṅkhā vapayanti sabbā yato pajānāti sahetudhamman ti._
+____
+
+.Illustration
+====
+dhammā
+
+profound truths
+====
+
+[quote, S.5.398]
+____
+When one's mind is collected, profound truths become manifest.
+
+_Samāhite citte dhammā pātubhavanti._
+____
+
+Comment:
+
+Which profound truths become manifest? Consider a similar quote:
+
+• A bhikkhu who is inwardly collected discerns things according to reality' +
+☸ _samāhito bhikkhave bhikkhu yathābhūtaṃ pajānāti_ S.4.80; S.5.414.
+
+'Profound truths becoming manifest' corresponds to discerning things 
+_yathābhūtaṃ_. What does one discern _yathābhūtaṃ_?
+
+[quote, S.4.80]
+____
+One discerns according to reality that the visual sense is unlasting
+
+_Cakkhuṃ aniccan ti yathābhūtaṃ pajānāti._
+____
+
+[quote, S.5.414]
+____
+One discerns according to reality,'This is suffering'
+
+_Kiñca yathābhūtaṃ pajānāti idaṃ dukkhan ti yathābhūtaṃ 
+pajānāti._
+____
+
+.Illustration
+====
+dhammā
+
+teachings; dhammaṃ, profound truth
+====
+
+[quote, Th.v.201]
+____
+Homage to the Buddhas, the teachings, and the accomplishment of our teacher, in 
+that a disciple can realise such a profound truth for himself.
+
+_Aho buddhā aho dhammā aho no satthu sampadā +
+Yattha etādisaṃ dhammaṃ sāvako sacchikāhi ti._
+____
+
+.Illustration
+====
+dhammesu
+
+profound truths
+====
+
+[quote, S.2.8-9]
+____
+Ending, ending: in regard to profound truths not heard before there arose in me 
+vision, knowledge [of things according to reality], penetrative discernment, 
+insightfulness, and illumination.
+
+_Nirodho nirodho ti kho bhikkhave pubbe ananussutesu dhammesu cakkhuṃ 
+udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko 
+udapādī ti._
+____
+
+Translators usually call this 'things.'
+
+- Bodhi: 'things unheard before' (S.2.8-9).
+
+- Hare: 'things not heard of formerly' (A.3.9).
+
+- Walshe: 'things never realised before' (D.2.33).
+
+- Horner (1951): 'things not heard before' (Vin.1.11).
+
+- Horner (1954): 'truths not heard before' (M.2.211).
+
+.Illustration
+====
+dhammesu
+
+profound truths
+====
+
+[quote, A.3.9]
+____
+I claim to have reached the consummation and perfection of transcendent insight 
+into profound truths not heard before.
+
+_Pubbāhaṃ bhikkhave ananussutesu dhammesu abhiññāvosānapāramippatto 
+paṭijānāmi._
+____
+
+.Illustration
+====
+dhammesu
+
+profound truths
+====
+
+[quote, S.4.233]
+____
+This is sense impression': in regard to profound truths not heard before, there 
+arose in me vision, knowledge [of things according to reality], penetrative 
+discernment, insightfulness, and illumination.
+
+_Imā vedanāti me bhikkhave pubbe ananussutesu dhammesu cakkhuṃ udapādi 
+ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi._
+____
+
+.Illustration
+====
+dhammo
+
+the Untroubled
+====
+
+[quote, Th.v.331]
+____
+I have attained and realised the Untroubled for myself, not as a matter of 
+hearsay.
+
+_Anuppatto sacchikato sayaṃ dhammo anītiho._
+____
+
+COMMENT
+
+_Dhammo_: 'the Untroubled.' Commentary: _nibbānadhammo_.
+
+.Illustration
+====
+dhammatā
+
+redundancy
+====
+
+[quote, M.1.185-9]
+____
+Even in the external Solidness Phenomenon, so vast, unlastingness is 
+discernable, destruction is discernable, disappearance is discernable, 
+changeableness is discernable,
+
+_Tassā hi nāma āvuso bāhirāya paṭhavīdhātuyā tāva mahallikāya 
+aniccatā paññāyissati khayadhammatā paññāyissati vayadhammatā 
+paññāyissati vipariṇāmadhammatā paññāyissati._
+____
+
+.Illustration
+====
+dhamma
+
+redundancy
+====
+
+When _ñāya_ occurs with _dhamma_, _ñāya_ means 'noble practice,' and 
+_dhamma_ means 'practice,' and so is redundant.
+
+[quote, A.2.37]
+____
+He explained the noble practice which is of benefit to devas and men
+
+_Hitaṃ devamanussānaṃ ñāyaṃ dhammaṃ pakāsayī._
+____
+
+[quote, S.5.19]
+____
+He fulfils the noble practice that is spiritually wholesome.
+
+__ārādhako hoti ñāyaṃ dhammaṃ kusalan ti._
+____
+
+Comment:
+
+Bodhi incorporates the redundancy by using a comma:
+
+[quote, Bodhi, A.2.37]
+____
+He revealed the Dhamma, the method, for the benefit of devas and humans
+
+_Hitaṃ devamanussānaṃ ñāyaṃ dhammaṃ pakāsayī._
+____
+
+[quote, Bodhi, S.5.19]
+____
+He attains the method, the Dhamma that is wholesome.
+
+__ārādhako hoti ñāyaṃ dhammaṃ kusalan ti._
+____
+

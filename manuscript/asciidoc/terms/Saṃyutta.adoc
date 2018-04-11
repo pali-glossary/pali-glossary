@@ -1,0 +1,460 @@
+== Saṃyutta
+
+=== Renderings
+
+- _saṃyutta_: joined
+
+- _saṃyutta_: yoked
+
+- _saṃyutta_: held together
+
+- _saṃyutta_: tethered
+
+- _saṃyutta_: tethered [to individual existence]
+
+- _visaṃyutta_: emancipated from
+
+- _visaṃyutta_: emancipated [from individual existence]
+
+- _visaṃyutta_: not tethered [to individual existence]
+
+=== Introduction
+
+==== Saṃyutta and yutta
+
+_Saṃyutta_ (pp. of _saṃyuñjati_) and _yutta_ (pp. of _yuñjati_) sometimes 
+occur together in passages, and are then synonyms meaning 'tethered [to 
+individual existence].' For example:
+
+[quote, It.50]
+____
+Beings who are tethered [to individual existence] by the tie of craving, whose 
+minds are attached to various states of individual existence, are tethered [to 
+individual existence] by Māra's tie.
+
+_Taṇhāyogena saṃyuttā rattacittā bhavābhave te yogayuttā mārassa._
+____
+
+_Yutta_ has other meanings, too. For example:
+
+[quote, Sn.v.820]
+____
+Devoted: He is devoted to sexual intercourse.
+
+_methune yutto._
+____
+
+[quote, S.4.176]
+____
+Harnessed: A chariot harnessed to thoroughbreds
+
+__ājaññaratho yutto._
+____
+
+==== Saṃyutta and visaṃyutta: parenthesis
+
+Where _saṃyutta_ and _visaṃyutta_ have no object we parenthesise, calling 
+them:
+
+- _saṃyutta_: tethered [to individual existence]
+
+- _visaṃyutta_: emancipated [from individual existence]
+
+This is justified because of the close relationship between _saṃyutta_ and 
+_saṃyojana_. That _saṃyojana_ means _bhavapaṭilābhiyāni 
+saṃyojanāni_, we discuss sv _Saṃyojana_.
+
+It is also justified by clues given in many quotes. Consider four examples:
+
+1. Tethered [to individual existence] by the bond of dogmatism, the ignorant 
+Everyman is not freed from birth, old age, and death, from grief, lamentation, 
+physical pain, psychological pain, and vexation.
++
+****
+_diṭṭhisaṃyojanasaṃyutto bhikkhave assutavā puthujjano na parimuccati 
+jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi_ 
+(M.1.8).
+****
+
+2. Beings who are tethered [to individual existence] by the tie of craving, 
+whose minds are attached to renewed states of individual existence, are 
+tethered [to individual existence] by Māra's tie. They have not reached safety 
+from the danger of bondage [to individual existence]. [Such] beings follow the 
+round of birth and death, and go to rebirth and death.
++
+****
+_Taṇhāyogena saṃyuttā rattacittā bhavābhave +
+****
+Te yogayuttā mārassa ayogakkhemino janā +
+Sattā gacchanti saṃsāraṃ jātimaraṇagāmino_ (It.50).
+
+3. Tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] both sensuous pleasure and individual 
+existence, tethered [to individual existence] by the bondage [to individual 
+existence] that arises from dogmatism, led on by uninsightfulness into reality, 
+&#8203;[such] beings follow the round of birth and death, and go to rebirth and death.
++
+****
+_Kāmayogena saṃyuttā bhavayogena cūbhayaṃ +
+****
+Diṭṭhiyogena saṃyuttā avijjāya purakkhatā +
+Sattā gacchanti saṃsāraṃ jātimaraṇagāmino_ (A.2.12).
+
+4. He who, having abandoned the bondage to renewed states of human existence, 
+has transcended the bondage to renewed states of divine existence, he is 
+emancipated from all bondage [to individual existence]. He is what I call a 
+Brahman.
++
+****
+_Hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā +
+****
+Sabbayogavisaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ_ (Sn.v.644).
+
+=== Illustrations
+
+.Illustration
+====
+saṃyuttā
+
+joined
+====
+
+Of a skinned cow:
+
+[quote, M.3.275]
+____
+Is this cow joined to this hide just as it was before?
+
+_tathevāyaṃ gāvī saṃyuttā imināva cammenā ti._
+____
+
+.Illustration
+====
+saṃyutto
+
+held together
+====
+
+Of the body:
+
+[quote, Sn.v.194]
+____
+With bones held together by ligaments
+
+_Aṭṭhinahārusaṃyutto._
+____
+
+.Illustration
+====
+saṃyuttā
+
+yoked
+====
+
+Of two oxen:
+
+[quote, S.4.163]
+____
+The single rope or yoke by which the two are yoked
+
+_yena ca kho te ekena dāmena vā yottena vā saṃyuttā._
+____
+
+.Illustration
+====
+saṃyutte
+
+yoked
+====
+
+[quote, Sn.v.300]
+____
+Chariots yoked to thoroughbreds
+
+_Rathe cājaññasaṃyutte._
+____
+
+.Illustration
+====
+saṃyutto
+
+tethered
+====
+
+[quote, A.2.11]
+____
+He is tethered to unvirtuous, spiritually unwholesome factors that are defiling 
+and which lead to renewed states of individual existence, suffering, unpleasant 
+karmic consequences, and future birth, old age, and death.
+
+_saṃyutto pāpakehi akusalehi dhammehi saṅkilesikehi ponobhavikehi sadarehi 
+dukkhavipākehi āyatiṃ jātijarāmaraṇikehi._
+____
+
+.Illustration
+====
+saṃyutto
+
+tethered
+====
+
+[quote, S.4.301]
+____
+There is no tie to individual existence tethered by which the householder Citta 
+will return to this [low] plane of existence.
+
+_natthitaṃ saṃyojanaṃ yena saṃyojanena saṃyutto citto gahapati puna 
+imaṃ lokaṃ āgaccheyyāti._
+____
+
+.Illustration
+====
+saṃyutto
+
+tethered
+====
+
+• For him, thinking and pondering on past bases of fondness and attachment, 
+fondness arises. +
+_Tassa atīte chandarāgaṭṭhānīye dhamme ārabbha cetasā anuvitakkayato 
+anuvicārayato chando jāyati._
+
+• With the arising of fondness, he is tethered to those things. +
+_Chandajāto tehi dhammehi saṃyutto hoti_ (A.1.264).
+
+.Illustration
+====
+saṃyutto
+
+tethered
+====
+
+[quote, S.1.206]
+____
+If with a pure mind he teaches others, he does not become tethered [to them] by 
+his tender concern and sympathy.
+
+_Manasā ce pasannena yadaññamanusāsati +
+Na tena hoti saṃyutto sānukampā anuddayāti._
+____
+
+.Illustration
+====
+saṃyuttassa
+
+tethered [to individual existence]
+====
+
+• For one who abides attached, tethered [to individual existence], 
+undiscerning of reality, contemplating sweetness, the five grasped aggregates 
+are heaped up in the future; +
+_Tassa sārattassa saṃyuttassa sammūḷhassa assādānupassino viharato 
+āyatiṃ pañcupādānakkhandhā upacayaṃ gacchanti_ (M.3.287).
+
+.Illustration
+====
+saṃyutto
+
+tethered [to individual existence]; saṃyutto, tethered to
+====
+
+____
+If he experiences a pleasant sense impression, he experiences it tethered [to 
+individual existence]. If he experiences an unpleasant sense impression, he 
+experiences it tethered [to individual existence]. If he experiences a neutral 
+sense impression, he experiences it tethered [to individual existence].
+
+_So sukhañce vedanaṃ vediyati saṃyutto naṃ vediyati dukkhañce vedanaṃ 
+vediyati saṃyutto naṃ vediyati adukkhamasukhañce vedanaṃ vediyati 
+saṃyutto naṃ vediyati_
+____
+
+[quote, S.4.208]
+____
+This is called the ignorant Everyman who is tethered to birth, old age, and 
+death; to grief, lamentation, physical pain, psychological pain, and vexation; 
+who is tethered to suffering, I declare.
+
+_ayaṃ vuccati bhikkhave assutavā puthujjano saṃyutto jātiyā 
+jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi saṃyutto 
+dukkhasmāti vadāmi._
+____
+
+.Illustration
+====
+saṃyuttā
+
+tethered [to individual existence]
+====
+
+[quote, It.96]
+____
+Those who have overcome sensuous yearnings but have not accomplished the 
+destruction of perceptually obscuring states, tethered [to individual 
+existence] by the bondage [to individual existence] that arises from 
+&#8203;[attachment to] states of individual existence, are called non-returners.
+
+_Ye ca kāme pahantvāna appattā āsavakkhayaṃ bhavayogena saṃyuttā 
+anāgāmī ti vuccare._
+____
+
+.Illustration
+====
+saṃyutto
+
+tethered [to individual existence]
+====
+
+[quote, S.4.36]
+____
+Tethered [to individual existence] by the bond of spiritually fettering 
+delight, Migajāla, a bhikkhu is called 'one living with a partner.'
+
+_nandisaṃyojanasaṃyutto kho migajāla bhikkhu sadutiyavihārī ti vuccati._
+____
+
+.Illustration
+====
+visaṃyutto
+
+emancipated from
+====
+
+[quote, A.2.12]
+____
+He is emancipated from unvirtuous, spiritually unwholesome factors that are 
+defiling and which lead to renewed states of individual existence, suffering, 
+unpleasant karmic consequences, and future birth, old age, and death.
+
+_Visaṃyutto pāpakehi akusalehi dhammehi saṅkilesikehi ponobhavikehi 
+sadarehi dukkhavipākehi āyatiṃ jātijarāmaraṇikehi._
+____
+
+.Illustration
+====
+visaṃyuttaṃ
+
+emancipated from
+====
+
+[quote, M.1.108]
+____
+For the Brahman who abides emancipated from sensuous pleasures...
+
+_kāmehi visaṃyuttaṃ viharantaṃ taṃ brāhmaṇaṃ._
+____
+
+.Illustration
+====
+visaṃyutto
+
+emancipated [from individual existence]; visaṃyutto, emancipated from
+====
+
+____
+If he experiences a pleasant sense impression, he experiences it emancipated 
+&#8203;[from individual existence]. If he experiences an unpleasant sense impression, 
+he experiences it emancipated [from individual existence]. If he experiences a 
+neutral sense impression, he experiences it emancipated [from individual 
+existence].
+
+_so sukhañce vedanaṃ vediyati visaṃyutto naṃ vediyati dukkhañce 
+vedanaṃ vediyati visaṃyutto naṃ vediyati adukkhamasukhañce vedanaṃ 
+vediyati visaṃyutto naṃ vediyati._
+____
+
+[quote, S.4.209]
+____
+This is called a learned noble disciple who is emancipated from birth, old age, 
+and death; from grief, lamentation, physical pain, psychological pain, and 
+vexation; who is emancipated from suffering, I declare.
+
+_Ayaṃ vuccati bhikkhave sutavā ariyasāvako visaṃyutto jātiyā 
+jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi visaṃyutto 
+dukkhasmāti vadāmi._
+____
+
+.Illustration
+====
+visaṃyutto
+
+emancipated [from individual existence]
+====
+
+[quote, S.2.279]
+____
+The bhikkhu whose mind is spiritually purified is glorious. He is free [from 
+individual existence], emancipated [from individual existence], one who has 
+realised the Untroubled through being without grasping.
+
+_Sobhati vatāyaṃ bhikkhu ujubhūtena cetasā +
+Vippamutto visaṃyutto anupādāya nibbuto._
+____
+
+.Illustration
+====
+visaṃyuttā
+
+not tethered [to individual existence]
+====
+
+____
+Bhikkhus, those bhikkhus who are arahants...
+
+_Ye pi te bhikkhave bhikkhu arahanto..._
+____
+
+[quote, S.5.144-5]
+____
+they too abide contemplating the nature of the body, vigorously applied [to the 
+practice], fully conscious, mentally concentrated, serene, inwardly collected, 
+inwardly undistracted, not tethered [to individual existence] via the body
+
+_Te pi kāye kāyānupassino viharanti ātāpino sampajānā ekodibhūtā 
+vippasannacittā samāhitā ekaggacittā kāyena visaṃyuttā._
+____
+
+.Illustration
+====
+yutto
+
+tethered [to individual existence]; visaṃyutto, not tethered [to individual 
+existence]
+====
+
+____
+Tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] both sensuous pleasure and individual 
+existence, he is a returner, returning to this [low] plane of existence.
+
+_Kāmayogayutto bhikkhave bhavayogayutto āgāmī hoti āgantā itthattaṃ_
+____
+
+____
+Not tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] sensuous pleasure, but by the bondage [to 
+individual existence] that arises from [attachment to] states of individual 
+existence, he is a non-returner, not returning to this [low] plane of existence.
+
+_Kāmayogavisaṃyutto bhikkhave bhavayogayutto anāgāmī hoti anāgantā 
+itthattaṃ_
+____
+
+[quote, It.95]
+____
+Not tethered [to individual existence] by the bondage [to individual existence] 
+that arises from [attachment to] either sensuous pleasure or individual 
+existence, he is an arahant with perceptually obscuring states destroyed.
+
+_Kāmayogavisaṃyutto bhikkhave bhavayogavisaṃyutto arahaṃ hoti 
+khīṇāsavo ti._
+____
+
+COMMENT
+
+_Kāmayoga_: 'the bondage [to individual existence] that arises from 
+&#8203;[attachment to] sensuous pleasure.' See Glossary sv _Yoga_.
+
+_Bhavayoga_: 'the bondage [to individual existence] that arises from 
+&#8203;[attachment to] states of individual existence.' See Glossary sv _Yoga_.
+

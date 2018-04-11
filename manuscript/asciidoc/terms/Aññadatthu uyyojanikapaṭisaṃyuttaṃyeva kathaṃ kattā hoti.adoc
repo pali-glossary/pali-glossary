@@ -1,0 +1,233 @@
+== Aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti
+
+=== Renderings
+
+- _aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti_: he is 
+one whose words are exclusively connected with religious inspiration
+
+=== Introduction
+
+==== Other translations: Horner and Bodhi
+
+This phrase is intended to illustrate how the ideal bhikkhu converses with 
+visitors. It occurs in the _Mahāsuññata Sutta_ (M.3.111) and the _Anuruddha 
+Sutta_ (A.4.233). Horner says it is 'a passage of great difficulty,' and says 
+this is because of the two meanings of _uyyojeti_
+
+1. to incite, instigate, inspire, persuade
+
+2. to dismiss.
+
+For her translation she chooses the first meaning, saying the Buddha 'speaks 
+there as one intent only on inspiring them.' Bodhi, however, takes the second 
+meaning and says:
+
+[quote, Bodhi, MLDB p.972]
+____
+'He invariably talks to them in a way concerned with dismissing them'
+
+_aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
+____
+
+[quote, Bodhi, NDB p.1164]
+____
+'He gives them a talk invariably concerned with dismissing them'
+
+_aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
+____
+
+==== Attitude uncharacteristic of Buddhism
+
+Bodhi's translation suggests bhikkhus should adopt an attitude that is 
+uncharacteristic of Buddhism. For example, the scriptures are critical of the 
+bhikkhu who is incapable of benefiting others (_nālaṃ paresaṃ_) by 
+instructing, inspiring, rousing, and gladdening his companions in the religious 
+life (_no ca sandassako hoti samādapako samuttejako sampahaṃsako 
+sabrahmacārīnaṃ_ (A.4.298 ).
+
+==== Uyyojeti: to dismiss
+
+In the meaning 'to dismiss' _uyyojeti_ commonly occurs at the end of religious 
+discourses. For example:
+
+[quote, D.2.86]
+____
+Then the Blessed One, having instructed, inspired, roused, and gladdened the 
+lay-followers of Pāṭaligāma with a religious discourse until far into the 
+night, he dismissed them (_uyyojesi_), saying: 'Householders, the night is 
+nearly over. Now it is time for you to do as you think fit.'
+
+_Atha kho bhagavā pāṭaligāmiye upāsake bahudeva rattiṃ dhammiyā 
+kathāya sandassetvā samādapetvā samuttejetvā sampahaṃsetvā uyyojesi 
+abhikkantā kho gahapatayo ratti yassa'dāni tumhe kālaṃ maññathā ti._
+____
+
+In addressing the lay-followers of Pāṭaligāma, the Buddha was clearly doing 
+so for inspirational purposes, and the talk was eventually concluded with a 
+dismissal. It makes little sense, therefore, to say that the Buddha's sermons 
+were 'invariably concerned with dismissing' his audience, as if that had been 
+his abiding objective the whole night long.
+
+==== The ideal bhikkhu's conversation
+
+The _Mahāsuññata Sutta_, in which our passage occurs, goes on to helpfully 
+explain the nature of the ideal bhikkhu's conversation, as follows:
+
+____
+If, Ānanda, this [ideal] bhikkhu... inclines to speaking, then he thinks: 'I 
+will not talk that kind of talk which is low, vulgar, the way of the common 
+man, ignoble, and unconducive to spiritual well-being, and which does not 
+conduce to disillusionment [with originated phenomena], nor to non-attachment 
+&#8203;[to originated phenomena], nor to the ending [of originated phenomena], nor to 
+inward peace, nor to transcendent insight, nor to enlightenment, nor to the 
+Untroubled
+
+_Tassa ce ānanda bhikkhuno iminā vihārena viharato kathāya cittaṃ namati. 
+So yāyaṃ kathā hīnā gammā pothujjanikā anariyā anatthasaṃhitā na 
+nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na 
+sambodhāya na nibbānāya saṃvattati (... evarūpiṃ kathaṃ na 
+kathessāmiti)._
+____
+
+____
+... That is to say: talk of kings, thieves, great ministers, armies, dangers, 
+battles, food, drink, clothes, beds, garlands, scents, relations, vehicles, 
+villages, market towns, towns, the country, women, valiant men, streets, wells, 
+departed spirits, tittle-tattle, legends about the world, legends about the 
+sea, talk of honour and renown.'
+
+_Seyyathīdaṃ rājakathā corakathā mahāmattakathā senākathā bhayakathā 
+yuddhakathā annakathā pānakathā vatthakathā sayanakathā mālākathā 
+gandhakathā ñātikathā yānakathā gāmakathā nigamakathā nagarakathā 
+janapadakathā itthikathā purisakathā surākathā visikhākathā 
+kumbhaṭṭhānakathā pubbapetakathā nānatthakathā lokakkhāyikā 
+samuddakkhāyikā itibhavābhavakathā iti vā iti evarūpiṃ kathaṃ na 
+kathessāmiti._
+____
+
+____
+... But, Ānanda, in regard to that talk which is helpful for erasing 
+defilements, which helps free the mind from the five hindrances, and which 
+leads to complete disillusionment [with originated phenomena], to 
+non-attachment [to originated phenomena], to the ending [of originated 
+phenomena], to inward peace, to transcendent insight, to enlightenment, and to 
+the Untroubled
+
+_Yā ca kho ayaṃ ānanda kathā abhisallekhikā cetovinīvaraṇasappāyā 
+ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya 
+nibbānāya saṃvattati._
+____
+
+[quote, M.3.113]
+____
+... That is to say: talk about fewness of needs, talk about contentment, talk 
+about physical seclusion, talk about remaining aloof [from householders and 
+ascetics alike], talk about the exertion of energy, talk about moral habit, 
+talk about inward collectedness, talk about penetrative discernment, talk about 
+liberation [from perceptually obscuring states], talk about the knowledge and 
+vision that follows liberation [from perceptually obscuring states], he thinks: 
+'I will utter speech like this.'
+
+_Seyyathīdaṃ appicchakathā santuṭṭhikathā pavivekakathā 
+asaṃsaggakathā viriyārambhakathā sīlakathā samādhikathā paññākathā 
+vimuttikathā vimuttiñāṇadassanakathā iti evarūpiṃ kathaṃ 
+kathessāmīti._
+____
+
+This shows that the ideal bhikkhu is, in fact, quite willing to converse for 
+the sake of religious inspiration. We have seen, for a similar purpose, with 
+the lay-followers of Pāṭaligāma, that the Buddha would be even willing to 
+talk 'far into the night.' So, again, to say that the Buddha's sermons were 
+'invariably concerned with dismissing' his audience is hardly justified.
+
+==== Uyyojeti: other contexts
+
+We have already noted that _uyyojeti_ can mean 'to incite, instigate, inspire, 
+persuade.' It occurs in these meanings in the following passages:
+
+1. When the bhikkhunī Thullanandā arranged for a layman to be punished, that 
+layman had a dwelling made for the Ājīvaka ascetics close to the nunnery, and 
+instigated (_uyyojesi_) those ascetics, saying: "Denigrate these nuns."
++
+****
+_Atha kho so puriso daṇḍito bhikkhunūpassayassa avidūre ājīvakaseyyaṃ 
+kārāpetvā ājīvike uyyojesi. Etā bhikkhuniyo accāvadathā ti_ (Vin.4.224).
+****
+
+2. When a prostitute refused to visit a group of men, one of them suggested 
+that Master Udāyī should be told about it. He would surely persuade her 
+(_ayyo udāyī uyyojessatī ti_). So they told Udāyī that it would be good if 
+he persuaded the prostitute (_taṃ vesiṃ uyyojetu t_). When Udāyī 
+questioned the prostitute, she complained she did not know the men. Udāyī 
+told her 'Go with them. I know them' (_Gacchimesaṃ ahaṃ ime jānāmī_) 
+(Vin.3.138).
+
+3. When a bhikkhunī refused to accept food from a man who was in love with 
+her, because it would have been an offence for her to do so, another bhikkhunī 
+persuaded her (_uyyojeti_) to accept it, saying 'What can this man do to you, 
+since you are not in love with him? Please accept and eat the food this man is 
+offering' (Vin.4.235).
+
+According to these meanings of _uyyojeti_, _aññadatthu 
+uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti_ would mean a bhikkhu is 
+one whose words are exclusively connected with inciting, instigating, 
+inspiring, or persuading. Which is meaningless. Inciting what? Persuading what?
+
+==== Brahmāyu Sutta: gladdening an audience with talk exclusively connected 
+with the teaching
+
+[quote, M.2.139]
+____
+To elicit a reasonable solution to this question, we will consider the 
+_Brahmāyu Sutta_ (M.2.139) which says that after eating the meal, the Buddha 
+instructs, inspires, rouses, and gladdens the audience with talk exclusively 
+connected with the teaching.
+
+_aññadatthu dhammiyāva kathāya taṃ parisaṃ sandasseti samādapeti 
+samuttejeti sampahaṃseti._
+____
+
+Here _aññadatthu_ is now connected to _dhammiyāva kathāya sandasseti 
+samādapeti samuttejeti sampahaṃseti._ We take this phrase to be synonymous 
+with _aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti_ 
+because it occurs in a similar context_._ In other words, if a bhikkhu 
+instructs, inspires, rouses, and gladdens his audience with talk exclusively 
+connected with the teaching, then he is 'one whose words are exclusively 
+connected with religious inspiration.' This, then, is our rendering of the 
+phrase in question.
+
+=== Illustrations
+
+.Illustration
+====
+aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti
+
+one whose words are exclusively connected with religious inspiration
+====
+
+____
+'This teaching is for those who live secludedly, not for those given to the 
+enjoyment of company.' So it was said. In reference to what was it said?
+
+_Pavivittassāyaṃ bhikkhave dhammo nāyaṃ dhammo saṅgaṇikārāmassā ti 
+iti kho panetaṃ vuttaṃ kiñcetaṃ paṭicca vuttaṃ_
+____
+
+[quote, A.4.233]
+____
+In this regard, the bhikkhu living secludedly may be visited by bhikkhus, 
+bhikkhunīs, laymen, laywomen, kings and kings' ministers, and non-Buddhist 
+ascetics and their disciples. In that case, the bhikkhu, mentally inclining, 
+verging, and drifting towards seclusion [from sensuous pleasures and 
+spiritually unwholesome factors], psychologically withdrawn [from sensuous 
+pleasures and spiritually unwholesome factors], taking delight in the practice 
+of unsensuousness, is one whose words are exclusively connected with religious 
+inspiration.
+
+_idha bhikkhave bhikkhuno pavivittassa viharato bhavanti upasaṅkamitāro 
+bhikkhū bhikkhūniyo upāsakā upāsikāyo rājāno rājamahāmattā titthiyā 
+titthiyasāvakā. Tatra bhikkhu vivekaninnena cittena vivekapoṇena 
+vivekapabbhārena vavakaṭṭhena nekkhammābhiratena aññadatthu 
+uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
+____
+

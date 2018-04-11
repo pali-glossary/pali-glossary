@@ -1,0 +1,8 @@
+[#copyright, colophon]
+= Copyright
+
+// TODO for some reason it warns if the chapter doesn't contain a section.
+
+== Creative Commons BY-NC-ND
+
+CC-BY-NC-ND 4.0

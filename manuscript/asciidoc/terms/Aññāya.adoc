@@ -1,0 +1,224 @@
+== Aññāya
+
+=== Renderings
+
+- _aññāya_: having understood
+
+- _aññāya_: having realised
+
+- _aññāya_: having learned
+
+- _aññāya_: realising
+
+- _aññāya_: knowing
+
+- _aññāya_: understanding
+
+=== Introduction
+
+==== Aññāya: 'absolutive'
+
+_Aññāya_ is the absolutive of _ājānāti_ (and also the instrumental of 
+_aññā_, not covered here). Collins says absolutives have also been called 
+gerunds or indeclinable participles, but says that none of these terms are 
+entirely appropriate (Pāli Grammar for Students). PED uses the term 'gerund.' 
+But 'absolutive' is now the term of choice by the Pāli Text Society. Calling 
+it 'gerund' was always inexplicable.
+
+We deal with _ājānāti_ separately, sv _Ājānāti_.
+
+==== The absolutive: Duroiselle
+
+Duroiselle says:
+
+- the absolutive always denotes an action completed before another, and may be 
+translated:
+
+1. by the word 'having' followed by a past participle, as _gantvā_, having 
+gone; or
+
+2. by the past tense followed by the conjunction 'and': _gantvā_, he went 
+and...':
+
+For example:
+
+[quote, PGPL, para 618]
+____
+He lifted it up, took it home, divided it into four parts and, practising 
+almsgiving and other good deeds, went according to his deeds.
+
+_So taṃ ukkhipitvā gharaṃ netvā catudhā vibhajitvā dānādīni 
+puññāni katvā yathākammaṃ gato.._
+____
+
+Duroiselle translates _katvā_ as a present participle ('practising') but stays 
+true to the rule that 'the absolutive always denotes an action completed before 
+another.' But he should have said 'usually denotes' because he then admits that 
+_idha āgantvā ahaṃ coraṃ passiṃ_ can be rendered 'Coming here I saw the 
+thief' (PGPL, para 618 (vi).
+
+=== Illustrations
+
+.Illustration
+====
+aññāya
+
+having understood
+====
+
+[quote, M.1.32]
+____
+It seems as if he is planing [the wood] having understood my mind with his mind.
+
+_hadayā hadayaṃ maññe aññāya tacchatī ti._
+____
+
+.Illustration
+====
+aññāya
+
+having understood
+====
+
+[quote, Sn.v.210]
+____
+Having understood all objects of attachment, and not desiring any of them, that 
+sage, free of greed, greedless, does not strain himself, for he has reached the 
+Far Shore.
+
+_Aññāya sabbāni nivesanāni anikāmayaṃ aññatarampi tesaṃ +
+Sa ve muni vītagedho agiddho nāyūhatī pāragato hi hoti._
+____
+
+.Illustration
+====
+aññāya
+
+having understood
+====
+
+[quote, Sn.v.219]
+____
+Having understood the world [of phenomena]
+
+_Aññāya lokaṃ._
+____
+
+.Illustration
+====
+aññāya
+
+having realised
+====
+
+[quote, Sn.v.374]
+____
+Having realised the [Untroubled] State, having understood the teaching
+
+_Aññāya padaṃ samecca dhammaṃ._
+____
+
+Comment:
+
+We take _padaṃ_ as _nibbānapada_, as in Sn.v.365.
+
+.Illustration
+====
+aññāya
+
+having learned
+====
+
+[quote, A.1.185]
+____
+I learned the teaching of the ascetic disciples of the Sakyans' Son. Having 
+learned the teaching of the ascetic disciples of the Sakyans' Son I left that 
+teaching and training system.
+
+_aññāto mayā samaṇānaṃ sakyaputtiyānaṃ dhammo. Aññāya ca 
+panā'haṃ samaṇānaṃ sakyaputtiyānaṃ dhammaṃ evāhaṃ tasmā 
+dhammavinayā apakkanto ti._
+____
+
+.Illustration
+====
+aññāya
+
+having learned
+====
+
+Whatever bhikkhunī without having obtained permission from the community of 
+bhikkhunīs which carried out the proceedings in accordance with the rule, the 
+discipline, the Teacher's word, not having learned the group's desire 
+(_anaññāya gaṇassa chandaṃ_), should restore a bhikkhunī suspended by a 
+complete assembly of bhikkhunīs, that bhikkhunī has fallen into a matter that 
+is a foremost offence entailing a formal meeting of the community of 
+bhikkhunīs involving being sent away (Vin.4.231).
+
+.Illustration
+====
+aññāya
+
+have realised
+====
+
+[quote, It.39]
+____
+Those who have realised the Unoriginated State... have attained the heart of 
+the teaching.
+
+_Ye etadaññāya padaṃ asaṅkhataṃ... te dhammasārādhigamā._
+____
+
+.Illustration
+====
+aññāya
+
+realising
+====
+
+____
+A bhikkhu investigates the meaning of the teachings he has retained in mind._
+
+_dhatānañca dhammānaṃ atthūpaparikkhitā hoti_
+____
+
+[quote, A.4.298]
+____
+Realising their meaning and significance, he practises in accordance with the 
+teaching._
+
+_atthamaññāya dhammamaññāya dhammānudhammapaṭipanno ca hoti._
+____
+
+.Illustration
+====
+aññāya
+
+knowing
+====
+
+[quote, A.4.235]
+____
+Knowing my reflection, the Teacher, unsurpassed in the world, through his 
+psychic power approached me with a mind-made body.
+
+_Mama saṅkappamaññāya satthā loke anuttaro +
+Manomayena kāyena iddhiyā upasaṅkami._
+____
+
+.Illustration
+====
+aññāya
+
+understanding
+====
+
+[quote, Sn.v.933]
+____
+Then, understanding this teaching, scrutinising it, a bhikkhu should train 
+himself in it ever mindfully
+
+_Etañca dhammamaññāya vicinaṃ bhikkhu sadā sato sikkhe._
+____
+

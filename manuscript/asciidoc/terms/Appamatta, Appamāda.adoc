@@ -1,0 +1,612 @@
+== Appamatta; Appamāda
+
+=== Renderings
+
+- _appamatta_: diligent
+
+- _appamatta_: diligently
+
+- _appamatta_: diligent man
+
+- _appamatta_: diligently applied [to the practice]
+
+- _appamāda_: diligence
+
+- _appamāda_: diligence [in the practice]
+
+- _pamāda_: negligence [in the practice]
+
+- _pamatta_: negligently applied [to the practice]
+
+=== Introduction
+
+==== With specified objects
+
+_Appamatta_ and _appamāda_ often have specified objects:
+
+1. We will abide using blocks of wood as cushions, and be diligently and 
+vigorously applied to inward striving.
++
+****
+_Kaliṅgarūpadhānā viharissāma appamattā ātāpino padhānasmin ti_ 
+(S.2.267-8).
+****
+
+2. Happy indeed are those human beings honouring the Sublime One, applying 
+themselves to Gotama's training system, who train in it with diligence.
++
+****
+_Sukhitā vata te manujā sugataṃ payirupāsiya +
+****
+Yuñjaṃ gotama sāsane appamattānusikkhareti_ (S.1.52).
+
+3. The diligent and resolute practisers of my training system will go without 
+your approval where, having gone, they will not grieve.
++
+****
+_Te appamattā pahitattā mama sāsanakārakā +
+****
+Akāmā te gamissanti yattha gantvā na socare_ (Sn.v.445).
+
+4. For a bhikkhu who abides properly considering pairs [of teachings] in this 
+way, diligently, vigorously, and resolutely, one of two fruits can be expected.
++
+****
+_Evaṃ sammā dvayatānupassino kho bhikkhave bhikkhuno appamattassa ātāpino 
+pahitattassa viharato dvinnaṃ phalānaṃ aññataraṃ phalaṃ 
+pāṭikaṅkhaṃ_ (Sn.p.140).
+****
+
+5. They bring [us] offerings day and night, so [please] diligently protect them.
++
+****
+_Divā ca ratto ca haranti ye baliṃ tasmā hi ne rakkhatha appamattā_ 
+(Sn.v.223).
+****
+
+6. He is no friend at all, who, anticipating conflict, is always diligently 
+looking for your weak spots.
++
+****
+_Na so mitto yo sadā appamatto bhedāsaṅkī randhamevānupassī_ (Sn.v.255).
+****
+
+7. With the arrow [of craving] removed, living the religious life diligently, 
+he longs for neither this world nor the next.
++
+****
+_Abbūḷhasallo caramappamatto nāsiṃsati lokamimaṃ parañcāti_ 
+(Sn.v.779).
+****
+
+8. Being diligent in the practice of sacrifice
++
+****
+_yaññapathe appamattā_ (Sn.v.1045).
+****
+
+==== With no specified object
+
+Sometimes, there is no specified object. The relationship between terms in the 
+following passages show why, in such cases, we take the object to be 'the 
+practice' (i.e. 'the practice of the teaching'):
+
+1. My disciple who abides diligently, vigorously, and resolutely applied [to 
+the practice] for one night and day, practising as I instructed him, might 
+experience exclusively happiness for a hundred years.
++
+****
+_Idha mama sāvako... ekaṃ rattindivaṃ appamatto ātāpī pahitatto 
+viharanto yathā mayānusiṭṭhaṃ tathā paṭipajjamāno satampi vassāni 
+ekanta sukhapaṭisaṃvedī vihareyya_ (A.5.86).
+****
+
+2. Bhante, it would be good if the Blessed One would explain the teaching to me 
+in brief, so that, having heard the teaching from the Blessed One, I might 
+abide alone, withdrawn [from human fellowship, sensuous pleasures, and 
+spiritually unwholesome factors], diligently, vigorously, and resolutely 
+applied [to the practice].
++
+****
+_sādhu me bhante bhagavā saṅkhittena dhammaṃ desetu yamahaṃ bhagavato 
+dhammaṃ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyanti_ 
+(S.4.145).
+****
+
+3. When a bhikkhu is perfect in diligence [in the practice], it is to be 
+expected that he will develop and cultivate this noble eightfold path.
++
+****
+_Appamādasampannassetaṃ bhikkhave bhikkhuno pāṭikaṅkhaṃ ariyaṃ 
+aṭṭhaṅgikaṃ maggaṃ bhāvessati ariyaṃ aṭṭhaṅgikaṃ maggaṃ 
+bahulīkarissatīti_
+****
+
+=== Illustrations
+
+.Illustration
+====
+appamatto
+
+diligent
+====
+
+[quote, Sn.v.404]
+____
+A diligent householder with a practice like this ends up with the devas called 
+Sayampabha.
+
+_Etaṃ gihī vattayamappamatto sayampabhe nāma upeti deve ti._
+____
+
+.Illustration
+====
+appamatto
+
+diligent man
+====
+
+[quote, Sn.v.317]
+____
+The wise and diligent man who associates with such a person.
+
+_yo tādisaṃ bhajati appamatto._
+____
+
+.Illustration
+====
+appamattā
+
+those who are diligently applied [to the practice]
+====
+
+[quote, Th.v.4]
+____
+Those who are wise, diligently applied [to the practice], and prudent attain 
+&#8203;[the supreme goal].
+
+_Dhīrā samadhigacchanti appamattā vicakkhaṇā ti._
+____
+
+.Illustration
+====
+appamādena
+
+with diligence
+====
+
+[quote, D.2.156]
+____
+So, then, bhikkhus, I take your leave. Originated phenomena are destined to 
+disappear. Apply yourself [to the practice] with diligence.
+
+_Handadāni bhikkhave āmantayāmi vo. Vayadhammā saṅkhārā. Appamādena 
+sampādetha_
+____
+
+.Illustration
+====
+appamādo
+
+being diligent
+====
+
+[quote, Sn.v.264]
+____
+Being diligent in [doing] what is righteous: this is supremely auspicious.
+
+_Appamādo ca dhammesu etaṃ maṅgalamuttamaṃ._
+____
+
+.Illustration
+====
+appamattassa
+
+diligently
+====
+
+[quote, Sn.v.567]
+____
+'The religious life is well explained, fathomable in this lifetime, realisable 
+in the here and now, so that for one who trains himself diligently [in it], 
+going forth [into the ascetic life] is not in vain.'
+
+_Svākkhātaṃ brahmacariyaṃ sandiṭṭhikamakālikaṃ +
+Yattha amoghā pabbajjā appamattassa sikkhato ti._
+____
+
+.Illustration
+====
+appamatto
+
+diligently applied [to the practice]
+====
+
+[quote, M.1.197]
+____
+Being diligently applied [to the practice], he attains perpetual deliverance 
+&#8203;[from perceptually obscuring states].
+
+_Appamatto samāno asamayavimokkhaṃ ārādheti._
+____
+
+.Illustration
+====
+appamattā
+
+diligently applied [to the practice]
+====
+
+[quote, S.2.266]
+____
+'We will abide diligently applied [to the practice]'
+
+_appamattā viharissāmā ti._
+____
+
+.Illustration
+====
+appamādo
+
+diligence; appamattā, diligently applied [to the practice]
+====
+
+____
+You should abide spiritually supported by one thing: diligence in [cultivating] 
+spiritually wholesome factors.
+
+_Eko dhammo upanissāya vihātabbo appamādo kusalesu dhammesu_
+____
+
+____
+When you are abiding diligently applied [to the practice], spiritually 
+supported by diligence [in cultivating spiritually wholesome factors], your 
+harem will think:
+
+_Appamattassa te mahārāja viharato appamādaṃ upanissāya itthāgārassa 
+evaṃ bhavissati_
+____
+
+____
+'The king dwells diligently applied [to the practice], spiritually supported by 
+diligence [in cultivating spiritually wholesome factors].
+
+_rājā kho appamatto viharati appamādaṃ upanissāya._
+____
+
+[quote, S.1.89]
+____
+Come, then, let us also dwell diligently applied [to the practice], spiritually 
+supported by diligence [in cultivating spiritually wholesome factors].'
+
+_Handa mayampi appamattā viharāma appamādaṃ upanissāyāti._
+____
+
+.Illustration
+====
+appamādaṃ
+
+diligence; appamatto, diligent
+====
+
+____
+The wise praise diligence in performing meritorious deeds.
+
+_Appamādaṃ pasaṃsanti puññakiriyāsu paṇḍitā_
+____
+
+[quote, S.1.86]
+____
+'The wise person who is diligent [in performing meritorious deeds] secures both 
+benefits: benefit in this lifetime, and benefit in the hereafter.
+
+_Appamatto ubho atthe adhigaṇhāti paṇḍito +
+Diṭṭhe dhamme ca yo attho yo cattho samparāyiko._
+____
+
+.Illustration
+====
+appamādo
+
+diligence
+====
+
+[quote, D.3.272-3]
+____
+Which one thing is very useful? Diligence in [cultivating] spiritually 
+wholesome factors.
+
+_Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu._
+____
+
+.Illustration
+====
+appamādo
+
+diligence [in the practice]
+====
+
+____
+And what is diligence [in the practice]?
+
+_Katamo ca bhikkhave appamādo_
+____
+
+[quote, S.5.232]
+____
+In this regard a bhikkhu protects the mind against perceptually obscuring 
+states and against states associated with perceptually obscuring states.
+
+_Idha bhikkhave bhikkhu cittaṃ rakkhati āsavesu ca sāsavesu ca dhammesu._
+____
+
+.Illustration
+====
+appamādaṃ
+
+diligence [in the practice]
+====
+
+[quote, Th.v.980]
+____
+Seeing negligence [in the practice] as danger, and diligence [in the practice] 
+as safety.
+
+_Pamādaṃ bhayato disvā appamādañca khemato._
+____
+
+.Illustration
+====
+appamāda
+
+diligence [in the practice]
+====
+
+[quote, S.5.42]
+____
+Whatever spiritually wholesome factors there are, they all stem from diligence 
+&#8203;[in the practice]._
+
+_ye keci kusalā dhammā sabbe te appamādamūlakā._
+____
+
+.Illustration
+====
+appamādo
+
+diligence [in the practice]
+====
+
+[quote, A.3.449]
+____
+To abandon negligence [in the practice] develop diligence [in the practice].
+
+_Pamādassa pahānāya appamādo bhāvetabbo._
+____
+
+.Illustration
+====
+appamādo
+
+diligence [in the practice]
+====
+
+[quote, Dh.v.21]
+____
+Diligence [in the practice] is the path to the Deathless State. Negligence [in 
+the practice] is the path to death.
+
+_Appamādo amatapadaṃ pamādo maccuno padaṃ._
+____
+
+=== Pamāda
+
+.Illustration
+====
+pamādo
+
+negligent in
+====
+
+____
+'Moggallāna, Moggallāna, do not be negligent, brahman, in [practising] first 
+jhāna
+
+_mā brāhmaṇa paṭhamaṃ jhānaṃ pamādo_
+____
+
+____
+Steady your mind in first jhāna
+
+_paṭhame jhāne cittaṃ saṇṭhapehi_
+____
+
+____
+Concentrate your mind in first jhāna
+
+_paṭhame jhāne cittaṃ ekodiṃ karohi_
+____
+
+[quote, S.4.264]
+____
+Compose your mind in first jhāna
+
+_paṭhame jhāne cittaṃ samādahāti._
+____
+
+.Illustration
+====
+napamajjeyya
+
+should not be negligent in
+====
+
+[quote, Sn.v.933]
+____
+Knowing inward peace as Peace, he should not be negligent in [practising] 
+Gotama's training system.
+
+_Santī ti nibbutiṃ ñatvā sāsane gotamassa napamajjeyya._
+____
+
+.Illustration
+====
+pamādo
+
+negligent
+====
+
+[quote, S.1.193]
+____
+When the teaching has been so well explained, how can one who understands [it] 
+be negligent [in practising it]?
+
+_Evaṃ sudesite dhamme ko pamādo vijānataṃ._
+____
+
+.Illustration
+====
+pamajjitun
+
+negligently applied [to the practice]
+====
+
+[quote, Th.v.452]
+____
+Whether walking, standing, sitting, or lying down, your last day approaches. 
+There is no time for you to be negligently applied [to the practice].
+
+_Carato tiṭṭhato vāpi āsīnasayanassa vā +
+Upeti carimā ratti na te kālo pamajjitun ti._
+____
+
+.Illustration
+====
+pamādattha
+
+negligently applied [to the practice]
+====
+
+• Meditate, Cunda! Do not be negligently applied [to the practice] lest you 
+regret it later! +
+_Jhāyatha cunda mā pamādattha. Mā pacchā vippaṭisārino ahuvattha_ 
+(M.1.46).
+
+.Illustration
+====
+pamāda
+
+negligence [in the practice]
+====
+
+[quote, M.3.170]
+____
+Liquor, wines, and intoxicants which are bases of negligence [in the practice].
+
+_surāmerayamajjapamādaṭṭhānā._
+____
+
+.Illustration
+====
+pamatto
+
+negligently applied [to the practice]
+====
+
+[quote, Dh.v.309]
+____
+The man negligently applied [to the practice] who pursues another's wife meets 
+with four states.
+
+_Cattāri ṭhānāni naro pamatto āpajjati paradārūpasevī._
+____
+
+.Illustration
+====
+pamatto
+
+negligently applied [to the practice]
+====
+
+[quote, M.1.253]
+____
+'This deity dwells much too negligently applied [to the practice].'
+
+_atibāḷhaṃ kho ayaṃ yakkho pamatto viharati._
+____
+
+.Illustration
+====
+pamādamhā
+
+negligence [in the practice]
+====
+
+[quote, Sn.v.156]
+____
+Does he keep aloof from negligence [in the practice]? Does he not neglect 
+meditation?'
+
+_Kacci ārā pamādamhā kacci jhānaṃ na riñcati._
+____
+
+.Illustration
+====
+pamādo
+
+negligence [in the practice]
+====
+
+[quote, Sn.v.334]
+____
+Negligence [in the practice] is a spiritual defilement. One who is constantly 
+negligently applied [to the practice] is oppressed by spiritual defilement.
+
+_Pamādo rajo pamādo pamādānupatito rajo._
+____
+
+.Illustration
+====
+pamatta
+
+negligent
+====
+
+[quote, Sn.v.430]
+____
+'You have come here for your own ends, Maleficent One, O kinsman of the 
+negligent.
+
+_Pamattabandhu pāpima senatthena idhāgato._
+____
+
+.Illustration
+====
+pamādā
+
+negligence [in the practice]
+====
+
+[quote, Sn.v.1033]
+____
+The world [of beings] is obstructed by uninsightfulness into reality. Because 
+of selfishness, and negligence [in the practice] it shines not.
+
+_Avijjāya nivuto loko vevicchā pamādā nappakāsati._
+____
+
+.Illustration
+====
+pamajjitun
+
+negligently applied [to the practice]
+====
+
+[quote, Th.v.30]
+____
+Illness has arisen in me. It is not the time for me to be negligently applied 
+&#8203;[to the practice].
+
+_Ābādho me samuppanno kālo me nappamajjitun ti._
+____
+

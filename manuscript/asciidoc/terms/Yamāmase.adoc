@@ -1,0 +1,233 @@
+== Yamāmase
+
+=== Renderings
+
+- _yamāmase_: we face [the ever-present possibility of] death
+
+=== Introduction
+
+==== 'We face [the ever-present possibility of] death'
+
+_Yamāmase_ occurs just five times in the scriptures, always in this one verse:
+
+[quote, Th.v.275 etc]
+____
+Others do not understand that we here face [the ever-present possibility of] 
+death; but those who understand it, their quarrels cease.
+
+_Pare ca na vijānanti mayamettha yamāmase +
+Ye ca tattha vijānanti tato sammanti medhagā._
+____
+
+The verse also occurs at M.3.154; Dh.v.6; Th.v.498; and Vin.1.349.
+
+Our interpretation of _yamāmase_ is primarily supported by Th.v.276 which 
+develops the theme of Th.v.275 in the following way:
+
+[quote, Th.v.276]
+____
+And whilst those who do not understand it behave as though they were immortal, 
+those who understand the nature of reality are spiritually unailing amidst the 
+spiritually ailing.
+
+_Yadā ca avijānantā iriyantyamarā viya; +
+Vijānanti ca ye dhammaṃ āturesu anāturā._
+____
+
+So if Th.v.276 concerns people who behave as though they were immortal, then 
+Th.v.275 concerns people who understand that we here face [the ever-present 
+possibility of] death.
+
+==== Etymology of yamāmase
+
+The etymology of _yamāmase_ is unknown, but it can be interpreted in two ways, 
+either following PED's _Yama1_ or _Yama2_:
+
+_Yama1_) This _Yama_ comes from _yam_- to restrain. _Yamāmase_ here is in the 
+reflective voice i.e. the object of the verb is the same as the subject. This 
+would give the meaning 'We must restrain ourselves.'
+
+_Yama2_) This _Yama_ is linked to Vedic Yama, the ruler of the kingdom of the 
+dead. This would give the meaning 'We face [the ever-present possibility of] 
+death.'
+
+==== Meaning of yamāmase: Norman
+
+Norman has accepted both interpretations, translating them as follows:
+
+[quote, Dh.v.6]
+____
+Others do not know that we should restrain ourselves here
+
+_Pare ca na vijānanti mayamettha yamāmase._
+____
+
+[quote, Th.v.275]
+____
+Others too do not know that we come to an end here
+
+_Pare ca na vijānanti mayamettha yamāmase._
+____
+
+He explains his divergent translations like this:
+
+- 'The Commentary gives alternative explanations. In Th.v.275 I followed the 
+first of these interpretations... and translated "we come to an end here" 
+because there seemed to be a contrast with Th.v.276, where the ignorant act as 
+though they are immortal. In Dh.v.6 I translate _yam_- as "restrain" because it 
+seems to suit the context better... (Word of the Doctrine p.62).
+
+When he says 'it seems to suit the context better,' he likely means that there 
+is no verse in the _Dhammapada_ corresponding to Th.v.276. But context has many 
+aspects. Let us consider the broader context.
+
+==== Context of Dhammapada Verse 6 in Vinaya
+
+_Dhammapada_ verse 6 concerns the bhikkhus of Kosambī, who, when asked by the 
+Buddha to stop quarrelling, told him:
+
+[quote, Vin.1.341]
+____
+Bhante, let the Blessed One, the Lord of Truth, abide at ease devoted to 
+pleasant states of meditation in this lifetime. We are the ones who will take 
+responsibility for this quarrelling, arguing, disputing, and contentiousness.
+
+_Āgametu bhante bhagavā dhammassāmi appossukko bhante bhagavā 
+diṭṭhadhammasukhavihāraṃ anuyutto viharatu. Mayametena bhaṇḍanena 
+kalahena viggahena vivādena paññāyissāmāti._
+____
+
+So the Buddha told them the story of Dīghāvu, the moral of which is:
+
+[quote, Vin.1.347]
+____
+Unfriendly deeds are not stopped by unfriendliness. Unfriendly deeds, dear 
+Dīghāvu, are stopped by friendliness.
+
+_na hi tāta dīghāvu verena verā sammanti. Averena hi tāta dīghāvu verā 
+sammantī ti._
+____
+
+When the Kosambī bhikkhus rejected these good words, the Buddha recited the 
+reflection we are now considering:
+
+[quote, Vin.1.349]
+____
+Others do not understand that we here face [the ever-present possibility of] 
+death; but those who understand it, their quarrels cease.
+
+_Pare ca na vijānanti mayamettha yamāmase +
+Ye ca tattha vijānanti tato sammanti medhagā._
+____
+
+The story of Dīghāvu story does not decisively indicate the meaning of 
+_yamāmase_. It effectively says that quarrelsomeness can be overcome through 
+friendliness. But whether this friendliness is the result of self-restraint, or 
+of reflecting on death, is left unclear. So let us further consider the broader 
+context.
+
+==== Further context of Dhammapada Verse 6: Majjhima Nikāya
+
+The _Majjhima Nikāya_ explains the story of the Kosambī bhikkhus differently. 
+It says the Buddha told the Kosambī bhikkhus that there are six principles of 
+cordiality, but:
+
+[quote, M.1.322]
+____
+'the chief, the most cohesive, the most unifying of these principles is [having 
+a shared] view that is noble, and which leads to deliverance [from suffering], 
+and which leads the one who practises it to the complete destruction of 
+suffering.'
+
+_Imesaṃ kho bhikkhave channaṃ sārāṇīyānaṃ dhammānaṃ etaṃ 
+aggaṃ etaṃ saṅgāhikaṃ etaṃ saṅghātanikaṃ yadidaṃ yāyaṃ 
+diṭṭhi ariyā niyyātikā niyyāti takkarassa sammā dukkhakkhayāya._
+____
+
+We parenthesise '[having a shared]' because the sutta affirms this previously, 
+by saying that:
+
+[quote, M.1.322]
+____
+Whatever view is noble, and which leads to deliverance [from suffering], and 
+which leads the one who practises it to the complete destruction of suffering, 
+a bhikkhu abides united in a view such as this with his companions in the 
+religious life, both in public and in private
+
+_bhikkhu yāyaṃ diṭṭhi ariyā niyyānikā niyyāti takkarassa sammā 
+dukkhakkhayāya tathārūpāya diṭṭhiyā diṭṭhisāmaññagato viharati 
+sabrahmacārīhi āvī ceva raho ca._
+____
+
+Therefore, having a shared noble view is the foremost key to cordiality amongst 
+bhikkhus. So we will now consider whether the view that we face [the 
+ever-present possibility of] death can be regarded as a noble view. And we 
+meanwhile note that having a shared perception 'that we should restrain 
+ourselves' will play no further part in this argument because it is simply 
+unheard of in the suttas. The argument that quarrels might cease through 
+restraint would be stronger if it meant restraint of the sense faculties, but 
+that interpretation is denied here because the verb is in the reflective voice.
+
+==== The perception of [the ever-present possibility of] death: a noble view?
+
+That the perception of [the ever-present possibility of] death is a noble view, 
+and therefore the chief way to overcome quarrelsomeness, is clear from these 
+quotes:
+
+1. Bhikkhus, there is one thing if developed and cultivated leads to complete 
+disillusionment [with originated phenomena], non-attachment [to originated 
+phenomena], the ending [of originated phenomena], inward peace, transcendent 
+insight, enlightenment, the Untroubled. What one thing? Mindfulness of [the 
+ever-present possibility of] death.
++
+****
+_Ekadhammo bhikkhave bhāvito bahulīkato ekantanibbidāya virāgāya 
+nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati. Katamo 
+ekadhammo? Maraṇasati_ (A.1.30).
+****
+
+2. Bhikkhus, mindfulness of [the ever-present possibility of] death, when 
+developed and cultivated is of great fruit and benefit, having the Deathless as 
+its culmination and conclusion.
++
+****
+_maraṇasati bhikkhave bhāvitā bahulīkatā mahapphalā hoti mahānisaṃsā 
+amatogadhā amatapariyosānāti_ (A.3.307).
+****
+
+So the broader context does not indicate that _yamāmase_ should be interpreted 
+differently in Dh.v.6 than in Th.v.275. If the bhikkhus of Kosambī had 
+cultivated the perception of [the ever-present possibility of] death, their 
+quarrels would have ceased.
+
+[quote, Th.v.275 etc]
+____
+Others do not understand that we here face [the ever-present possibility of] 
+death; but those who understand it, their quarrels cease.
+
+_Pare ca na vijānanti mayamettha yamāmase +
+Ye ca tattha vijānanti tato sammanti medhagā._
+____
+
+==== Cultivating the perception of [the ever-present possibility of] death
+
+Mindfulness of [the ever-present possibility of] death is developed like this:
+
+[quote, A.3.306]
+____
+Bhikkhus who develop mindfulness of [the ever-present possibility of] death 
+thus: 'If I could live just so long as it takes to swallow only one mouthful or 
+just so long as it takes to breathe in and out in order to contemplate the 
+Blessed One's word, much could be done by me' those bhikkhus are said to live 
+diligently. Keenly they develop mindfulness of [the ever-present possibility 
+of] death.
+
+_Ime vuccanti bhikkhave bhikkhū appamattā viharanti tikkhaṃ maraṇasatiṃ 
+bhāventi._
+____
+
+-- In this regard, bhante, such is my thought: If I could live just a night and 
+day in order to contemplate the Blessed One's word, much could be done by me 
+(_aho vatāhaṃ rattindivaṃ jīveyyaṃ bhagavato sāsanaṃ 
+manasikareyyaṃ bahuṃ vata me kataṃ assā ti_).
+

@@ -1,0 +1,126 @@
+== Anvāssavati; Anussavati
+
+=== Renderings
+
+- _anvāssavati_: to pursue
+
+- _anussavati_: to pursue
+
+=== Introduction
+
+==== Etymology
+
+_• Anvāssavati_ is _anu+ā+savati_
+
+_• Anussavati_ is _anu+savati_
+
+==== Alternative spellings
+
+Their alternative spellings are
+
+_• anvāsavati_
+
+_• anusavati_
+
+==== Equivalence in practice
+
+The two words are used in similar ways, which suggests their equivalence, for 
+example:
+
+[quote, S.4.188]
+____
+spiritually unwholesome factors do not pursue him
+
+_akusalā dhammā nānussavanti._
+____
+
+[quote, M.3.113]
+____
+spiritually unwholesome factors will pursue him
+
+_akusalā dhammā anvāssavissantī ti._
+____
+
+==== To pursue: to continue to afflict
+
+Because _savati_ means 'to flow,' it is tempting to render both words in terms 
+of 'flow,' as translators often do, and so does DOP ('flows after, flows upon, 
+flows continually over'). But the PED suggests _anvāssavati_ means not just 
+'stream into' but also 'attack, befall.' We prefer 'pursue' because it means 
+'to continue to afflict' (Webster's). One simile in particular shows the 
+incongruity of 'flow,' where flies 'attack and pursue' someone smelling like a 
+rotten corpse. See illustrations below.
+
+=== Illustrations
+
+.Illustration
+====
+anvāssavissantī
+
+pursue
+====
+
+____
+'The flies will surely attack and pursue one who has putrefied himself and who 
+is full of inward rottenness. They cannot fail to do so.
+
+_Taṃ vata bhikkhu kaṭuviyakataṃ attānaṃ āmagandhe avassutaṃ 
+makkhikā nānupatissanti nanvāssavissantī ti netaṃ ṭhānaṃ vijjatī 
+ti._
+____
+
+[quote, A.1.280]
+____
+'His thoughts bound up with attachment will attack him like flies.'
+
+_Makkhikā anupatissanti saṅkappā rāganissitā._
+____
+
+.Illustration
+====
+anvāssavissantī
+
+pursue
+====
+
+[quote, M.3.113]
+____
+While I am pacing back and forth thus, neither greed nor dejection nor 
+unvirtuous, spiritually unwholesome factors will pursue me.
+
+_nābhijjhādomanassā pāpakā akusalā dhammā anvāssavissantī ti._
+____
+
+.Illustration
+====
+anvāssaveyyuṃ pursue
+
+[quote
+
+S.4.178]
+====
+
+____
+If you abide with the faculty of sight unrestrained [from attraction and 
+repulsion, through mindfulness], greed, dejection, and unvirtuous, spiritually 
+unwholesome factors would pursue you.
+
+_cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā 
+akusalā dhammā anvāssaveyyuṃ._
+____
+
+.Illustration
+====
+anussavanti
+
+pursue
+====
+
+[quote, S.2.54]
+____
+I abide mindfully in such a way that perceptually obscuring states do not 
+pursue me
+
+_tathā sato viharāmi yathā sataṃ viharantaṃ āsavā nānussavanti._
+____
+

@@ -1,0 +1,327 @@
+== Saṅkhata
+
+=== Renderings
+
+- _saṅkhata_: originated
+
+- _saṅkhata_: prepared
+
+- _saṅkhata_: contrived
+
+- _saṅkhata_: made
+
+=== Illustrations
+
+.Illustration
+====
+what is originated
+
+[quote
+
+A.1.83]
+====
+
+____
+Bhikkhus, it is with what is originated as their basis that unvirtuous, 
+spiritually unwholesome factors arise, not without what is originated.
+
+_Saṅkhatārammaṇā bhikkhave uppajjanti pāpakā akusalā dhammā no 
+asaṅkhatārammaṇā._
+____
+
+.Illustration
+====
+originated
+
+____
+Lady
+
+is the noble eightfold path originated or unoriginated?
+====
+
+_Ariyo panayye aṭṭhaṅgiko maggo saṅkhato udāhu asaṅkhato ti?_
+____
+
+[quote, M.1.300]
+____
+The noble eightfold path is originated.
+
+_Ariyo kho āvuso visākha aṭṭhaṅgiko maggo saṅkhato ti._
+____
+
+.Illustration
+====
+the originated
+
+____
+And why do you call them intentional activities
+
+_kiñca bhikkhave saṅkhāre vadetha_
+____
+
+• They originate the originated therefore they are called intentional 
+activities.* +
+☸* _saṅkhataṃ abhisaṅkharontī ti bhikkhave tasmā saṅkhārā ti 
+vuccanti_
+
+____
+And what is the originated that they originate?
+
+_Kiñca saṅkhataṃ abhisaṅkharonti_
+____
+
+They originate
+
+____
+originated bodily form into the state of bodily form
+
+_rūpaṃ rūpattāya saṅkhataṃ abhisaṅkharonti_
+____
+
+____
+originated sense impression into the state of sense impression
+
+_vedanaṃ vedanattāya saṅkhataṃ abhisaṅkharonti_
+____
+
+____
+originated perception into the state of perception
+
+_saññaṃ saññattāya saṅkhataṃ abhisaṅkharonti_
+____
+
+____
+originated intentional activities into the state of intentional activities
+
+_saṅkhāre saṅkhārattāya saṅkhataṃ abhisaṅkharonti_
+____
+
+____
+originated advertence into the state of advertence
+
+_viññāṇaṃ viññāṇattāya saṅkhataṃ abhisaṅkharonti;_
+____
+
+Therefore they are called intentional activities (S.3.87).
+
+Comment:
+
+-_ttāya_ indicates a neuter abstract noun in the genitive or dative case and 
+therefore expresses the state
+
+nature or quality of being that which is denoted by the noun (PGPL, para 581). 
+The dative case indicates the place to which motion is directed: 'a few go to 
+heaven'; 'he takes me to the water' (PGPL, para597.viii). I have taken this 
+meaning here, using the dative case to indicate the result of originative 
+activity.
+====
+
+.Illustration
+====
+originated
+
+[quote
+
+S.__5.16__4]
+====
+
+____
+How could it be that what is born, brought about, originated, destined to 
+decay, not decay? It is not possible.
+
+_Taṃ kutettha bhikkhave labbhā yaṃ taṃ jātaṃ bhūtaṃ saṅkhataṃ 
+palokadhammaṃ taṃ vata mā palujjīti netaṃ ṭhānaṃ vijjati._
+____
+
+.Illustration
+====
+originated
+
+[quote
+
+It.61]
+====
+
+____
+From whatever is brought about, originated, dependently arisen, the ending [of 
+originated phenomena] is the deliverance.
+
+_Yaṃ kho pana kiñci bhūtaṃ saṅkhataṃ paṭiccasamuppannaṃ nirodho 
+tassa nissaraṇaṃ._
+____
+
+.Illustration
+====
+originated
+
+[quote
+
+D.2.66]
+====
+
+____
+Pleasant sense impression is unlasting, originated, and dependently arisen. It 
+is destined to be destroyed, to disappear, to pass away, to cease.
+
+_Sukhā pi kho ānanda vedanā aniccā saṅkhatā paṭiccasamuppannā 
+khayadhammā vayadhammā virāgadhammā nirodhadhammā._
+____
+
+.Illustration
+====
+originated
+
+____
+Of phenomena either originated or unoriginated
+
+_Yāvatā bhikkhave dhammā saṅkhatā vā asaṅkhatā vā_
+____
+
+[quote
+
+A.2.34]
+====
+
+____
+the passing away [of originated phenomena] is reckoned as best of them
+
+_virāgo tesaṃ dhammānaṃ aggamakkhāyati._
+____
+
+.Illustration
+====
+originated
+
+• If there were no unborn
+
+no not-brought-about, no unproduced, no unoriginated, then no deliverance would 
+be discernable from what is born, brought about, produced, originated. +
+====
+
+_No ce taṃ bhikkhave abhavissā ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ 
+nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyetha_ 
+(Ud.80).
+
+.Illustration
+====
+originated/unoriginated
+
+____
+There are three marks of the originated.
+
+_Tīṇi'māni bhikkhave saṅkhatassa saṅkhatalakkhaṇāni_
+____
+
+____
+an arising is discernable _
+
+_uppādo paññāyati_
+____
+
+____
+a disappearance is discernable _
+
+_vayo paññāyati_
+____
+
+• a changeability while persisting is discernable. _ +
+☸ ṭhitassa aññathattaṃ paññāyati_ (A.1.152).
+
+____
+There are three marks of the unoriginated
+
+_Tīṇi'māni bhikkhave asaṅkhatassa asaṅkhatalakkhaṇāni. Katamāni 
+tīṇi:_
+____
+
+____
+an arising is not to be discerned _
+
+_na uppādo paññāyati_
+____
+
+____
+a disappearance is not to be discerned _
+
+_na vayo paññāyati_
+____
+
+[quote
+
+A.1.152]
+====
+
+____
+a changeability while persisting is not to be discerned
+
+_na ṭhitassa aññathattaṃ paññāyati._
+____
+
+.Illustration
+====
+unoriginated
+
+____
+What is the unoriginated?_
+
+_Katamañca bhikkhave asaṅkhataṃ:_
+____
+
+[quote
+
+S.4.368-373]
+====
+
+____
+The destruction of attachment, hatred, and undiscernment of reality. This is 
+called the unoriginated._
+
+_yo bhikkhave rāgakkhayo dosakkhayo mohakkhayo idaṃ vuccati bhikkhave 
+asaṅkhataṃ._
+____
+
+.Illustration
+====
+prepared
+
+[quote
+
+A.2.63]
+====
+
+____
+One gives well-prepared food, good quality, excellent, and delicious.
+
+_Susaṅkhataṃ bhojanaṃ yā dadāti suciṃ paṇītaṃ rasasā upetaṃ._
+____
+
+.Illustration
+====
+contrived
+
+[quote
+
+A.5.186-7]
+====
+
+____
+That view is brought about, contrived, thought out, and dependently arisen
+
+_Sā kho panesā diṭṭhi bhūtā saṅkhatā cetayitā paṭiccasamuppannā._
+____
+
+.Illustration
+====
+made
+
+[quote
+
+Sn.v.21]
+====
+
+____
+A well-made float
+
+_bhisi susaṅkhatā._
+____
+

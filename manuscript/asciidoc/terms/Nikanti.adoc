@@ -1,0 +1,55 @@
+== Nikanti
+
+=== Renderings
+
+- _nikanti_: hankering
+
+=== Illustrations
+
+.Illustration
+====
+nikanti
+
+hankering
+====
+
+[quote, D.3.44]
+____
+The ascetic undertakes austerities, hankering for gains, honour, and renown
+
+_tapassī tapaṃ samādiyati lābhasakkārasilokanikantihetu._
+____
+
+.Illustration
+====
+nikanti
+
+hankering
+====
+
+[quote, Th.v.20]
+____
+I have no fear of death and no hankering for life.
+
+_maraṇe me bhayaṃ natthi nikanti natthi jīvite._
+____
+
+.Illustration
+====
+nikantiyā
+
+hankering
+====
+
+[quote, A.4.48]
+____
+If a bhikkhu's mind is imbued with the perception of [the ever-present 
+possibility of] death, his mind draws back, bends back, and turns away from the 
+hankering for life, and is not attracted to it, and either indifference or 
+loathing is established in him.
+
+_Maraṇasaññā paricitena bhikkhave bhikkhuno cetasā bahulaṃ viharato 
+jīvitanikantiyā cittaṃ patilīyati patikuṭati pativaṭṭati na 
+sampasārīyati upekkhā vā paṭikkūlyatā vā saṇṭhāti._
+____
+

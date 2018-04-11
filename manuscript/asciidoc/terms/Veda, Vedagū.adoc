@@ -1,0 +1,379 @@
+== Veda; Vedagū
+
+=== Renderings
+
+- _veda_: scriptural collection
+
+- _veda_: Buddhist scriptural collection
+
+- _veda_: scriptural knowledge
+
+- _veda_: Vedic scriptural knowledge
+
+- _tiṇṇaṃ vedānaṃ_: the three Vedas
+
+- _vedagū_: blessed with profound knowledge
+
+- _vedagū_: knowledgeable
+
+- _vedasampanno_: endowed with profound knowledge
+
+- _vedasampanno_: perfect in Vedic scriptural knowledge
+
+- _vedantagū_: one who has completed his scriptural education
+
+=== Introduction
+
+==== Veda
+
+_Veda_ means:
+
+1. singular: knowledge or scriptural knowledge
+
+2. plural: the three Vedas (_tiṇṇaṃ vedānaṃ_)
+
+==== The three Vedas: three canonical collections
+
+PED calls the Vedas singular 'canon.'
+
+- the 'brahmanic canon of authorised religious teaching.'
+
+Webster's dictionary calls them plural 'collections':
+
+- the 'canonical collections of hymns, prayers and liturgical formulas that 
+comprise the earliest Hindu writings.'
+
+The three Vedas are:
+
+- The Rig-Veda: the canonical collection of laudatory stanzas in praise of 
+devas.
+
+- The Sama-Veda: the canonical collection of chants for the Soma sacrifice.
+
+- The Yajur-Veda: the canonical collection of chants for sacrificial rites.
+
+==== Veda: scriptural collections of any religion
+
+We will not call religious scriptures 'canon,' which only applies to authorised 
+collections. And although Webster's calls the Vedas 'writings,' texts were not 
+originally written. So we will call them: 'scriptural collections.'
+
+Although PED says _veda_ stands for 'the three Vedas' (_tiṇṇaṃ 
+vedānaṃ_), _veda_ means sacred literature of any religion, and _vedehi_ at 
+Sn.v.792 stands specifically for 'the Buddhist scriptural collections.'
+
+==== Vedasampanno and vedagū: the Buddhists
+
+_Veda_ was used by the Buddhists to mean profound knowledge, notably in two 
+words:
+
+1. _vedasampanno_, 'endowed with profound knowledge'
+
+2. _vedagū_, 'blessed with profound knowledge'
+
+==== Vedagū defined in terms of yathābhūtaṃ pajānāti
+
+_Vedagū_ is defined in terms of _yathābhūtaṃ pajānāti_ as follows:
+
+____
+In what way is a bhikkhu blessed with profound knowledge?
+
+_Kathañca bhikkhave bhikkhu vedagū hoti_
+____
+
+____
+... When he discerns according to reality the origination, vanishing, 
+sweetness, wretchedness, and deliverance in regards to the six senses
+
+_Yato kho bhikkhave bhikkhu channaṃ phassāyatanānaṃ samudayañca 
+atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ 
+pajānāti_
+____
+
+[quote, S.4.83]
+____
+... In this way a bhikkhu is blessed with profound knowledge
+
+_evaṃ kho bhikkhave bhikkhu vedagū hoti._
+____
+
+==== Vedagū defined in terms of vidita
+
+_Vedagū_ is defined in terms of _vidita_ as follows:
+
+____
+In what way is a bhikkhu blessed with profound knowledge?
+
+_Kathañca bhikkhave bhikkhu vedagū hoti?_
+____
+
+____
+... Unvirtuous, spiritually unwholesome factors that are defiling, and which 
+lead to renewed states of individual existence, suffering, unpleasant karmic 
+consequences, and future birth, old age, and death are completely understood by 
+him.
+
+_Viditāssa honti pāpakā akusalā dhammā saṅkilesikā ponobbhavikā 
+sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā._
+____
+
+[quote, M.1.280]
+____
+... In this way a bhikkhu is blessed with profound knowledge.
+
+_Evaṃ kho bhikkhave bhikkhu vedagū hoti._
+____
+
+==== Vidita: 'completely understood'
+
+_Vidita_ is the past participle of _vindati_, meaning 'known, found (out),' 
+says PED. Yet in the passage above we translated it as 'completely understood.' 
+Rendering it with this stronger meaning is justified because in that passage 
+_vindati_ was used in a play of words to explain _vedagū_, which can be proved 
+by considering other passages, where stronger verbs are elsewhere linked to 
+_vedagū_:
+
+1. _Vedagū_ was defined in terms of _yathābhūtaṃ pajānāti_ in a quote 
+above.
+
+2. _Vedagū_ is associated with 'having understood things through and through' 
+(_parovarā samecca dhammā_) in this quote:
+
+[quote, A.2.6]
+____
+One for whom, having understood things through and through they are destroyed, 
+they have vanished, they do not exist: he is blessed with profound knowledge. 
+He has fulfilled the religious life.
+
+_Parovarā yassa samecca dhammā vidhūpitā atthaṅgatā na santi +
+Sa vedagū vusitabrahmacariyo._
+____
+
+_Samecca_ is absolutive of _sameti_: 'having acquired or learnt, knowing,' says 
+PED.
+
+==== Vedasampanno and vedagū: the brahmans and others
+
+For brahmans these words meant:
+
+1. _vedasampanno_: 'perfect in Vedic scriptural knowledge.'
+
+2. _vedagū_: 'knowledgeable,' a synonym of _dhīro._
+
+[quote, Sn.v.890]
+____
+But if, by one's own reckoning, one were knowledgeable and wise, then none 
+among ascetics would be a fool.
+
+_Atha ce sayaṃ vedagū hoti dhīro na koci bālo samaṇesu atthi._
+____
+
+==== Vedantagū: completed one's scriptural education
+
+_Vedantagū_ means 'reached the end of scriptural knowledge,' but reads better 
+as 'completed one's scriptural education,' as here:
+
+[quote, Sn.v.463]
+____
+One who has submitted to inward taming, completed his scriptural education, 
+fulfilled the religious life.
+
+_damasā upeto vedantagū vusitabrahmacariyo._
+____
+
+=== Illustrations
+
+.Illustration
+====
+vedehi
+
+Buddhist scriptural collections
+====
+
+____
+A person attached to perception who undertakes religious practices of his own 
+&#8203;[conception] arises in various [states of individual existence].
+
+_Sayaṃ samādayaṃ vatāni jantu uccāvacaṃ gacchati saññāsatto_
+____
+
+[quote, Sn.v.792]
+____
+But one who is insightful, having understood the nature of reality through the 
+&#8203;[study of the] Buddhist scriptural collections, does not arise in various 
+&#8203;[states of individual existence]. He is one of extensive wisdom.
+
+_Vidvā ca vedehi samecca dhammaṃ na uccāvacaṃ gacchati bhūripañño._
+____
+
+.Illustration
+====
+vedāni
+
+scriptural collections; veda, scriptural knowledge; vedagū, one who is blessed 
+with profound knowledge
+====
+
+____
+Having investigated the entire scriptural collections,
+
+_Vedāni viceyya kevalāni_
+____
+
+____
+Both of the ascetics and the Brahmanists
+
+_Samaṇānaṃ yānidhatthi brāhmaṇānaṃ_
+____
+
+____
+Free of attachment to all sense impression,
+
+_Sabbavedanāsu vītarāgo_
+____
+
+[quote, Sn.v.529]
+____
+Gone beyond all scriptural knowledge, he is blessed with profound knowledge
+
+_Sabbaṃ vedamaticca vedagū so._
+____
+
+.Illustration
+====
+vedānaṃ
+
+the Vedas
+====
+
+The brahman Doṇa said of himself
+
+____
+I am a scholar [of the sacred texts]
+
+_ajjhāyako_
+____
+
+____
+I know by heart the sacred texts
+
+_mantadharo_
+____
+
+[quote, A.3.223]
+____
+I am a master of the three Vedas
+
+_tiṇṇaṃ vedānaṃ pāragū._
+____
+
+.Illustration
+====
+vedagū
+
+one who is blessed with profound knowledge
+====
+
+____
+Through completely understanding seven things one is blessed with profound 
+knowledge.
+
+_sattannaṃ bhikkhave dhammānaṃ viditattā vedagū hoti._
+____
+
+1. the view of personal identity is completely understood
++
+****
+_sakkāyadiṭṭhi viditā hoti_
+****
+
+2. doubt [about the significance of the teaching] is completely understood
++
+****
+_vicikicchā viditā hoti_
+****
+
+3. adherence to observances and practices is completely understood
++
+****
+_sīlabbataparāmāso vidito hoti_
+****
+
+4. attachment is completely understood
++
+****
+_rāgo vidito hoti_
+****
+
+5. hatred is completely understood
++
+****
+_doso vidito hoti_
+****
+
+6. undiscernment of reality is completely understood
++
+****
+_moho vidito hoti_
+****
+
+7. self-centredness is completely understood
++
+****
+_māno vidito hoti_
+****
+
+[quote, A.4.145]
+____
+Through completely understanding these seven things one is blessed with 
+profound knowledge.
+
+_Imesaṃ kho bhikkhave sattannaṃ dhammānaṃ viditattā vedagū hotī ti._
+____
+
+COMMENT
+
+On rendering _vidita_ as 'completely understood' see Introduction.
+
+.Illustration
+====
+vedasampanno
+
+perfect in Vedic scriptural knowledge
+====
+
+____
+Even if one obtained a hundred lifetimes repeatedly amongst human beings, all 
+of them as a brahman, and was fully versed in Vedic scriptural knowledge, 
+perfect in Vedic scriptural knowledge,
+
+_Yo ca jātisataṃ gacche sabbā brāhmaṇajātiyo +
+Sottiyo vedasampanno manussesu punappunaṃ._
+____
+
+[quote, Th.v.1170-1]
+____
+And was a scholar [of the sacred texts], a master of the three Vedas, one would 
+not deserve a fraction of the respect that is due [to Venerable MahāKassapa].
+
+_Ajjhāyako pi ce assa tiṇṇaṃ vedānaṃ pāragū +
+Etassa vandanāyetaṃ kalaṃ nāgghati soḷasiṃ._
+____
+
+.Illustration
+====
+vedasampanno
+
+endowed with profound knowledge
+====
+
+[quote, Thī.v.251]
+____
+Formerly I was Brahmā's offspring, today I am a true Brahman, a master of the 
+three final knowledges, endowed with profound knowledge, fully versed in 
+profound knowledge, spiritually cleansed.
+
+_Brahmabandhu pure āsiṃ ajjamhi saccabrāhmaṇo +
+Tevijjo vedasampanno sottiyo camhi nahātako ti._
+____
+

@@ -1,0 +1,155 @@
+== Nāccasārī na paccasārī
+
+=== Renderings
+
+- _nāccasārī na paccasārī_: neither longs for the cessation of individual 
+existence nor is unintent upon it
+
+=== Introduction
+
+==== Accasārī and paccasārī: occurrence
+
+_Accasārī_ and _paccasārī_ occur in _Suttanipāta_ verses 8-13. Their 
+meaning is unsettled.
+
+==== Accasārī and paccasārī: meaning
+
+- _Accasārī_ is the aorist of _atisarati_, meaning 'to go too far.'
+
+- _Paccasārī_ is the aorist of _paṭisarati_, meaning 'to stay back.'
+
+==== Diṭṭhigata Sutta: oliyantī and atidhāvanti
+
+Interpreting _nāccasārī na paccasārī_ in the light of the _Diṭṭhigata 
+Sutta_ (It.43) produces a convincing result. The _Diṭṭhigata Sutta_ opens 
+like this:
+
+____
+Through acquiescing in two wrong views [of reality], some devas and men hold 
+back, and some overreach.
+
+_Dvīhi bhikkhave diṭṭhigatehi pariyuṭṭhitā devamanussā oliyantī eke 
+atidhāvanti eke._
+____
+
+Thus the comparable verbs in the _Diṭṭhigata Sutta_ are:
+
+- _Atidhāvati_: to overreach
+
+- _Oliyati_: to hold back
+
+==== Diṭṭhigata Sutta: holding back
+
+The _Diṭṭhigata Sutta_ explains holding back, like this:
+
+____
+How do some hold back?
+
+_Kathañca bhikkhave oliyanti eke?_
+____
+
+____
+Devas and men find enjoyment, pleasure, and satisfaction in individual 
+existence.
+
+_bhavārāmā bhikkhave devamanussā bhavaratā bhavasammuditā._
+____
+
+[quote, It.44]
+____
+When the teaching is taught to them to put an end to individual existence, 
+their minds do not become energised, serene, settled, and intent upon it.
+
+_tesaṃ bhavanirodhāya dhamme desiyamāne na cittaṃ pakkhandati na 
+pasīdati na santiṭṭhati nādhimuccati. Evaṃ kho bhikkhave olīyanti eko._
+____
+
+==== Diṭṭhigata Sutta: overreaching
+
+The _Diṭṭhigata Sutta_ explains overreaching, as follows:
+
+____
+How do some overreach?
+
+_Kathañca bhikkhave atidhāvanti eke?_
+____
+
+____
+Some people are revolted, appalled, and disgusted by individual existence.
+
+_bhaveneva kho paneke aṭṭiyamānā harāyamāsā jigucchamānā_
+____
+
+____
+They long for the cessation of individual existence
+
+_vibhavaṃ abhinandanti_
+____
+
+[quote, It.44]
+____
+saying that 'When that [absolute] Selfhood is annihilated, destroyed, and does 
+not exist with the demise of the body at death, this is peaceful, this is 
+sublime, this is reality.
+
+_yato kira bho ayaṃ attaṃ kāyassa bhedā parammaraṇā ucchijjati 
+vinassati na hoti parammaraṇā etaṃ santaṃ etaṃ paṇītaṃ etaṃ 
+yathāvantī._
+____
+
+==== Conclusion
+
+If _atisarati_ ('to go too far') and _paṭisarati_ ('to stay back') are 
+equivalent to _atidhāvati_ ('to overreach') and _oliyati_ ('to hold back'), 
+then the _Diṭṭhigata Sutta_ shows _accasārin_ and _paccasārin_ have the 
+following meaning:
+
+- _Accasārin_: longing for the cessation of individual existence
+
+- _Paccasārin_: being unintent upon the cessation of individual existence
+
+=== Illustrations
+
+.Illustration
+====
+nāccasārī na paccasārī
+
+neither longs for the cessation of individual existence nor is unintent upon it
+====
+
+[quote, Sn.v.8]
+____
+He who neither longs for the cessation of individual existence nor is unintent 
+upon it, and who has overcome this [wretched] entrenched perception, that 
+bhikkhu sheds the [ties to individual existence in the] low plane of existence 
+and the other planes beyond it, as a snake sheds its old, worn-out skin.
+
+_Yo nāccasārī na paccasārī sabbaṃ accagamā imaṃ papañcaṃ +
+So bhikkhu jahāti orapāraṃ urago jiṇṇamiva tacaṃ purāṇaṃ._
+____
+
+COMMENT
+
+_Imaṃ papañcaṃ_: 'this [wretched] entrenched perception.' See Glossary sv 
+_Papañca_. 'This' (_imaṃ_) has 'a touch of (often sarcastic) 
+characterisation,' says PED (sv _Ayaṃ_). DOP (sv _Idaṃ_) says: 'such, like 
+that (often implying contempt).'
+
+.Illustration
+====
+nāccasārī na paccasārī
+
+neither longs for the cessation of individual existence nor is unintent upon it
+====
+
+[quote, Sn.v.9]
+____
+He who neither longs for the cessation of individual existence nor is unintent 
+upon it, knowing that everything in the world is untrue [to itself], that 
+bhikkhu sheds the [ties to individual existence in the] low plane of existence 
+and the other planes beyond it, as a snake sheds its old, worn-out skin.
+
+_Yo nāccasārī na paccasārī sabbaṃ vitathamidanti ñatvā loke +
+So bhikkhu jahāti orapāraṃ urago jiṇṇamiva tacaṃ purāṇaṃ._
+____
+

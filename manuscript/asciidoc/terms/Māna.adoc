@@ -1,0 +1,428 @@
+== Māna
+
+=== Renderings
+
+- _māna_: self-centredness (abandoned at arahantship)
+
+- _asmimāna_: self-centredness
+
+- _māna_: conceit (abandoned at non-returnership)
+
+- _atimāna_: arrogance
+
+- _atimāna_: self-conceit
+
+- _asmimāna_: self-equation
+
+- _omāno_: self-contempt
+
+- _adhimāna_: over-estimation
+
+=== Introduction
+
+==== Conceit: abandoned at non-returnership
+
+Non-returners have abandoned conceit (_māna_):
+
+[quote, It.3]
+____
+Abandon one thing, bhikkhus, conceit, and I guarantee you non-returnership.
+
+_Mānaṃ bhikkhave ekadhammaṃ pajahatha ahaṃ vo pāṭibhogo 
+anāgāmitāyā ti._
+____
+
+Non-returners have not abandoned self-centredness (_māna_ or _asmimāna_):
+
+- Friends, even though a noble disciple has abandoned the five ties to 
+individual existence in the low plane of existence (_pañcorambhāgiyāni 
+saṃyojanāni_), still, in regard to the five grasped aggregates, there 
+remains within him (_hotiyeva_) a residual self-centredness (_anusahagato asmī 
+ti māno_) (S.3.130).
+
+Self-centredness is sometimes discriminated from conceit by being called 
+_asmimāna_ or _asmī ti māno._
+
+==== Self-centredness: abandoned by the arahant
+
+The destruction of self-centredness is associated with arahantship:
+
+[quote, Ud.10]
+____
+The elimination of self-centredness is happiness supreme
+
+_Asmimānassa vinayo etaṃ ve paramaṃ sukhan ti._
+____
+
+[quote, Ud.37]
+____
+In one who perceives the voidness of personal qualities [in all things], 
+self-centredness is uprooted. He realises the Untroubled in this very lifetime.
+
+_anattasaññi asmimānasamugghātaṃ pāpuṇāti diṭṭheva dhamme 
+nibbānaṃ ti._
+____
+
+==== Conceit: extolling oneself and despising others
+
+Conceit is associated with extolling oneself and despising others:
+
+[quote, Sn.v.132]
+____
+Whoever extols himself and despises others, considering them inferior due to 
+his own conceit, one should know him as a wretch.
+
+_Yo cattānaṃ samukkaṃse pare ca mavajānāti +
+Nihīno sena mānena taṃ jaññā vasalo iti._
+____
+
+==== Conceit and arrogance
+
+Conceit is sometimes paired with arrogance:
+
+[quote, D.3.87]
+____
+being conceited and arrogant _
+
+_mānātimānajātikānaṃ._
+____
+
+[quote, Sn.v.829]
+____
+He speaks with conceit and arrogance
+
+_mānātimānaṃ vadate._
+____
+
+==== Self-centredness
+
+Self-centredness implies the notion "I am":
+
+[quote, S.4.202-3]
+____
+The notion "I am" is... an acquiescence in self-centredness.
+
+_Asmī ti... mānagatametaṃ._
+____
+
+Here _asmī ti_ is equated with _mānagatametaṃ_. This shows that _asmimāno_ 
+is a compound of two equivalent terms, and that _asmimāno_ means simply 
+_māno._
+
+==== Vidhā means mānavidhā
+
+Self-centredness (_māna_) has three modes (_tisso vidhā_). This is proven by 
+comparing the _Vidhā Sutta_ (S.5.56) and _Theragāthā_ verse 428. What the 
+former calls _vidhā_, the latter calls _mānavidhā._
+
+The _Vidhā Sutta_ says there are three modes [of self-centredness] (_tisso 
+vidhā_), namely:
+
+____
+'I am better' mode [of self-centredness]
+
+_seyyo'hamasmī ti vidhā_
+____
+
+____
+'I am equal' mode [of self-centredness]
+
+_sadiso'hamasmī ti vidhā_
+____
+
+[quote, S.5.56]
+____
+'I am worse' mode [of self-centredness]
+
+_hīno'hamasmī ti vidhā._
+____
+
+_Theragāthā_ verse 428 says:
+
+____
+Self-conceit and self-contempt have been abandoned and completely abolished [by 
+me].
+
+_Atimāno ca omāno pahīnā susamūhatā_
+____
+
+[quote, Th.v.428]
+____
+Self-equation has been eradicated. All modes of self-centredness have been 
+struck down.
+
+_Asmimāno samucchinno sabbe mānavidhā hatā ti._
+____
+
+In comparing the two quotes, we can say:
+
+In _Theragāthā_ verse 428, _mānavidhā_ consists of
+
+1. _atimāno_
+
+2. _omāno_
+
+3. _asmimāno_
+
+In the _Vidhā Sutta_, _tisso vidhā_ consists of three corresponding elements:
+
+1. _seyyo'hamasmī_
+
+2. _hīno'hamasmī_
+
+3. _sadiso'hamasmī_
+
+This shows that:
+
+1. _Vidhā_ is an abbreviation for _mānavidhā_. Therefore _vidhā_ means 
+'modes [of self-centredness]' not just 'modes' (as PED).
+
+2. 'I am better' mode [of self-centredness] (_seyyo'hamasmī ti_) equals 
+'self-conceit' (_atimāno_)
+
+3. 'I am worse' mode [of self-centredness] (_hīno'hamasmī ti_) equals 
+'self-contempt' (_omāno_)
+
+4. 'I am equal' mode [of self-centredness] (_sadiso'hamasmī ti_) equals 
+'self-equation' (_asmimāno_).
+
+Equation is 'the act of regarding as equal' (WordWeb).
+
+=== Illustrations
+
+.Illustration
+====
+māno
+
+conceit
+====
+
+[quote, Dh.v.74]
+____
+Let both householders and ascetics think this was done by me. Let them be under 
+my will in whatever their duties. Such is the intent of the fool. His desire 
+and conceit grow.
+
+_Mameva kataṃ maññantū gihī pabbajitā ubho +
+Mameva ativasā assu kiccākiccesu kismiñci +
+Iti bālassa saṅkappo icchā māno ca vaḍḍhati._
+____
+
+.Illustration
+====
+mānaṃ
+
+conceit
+====
+
+[quote, S.1.178]
+____
+Having struck down conceit, humble-minded, one should venerate the arahants, 
+those freed from inward distress, who have done what needed to be done, free of 
+perceptually obscuring states, unsurpassed.
+
+_Arahante sītibhūte katakicce anāsave +
+Nihacca mānaṃ atthaddho te namassa anuttare._
+____
+
+.Illustration
+====
+maññanā
+
+conceit
+====
+
+____
+Because of diversity in quests there is diversity in gains.
+
+_pariyesanānānattaṃ paṭicca uppajjati lābhanānattaṃ_
+____
+
+[quote, D.3.289]
+____
+Because of diversity in gains there is diversity in conceit.
+
+_lābhanānattaṃ paṭicca uppajjati maññanānānattaṃ._
+____
+
+.Illustration
+====
+māno
+
+conceit
+====
+
+[quote, S.1.169]
+____
+Conceit, O brahman, is your shoulder-load.
+
+_Māno hi te brāhmaṇa khāribhāro._
+____
+
+.Illustration
+====
+ātimāna
+
+arrogance; mānātimāna, conceit and arrogance
+====
+
+____
+And those that were beautiful despised those that were ugly, thinking: We are 
+more beautiful than them; they are more ugly than us.
+
+_Tattha ye te sattā vaṇṇavanto te dubbaṇṇe satte atimaññanti 
+mayametehi vaṇṇavantatarā amhehete dubbaṇṇatarā ti_
+____
+
+[quote, D.3.87]
+____
+And because of their arrogance due to beauty, being conceited and arrogant, the 
+savoury earth disappeared._
+
+_tesaṃ vaṇṇātimānappaccayā mānātimānajātikānaṃ 
+bhūmipappaṭako antaradhāyi._
+____
+
+.Illustration
+====
+māna
+
+self-centredness (i.e. arahant); maññanaṃ, self-centredness
+====
+
+____
+There are no spiritual shackles for one who has abandoned self-centredness.
+
+_Pahīṇamānassa na santi ganthā_
+____
+
+____
+His spiritual shackles and self-centredness are all destroyed.
+
+_Vidhūpitā mānaganthassa sabbe_
+____
+
+____
+Though the one of great wisdom has transcended self-centredness he might still 
+say 'I speak,'
+
+_So vītivatto maññanaṃ sumedho ahaṃ vadāmī ti pi so vadeyya_
+____
+
+____
+and he might say 'They speak to me.'
+
+_Mamaṃ vadantī ti pi so vadeyya_
+____
+
+[quote, S.1.14-15]
+____
+Proficient, understanding conventional terminology, he makes use of such terms 
+merely for the purposes of communication.
+
+_Loke samaññaṃ kusalo viditvā vohāramattena so vohareyyā ti._
+____
+
+.Illustration
+====
+māna
+
+self-centredness (i.e. arahant)
+====
+
+[quote, A.3.247]
+____
+He has destroyed craving, obliterated the tie to individual existence, and 
+through rightly penetrating self-centredness, has put an end to suffering.
+
+_acchecchi taṇhaṃ vāvattayi saṃyojanaṃ sammā mānābhisamayā 
+antamakāsi dukkhassa._
+____
+
+.Illustration
+====
+asmimānaṃ
+
+self-centredness
+====
+
+[quote, S.3.155]
+____
+Bhikkhus, when the perception of the unlastingness [of the five aggregates] is 
+developed and cultivated... it completely uproots self-centredness
+
+_aniccasaññā bhikkhave bhāvitā bahulīkatā... sabbaṃ asmimānaṃ 
+samūhanati._
+____
+
+.Illustration
+====
+asmimāno
+
+self-centredness
+====
+
+____
+And how is the bhikkhu a Noble One whose banner is lowered, whose burden [of 
+the five grasped aggregates] is laid down__,__ who is emancipated [from 
+individual existence]?
+
+_Kathañca bhikkhave bhikkhu ariyo pannaddhajo pannabhāro visaṃyutto hoti?_
+____
+
+[quote, M.1.139]
+____
+In this regard a bhikkhu has abandoned self-centredness.
+
+_Idha bhikkhave bhikkhuno asmimāno pahīno hoti._
+____
+
+.Illustration
+====
+māna
+
+self-centredness
+====
+
+• The notion "I am" is +
+_Asmī ti bhikkhave_
+
+____
+a matter of spiritual instability
+
+_iñjitametaṃ_
+____
+
+____
+a matter of spiritual unsteadiness
+
+_phanditametaṃ_
+____
+
+____
+a matter of entrenched perception
+
+_papañcitametaṃ_
+____
+
+[quote, S.4.202-3]
+____
+an acquiescence in self-centredness
+
+_mānagatametaṃ._
+____
+
+.Illustration
+====
+adhimāna
+
+over-estimation
+====
+
+[quote, A.5.162]
+____
+He declares his [attainment of] arahantship from over-estimation
+
+_adhimānena aññaṃ vyākaroti._
+____
+

@@ -1,0 +1,680 @@
+== Kalyāṇa
+
+=== Renderings
+
+- _kalyāṇa_: virtuous
+
+- _kalyāṇa_: virtuousness
+
+- _kalyāṇa_: meritorious
+
+- _kalyāṇa_: good
+
+- _kalyāṇa_: excellent
+
+=== Introduction
+
+==== Kalyāṇa and kusala
+
+_Kalyāṇa_ is close in meaning to _kusala_, for example here:
+
+[quote, A.2.36]
+____
+By him are many folk established in the noble practice, namely in the aggregate 
+of practices that are virtuous and spiritually wholesome.
+
+_bahu'ssa janatā ariye ñāye patiṭṭhāpitā yadidaṃ kalyāṇadhammatā 
+kusaladhammatā._
+____
+
+==== Kalyāṇa: adjective of puñña
+
+When _kalyāṇa_ is used as the adjective of _puñña_ we call it 
+'meritorious.' For example:
+
+[quote, S.1.93]
+____
+One should do what is meritorious as a collection for a future life. 
+Meritorious deeds are the support for living beings [when they arise] in the 
+world hereafter.
+
+_Tasmā kareyya kalyāṇaṃ nicayaṃ samparāyikaṃ. Puññāni 
+paralokasmiṃ patiṭṭhā honti pāṇinanti._
+____
+
+==== Kalyāṇa opposed to pāpa in the context of karmically consequential 
+conduct
+
+When _kalyāṇa_ is opposed to _pāpa_ in the context of karmically 
+consequential conduct, we call the terms 'meritorious' and 'demeritorious.'
+
+[quote, A.3.185]
+____
+This Venerable is owner of his karmically consequential conduct, inheritor of 
+it, born of it, intimately related to it, has it as his refuge. He is the 
+inheritor of whatever karmically consequential conduct he undertakes whether 
+meritorious or demeritorious.
+
+_Kammassako ayamāyasmā kammadāyādo kammayonī kammabandhū 
+kammapaṭisaraṇo. Yaṃ kammaṃ karissati kalyāṇaṃ vā pāpakaṃ vā 
+tassa dāyādo bhavissatī ti._
+____
+
+==== Kalyāṇa opposed to pāpa in the context of virtuousness
+
+Outside the context of karmically consequential conduct we call _kalyāṇa_ 
+and _pāpa_ 'virtuous' and 'unvirtuous.'
+
+• There is no hiding place for the doer of unvirtuous deeds +
+_Natthi loke raho nāma pāpakammaṃ pakubbato._
+
+• ... You yourself, man, know what is true or false. +
+_Attā te purisa jānāti saccaṃ vā yadi vā musā._
+
+• ... Indeed, sir, you disdain the virtuous aspect of yourself which 
+witnesses [all that you do] +
+_Kalyāṇaṃ vata bho sakkhi attānaṃ atimaññasi._
+
+• ... You are [trying to] conceal from yourself unvirtuoushess existing 
+within yourself +
+_Yo santaṃ attani pāpaṃ attānaṃ parigūhasi_ (A.1.149).
+
+[quote, Ud.52]
+____
+And the Venerable MahāMoggallāna saw that person sitting in the midst of the 
+assembly of bhikkhus -- unvirtuous, of an unvirtuous moral nature, of foul and 
+odious behaviour, secretive in conduct, no ascetic though pretending to be one, 
+not celibate though pretending to be so, spiritually rotten, full of 
+defilement, and morally decayed.
+
+_Addasā kho āyasmā mahāmoggallāno taṃ puggalaṃ dussīlaṃ 
+pāpadhammaṃ asucisaṅkassarasamācāraṃ paṭicchannakammantaṃ 
+assamaṇaṃ samaṇapaṭiññaṃ abrahmacāriṃ brahmacārīpaṭiññaṃ 
+antopūtiṃ avassutaṃ kasambujātaṃ majjhe bhikkhusaṅghassa nisinnaṃ._
+____
+
+[quote, S.5.396-7]
+____
+Whatever there is in my family that is suitable for giving, all that I share 
+unreservedly with those who are virtuous and of a virtuous moral nature
+
+_appaṭivibhattaṃ sīlavantehi kalyāṇadhammehī ti._
+____
+
+==== In relation to friendship: virtuous
+
+In relation to friendship, _kalyāṇa_ is linked to the influence people have 
+over others, and can again be rendered 'virtuous.'
+
+____
+This is the entire religious life, Ānanda, namely, virtuous friendship, 
+virtuous companionship, virtuous comradeship.
+
+_sakalameva hidaṃ ānanda brahmacariyaṃ yadidaṃ kalyāṇamittatā 
+kalyāṇasahāyatā kalyāṇasampavaṅkatā_
+____
+
+[quote, S.1.88-9]
+____
+... When a bhikkhu has a virtuous friend, a virtuous companion, a virtuous 
+comrade, it is to be expected that he will develop and cultivate the noble 
+eightfold path.
+
+_kalyāṇamittassetaṃ ānanda bhikkhuno pāṭikaṅkhaṃ 
+kalyāṇasahāyassa kalyāṇasampavaṅkassa ariyaṃ aṭṭhaṅgikaṃ 
+maggaṃ bhāvessati ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissatī 
+ti._
+____
+
+=== Illustrations
+
+.Illustration
+====
+virtuous
+
+[quote
+
+A.5.136]
+====
+
+____
+Unvirtuous friendship is an obstacle to virtuous practices.
+
+_pāpamittatā sīlānaṃ paripantho._
+____
+
+[quote, A.5.136]
+____
+Virtuous friendship is a condition that nourishes virtuous practices.
+
+_kalyāṇamittatā sīlānaṃ āhāro._
+____
+
+.Illustration
+====
+virtuous
+
+[quote
+
+S.1.83]
+====
+
+____
+King Ajātasattu of Magadha has unvirtuous friends, unvirtuous companions, 
+unvirtuous comrades. King Pasenadi of Kosala has virtuous friends, virtuous 
+companions, virtuous comrades.
+
+_Rājā bhikkhave māgadho ajātasattu vedehiputto pāpamitto pāpasahāyo 
+pāpasampavaṅko. Rājā ca kho bhikkhave pasenadi kosalo kalyāṇamitto 
+kalyāṇasahāyo kalyāṇasampavaṅko._
+____
+
+.Illustration
+====
+virtuous
+
+[quote
+
+S.1.88]
+====
+
+____
+By relying upon me as a virtuous friend, Ānanda, beings subject to birth are 
+freed from birth.
+
+_Mamaṃ hi ānanda kalyāṇamittaṃ āgamma jātidhammā sattā jātiyā 
+parimuccanti._
+____
+
+.Illustration
+====
+virtuous
+
+• And what is virtuous friendship? +
+_Katamā ca vyagghapajja kalyāṇamittatā:_
+
+____
+In whatever village or town the noble young man lives
+
+he consorts with and converses with householders and their sons, old and young 
+alike matured in virtue, and emulates their perfection in faith, virtue, 
+generosity, and wisdom.
+====
+
+_idha vyagghapajja kulaputto yasmiṃ gāme vā nigame vā paṭivasati tattha 
+ye te honti gahapati vā gahapatiputto vā daharā vā vuddhasīlino vuddhā 
+vā vuddhasīlā saddhāsampannā sīlasampannā cāgasampannā 
+paññāsampannā tehi saddhiṃ santiṭṭhati sallapati sākacchaṃ 
+samāpajjati._
+____
+
+[quote, A.4.282]
+____
+Insofar as this happens, this is called virtuous friendship._
+
+_Yathā rūpānaṃ saddhāsampannānaṃ saddhāsampadaṃ anusikkhati 
+yathārūpānaṃ sīlasampannānaṃ sīlasampadaṃ anusikkhati 
+yathārūpānaṃ cāgasampannānaṃ cāgasampadaṃ anusikkhati 
+yathārūpānaṃ paññāsampannānaṃ paññāsampadaṃ anusikkhati ayaṃ 
+vuccati vyagghapajja kalyāṇamittatā._
+____
+
+.Illustration
+====
+virtuous
+
+[quote
+
+A.2.36]
+====
+
+____
+By him are many folk established in the noble practice, namely in the aggregate 
+of practices that are virtuous and spiritually wholesome.
+
+_bahu'ssa janatā ariye ñāye patiṭṭhāpitā yadidaṃ kalyāṇadhammatā 
+kusaladhammatā._
+____
+
+.Illustration
+====
+virtuous
+
+[quote
+
+Vin.1.77-8]
+====
+
+____
+'Consent that I may go forth from the household life into the ascetic life.' 
+Then the parents of those boys consented, thinking, 'All these boys have the 
+same aspiration. They are bent on what is virtuous.'
+
+_Atha kho tesaṃ dārakānaṃ mātāpitaro sabbepi me dārakā 
+samānacchandā kalyāṇadhippāyā ti anujāniṃsu._
+____
+
+.Illustration
+====
+virtuous
+
+[quote
+
+S.5.396-7]
+====
+
+____
+Whatever there is in my family that is suitable for giving, all that I share 
+unreservedly with those who are virtuous and of a virtuous moral nature
+
+_appaṭivibhattaṃ sīlavantehi kalyāṇadhammehī ti._
+____
+
+.Illustration
+====
+virtuousness
+
+____
+What is virtuous?
+
+_Katamo ca bhikkhave kalyāṇo_
+____
+
+In this regard
+
+some person refrains from:
+====
+
+____
+killing
+
+_pāṇātipātā paṭivirato hoti_
+____
+
+____
+stealing
+
+_adinnādānā paṭivirato hoti_
+____
+
+____
+committing adultery
+
+_kāmesu micchācārā paṭivirato hoti_
+____
+
+____
+lying
+
+_musāvādā paṭivirato hoti_
+____
+
+____
+speaking maliciously, harshly or frivolous chatter
+
+_Pisuṇāvācā paṭivirato hoti. Pharusāvācā paṭivirato hoti. 
+samphappalāpā paṭivirato hoti_
+____
+
+____
+he is not greedy
+
+_anabhijjhālu hoti_
+____
+
+____
+he is benevolent
+
+_avyāpannacitto hoti_
+____
+
+[quote, A.2.222]
+____
+is of right perception [of reality]
+
+_sammādiṭṭhiko hoti._
+____
+
+Comment:
+
+This occurs in the context of four statements:
+
+1. What is unvirtuous?
++
+****
+_Katamo ca bhikkhave pāpo? Idha bhikkhave ekacco pāṇātipātī hoti... 
+Micchādiṭṭhiko hoti._
+****
+
+2. What is worse than unvirtuousness?
++
+****
+_Katamo ca bhikkhave pāpena pāpataro? Idha bhikkhave ekacco attanā ca 
+pāṇātipātī hoti. Parañca pāṇātipāte samādapeti... Attanā ca 
+micchādiṭṭhiko hoti parañca micchādiṭṭhiyā samādapeti._
+****
+
+3. What is virtuous?
++
+****
+_Katamo ca bhikkhave kalyāṇo?_
+****
+
+4. What is better than virtuousness?
++
+****
+_Katamo ca bhikkhave kalyāṇena kalyāṇataro? Idha bhikkhave ekacco attanā 
+ca pāṇātipātā paṭivirato hoti parañca pāṇātipātā veramaṇiyā 
+samādapeti... Attanā ca sammādiṭṭhiko hoti parañca sammādiṭṭhiyā 
+samādapeti._
+****
+
+.Illustration
+====
+meritorious
+
+[quote
+
+M.1.8]
+====
+
+____
+It is this [absolute] Selfhood of mine that speaks and experiences here and 
+there the karmic consequences of meritorious and demeritorious deeds; and this 
+&#8203;[absolute] Selfhood of mine is everlasting, enduring, eternal, of an 
+unchangeable nature, and will endure like unto eternity itself._
+
+_yo me ayaṃ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṃ 
+kammānaṃ vipākaṃ paṭisaṃvedeti. So kho pana me ayaṃ attā nicco 
+dhuvo sassato avipariṇāmadhammo sassatisamaṃ tatheva ṭhassatī ti._
+____
+
+.Illustration
+====
+meritorious
+
+[quote
+
+S.1.93]
+====
+
+____
+Therefore one should do what is meritorious as a collection for a future life. 
+Meritorious deeds are the support for living beings [when they arise] in the 
+world hereafter.
+
+_Tasmā kareyya kalyāṇaṃ nicayaṃ samparāyikaṃ puññāni 
+paralokasmiṃ patiṭṭhā honti pāṇinanti._
+____
+
+.Illustration
+====
+good
+
+[quote
+
+Vin.1.117]
+====
+
+____
+'These ascetic disciples of the Sakyans' Son do not even know the calculation 
+of the half months, so how could they know anything else that is good?'
+
+_pakkhagaṇanamattampi me samaṇā sakyaputtiyā na jānanti. Kimpanime 
+aññaṃ kicci kālyāṇaṃ jānissantī ti._
+____
+
+.Illustration
+====
+good
+
+____
+In the future there will be bhikkhus who desire good almsfood. They will give 
+up going on almsround;.
+
+_piṇḍapāte kalyāṇakāmā. Te piṇḍapāte kalyāṇakāmā samānā 
+riñcissanti piṇḍapātikattaṃ_
+____
+
+[quote
+
+A.3.109]
+====
+
+____
+In the future there will be bhikkhus who desire good abodes. They will give up 
+dwelling at the root of a tree, and secluded abodes in forests and quiet groves;
+
+_senāsane kalyāṇakāmā. Te senāsane kalyāṇakāmā samānā 
+riñcissanti rukkhamūlikattaṃ. Riñcissanti araññe vanapatthāni pantāni 
+senāsanāni._
+____
+
+.Illustration
+====
+good
+
+[quote
+
+S.2.154]
+====
+
+____
+Those of an inferior disposition come together and unite with those of an 
+inferior disposition; those of a good disposition come together and unite with 
+those of a good disposition.
+
+_hīnādhimuttikā sattā hīnādhimuttikehi saddhiṃ saṃsandanti samenti. 
+Kalyāṇādhimuttikā kalyāṇādhimuttikehi saddhiṃ saṃsandanti samenti._
+____
+
+.Illustration
+====
+good
+
+[quote
+
+D.3.258]
+====
+
+____
+He gives with the thought, 'I will get a good reputation'
+
+_kalyāṇo kittisaddo abbhuggacchatī ti dānaṃ deti._
+____
+
+.Illustration
+====
+good
+
+[quote
+
+Sn.v.551]
+====
+
+____
+A bhikkhu with golden skin is good to look at
+
+_Kalyāṇadassano bhikkhu kañcanasannibhattaco._
+____
+
+.Illustration
+====
+good
+
+[quote
+
+A.4.298]
+====
+
+____
+He is not a good speaker with a good delivery.
+
+_no ca kalyāṇavāco hoti kalyāṇavākkaraṇo._
+____
+
+.Illustration
+====
+good
+
+[quote
+
+Vin.2.77]
+====
+
+____
+A householder who offered good food gave the community of bhikkhus a continuous 
+food supply of meals consisting of four ingredients.
+
+_kalyāṇabhattiko gahapati saṅghassa catukkabhattaṃ deti niccabhattaṃ._
+____
+
+.Illustration
+====
+good
+
+____
+A layperson might establish a robe fund for a bhikkhu who is not a relative
+
+thinking: 'Having purchased robe material with this fund, I will clothe the 
+bhikkhu so and so.' If the bhikkhu, uninvited, approaches the layperson with a 
+suggestion regarding the robe out of a desire for something good, saying:
+====
+
+_kalyāṇakamyataṃ upādāya_
+____
+
+____
+'It would be good indeed, your reverence, if you clothed me in this or that 
+type of robe purchased with the robe fund,' it is an offence of nissaggiya 
+pācittiya.
+
+_sādhu vata maṃ āyasmā iminā cīvaracetāpantena evarūpaṃ vā 
+evarūpaṃ vā cīvaraṃ cetāpetvā acchādehīti kalyāṇakamyataṃ 
+upādāya nissaggiyaṃ pācittiyan ti_
+____
+
+[quote, Vin.3.216]
+____
+'Desire for something good' means wanting what is good quality, wanting what is 
+expensive.
+
+_Kalyāṇakamyataṃ upādāyā ti sādhatthīko mahagghatthiko._
+____
+
+.Illustration
+====
+virtuous; good
+
+[quote
+
+A.1.126-7]
+====
+
+____
+Nonetheless, one gains a good reputation for having virtuous friends, 
+companions, and comrades.
+
+_Atha kho naṃ kalyāṇo kittisaddo abbhuggacchati: kalyāṇamitto 
+purisapuggalo kalyāṇasahāyo kalyāṇasampavaṅko ti._
+____
+
+.Illustration
+====
+good; excellent
+
+[quote
+
+A.3.58]
+====
+
+____
+He is wise, capable, intelligent, very learned, a brilliant speaker, of 
+excellent intuitive insight, mature, and truly an arahant.
+
+_Paṇḍito vyatto medhāvī bahussuto cittakathī kalyāṇapaṭibhāno 
+vuddho ceva arahā ca._
+____
+
+.Illustration
+====
+excellent
+
+[quote
+
+Vin.2.96]
+====
+
+____
+Those teachings which are excellent in the beginning, the middle, and the end.
+
+_ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā._
+____
+
+.Illustration
+====
+excellent
+
+[quote
+
+S.5.374]
+====
+
+____
+I would not say anything about Mahānāma the Sakyan except what is excellent 
+and good.
+
+_mahānāma sakkaṃ na kiñci vadāmi aññatra kalyāṇā aññatra kusalā 
+ti._
+____
+
+.Illustration
+====
+excellent
+
+____
+A bhikkhu who is of excellent virtue
+
+who has excellent practices, and excellent discernment is called one who is 
+fully accomplished in this teaching and training system, one who has fulfilled 
+&#8203;[the religious life], the unexcelled person
+====
+
+_Kalyāṇasīlo bhikkhave bhikkhu kalyāṇadhammo kalyāṇapañño imasmiṃ 
+dhammavinaye kevalī vusitavā uttamapuriso ti vuccati._
+____
+
+____
+In what way is a bhikkhu of excellent virtue? In this regard a bhikkhu is 
+virtuous, abides restrained [in conduct] within the constraints of the rules of 
+discipline. He is perfect in conduct and sphere of personal application, seeing 
+danger in the slightest wrongdoing, he trains himself by undertaking the rules 
+of the training.
+
+_Kathañca bhikkhave bhikkhū kalyāṇasīlo hoti? Idha bhikkhave bhikkhū 
+sīlavā hoti pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno 
+aṇumattesu vajjesu bhayadassāvī samādāya sikkhati sikkhāpadesu._
+____
+
+____
+In what way is a bhikkhu of excellent practices? In this regard a bhikkhu 
+abides given to developing the seven groups of factors conducive to 
+enlightenment.
+
+_Kalyāṇadhammo ca kathaṃ hoti? Idha bhikkhave bhikkhu sattannaṃ 
+bodhipakkhiyānaṃ dhammānaṃ bhāvanānuyogamanuyutto viharati._
+____
+
+[quote, It.97]
+____
+In what way is a bhikkhu of excellent discernment? In this regard a bhikkhu 
+through the destruction of perceptually obscuring states, in this very lifetime 
+enters upon and abides in the liberation [from attachment through inward calm] 
+and the liberation [from uninsightfulness] through penetrative discernment, 
+realising it for himself through transcendent insight.
+
+_Kalyāṇapañño ca kathaṃ hoti? idha bhikkhave bhikkhū āsavānaṃ 
+khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme 
+sayaṃ abhiññā sacchikatvā upasampajja viharati._
+____
+

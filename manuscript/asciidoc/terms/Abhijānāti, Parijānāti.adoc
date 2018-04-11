@@ -1,0 +1,626 @@
+== Abhijānāti; Parijānāti
+
+=== Renderings
+
+- _abhijānāti_: to recall
+
+- _abhijānāti_: to fully understand
+
+- _nabhijānāti_: to not understand
+
+- _nabhijānāti_: to not know
+
+- _abhiññā_: full understanding
+
+- _abhiññā_: transcendent insight
+
+- _abhiññā_: supernormal attainment
+
+_• parijānāti_: to profoundly understand
+
+- _pariññā_: profound understanding
+
+=== Introduction
+
+==== Distinguished levels of understanding
+
+_Abhijānāti_ is often paired with _parijānāti_ in contexts which, for both 
+words, imply distinguished levels of understanding by arahants and other noble 
+disciples. The words are here called 'full understanding' and 'profound 
+understanding.'
+
+==== Parijānāti more sublime
+
+Profound understanding is more sublime than full understanding because it is 
+usually restricted to arahants. Rarely it is applied to non-returners (e.g. 
+_pañcakāmaguṇike rāge pariññate natthi taṃ saṃyojanaṃ yena 
+saṃyojanena saṃyutto ariyasāvako puna imaṃ lokaṃ āgaccheyya_, S.2.99).
+
+==== Pariññā and nibbāna
+
+The noun of _parijānāti_ is _pariññā,_ which shares the definition of 
+_nibbāna_ (_rāgakkhayo dosakkhayo mohakkhayo ayaṃ vuccati bhikkhave 
+pariññā ti_ S.3.26; _rāgakkhayo dosakkhayo mohakkhayo idaṃ vuccati 
+nibbānan ti_ S.4.251).
+
+==== Nābhijānāti: not understand, not recall
+
+When _abhijānāti_ occurs in the negative it means either:
+
+1. to not know
+
+2. to not understand
+
+3. to not recall
+
+[quote, Sn.v.1117]
+____
+This world, the world hereafter, the brahmā world, and the deva world. I do 
+not know the celebrated Gotama's view of these.
+
+_Ayaṃ loko paro loko brahmaloko sadevako +
+Diṭṭhiṃ te nābhijānāmi gotamassa yasassino._
+____
+
+[quote, Th.v.1084]
+____
+We do not know what you are meditating upon.
+
+_Yassa te nābhijānāma yampi nissāya jhāyasi._
+____
+
+[quote, Thī.v.354]
+____
+Many in the world, being ignorant, are truly bound to the mud of sensuous 
+pleasure. They do not [come to] know the end of birth and death.
+
+_Kāmapaṅkena sattā hi bahū loke aviddasū +
+Pariyantaṃ nābhijānanti jātiyā maraṇassa ca._
+____
+
+[quote, Th.v.1084]
+____
+We do not understand those things though we have come like hair-splitting 
+&#8203;[archers].
+
+_Ye mayaṃ nābhijānāma vālavedhisamāgatā._
+____
+
+[quote, M.3.125]
+____
+I do not recall a sensuous thought having ever arisen in me.
+
+_nābhijānāmi kāmavitakkaṃ uppannapubbaṃ._
+____
+
+[quote, M.1.483]
+____
+I do not recall any Ājīvaka ascetic who went to heaven.
+
+_nābhijānāmi kañci ājīvakaṃ saggūpagaṃ._
+____
+
+[quote, Vin.2.79]
+____
+I do not recall indulging in sexual intercourse even in a dream.
+
+_nābhijānāmi supinantenapi methunaṃ dhammaṃ paṭisevitā._
+____
+
+=== Illustrations
+
+.Illustration
+====
+abhijānāsi
+
+recall
+====
+
+[quote, D.2.284]
+____
+Do you recall having asked other ascetics and Brahmanists this question?
+
+_abhijānāsi no tvaṃ devānaminda ime pañhe aññe samaṇabrāhmaṇe 
+pucchitā ti._
+____
+
+.Illustration
+====
+abhijānāmi
+
+recall
+====
+
+[quote, A.4.66]
+____
+When my husband died, he rose amongst the deities and he revealed himself to me 
+in his former bodily form (_purimena attabhāvena uddassesi_); but I do not 
+recall any inward disquiet on that account.
+
+_na kho panāhaṃ bhante abhijānāmi tatonidānaṃ cittassa aññathattan 
+ti._
+____
+
+.Illustration
+====
+anabhijānaṃ
+
+recall
+====
+
+[quote, Vin.3.91]
+____
+If a bhikkhu, though not recalling it, should claim with reference to himself a 
+superhuman attainment of knowledge and vision that is worthy of the Noble Ones, 
+saying "Thus I know; thus I see;" then, whether or not he is later interrogated 
+about it, fallen and seeking purification, he says "Friends, though not 
+knowing, I said 'I know'; though not seeing, I said 'I see.' I boasted vainly 
+and falsely"; unless it was from over-estimation, he is pārājika, no longer 
+in communion.
+
+_yo pana bhikkhu anabhijānaṃ uttarimanussadhammaṃ attūpanāyikaṃ 
+alamariyañāṇadassanaṃ samudācareyya Iti jānāmi iti passāmī ti tato 
+aparena samayena samanuggāhiyamāno vā asamanuggāhiyamāno vā āpanno 
+visuddhāpekkho evaṃ vadeyya ajānam evaṃ āvuso avacaṃ jānāmi; 
+apassaṃ passāmi. Tucchaṃ musā vilapin ti. Aññatra adhimānā ayampi 
+pārājiko hoti asaṃvāso._
+____
+
+Comment:
+
+Rendering _anabhijānaṃ_ as 'recall' is supported by a perspective on the 
+Word Commentary's definition of 'interrogated' (_samanuggāhiyamāno_), as 
+follows:
+
+____
+'Interrogated means: when a matter (i.e. a claim to have attained a superhuman 
+attainment) is acknowledged, he is asked: What was attained by you? How was it 
+attained? When was it attained? Where was it attained? Which spiritual 
+defilements have you abandoned? Which states have you gained?
+
+_Samanuggāhīyamāno ti yaṃ vatthu paṭiññātaṃ hoti tasmiṃ 
+vatthusmiṃ samanuggāhīyamāno kinte adhigataṃ kinti te adhigataṃ kadā 
+te adhigataṃ kattha te adhigataṃ katame te kilesā pahīnā katamesaṃ 
+tvaṃ dhammānaṃ lābhī ti._
+____
+
+The correct answer to these questions would logically be 'I do not recall 
+attaining any superhuman attainment' rather than 'I do not know any superhuman 
+attainment.' Nonetheless, _anabhijānaṃ_ in this rule is usually rendered 
+'not knowing.' This produces stilted results:
+
+- Horner: Whatever monk should boast with reference to himself of a state of 
+further-men, sufficient ariyan knowledge and insight, though not knowing it 
+fully, and saying: 'This I know, this I see.'.. (BD.1.159).
+
+- Norman: Whatever bhikkhu should, while not knowing [for certain], boast a 
+superhuman state, knowledge and insight deserving the name 'noble,' as being 
+present in himself, [saying] 'I know thus, I see thus.'.. (The Pātimokkha, 
+PTS, 2001).
+
+.Illustration
+====
+abhijānāti
+
+fully understand; abhiññāya, full understanding; parijānāti, profoundly 
+understand; pariññāya, profound understanding
+====
+
+____
+When a bhikkhu has heard that all things are unsuited to stubborn attachment he 
+fully understands the whole teaching.
+
+_evañcetaṃ bhikkhu bhikkhuno sutaṃ hoti sabbe dhammā nālaṃ 
+abhinivesāyāti so sabbaṃ dhammaṃ abhijānāti_
+____
+
+____
+Through fully understanding the whole teaching, he profoundly understands the 
+whole teaching.
+
+_sabbaṃ dhammaṃ abhiññāya sabbaṃ dhammaṃ parijānāti_
+____
+
+[quote, S.4.50]
+____
+Through profoundly understanding the whole teaching, he perceives all phenomena 
+differently.
+
+_sabbaṃ dhammaṃ pariññāya sabbanimittāni aññato passati._
+____
+
+.Illustration
+====
+abhijānāti
+
+fully understand; abhiññāya, full understanding; pariññeyyaṃ profoundly 
+understand
+====
+
+____
+A bhikkhu who is a disciple in training... fully understands solidness to be 
+solidness
+
+_yopi so bhikkhave bhikkhu sekho... sopi paṭhaviṃ paṭhavito abhijānāti_
+____
+
+____
+Fully understanding solidness to be solidness
+
+_paṭhaviṃ paṭhavito abhiññāya_
+____
+
+____
+may he not think of solidness in personal terms
+
+_paṭhaviṃ mā maññi_
+____
+
+[quote, M.1.4]
+____
+... For what reason? So that he may profoundly understand it, I declare
+
+_Pariññeyyaṃ tassā ti vadāmi._
+____
+
+.Illustration
+====
+abhijānāti
+
+fully understand; abhiññāya, full understanding; pariññātaṃ profoundly 
+understood
+====
+
+The arahant, too, fully understands solidness to be solidness (_arahaṃ_... 
+_so pi paṭhaviṃ paṭhavito abhijānāti_)
+
+• Fully understanding solidness to be solidness +
+_paṭhaviṃ paṭhavito abhiññāya_
+
+• he does not think of solidness in personal terms +
+_paṭhaviṃ na maññati_
+
+...
+
+• For what reason? He profoundly understands it, I declare +
+_Taṃ kissa hetu? Pariññātaṃ tassā ti vadāmi_ (M.1.4).
+
+.Illustration
+====
+anabhijānaṃ
+
+fully understand; aparijānaṃ, profoundly understanding
+====
+
+[quote, S.4.17]
+____
+Bhikkhus, one who has not fully and profoundly understood the All and detached 
+his mind from it and abandoned it, is incapable of destroying _dukkha_
+
+_Sabbaṃ bhikkhave anabhijānaṃ aparijānaṃ avirājayaṃ appajahaṃ 
+abhabbo dukkhakkhayāya._
+____
+
+.Illustration
+====
+abhiññāya
+
+full understanding
+====
+
+[quote, Dh.v.75]
+____
+One is the path to worldly gain, another the path leading to the Untroubled. 
+Fully understanding this, the bhikkhu, the disciple of the Buddha, should not 
+take delight in worldly honour.
+
+_Aññā hi lābhūpanisā aññā nibbānagāminī +
+Evametaṃ abhiññāya bhikkhu buddhassa sāvako +
+Sakkāraṃ nābhinandeyya._
+____
+
+.Illustration
+====
+abhiññāya
+
+full understanding
+====
+
+[quote, S.5.61]
+____
+The noble eightfold path should be developed for the full understanding of the 
+five aggregates.
+
+_Imesaṃ kho bhikkhave pañcannaṃ upādānakkhandhānaṃ abhiññāya ariyo 
+aṭṭhaṅgiko maggo bhāvetabbo._
+____
+
+.Illustration
+====
+abhiññeyyo
+
+fully understood
+====
+
+The ascetic Vacchagotta said that most religious teachers declared the place of 
+rebirth of even their best disciples, whereas the Buddha only declared this of 
+some disciples. The ascetic Vacchagotta said that because of this:
+
+[quote, S.4.399]
+____
+'There was unsureness and uncertainty in me: How is the teaching of the Ascetic 
+Gotama's to be fully understood?'
+
+_Tassa mayhaṃ bho gotama ahudeva kaṅkhā ahu vicikicchā kathannāma 
+samaṇassa gotamassa dhammo abhiññeyyo._
+____
+
+.Illustration
+====
+abhiññāya
+
+fully understand
+====
+
+[quote, M.3.265]
+____
+Sāriputta, friend, it is through seeing and fully understanding the ending of 
+the visual sense, advertence to the visual field, and things known through 
+advertence to the visual field, that I regard these things as "not [in reality] 
+mine," "not [in reality] what I am," "not my [absolute] Selfhood."
+
+_Cakkhusmiṃ āvuso sāriputta cakkhuviññāṇe 
+cakkhuviññāṇaviññātabbesu dhammesu nirodhaṃ disvā nirodhaṃ 
+abhiññāya cakkhuṃ cakkhuviññāṇaṃ cakkhuviññāṇaviññātabbe 
+dhamme n'etaṃ mama n'eso'hamasmi na me so attā ti samanupassāmi._
+____
+
+.Illustration
+====
+abhijānaṃ fully understanding; parijānaṃ profoundly understanding
+
+[quote
+
+S.4.89]
+====
+
+____
+Bhikkhus, one who has not fully and profoundly understood the visual sense and 
+discarded and abandoned it, is incapable of destroying suffering
+
+_Cakkhuṃ bhikkhave anabhijānaṃ aparijānaṃ avirājayaṃ appajahaṃ 
+abhabbo dukkhakkhayāya._
+____
+
+.Illustration
+====
+abhiññāya
+
+full understanding
+====
+
+There are these four spiritual shackles:
+
+____
+the spiritual shackle of greed
+
+_abhijjhā kāyagantho_
+____
+
+____
+the spiritual shackle of ill will
+
+_vyāpādo kāyagantho_
+____
+
+____
+the spiritual shackle of adherence to observances and practices
+
+_sīlabbataparāmāso kāyagantho_
+____
+
+____
+the spiritual shackle of stubborn attachment to dogmatic opinions
+
+_idaṃsaccābhiniveso kāyagantho_
+____
+
+[quote, S.5.59]
+____
+For the full understanding of these four spiritual shackles the noble eightfold 
+path should be developed
+
+_imesaṃ kho bhikkhave catunnaṃ ganthānaṃ abhiññāya ariyo 
+aṭṭhaṅgiko maggo bhāvetabbo._
+____
+
+.Illustration
+====
+abbhaññāsiṃ
+
+fully understand
+====
+
+[quote, A.2.25]
+____
+Bhikkhus, in the world [of beings] with its devas, māras, and brahmās, in the 
+world of mankind with its ascetics and Brahmanists, its royalty and commoners, 
+whatsoever is seen, heard, sensed, cognised, attained, searched into, pondered 
+over by the mind, I fully understand it.
+
+_Yaṃ bhikkhave sadevakassa lokassa samārakassa sabrahmakassa 
+sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ 
+mutaṃ viññātaṃ pattaṃ pariyesitaṃ anuvicaritaṃ manasā tamahaṃ 
+abbhaññāsiṃ._
+____
+
+.Illustration
+====
+abhiññā
+
+transcendent insight
+====
+
+[quote, M.3.72]
+____
+There are ascetics and Brahmanists conducting and applying themselves rightly 
+in the world who, having realised this world and the world hereafter for 
+themselves through transcendent insight, make them known to others.
+
+_atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca 
+lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentī ti._
+____
+
+.Illustration
+====
+abhiññā
+
+transcendent insight
+====
+
+[quote, A.3.9]
+____
+I claim to have reached the consummation and perfection of transcendent insight 
+into profound truths not heard before
+
+_pubbāhaṃ bhikkhave ananussutesu dhammesu abhiññāvosānapāramippatto 
+paṭijānāmi._
+____
+
+.Illustration
+====
+abhiññāya
+
+transcendent insight
+====
+
+[quote, A.1.276]
+____
+Bhikkhus, I explain the teaching with transcendent insight, not without 
+transcendent insight.
+
+_abhiññāyā'haṃ bhikkhave dhammaṃ desemi no anabhiññāya._
+____
+
+.Illustration
+====
+abhiññā
+
+supernormal attainments
+====
+
+[quote, S.2.217]
+____
+One might just as well think that a bull elephant seven or seven and a half 
+cubits could be hidden by a palm leaf as think that my six supernormal 
+attainments could be eclipsed [by the Venerable Ānanda's attainments].
+
+_Sattaratanaṃ vā so āvuso nāgaṃ aḍḍhaṭṭharatanaṃ vā 
+tālapattikāya chādetabbaṃ maññeyya yo me cha abhiññā chādetabbaṃ 
+maññeyyā ti._
+____
+
+.Illustration
+====
+abhiññā
+
+supernormal attainments
+====
+
+Six supernormal attainments (_cha abhiññā_)
+
+1. various kinds of psychic power (_anekavihitaṃ iddhividhaṃ_).
+
+2. divine ear (_dibbasotadhātu_): hearing the voices of devas and men, whether 
+far or near.
+
+3. knowledge of the minds of other persons, by encompassing their minds with 
+one's own (_cetopariyañāṇaṃ_)
+
+4. the final knowledge: the knowledge through recalling of past lives
++
+****
+_pubbenivāsānussati ñāṇaṃ vijjā_
+****
+
+5. the final knowledge: the knowledge of the transmigration of beings 
+(_sattānaṃ cutūpapāte ñāṇaṃ vijjā_), and discerning how beings fare 
+according to their deeds (_yathākammūpage satte pajānāti_).
+
+6. the final knowledge: the knowledge of the destruction of perceptually 
+obscuring states (_āsavānaṃ khaye ñāṇaṃ vijjā_) (S.2.212-4).
+
+Comment:
+
+Bodhi says: 'This is one of the rare texts in the Nikāyas where the word 
+_abhiññā_ is used collectively to designate the six higher knowledges.'
+
+.Illustration
+====
+abhiññāya
+
+supernormal attainment
+====
+
+The Buddha told Baka the Brahmā that he knew of three groups of devas that 
+Baka was ignorant of: the Ābhassarā, Subhakiṇṇā and Vehapphalā devas.
+
+[quote, M.1.329]
+____
+'Thus, Brahmā,' he concluded, 'in regard to supernormal attainment I do not 
+stand merely at the same level as you, so how could I be lower? Rather, I am 
+above you.
+
+_evampi kho ahaṃ brahme neva te samasamo abhiññāya kuto nīceyyaṃ. Atha 
+kho ahameva tayā bhiyyo._
+____
+
+.Illustration
+====
+pariññā
+
+profound understanding
+====
+
+____
+What things should be profoundly understood?
+
+_Katame ca bhikkhave pariññeyyā dhammā:_
+____
+
+____
+The five aggregates
+
+_Rūpaṃ bhikkhave pariññeyyo dhammo... viññāṇaṃ pariññeyyo dhammo_
+____
+
+____
+What is profound understanding?
+
+_Katamā ca bhikkhave pariññā?_
+____
+
+[quote, S.3.26]
+____
+The destruction of attachment, hatred, and undiscernment of reality
+
+_Yo bhikkhave rāgakkhayo dosakkhayo mohakkhayo._
+____
+
+.Illustration
+====
+pariññāya
+
+profoundly understanding
+====
+
+[quote, Sn.v.747-9]
+____
+Recognising this danger, that suffering arises dependent on existential 
+nourishment, profoundly understanding all existential nourishment, one is free 
+of attachment to all existential nourishment.
+
+_Etamādīnavaṃ ñatvā dukkhaṃ āhārapaccayā +
+Sabbāhāraṃ pariññāya sabbāhāramanissito._
+____
+

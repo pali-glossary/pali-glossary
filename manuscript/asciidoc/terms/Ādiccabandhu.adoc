@@ -1,0 +1,142 @@
+== Ādiccabandhu
+
+=== Renderings
+
+- _ādiccabandhu_: the [enlightened] kinsman of the Sun clan
+
+=== Introduction
+
+==== Ādiccabandhu: the kinsman of the Sun clan
+
+_Ādiccā_ is a synonym for _suriyo_, sun (D.3.196). It was also the name of 
+the Buddha's clan, the Sun Clan (_ādiccā nāma gottena_, Sn.v.423; see 
+discussion in Buddhist Dictionary of Pāli Proper Names). Therefore when the 
+Buddha was called Ādiccabandhu, it meant he was 'the kinsman of the Sun clan.'
+
+==== Misrendering: 'kinsman of the sun'
+
+But _Ādiccabandhu_ is often rendered as 'the kinsman of the sun' (reading 
+'sun' instead of 'Sun clan') as if to praise the Buddha for being related to 
+the sun. But glorifying the sun in this way, and suggesting that the Buddha is 
+related to it, is ridiculously suggestive of sun veneration, or even veneration 
+of ancestors. In any case the Buddha rated himself as higher than the sun, and 
+would certainly reject the idea that his worthiness was due to his forefathers. 
+He said there are four sources of light in the world: the sun, the moon, fire, 
+and the Buddha, and added that:
+
+[quote, S.1.15]
+____
+The Buddha is the best of those that shine, the light unsurpassed
+
+_sambuddho tapataṃ seṭṭho esā ābhā anuttarā ti._
+____
+
+==== Linked: buddha and ādiccabandhu
+
+The word _ādiccabandhu_ occurs 29 times in the scriptures, always in verse. On 
+19 occasions it is linked to _buddhaṃ_, in the following ways:
+
+_• buddhaṃ ādiccabandhunaṃ_: 8 occurrences (Āṭānāṭiya Sutta, 
+D.3.197).
+
+_• buddhamādiccabandhunaṃ_ 1 occurrence (Sakkapañha Sutta, D.2.287).
+
+_• buddhassādiccabandhuno_: 3 occurrences, genitive
+
+_• buddhenādiccabandhunā_ 6 occurrences, instrumental
+
+The cases always match. The -_unaṃ_ suffix is unusual, but functions as an 
+accusative singular. It occurs in the following contexts:
+
+[quote, D.2.287]
+____
+I pay homage to the great Hero, to the enlightened kinsman of the Sun clan.
+
+_ahaṃ vande mahāvīraṃ buddhamādiccabandhunaṃ._
+____
+
+[quote, D.3.197]
+____
+Even from afar venerate the enlightened kinsman of the Sun clan.
+
+_buddhaṃ ādiccabandhunaṃ dūrato'va namassanti._
+____
+
+==== Restoring the buddha prefix
+
+Where _ādiccabandhu_ occurs without a _buddha_ prefix, it is likely an 
+abbreviation for metrical reasons, and in translation the _buddha_ prefix 
+should always be restored, and _ādiccabandhu_ should always be rendered as 
+'the enlightened kinsman of the Sun clan.' This would be a satisfactory 
+conclusion. Praising the Buddha for simply being a kinsman of the Sun clan 
+would be praise equally due to his cousin, Devadatta. In which case, Sn.v.54 
+should be translated as follows:
+
+[quote, Sn.v.54]
+____
+Having heard the word of the [enlightened] kinsman of the Sun clan, one should 
+live the religious life as solitarily as a rhinoceros horn.'
+
+_Ādiccabandhussa vaco nisamma +
+Eko care khaggavisāṇakappo._
+____
+
+==== The Buddha, the Buddha
+
+That _buddhaṃ_ is meant as an adjective not a noun explains the awkward 
+doubling of _buddhaṃ_ in the _Āṭānāṭiya Sutta_ (D.3.197), which 
+interpreted as 1) a noun or 2) an adjective, would have the following results:
+
+1. They, seeing the Buddha, the Buddha, the kinsman of the Sun clan, even from 
+afar venerate him.'
++
+****
+_Te cā pi buddhaṃ disvāna buddhaṃ ādiccabandhunaṃ +
+****
+Dūrato'va namassanti._
+
+2. They, seeing the Buddha, the enlightened kinsman of the Sun clan, even from 
+afar venerate him.
++
+****
+_Te cā pi buddhaṃ disvāna buddhaṃ ādiccabandhunaṃ +
+****
+Dūrato'va namassanti._
+
+=== Illustrations
+
+.Illustration
+====
+the enlightened kinsman of the Sun clan
+
+[quote
+
+Sn.v.1128]
+====
+
+____
+They, well-satisfied by the Seer, the enlightened kinsman of the Sun clan, 
+lived the religious life under the one of excellent wisdom.
+
+_Te tositā cakkhumatā buddhenādiccabandhunā +
+Brahmacariyamacariṃsu varapaññassa santike._
+____
+
+.Illustration
+====
+the enlightened kinsman of the Sun clan
+
+[quote
+
+Th.v.157]
+====
+
+____
+With [the assistance of] the enlightened kinsman of the Sun clan, who is 
+proficient in methods of teaching, having applied myself properly [to the 
+eightfold path] I removed my mind from states of individual existence
+
+_Upāyakusalenāhaṃ buddhenādiccabandhunā +
+Yoniso paṭipajjitvā bhave cittaṃ udabbahinti._
+____
+

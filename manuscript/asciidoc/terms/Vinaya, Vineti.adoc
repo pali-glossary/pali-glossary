@@ -1,0 +1,821 @@
+== Vinaya; Vineti
+
+=== Renderings
+
+- _vineti_: to dispel
+
+- _vineti_: to eliminate
+
+- _vineti_: to allay
+
+- _vineti_: to instruct
+
+- _vineti_: to train
+
+- _vineti_: to discipline
+
+- _vinaya_: acquittal
+
+- _vinaya_: elimination
+
+- _vinaya_: the discipline
+
+- _vinaya_: training system
+
+=== Introduction:
+
+==== Vineyya: absolutive and optative
+
+_Vineyya_ is both an absolutive ('having eliminated') and an optative ('should 
+dispel):
+
+[quote, D.2.94]
+____
+having eliminated greed and dejection .
+
+_vineyya loke abhijjhādomanassaṃ._
+____
+
+[quote, Sn.v.590]
+____
+one should dispel lamentation
+
+_vineyya paridevitaṃ._
+____
+
+==== Vinaya: training system
+
+That _vinaya_ can mean 'training system' is most obvious in relation to lay 
+people. For example, when Sigālaka was venerating the six directions, the 
+Buddha told him:
+
+[quote, D.3.180]
+____
+-- But, young man, that is not how the six directions would be venerated in the 
+Noble One's training system.
+
+_Na kho gahapatiputta ariyassa vinaye evaṃ chaddisā namassitabbā ti._
+____
+
+It is also more obvious when it occurs without '_dhamma'_:
+
+[quote, S.4.189]
+____
+So, too, whatever in the world [of phenomena] is agreeable and pleasing is 
+called a thorn in the [terminology of the] Noble One's training system.
+
+_evaṃ kho bhikkhave yaṃ loke piyarūpaṃ sātarūpaṃ ayaṃ vuccati 
+ariyassa vinaye kaṇṭako._
+____
+
+_Dhammavinaya_ occurring together can mean 'the teaching and discipline':
+
+[quote, D.2.154]
+____
+The teaching and discipline that I have explained and established will, after 
+my passing, be your teacher.
+
+_Yo kho ānanda mayā dhammo ca vinayo ca desito paññatto so vo mamaccayena 
+satthā ti._
+____
+
+But _dhammavinaya_ occurring together can also mean 'teaching and training 
+system':
+
+[quote, A.3.297]
+____
+I am one of the Blessed One's white-robed female lay disciples who have 
+attained a foothold... in this teaching and training system.
+
+_Yāvatā kho gahapati tassa bhagavato sāvikā gihī odātavasanā imasmiṃ 
+dhammavinaye... ahaṃ tāsaṃ aññatarā._
+____
+
+=== Illustrations
+
+.Illustration
+====
+vinayetha
+
+eliminate
+====
+
+[quote, Sn.v.1103]
+____
+You must completely eliminate grasping and craving
+
+_Ādānataṇhaṃ vinayetha sabbaṃ._
+____
+
+.Illustration
+====
+vinayanti
+
+eliminate
+====
+
+____
+The world's attractive things remain as they are
+
+_Tiṭṭhanti citrāni tatheva loke_
+____
+
+[quote, A.3.411]
+____
+The wise eliminate their hankering for them
+
+_Athettha dhīrā vinayanti chandan ti._
+____
+
+.Illustration
+====
+vinayetha
+
+eliminate
+====
+
+[quote, Sn.v.361]
+____
+A bhikkhu should eliminate his attachment to sensuous pleasures, whether human 
+or divine.
+
+_Rāgaṃ vinayetha mānusesu dibbesu kāmesu vāpi bhikkhu._
+____
+
+.Illustration
+====
+vinaya
+
+eliminate
+====
+
+[quote, Sn.v.1098]
+____
+Eliminate greed for sensuous pleasure.
+
+_Kāmesu vinaya gedhaṃ._
+____
+
+.Illustration
+====
+vinayassu
+
+dispel
+====
+
+[quote, Sn.v.559]
+____
+Dispel your unsureness about me, [about whether or not I am the Enlightened 
+One]. Be decided about me, brahman.
+
+_vinayassu mayi kaṅkhaṃ. Adhimuccassu brāhmaṇa._
+____
+
+.Illustration
+====
+vinetuṃ
+
+allay
+====
+
+[quote, S.2.111]
+____
+I can allay my thirst with water, whey, porridge, or soup.
+
+_sakkā kho me ayaṃ surāpipāsitā pānīyena vā vinetuṃ 
+dadhimaṇḍakena vā vinetuṃ matthaloṇikāya vā vinetuṃ 
+loṇasovīrakena vā vinetuṃ._
+____
+
+.Illustration
+====
+avinīto
+
+uninstructed
+====
+
+[quote, S.4.286-7]
+____
+The ignorant Everyman, who has no regard for the Noble Ones or for spiritually 
+outstanding people, and who is ignorant of and uninstructed in their teaching, 
+considers bodily form to be the [absolute] Selfhood.
+
+_Idha gahapati assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa 
+akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa 
+akovido sappurisadhamme avinīto rūpaṃ attato samanupassati._
+____
+
+.Illustration
+====
+vinessatī
+
+instruct
+====
+
+[quote, S.4.105]
+____
+Today the Blessed One will instruct Venerable Rāhula further in the 
+destruction of perceptually obscuring states
+
+_ajja bhagavā āyasmantaṃ rāhuḷaṃ uttariṃ āsavānaṃ khaye 
+vinessatī ti._
+____
+
+.Illustration
+====
+vinesi
+
+discipline
+====
+
+____
+-- Kesi, how do you discipline a horse-in-training?
+
+_Kathaṃ pana tvaṃ kesī assadammaṃ vinesī ti?_
+____
+
+____
+-- Bhante, I discipline one horse mildly, another harshly, and another both 
+mildly and harshly.
+
+_Ahaṃ kho bhante assadammaṃ saṇhenapi vinemi pharusenapi vinemi 
+saṇhapharusenapi vinemī ti._
+____
+
+[quote, A.2.112]
+____
+-- But, Kesi, if a horse-in-training won't submit to mild discipline, nor harsh 
+discipline, nor mild and harsh discipline, how do you deal with him?
+
+_Sace te kesi assadammo saṇhenapi vinayaṃ na upeti pharusenapi vinayaṃ na 
+upeti saṇhapharusenapi vinayaṃ na upeti kinti naṃ karosī ti?._
+____
+
+.Illustration
+====
+vinītā
+
+trained
+====
+
+[quote, Ud.64]
+____
+Now, bhante, the Blessed One has female lay-follower disciples who are 
+competent, trained, accomplished.
+
+_Santi kho pana bhante etarahi upāsikā bhagavato sāvikā viyattā vinītā 
+visāradā._
+____
+
+.Illustration
+====
+vinetuṃ
+
+train
+====
+
+[quote, A.3.106]
+____
+They will offer others formal spiritual support but will not be able to train 
+them in the higher virtue, the higher mental states, and the higher penetrative 
+discernment.
+
+_Aññesaṃ nissayaṃ dassanti. Te na sakkhissanti vinetuṃ adhisīle 
+adhicitte adhipaññāya._
+____
+
+.Illustration
+====
+vinayo
+
+acquittal
+====
+
+____
+Bhikkhus, there are these seven procedures for quelling and settling 
+disciplinary issues that have arisen. Which seven?
+
+_Sattime bhikkhave adhikaraṇasamatha dhammā uppannuppannānaṃ 
+adhikaraṇānaṃ samathāya vūpasamāya. Katame satta:_
+____
+
+____
+An acquittal "in the presence of" may be given.
+
+_Sammukhā vinayo dātabbo_
+____
+
+____
+An acquittal due to complete mindfulness may be given.
+
+_sativinayo dātabbo_
+____
+
+____
+An acquittal due to past insanity may be given.
+
+_amūḷhavinayo dātabbo_
+____
+
+____
+An act of acknowledgement may be applied.
+
+_paṭiññāta karaṇaṃ dātabbaṃ_
+____
+
+• A majority vote may be applied. +
+_yebhūyyasikā dātabbā_
+
+• The procedure for one of increasing wickedness may be applied. +
+_tassapāpiyyasikā dātabbā_
+
+• The covering over as with grass may be applied. +
+_tiṇavatthārako dātabbā_ (A.4.144).
+
+.Illustration
+====
+vinayo
+
+elimination
+====
+
+[quote, S.5.8]
+____
+This, bhikkhu, is a designation for the Untroubled: the elimination of 
+attachment, hatred, and undiscernment of reality.
+
+_Nibbānadhātuyā kho etaṃ bhikkhu adhivacanaṃ rāgavinayo dosavinayo 
+mohavinayo ti._
+____
+
+.Illustration
+====
+vinayo
+
+elimination
+====
+
+[quote, Ud.10]
+____
+The elimination of self-centredness is happiness supreme.
+
+_Asmimānassa vinayo etaṃ ve paramaṃ sukhan ti._
+____
+
+.Illustration
+====
+vinayaṃ
+
+the discipline
+====
+
+The Group-of-Six bhikkhus said:
+
+____
+Come on, friends, let us disparage the discipline_._
+
+_handa mayaṃ āvuso vinayaṃ vivaṇṇemā ti_
+____
+
+They did this by asking:
+
+____
+Why recite these lesser and minor training rules? They only lead to anxiety, 
+vexation, and perplexity.
+
+_kiṃ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi yāvadve 
+kukkuccāya vibhesāya vilekhāya saṃvattanti ti._
+____
+
+The Buddha rebuked them:
+
+____
+How can you, worthless men, disparage the discipline?
+
+_kathaṃ hi nāma tumhe moghapurisā vinayaṃ vivaṇṇessatha_
+____
+
+He established the rule:
+
+[quote, Vin.4.143]
+____
+Whatever bhikkhu, when the Pātimokkha is being recited, should speak thus: 
+'Why recite these lesser and minor training rules? They only lead to anxiety, 
+vexation, and perplexity,' in disparaging a rule of training, there is an 
+offence of pācittiya."
+
+_Yo pana bhikkhu pātimokkhe uddissamāne evaṃ vadeyya kiṃ panimehi 
+khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi yāvadve kukkuccāya 
+vibhesāya vilekhāya saṃvattantīti sikkhāpadavivaṇṇake pācittiyan ti._
+____
+
+So 'discipline' means:
+
+1. the Pātimokkha
+
+2. training rules (_sikkhāpada_)
+
+.Illustration
+====
+vinayaṃ
+
+the discipline
+====
+
+Venerable MahāKassapa said
+
+____
+'I could question Upāli on the discipline'
+
+_ahaṃ upāliṃ vinayaṃ puccheyyan ti_
+____
+
+____
+MahāKassapa questioned Upāli on the subject of the first pārājika rule and 
+its provenance, on the individual, on what was laid down, on what was an 
+offence, and on what was no offence.
+
+_Atha kho āyasmā mahākassapo āyasmantaṃ upāliṃ paṭhamassa 
+pārājikassa vatthumpi pucchi nidānampi pucchi puggalampi pucchi 
+paññattimpi pucchi anupaññattimpi pucchi āpattimpi pucchi anāpattimpi 
+pucchi_
+____
+
+[quote, Vin.2.286]
+____
+... In this same way he questioned him about both divisions (i.e. both 
+Pātimokkhas, bhikkhus' and bhikkhunīs')
+
+_eteneva upāyena ubhato vibhaṅge pucchi._
+____
+
+Here 'the discipline' means the Pātimokkhas of bhikkhus and bhikkhunīs and 
+associated details.
+
+.Illustration
+====
+vinayo
+
+the discipline
+====
+
+____
+Gotamī, things of which you might consider
+
+_ye ca kho tvaṃ gotami dhamme jāneyyāsi_
+____
+
+____
+These things lead to non-attachment [to originated phenomena], not to 
+attachment to originated phenomena
+
+_ime dhammā virāgāya saṃvattanti no sarāgāya_
+____
+
+____
+lead to emancipation [from individual existence], not bondage [to individual 
+existence]
+
+_visaṃyogāya saṃvattanti no saṃyogāya_
+____
+
+____
+lead to a dwindling away of the five grasped aggregates, not to a proliferation 
+of the five grasped aggregates
+
+_apacayāya saṃvattanti no ācayāya_
+____
+
+____
+lead to fewness of needs, not abundance of needs
+
+_appicchatāya saṃvattanti no mahicchatāya_
+____
+
+____
+lead to contentment, not to discontentment
+
+_santuṭṭhiyā saṃvattanti no asantuṭṭhiyā_
+____
+
+____
+lead to physical seclusion, not to gregariousness
+
+_pavivekāya saṃvattanti no saṅgaṇikāya_
+____
+
+____
+lead to right effort, not to indolence
+
+_viriyārambhāya saṃvattanti no kosajjāya_
+____
+
+____
+lead to being easy to support, not to being difficult to support
+
+_subharatāya saṃvattanti no dubbharatāyā_
+____
+
+____
+You can definitely consider
+
+_ekaṃsena gotami dhāreyyāsi_
+____
+
+____
+this is [in accordance with] the teaching
+
+_eso dhammo_
+____
+
+____
+this is [in accordance with] the discipline
+
+_eso vinayo_
+____
+
+[quote, A.4.280]
+____
+this is [in accordance with] the Teacher's training system
+
+_etaṃ satthusāsanan ti._
+____
+
+.Illustration
+====
+vinayo
+
+the discipline
+====
+
+[quote, A.3.169]
+____
+Rare in the world is a person able to understand when taught the teaching and 
+discipline proclaimed by the Perfect One
+
+_tathāgatappaveditassa dhammavinayassa desitassa viññātā puggalo dullabho 
+lokasmiṃ._
+____
+
+.Illustration
+====
+vinaya
+
+the discipline
+====
+
+• A forest bhikkhu should endeavour [to study and master] advanced aspects of 
+the teaching and discipline. +
+_Āraññakenāvuso bhikkhunā abhidhamme abhivinaye yogo karaṇīyo_ 
+(M.1.472).
+
+.Illustration
+====
+vinaya
+
+the discipline
+====
+
+[quote, A.3.78]
+____
+It is hard to find one who has gone forth [into the ascetic life] in old age 
+(_buḍḍhapabbajito_) ... who is an expert in the discipline.
+
+_dullabho vinayadharo._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+____
+-- Sāriputta, friend, what is difficult to do in this teaching and training 
+system?
+
+_Kinnu kho āvuso sāriputta imasmiṃ dhammavinaye dukkaran ti_
+____
+
+[quote, S.4.260]
+____
+-- Going forth [into the ascetic life], friend, is difficult to do in this 
+teaching and training system.
+
+_Pabbajjā kho āvuso imasmiṃ dhammavinaye dukkarā ti._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+• Bhikkhus, you have lost your way. Bhikkhus, you are conducting yourselves 
+wrongly. Bhikkhus, how far you have strayed, you worthless men, from this 
+teaching and training system. +
+_Vippaṭipannā'ttha bhikkhave. Micchāpaṭipannā'ttha bhikkhave. 
+Kīvadūrevime bhikkhave moghapurisā apakkantā imasmā dhammavinayā_ 
+(M.1.480).
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, D.1.176]
+____
+Whoever was formerly a non-Buddhist ascetic and wishes to go forth [into the 
+ascetic life] and receive ordination in this teaching and training system, he 
+is granted probation for four months.
+
+_Yo kho kassapa aññatitthiyapubbo imasmiṃ dhammavinaye ākaṅkhati 
+pabbajjaṃ ākaṅkhati upasampadaṃ so cattāro māse parivasati._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, M.1.68]
+____
+Now on that occasion Sunakkhatta, the young Licchavi, had recently left this 
+teaching and training system.
+
+_tena kho pana samayena sunakkhatto licchaviputto acirapakkanto hoti imasmā 
+dhammavinayā._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+____
+-- How many Emancipated Ones are there in this teaching and training system, 
+Master Ānanda?
+
+_Kīva bahukā pana bho ānanda imasmiṃ dhammavinaye niyyātāroti._
+____
+
+[quote, M.1.523]
+____
+-- There are not only one hundred, Sandaka, or two hundred, three hundred, four 
+hundred, or five hundred, but far more Emancipated Ones than that in this 
+teaching and training system.
+
+_Na kho sandaka ekaṃ yeva sataṃ na dve satāni na tīṇi satāni na 
+cattāri satāni na pañca satāni atha kho hiyyova ye imasmiṃ dhammavinaye 
+niyyātāro ti._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, Ud.54]
+____
+In this teaching and training system there is a gradually advancing training, a 
+gradually advancing application, a gradually advancing practice, and there is 
+no sudden attainment of arahantship.
+
+_evameva kho bhikkhave imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā 
+anupubbapaṭipadā nāyatakeneva aññāpaṭivedho._
+____
+
+.Illustration
+====
+vinaya
+
+training system=sikkhaṃ
+====
+
+____
+-- Sāriputta, friend, the bhikkhu Moliyaphagguṇa has abandoned the training 
+and returned to lay life.
+
+_Moliyaphagguṇo āvuso sāriputta bhikkhu sikkhaṃ paccakkhāya 
+hīnāyāvattoti._
+____
+
+[quote, S.2.50]
+____
+-- Then surely that venerable did not find consolation in this teaching and 
+training system.
+
+_Naha nūna so āyasmā imasmiṃ dhammavinaye assāsamalatthāti._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, S.2.120]
+____
+Ānanda, friend, I wish to live the religious life in this teaching and 
+training system.
+
+_icchāmahaṃ āvuso ānanda imasmiṃ dhammavinaye brahmacariyaṃ caritun 
+ti._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, S.4.43]
+____
+Bhikkhus, if a bhikkhu does not discern according to reality the origination, 
+vanishing, sweetness, wretchedness, and deliverance in regards to the six 
+senses, then he has not lived the religious life; he is far from this teaching 
+and training system.
+
+_Yo hi koci bhikkhave bhikkhu channaṃ phassāyatanānaṃ samudayañca 
+atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṃ 
+nappajānāti; avusitaṃ tena brahmacariyaṃ ārakā so imamhā dhammavinayā 
+ti._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+• In this regard, let your light shine forth so that you who have thus gone 
+forth [into the ascetic life] in this teaching and training system which is so 
+well explained may be respectful, deferential, and courteous towards teachers 
+and preceptors, and those of the standing of teachers and preceptors. +
+☸ __Idha kho taṃ bhikkhave sobhetha yaṃ tumhe evaṃ svākkhāte 
+dhammavinaye pabbajitā samānā ācariyesu ācariyamattesu upajjhāyesu 
+upajjhāyamattesu agāravā appatissā asabhāgavuttikā 
+vihareyyātha?(__Vin.1.187).
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, M.3.246]
+____
+It is considered growth in the Noble One's training system for one who sees a 
+wrongdoing as such, to make amends for it in accordance with the teaching, and 
+to show restraint in the future.
+
+_Vuddhi hesā bhikkhu ariyassa vinaye yo accayaṃ accayato disvā yathā 
+dhammaṃ paṭikaroti āyatiṃ saṃvaraṃ āpajjatī ti._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, A.1.168]
+____
+A master of the three final knowledges in the Noble One's training system, 
+Master Gotama, is quite different from a master of threefold Vedic knowledge of 
+the brahmans.
+
+_Aññathā bho gotama brāhmaṇānaṃ tevijjo. Aññathā ca pana ariyassa 
+vinaye tevijjo hoti._
+____
+
+.Illustration
+====
+vinaya
+
+training system
+====
+
+[quote, S.4.53]
+____
+Whatever is destined to decay is called 'the world [of phenomena]' in the 
+&#8203;[terminology of the] Noble One's training system.
+
+_Yaṃ kho ānanda palokadhammaṃ ayaṃ vuccati ariyassa vinaye loko._
+____
+

@@ -1,0 +1,300 @@
+== Aññā
+
+=== Renderings
+
+- _aññā_: arahantship
+
+- _aññā_: knowledge [of things according to reality]
+
+- _aññā_: knowledge of
+
+- _aññā_: understanding of
+
+- _aññā_: realisation of
+
+=== Introduction
+
+==== Aññā: the knowledge of an arahant
+
+_Aññā_ is defined in the dictionaries as follows:
+
+- PED: 'knowledge, recognition, perfect knowledge, philosophic insight, 
+knowledge par excellence, viz. Arahantship, saving knowledge, gnosis'
+
+- DOP: 'knowledge, philosophic insight, perfect knowledge, i.e. arahatship.'
+
+In fact _aññā_ means to know that one has destroyed birth etc. This is clear 
+in the _Kaḷāra Sutta_, where the Buddha asks Venerable Sāriputta:
+
+[quote, S.2.54]
+____
+-- 'If they were to ask you: "Through what state of deliverance (_kathaṃ 
+vimokkhā_) have you declared _aññā_ thus: 'I know that birth is destroyed; 
+the religious life has been fulfilled; what had to be done has been done; there 
+will be no further arising in any state of individual existence?" Being asked 
+thus, how would you answer?'
+
+_Sace pana taṃ sāriputta evaṃ puccheyyuṃ kathaṃ vimokkhā pana tayā 
+āvuso sāriputta aññā vyākatā khīṇā jāti vusitaṃ brahmacariyaṃ 
+kataṃ karaṇīyaṃ nāparaṃ itthattāyāti pajānāmi ti. Evaṃ 
+puṭṭho tvaṃ sāriputta kinti vyākareyyāsī ti._
+____
+
+Thus, to declare _aññā_ is to declare 'I know that birth is destroyed etc.' 
+This is equivalent to declaring arahantship. Therefore, with the support of 
+both dictionaries, this is our rendering for _aññā_: 'arahantship.'
+
+==== Aññā: knowledge [of things according to reality]: Quote 1
+
+The link between _aññā_ and _yathābhūta_ is seen in the following passage, 
+where our intention is to explain the parenthesis ('[of things according to 
+reality]'):
+
+____
+On what grounds is a bhikkhu an arahant with perceptually obscuring states 
+destroyed, one who has fulfilled [the religious life], done what had to be 
+done, laid down the burden, achieved his objective, destroyed the ties to 
+individual existence, and is liberated [from perceptually obscuring states] 
+through the complete knowledge [of things according to reality] 
+(_sammadaññā_)?
+
+_Kittāvatā pana bho gotama bhikkhu arahaṃ hoti khīṇāsavo vusitavā 
+katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṃyojano 
+sammadaññā vimutto ti?_
+____
+
+[quote, M.1.235]
+____
+... In this regard, having seen any kind of bodily form... advertence according 
+to reality (_yathābhūtaṃ_) with perfect penetrative discernment as "not [in 
+reality] mine," "not [in reality] what I am," "not my [absolute] Selfhood," a 
+bhikkhu is liberated [from perceptually obscuring states] through being without 
+grasping.
+
+_Idha aggivessana bhikkhu yaṃ kiñci rūpaṃ atītānāgata paccuppannaṃ 
+ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā 
+paṇītaṃ vā yaṃ dūre sannike vā sabbaṃ rūpaṃ n'etaṃ mama 
+n'eso'hamasmi na me so attā ti evametaṃ yathābhūtaṃ sammappaññāya 
+disvā anupādā vimutto hoti._
+____
+
+In this passage _yathābhūta_ has an object ('any kind of bodily form' etc), 
+and so, in accordance with our notes sv _Yathābhūta,_ we render it as 
+'according to reality.' But _aññā_ does not have an object, so we 
+parenthesise with _yathābhūta_, which we now translate as 'things according 
+to reality.' We discuss these two ways of rendering _yathābhūta_, sv 
+_Yathābhūta_.
+
+==== Aññā: knowledge [of things according to reality]: Quote 2
+
+The link between _aññā_ and _yathātathaṃ_ is seen in the following 
+passage, where our intention is again to explain the parenthesis ('[of things 
+according to reality]'):
+
+[quote, Sn.v.732-3]
+____
+Recognising this danger, that suffering arises dependent on karmically 
+consequential deeds, with the quelling of karmically consequential deeds, and 
+the ending of mental images, in this way is there the destruction of suffering. 
+Knowing this in accordance with truth (_yathātathaṃ_), those who see 
+rightly, who are blessed with profound knowledge, and who are wise through the 
+complete knowledge [of things according to reality], having overcome Māra's 
+tie [that ties one to renewed states of individual existence], they do not come 
+to renewed states of individual existence.
+
+_Etamādīnavaṃ ñatvā dukkhaṃ saṅkhārapaccayā +
+Sabbasaṅkhārasamathā saññānaṃ uparodhanā +
+Evaṃ dukkhakkhayo hoti etaṃ ñatvā yathātathaṃ +
+Sammaddasā vedaguno sammadaññāya paṇḍitā +
+Abhibhuyya mārasaṃyogaṃ nāgacchanti punabbhavan ti._
+____
+
+==== Other meanings of aññā
+
+_Aññā_ can also mean:
+
+- understanding (of something)
+
+- realisation (of something)
+
+For examples, see Illustrations.
+
+=== Illustrations
+
+.Illustration
+====
+aññā
+
+arahantship
+====
+
+[quote, M.1.62]
+____
+If anyone practises the four _satipaṭṭhāna_ for seven days, one of two 
+fruits can be expected. Either [the attainment of] arahantship in this very 
+lifetime, or if there is a remnant of grasping, non-returnership.
+
+_dvinnaṃ phalānaṃ aññataraṃ phalaṃ pāṭikaṅkhaṃ diṭṭheva 
+dhamme aññā sati vā upādisese anāgāmitā ti._
+____
+
+.Illustration
+====
+aññā
+
+knowledge [of things according to reality]
+====
+
+• Let Subhadda see me. Whatever he asks will be from desire for knowledge [of 
+things according to reality], not from wanting to trouble me. +
+_sabbantaṃ aññāpekkho'va pucchissati no vihesāpekkho_ (D.2.150).
+
+.Illustration
+====
+aññāya
+
+knowledge [of things according to reality]
+====
+
+[quote, S.1.4]
+____
+Those enlightened ones, through complete knowledge [of things according to 
+reality], fare virtuously amidst the unvirtuous.
+
+_Sambuddhā sammadaññāya caranti visame samanti._
+____
+
+.Illustration
+====
+aññā
+
+knowledge [of things according to reality]
+====
+
+[quote, Dh.v.57]
+____
+Māra does not find the path of those who, through the complete knowledge [of 
+things according to reality], are liberated [from perceptually obscuring states]
+
+_Sammadaññā vimuttānaṃ māro maggaṃ na vindati._
+____
+
+.Illustration
+====
+aññāya
+
+knowledge [of things according to reality]
+====
+
+[quote, Vin.1.10]
+____
+Then the group of [the first] five bhikkhus listened to the Blessed One, gave 
+ear to him, and applied their minds to the knowledge [of things according to 
+reality].
+
+_Atha kho pañcavaggiyā bhikkhu bhagavantaṃ sussūsiṃsu. Sotaṃ 
+odahiṃsu. Aññāya cittaṃ upaṭṭhāpesuṃ._
+____
+
+.Illustration
+====
+aññā
+
+knowledge [of things according to reality]
+====
+
+[quote, A.1.199]
+____
+The purpose of the wise person's counsel is to convey knowledge [of things 
+according to reality] and to inspire people's faith.
+
+_aññātatthaṃ pasādatthaṃ sataṃ ve hoti mantanā._
+____
+
+.Illustration
+====
+aññā
+
+to understand [them]
+====
+
+[quote, S.2.267]
+____
+When those discourses spoken by the Perfect One... are being recited, we will 
+really listen, lend an ear, and apply our minds to understand [them].
+
+_ye te suttantā tathāgatabhāsitā... bhaññamānesu sussusissāma sotaṃ 
+odahissāma aññācittaṃ upaṭṭhāpessāma._
+____
+
+.Illustration
+====
+aññāya
+
+understand [what one says]
+====
+
+[quote, A.4.393]
+____
+Also, one's children, wives, slaves, servants, and workers, listen to one, lend 
+an ear, and apply their minds to understand [what one says].
+
+_Yepissa te honti puttāti vā dārāti vā dāsāti vā pessāti vā 
+kammakarāti vā tepi sussūsanti sotaṃ odahanti aññāya cittaṃ 
+upaṭṭhapenti._
+____
+
+.Illustration
+====
+aññāya
+
+realising
+====
+
+[quote, Sn.v.765]
+____
+Apart from the Noble Ones, who is worthy to fully realise the [Untroubled] 
+State? Through completely realising the [Untroubled] State, being free of 
+perceptually obscuring states, they realise the Untroubled.
+
+_Ko nu aññatramariyehi padaṃ sambuddhumarahati +
+Yaṃ padaṃ sammadaññāya parinibbanti anāsavā ti._
+____
+
+Comment:
+
+We take _padaṃ_ as _nibbānapadaṃ_, as in Sn.v.365.
+
+.Illustration
+====
+aññāya
+
+realisation of
+====
+
+[quote, Sn.v.749]
+____
+By the complete realisation of spiritual health through the destruction of 
+perceptually obscuring states, the one who is blessed with profound knowledge, 
+being established in righteousness, though he makes use of conception he is 
+beyond the limits of conception.
+
+_Ārogyaṃ sammadaññāya āsavānaṃ parikkhayā +
+Saṅkhāya sevī dhammaṭṭho saṅkhaṃ nopeti vedagū ti._
+____
+
+.Illustration
+====
+aññāya
+
+understanding
+====
+
+• The greed on account of which greedy beings are reborn in the plane of 
+misery, +
+_Yena lobhena luddhāse sattā gacchanti duggatiṃ_
+
+• through the complete understanding of that greed, those with insight 
+abandon it. +
+_Taṃ lobhaṃ sammadaññāya pajahanti vipassino_ (It.1).
+

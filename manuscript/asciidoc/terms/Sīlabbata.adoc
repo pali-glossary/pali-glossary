@@ -1,0 +1,453 @@
+== Sīlabbata
+
+=== Renderings
+
+- _sīlabbata_: [noble] observances and practices
+
+- _sīlabbata_: observances and practices
+
+- _subbata_: one with noble practices
+
+=== Overview: Sīlabbata
+
+==== Sīla
+
+The long description of _sīla_ in the _Brahmajāla Sutta_ shows that _sīla_ 
+wholly involves the refraining from practices. The sutta's opening and closing 
+sentences related to _sīla_ are included in this quotation:
+
+[quote, D.1.4-12]
+____
+What are the mere trifles, the mere trivialities, the mere matters of virtue, 
+that the common man would speak of when speaking in praise of the Perfect One? 
+The ascetic Gotama abandons and refrains from killing... And whereas some 
+ascetics and Brahmanists, living off food given in faith maintain themselves by 
+such base arts and wrong means of livelihood as... practising surgery, 
+practising as a children's doctor, administering medicines, and treatments to 
+cure their after-effects, the ascetic Gotama refrains from these kinds of base 
+arts and wrong means of livelihood.
+
+_Katamañca taṃ bhikkhave appamattakaṃ oramattakaṃ sīlamattakaṃ yena 
+puthujjano tathāgatassa vaṇṇaṃ vadamāno vadeyya? Pāṇātipātaṃ 
+pahāya pāṇātipātā paṭivirato samaṇo gotamo... yathā vā paneke 
+bhonto samaṇabrāhmaṇā saddhādeyyāni bhojanāni bhuñjitvā te 
+evarūpāya tiracchānavijjāya micchājīvena jīvikaṃ kappenti 
+seyyathīdaṃ... sallakattiyaṃ dārakatikicchā mūlabhesajjānaṃ 
+anuppadānaṃ osadhīnaṃ paṭimokkho. Iti vā itievarūpāya 
+tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo'ti._
+____
+
+==== Vata
+
+_Vata_, by contrast, involves both the undertaking of and refraining from 
+practices, as this illustration shows:
+
+____
+At one time there was a naked ascetic living in Vesāli called 
+Kaḷāramaṭṭhuka ... He had undertaken seven rules of practice 
+(_vatapadāni_):
+
+_Tena kho pana samayena acelo kaḷāramaṭṭhuko vesāliyaṃ 
+paṭivasati... tassa satta vatapadāni samattāni samādinnāni honti:_
+____
+
+1. For the rest of my life I will be a naked ascetic and will not wear clothes;
++
+****
+_Yāvajīvaṃ acelako assaṃ na vatthaṃ paridaheyyaṃ._
+****
+
+2. For the rest of my life I will remain celibate and abstain from sexual 
+intercourse;
++
+****
+_Yāvajīvaṃ brahmacārī assaṃ na methunaṃ dhammaṃ paṭiseveyyaṃ._
+****
+
+3. For the rest of my life I will subsist on liquor and meat, abstaining from 
+boiled rice and junket;
++
+****
+_Yāvajīvaṃ surāmaṃseneva yāpeyyaṃ na odanakummāsaṃ bhuñjeyyaṃ._
+****
+
+[quote, D.3.9]
+____
+4-7) I will not go beyond the Udena Shrine to the east of Vesāli, the Gotamaka 
+Shrine to the south, the Sattamba Shrine to the west, nor the Bahuputta Shrine 
+to the north.
+
+_Puratthimena vesāliṃ udenaṃ nāma cetiyaṃ taṃ nātikkameyyaṃ 
+dakkhiṇena vesāliṃ gotamakaṃ nāma cetiyaṃ taṃ nātikkameyyaṃ 
+pacchimena vesāliṃ sattambaṃ nāma cetiyaṃ taṃ nātikkameyyaṃ 
+uttarena vesāliṃ bahuputtaṃ nāma cetiyaṃ taṃ nātikkameyyanati._
+____
+
+==== Sīlabbata: pluralising
+
+_Sīla_ and _vata_ together become _sīlabbataṃ_ (singular case), which, like 
+others do, we pluralise ('observances and practices'):
+
+- Norman: 'virtuous conduct and vows' (Sn.v.231).
+
+- Bodhi: 'rules and vows' (S.5.118).
+
+- Bodhi: 'behaviour and observances' (A.1.225)
+
+=== Spiritually unwholesome observances and practices
+
+==== Discarding religious practices
+
+Religious practices that are not in accordance with the Noble One's training 
+system (_ariyassa vinaye_) are abandoned by disciples when they first take 
+refuge in the Buddha, when they see that these practices are ineffective or 
+spiritually unwholesome, as the following stories show:
+
+==== *1) Fire veneration:* a stain
+
+When Kassapa of Uruvelā and his group of matted-hair ascetic disciples decided 
+to take ordination under the Buddha, they flung into the river their hair, 
+braids, bundles on carrying poles, and fire-venerating implements (Vin.1.32-3). 
+Kassapa explained this action as follows:
+
+____
+'Brahmanic sacrifices glorify sights and sounds, also flavours, sensuous 
+pleasures, and women.
+
+_Rūpe ca sadde ca atho rase ca +
+Kāmitthiyo cābhivadanti yaññā_
+____
+
+[quote, Vin.1.36]
+____
+'Recognising that this was a spiritual stain amidst objects of attachment I 
+lost my taste for sacrifices and offerings.'
+
+_Etaṃ malan ti upadhīsu ñatvā +
+Tasmā na yiṭṭhe na hute arañjin ti._
+____
+
+==== *2) Sacrifice*: demeritorious, spiritually unwholesome
+
+[quote, A.4.43]
+____
+A brahman brought hundreds of bulls, goats, and sheep to the sacrificial post 
+for slaughter and burning. When he asked how to perform the sacrifice so it 
+would be of the greatest benefit, the Buddha said that even in preparing for 
+such a sacrifice, thinking one is making merit, one makes demerit; thinking one 
+is doing what is spiritually wholesome, one is doing what is spiritually 
+unwholesome; thinking one is on the path to heaven, one is on the path to woe.
+
+_So puññaṃ karomī ti apuññaṃ karoti. Kusalaṃ karomīti akusalaṃ 
+karoti. Sugatimaggaṃ pariyesāmī ti duggatimaggaṃ pariyesati._
+____
+
+On becoming a lay follower, the brahman released his 2,500 sacrificial animals, 
+saying, 'May they eat fresh grass, drink cool water, and be cooled by a fresh 
+breeze!'
+
+==== *3) River cleansing:* not purifying
+
+____
+The brahman Sundarika Bhāradvāja said "the Bahuka River is reckoned by many 
+to be liberating, it is reckoned by many to be meritorious, and many wash away 
+the demerit they have created in the Bahuka River."
+
+_Mokkhasammatā hi bho gotama bāhukā nadī bahujanassa puññasammatā hi bho 
+gotama bāhukā nadī bahujanassa bāhukāya pana nadiyā bahujano 
+pāpakammaṃ kataṃ pavāhetī ti._
+____
+
+[quote, M.1.39]
+____
+The Buddha replied, "a fool may bathe there forever, yet will not purify 
+himself of accumulated demerit."
+
+_Niccampi bālo pakkhanno kaṇhakammo na sujjhati._
+____
+
+On hearing this, the brahman requested ordination as a bhikkhu.
+
+==== 4) River cleansing: not purifying
+
+A brahman told the bhikkhunī Puṇṇikā that whoever, young or old, does a 
+demeritorious deed (_pāpakamma pakubbatī_) is released from the accumulated 
+demerit by water ablution (_dakābhisecanā sopi pāpakammā pamuccati_). 
+Puṇṇikā replied that in that case, they'd all go to heaven: all the frogs, 
+turtles, reptiles, crocodiles, and anything else that lives in the water. She 
+said that if rivers could carry off one's accumulated demerit (_pāpaṃ pubbe 
+kataṃ vahuṃ_), they would carry off one's accumulated merit as well 
+(_puññampimā vaheyyuṃ_). She advised the brahman to stop doing whatever it 
+was that made him always need cleansing (_yassa brāhmaṇa tvaṃ bhīto sadā 
+udakamotari tameva brahme mā kāsi_) and added "Don't let the cold hurt your 
+skin (_mā te sītaṃ chaviṃ hane_)."
+
+The Brahman agreed that he had been following the wrong path, and now had been 
+shown the noble path (_kummaggaṃ paṭipannaṃ maṃ ariyamaggaṃ 
+samānayi_) (Thī.v.236-251). On becoming a bhikkhu, and being enlightened, he 
+exclaimed:
+
+[quote, Thī.v.251]
+____
+Formerly I was Brahmā's offspring, today I am a true Brahman, a master of the 
+three final knowledges, endowed with profound knowledge, fully versed in 
+profound knowledge, spiritually cleansed.
+
+_Brahmabandhu pure āsiṃ ajjamhi saccabrāhmaṇo +
+Tevijjo vedasampanno sottiyo camhi nahātako ti._
+____
+
+=== Noble observances and practices: 'noble' or 'Noble One's discipline'
+
+==== Noble observances and practices
+
+The terms 'noble' or 'Noble One's discipline' are constantly associated with 
+exalted types of observances and practices, as the next paragraphs show. This 
+justifies us sometimes rendering _sīlabbata_ as '[noble] observances and 
+practices.'
+
+==== *1) Self-mortifying practice: no attainment of* noble discernment
+
+Before his enlightenment, the Buddha practised various ascetic practices. For 
+instance, nakedness; remaining standing when eating, urinating and defaecating; 
+licking his hands clean instead of washing them. He tortured himself by either 
+standing continuously, rejecting seats; or by maintaining the squatting 
+position; or by using a bed of spikes; or by bathing in cold water three times 
+daily including the evening. He survived on very small amounts of food, and 
+reached a state of extreme emaciation.
+
+Yet by such conduct and self-mortification he admitted that he did not attain 
+any superhuman attainment of knowledge and vision that was truly noble 
+(_uttarimanussadhammā alamariyañāṇadassanavisesaṃ_), because he did not 
+attain noble discernment (_ariyāya paññāya_) which leads to the complete 
+destruction of suffering (_sammā dukkhakkhayāya_, M.1.81). Later, he was to 
+reflect:
+
+[quote, S.1.103]
+____
+"I am indeed freed from that unpleasant self-mortifying practice. It is good 
+indeed that I am freed from that useless, unpleasant, self-mortifying practice. 
+It is good that, steady and mindful, I have attained enlightenment"
+
+_mutto vatamhi tāya dukkarakārikāya. Sādhu mutto vatamhi tāya 
+anatthasaṃhitāya dukkarakārikāya. Sādhu ṭhito sato bodhiṃ 
+samajjhaganti._
+____
+
+==== *2) Going upwards:* Noble One's discipline
+
+____
+There is a brahman practice called 'going upwards' (_udayagāminiṃ nāma 
+paṭipadaṃ_) in which a disciple is told to get up early and walk facing 
+east, and told not to avoid a pit, a precipice, a stump, a thorny place, a 
+village pool, or a cesspool, and told to "expect death wherever you fall. Thus, 
+good man, with the demise of the body at death, you will be reborn in the realm 
+of happiness, in the heavenly worlds.
+
+_Yattha pateyyāsi tattheva maraṇaṃ āgaccheyyāsi. Evaṃ tvaṃ ambho 
+purisa kāyassa bhedā parammaraṇā sugatiṃ saggaṃ lokaṃ 
+uppajjissasīti_
+____
+
+[quote, S.5.361]
+____
+The Buddha called this a foolish and stupid practice (_bāla gamanametaṃ 
+mūḷhagamanametaṃ_) and instead proclaimed the way of going upwards in the 
+Noble One's training system (_ariyassa vinaye udayagāminiṃ paṭipadaṃ 
+paññāpemi_). This involves having unshakeable faith in the [perfection of 
+the] Buddha's [transcendent insight]... in the [significance of the] 
+teaching... in the [praiseworthiness of the] community of disciples' 
+&#8203;[application to the practice], and being possessed of the virtues dear to the 
+Noble Ones.
+
+_idha bhikkhave ariyasāvako buddhe aveccappasādena samannāgato hoti...Dhamme 
+aveccappasādena samannāgato hoti... Saṅghe aveccappasādena samannāgato 
+hoti... Ariyakantehi sīlehi samannāgato hoti._
+____
+
+==== *3) Purifying rites* in the Noble One's training system
+
+Cunda was a silversmith whose purifying rites involved him touching the ground, 
+cowdung, or grass; venerating fire or the sun; and bathing three times a day. 
+The Buddha said that this was different from the purification in the Noble 
+One's training system (_ariyassa vinaye soceyyaṃ_) which, at Cunda's request, 
+he explained meant practising the four ways of right speech, the three ways of 
+right conduct, and being free of greed, ill will, and wrong view [of reality]. 
+He said:
+
+____
+These ten paths of spiritually wholesome conduct are purified and purifying.
+
+_Ime cunda dasa kusalakammapathā suciyeva honti sucikaraṇā ca_
+____
+
+[quote, A.5.263-268]
+____
+If one who follows these ten paths of spiritually wholesome conduct, gets up 
+early and strokes the ground from his bed, then he is spiritually purified, and 
+if he does not stroke the ground, he is still spiritually purified.
+
+_Imehi kho dasahi kusalakammapathehi samannāgato kālasseva uṭṭhahantova 
+sayanambhā paṭhaviṃ cepi āmasati suciyeva hoti. No cepi paṭhaviṃ 
+āmasati suci yeva hoti._
+____
+
+==== *4) Venerating and serving: according to the* Noble One's discipline
+
+One early morning, the Buddha met a young brahman named Sigālaka, who, with 
+joined palms, was venerating (_namassati_) the six directions. The Buddha told 
+him:
+
+____
+But, young man, that is not how the six directions would be venerated in the 
+Noble One's training system.
+
+_Na kho gahapatiputta ariyassa vinaye evaṃ chaddisā namassitabbā ti._
+____
+
+When Sigālaka asked the Buddha to explain this, the Buddha explained, not how 
+to 'venerate' the six directions, but how to 'cover' them (_paṭicchādī_), 
+which he explained meant 'serving' the people in one's life 
+(_paccupaṭṭhātabbā_) because it is likely that 'venerating' was a term 
+that he felt should be used exclusively in relationship to the Buddha, the 
+teaching, and the community of the Blessed One's disciples. He told Sigālaka 
+how to properly serve six groups of people: one's parents, teachers, spouses, 
+friends, servants, and ascetics and Brahmanists, and if one does so, they will 
+tenderly reciprocate (_anukampanti_). The Buddha said that if one follows this 
+advice, then each direction is made safe, free of fear (_khemā 
+appaṭibhayā_). This is presumably because one is not developing danger and 
+fear within any relationship. Instead, one is developing three qualities that 
+might summarise the Buddha's advice to Sigālaka: respect, kindness and 
+dutifulness (D.3.180). At the end of the discourse Sigālaka became a lay 
+disciple.
+
+==== Noble observances and practices: parenthesis
+
+Because 'noble' or 'Noble One's discipline' are constantly associated with 
+exalted types of observances and practices, if necessary, we parenthesise them 
+as such:
+
+[quote, A.1.168]
+____
+He who is perfect in [noble] observances and practices, resolutely applied [to 
+the practice], and inwardly collected, with a mind that is mastered, 
+concentrated, and well-collected...
+
+_Yo sīlabbatasampanno pahitatto samāhito +
+Cittaṃ yassa vasībhūtaṃ ekaggaṃ susamāhitaṃ._
+____
+
+==== Bhikkhus observances and practices
+
+Bhikkhus observances and practices are divided into
+
+1. the Pātimokkha rules (see _The Buddhist Monastic Code_, Volume One, by 
+Ṭhānissaro Bhikkhu)
+
+2. Khandhaka rules (see _The Buddhist Monastic Code_, Volume Two, by 
+Ṭhānissaro Bhikkhu).
+
+==== Subbata: 'one with noble practices'
+
+Because we call the arahant's _sīlabbata_ 'noble,' we call _subbata_ 'one with 
+noble practices':
+
+[quote, Th.v.19]
+____
+Irrigators channel water. Fletchers straighten arrows. Carpenters shape wood. 
+Those with noble practices tame themselves.
+
+_Udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ +
+Dāruṃ namayanti tacchakā attānaṃ damayanti subbatā ti._
+____
+
+[quote, Sn.v.89]
+____
+Assuming an outward semblance of those with noble practices, insolent, a 
+corrupter of families, impudent, deceitful, unrestrained, mere chaff, living 
+the religious life in disguise, he is a defiler of the Path.
+
+_Chadanaṃ katvāna subbatānaṃ pakkhandī kuladūsako pagabbho +
+Māyāvī asaṃyato palāpo patirūpena caraṃ sa maggadūsī._
+____
+
+=== Adherence to observances and practices: sīlabbataparāmāso
+
+Noble observances are to be practised without attachment. For example, the 
+stream-enterer is 'possessed of the precepts dear to the Noble Ones' 
+(_ariyakantehi sīlehi samannāgato hoti_) which are perfectly fulfilled, but 
+they are not grasped (_aparāmaṭṭhehi_). Adherence to observances and 
+practices (_sīlabbataparāmāso_) is one of the five ties to individual 
+existence in the low plane of existence (_orambhāgiyāni saṃyojanāni_). 
+'Adherence' has two symptoms:
+
+1. Regarding one's own practices as true, and others' as false:
+
+• If I, dogmatically grasping and stubbornly adhering, should declare "This 
+alone is true. All else is false," I will dispute with those of the other two 
+views.' +
+_ahaṃ diṭṭhiṃ thāmasā parāmāsā abhinivissa vohareyyaṃ– idameva 
+saccaṃ moghamaññan ti; dvīhi me assa viggaho_ (M.1.498).
+
+2. Taking one's virtue personally. Thus the _Samaṇamaṇḍikā Sutta_ 
+proclaims a virtuous bhikkhu who does not regard virtue as endowed with 
+personal qualities (_bhikkhu sīlavā hoti no ca sīlamayo_, M.2.27). For 
+discussion on _sīlamayo_ see Glossary sv _Atammayo_.
+
+=== Illustrations
+
+.Illustration
+====
+vatavantaṃ sīlavantaṃ
+
+&#8203;[perfect in noble] observances and practices
+====
+
+[quote, Sn.v.624]
+____
+One who is not ill-tempered, who is [perfect in noble] observances and 
+practices, who is free of conceit, inwardly tamed, and bears his final body, he 
+is what I call a Brahman.
+
+_Akkodhanaṃ vatavantaṃ sīlavantaṃ anussadaṃ +
+Dantaṃ antimasarīraṃ tamahaṃ brūmi brāhmaṇaṃ._
+____
+
+COMMENT:
+
+We take _vatavantaṃ sīlavantaṃ_ as _sīlabbatasampannaṃ._ Norman 
+translates literally 'possessing vows and virtuous conduct,' which is not 
+meaningful. Like us, the commentary considers that perfection is implied: 
+_Vatantanti dhutavatena samannāgataṃ, catupārisuddhisīlena sīlavantaṃ._ 
+The term _sīlabbatasampanno_ occurs at A.1.168. See IGPT sv _Sīlabbata_.
+
+[quote, A.1.168]
+____
+He who is perfect in [noble] observances and practices, resolutely applied [to 
+the practice], and inwardly collected, with a mind that is mastered, 
+concentrated, and well-collected...
+
+_Yo sīlabbatasampanno pahitatto samāhito +
+Cittaṃ yassa vasībhūtaṃ ekaggaṃ susamāhitaṃ._
+____
+
+Also consider:
+
+[quote, A.3.261]
+____
+A resident bhikkhu is not to be esteemed (_āvāsiko bhikkhu abhāvanīyo 
+hoti_) if he is imperfect in behaviour and in the practice of observances;
+
+_Na ākappasampanno hoti na vattasampanno._
+____
+
+[quote, A.4.352]
+____
+A bhikkhu is virtuous, abides restrained [in conduct] within the constraints of 
+the rules of discipline. He is perfect in conduct and sphere of personal 
+application, seeing danger in the slightest wrongdoing.
+
+_bhikkhu sīlavā hoti pātimokkhasaṃvarasaṃvuto viharati 
+ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī._
+____
+

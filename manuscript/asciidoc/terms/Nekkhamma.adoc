@@ -1,0 +1,478 @@
+== Nekkhamma
+
+=== Renderings
+
+- _nekkhamma_: unsensuousness
+
+- _nekkhamma_: the practice of unsensuousness
+
+- _nekkhamma_: unsensuous
+
+=== Introduction
+
+==== Etymology
+
+The derivation of _nekkhamma_ is uncertain. PED says it may be derived from:
+
+1. _Nikkhamati_ 'to go forth from, to come out of, to get out, issue forth, 
+depart' (PED).
+
+2. _Nikkāma_: 'without craving or lust, desireless' (PED).
+
+But in actual useage it contrasts sensuousness. This suggests a derivation from 
+_Nikkāma_ in the meaning 'without sensuous pleasure.' This fits the following 
+quotes:
+
+1. Three spiritually unwholesome ways of thought: sensuous thought, 
+unbenevolent thought, malicious thought. Three spiritually wholesome ways of 
+thought: unsensuous thought, benevolent thought, compassionate thought.
++
+****
+_Tayo akusalasaṅkappā: kāmasaṅkappo vyāpādasaṅkappo 
+vihiṃsāsaṅkappo. Tayo kusalasaṅkappā: nekkhammasaṅkappo 
+avyāpādasaṅkappo avihiṃsāsaṅkapo_ (D.3.215).
+****
+
+2. The deliverance from sensuous pleasure, that is, the practice of 
+unsensuousness.
++
+****
+_kāmānametaṃ nissaraṇaṃ yadidaṃ nekkhammaṃ_ (D.3.275).
+****
+
+==== Renunciation and the practice of unsensuousness
+
+_Nekkhamma_ is usually called 'renunciation,' which implies the renouncing of 
+things unnecessary to the religious life. But _nekkhamma_ must surely involve 
+not having those things in the first place. It seems better represented by the 
+term 'the practice of unsensuousness.' These terms fit with the way in which 
+_nekkhamma_ is paired in the suttas.
+
+==== Paired with seclusion from sensuous pleasure
+
+_Nekkhamma_ is paired in the scriptures with:
+
+[quote, A.4.233]
+____
+seclusion [from sensuous pleasures and spiritually unwholesome factors]
+
+_viveka_
+____
+
+[quote, M.3.110]
+____
+being withdrawn from human fellowship
+
+_gaṇasmā vūpakaṭṭho_
+____
+
+[quote, D.3.275]
+____
+deliverance from sensuous pleasure
+
+_kāmānametaṃ nissaraṇaṃ._
+____
+
+[quote, A.3.377]
+____
+freedom from attachment, hatred, and undiscernment of reality
+
+_khayā rāgassa vītarāgattā... khayā dosassa vītadosattā... khayā 
+mohassa vītamohattā nekkhammādhimutto hoti._
+____
+
+See Illustrations for fuller quotations.
+
+==== Paired against enjoyment of sensuous pleasure
+
+_Nekkhamma_ is paired against:
+
+[quote, M.3.130]
+____
+enjoying sensuous pleasure
+
+_kāme paribhuñjanto._
+____
+
+• sensuous yearning +
+☸ _kāmadhātu_: _Chayimā ānanda dhātuyo kāmadhātu nekkhammadhātu 
+vyāpādadhātu avyāpādadhātu vihiṃsādhātu avihiṃsādhātu_ (M.3.62).
+
+[quote, M.3.110]
+____
+taking delight in human fellowship
+
+_gaṇārāmo._
+____
+
+[quote, A.4.343]
+____
+eating as much as one's belly will hold, giving oneself over to the pleasures 
+of sleep, languor, and torpor
+
+_nahanūna me āyasmanto imassa nekkhammasukhassa... yassāhaṃ nekkhamma 
+sukhassa... nikāmalābhī assaṃ akicchalābhī akasiralābhī tathā hi me 
+āyasmanto yāvadatthaṃ udarāvadehakaṃ bhuñjitvā seyyasukhaṃ 
+passasukhaṃ middhasukhaṃ anuyuttā viharanti._
+____
+
+[quote, S.3.232]
+____
+fondness and attachment
+
+_chandarāgo._
+____
+
+See Illustrations for full quotes.
+
+=== Illustrations
+
+.Illustration
+====
+nekkhamma
+
+unsensuousness; nekkhamma, unsensuous
+====
+
+____
+Because of the phenomenon of unsensuousness, unsensuous mental imagery arises, 
+unsensuous thought, unsensuous hankering, unsensuous passion, unsensuous quests.
+
+_Nekkhammadhātuṃ bhikkhave paṭicca uppajjati nekkhammasaññā. 
+Nekkhammasaññaṃ paṭicca uppajjati nekkhammasaṅkappo. 
+Nekkhammasaṅkappaṃ paṭicca uppajjati nekkhammacchando. 
+Nekkhammacchandaṃ paṭicca uppajjati nekkhammapariḷāho. 
+Nekkhammapariḷāhaṃ paṭicca uppajjati nekkhammapariyesanā._
+____
+
+[quote, S.2.152]
+____
+Engaged in unsensuous quests the learned noble disciple conducts himself 
+rightly in three ways: by body, speech, and mind.
+
+_Nekkhammapariyesanaṃ bhikkhave pariyesamāno sutavā ariyasāvako tīhi 
+ṭhānehi sammā paṭipajjati: kāyena vācāya manasā._
+____
+
+.Illustration
+====
+nekkhamma
+
+unsensuousness
+====
+
+____
+There are these six phenomena:
+
+_Chayimā ānanda dhātuyo_
+____
+
+____
+sensuous yearning phenomenon, unsensuousness phenomenon
+
+_kāmadhātu nekkhammadhātu_
+____
+
+____
+ill will phenomenon, goodwill phenomenon
+
+_vyāpādadhātu avyāpādadhātu_
+____
+
+[quote, M.3.62]
+____
+maliciousness phenomenon, compassion phenomenon
+
+_vihiṃsādhātu avihiṃsādhātu._
+____
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+____
+A bhikkhu, secluded from sensuous pleasures and spiritually unwholesome 
+factors, enters and abides in first jhāna, which is accompanied by thinking 
+and pondering, and rapture and physical pleasure born of seclusion [from 
+sensuous pleasures and spiritually unwholesome factors]... fourth jhāna.
+
+_Idhūdāyi bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ 
+savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja 
+viharati... catutthaṃ jhānaṃ upasampajja viharati._
+____
+
+[quote, M.1.454]
+____
+This is called the pleasure of the practice of unsensuousness, the pleasure of 
+meditative seclusion, the pleasure of inward peace, the pleasure of 
+enlightenment. This pleasure should be pursued, developed, and cultivated, I 
+declare. It should not be feared.
+
+_Idaṃ vuccati nekkhammasukhaṃ pavivekasukhaṃ upasamasukhaṃ 
+sambodhasukhaṃ āsevitabbaṃ bhāvetabbaṃ bahulīkātabbaṃ. Na 
+bhāyitabbaṃ etassa sukhassāti vadāmi._
+____
+
+Comment:
+
+_Vivekajaṃ_: 'born of seclusion [from sensuous pleasures and spiritually 
+unwholesome factors].' See Glossary sv _Viveka_.
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+____
+Indeed, Ānanda, there is no possibility that a bhikkhu who takes pleasure and 
+delight in company, who is given to the enjoyment of company, taking pleasure 
+and delight in human fellowship, given to the enjoyment of human fellowship, 
+can be one who attains at will, without trouble, without difficulty, that which 
+is the pleasure of the practice of unsensuousness, the pleasure of meditative 
+seclusion, the pleasure of inward peace, the pleasure of enlightenment.
+
+_So vatānanda bhikkhu saṅgaṇikārāmo saṅgaṇikārato 
+saṅgaṇikārāmataṃ anuyutto gaṇārāmo gaṇarato gaṇasammudito. 
+Yaṃ taṃ nekkhammasukhaṃ pavivekasukhaṃ upasamasukhaṃ sambodhasukhaṃ 
+tassa sukhassa nikāmalābhī bhavissati akicchalābhī akasiralābhīti 
+netaṃ ṭhānaṃ vijjati._
+____
+
+[quote, M.3.110]
+____
+But a bhikkhu who dwells alone, withdrawn from human fellowship, may well be 
+one who attains at will, without trouble, without difficulty, that which is the 
+pleasure of the practice of unsensuousness, the pleasure of meditative 
+seclusion, the pleasure of inward peace, the pleasure of enlightenment.
+
+_Yo ca kho so ānanda bhikkhu eko gaṇasmā vūpakaṭṭho viharati. 
+Tassetaṃ bhikkhuno pāṭikaṅkhaṃ: yaṃ taṃ nekkhammasukhaṃ 
+pavivekasukhaṃ upasamasukhaṃ sambodhasukhaṃ1 tassa sukhassa 
+nikāmalābhī bhavissati akicchalābhī akasiralābhīti ṭhānametaṃ 
+vijjati._
+____
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+____
+Sensuous pleasure, a vile pleasure, the pleasure of the common man, an ignoble 
+pleasure, this is a state associated with pain, distress, vexation, and 
+anguish. It is a wrong practice. Therefore it is defiled.
+
+_Tatra bhikkhave yamidaṃ kāmasukhaṃ mīḷhasukhaṃ pothujjanasukhaṃ 
+anariyasukhaṃ sadukkho eso dhammo saupaghāto saupāyāso sapariḷāho 
+micchāpaṭipadā. Tasmā eso dhammo saraṇo._
+____
+
+[quote, M.3.236]
+____
+But the pleasure of the practice of unsensuousness, the pleasure of meditative 
+seclusion, the pleasure of inward peace, the pleasure of enlightenment, this is 
+a state not associated with pain, distress, vexation, and anguish. It is a 
+right practice. Therefore it is undefiled.
+
+_Tatra bhikkhave yamidaṃ nekkhammasukhaṃ pavivekasukhaṃ upasamasukhaṃ 
+sambodhisukhaṃ adukkho eso dhammo anupaghāto anupāyāso apariḷāho 
+sammāpaṭipadā. Tasmā eso dhammo araṇo._
+____
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+____
+When you are assembled and met together and abide given to company, I think 
+that surely you are unable to attain the pleasure of the practice of 
+unsensuousness, the pleasure of meditative seclusion, the pleasure of inward 
+peace, the pleasure of enlightenment which I can.
+
+_Tumbhākampi kho nāgita saṅgamma samāgamma saṅgaṇikavihāraṃ 
+anuyuttānaṃ viharataṃ evaṃ hoti: nahanūna me āyasmanto imassa 
+nekkhammasukhassa pavivekasukhassa upasamasukhassa sambodhasukhassa 
+nikāmalābhino assu akicchalābhino akasiralābhino yassāhaṃ_
+____
+
+• Or I see bhikkhus joking and merry making by poking one another with their 
+fingers and think the same thing. +
+☸ _Idhāhaṃ nāgita bhikkhū passāmi aññamaññaṃ aṅgulipatodakehi 
+sañjagghante saṅkīḷante. Tassa mayhaṃ nāgita evaṃ hoti_...
+
+[quote, A.4.342-3]
+____
+Or I see bhikkhus after eating as much as their bellies will hold, giving 
+themselves over to the pleasures of sleep, languor, and torpor, and think the 
+same thing.
+
+_Idhāhaṃ nāgita bhikkhū passāmi yāvātthaṃ udarāvadehakaṃ 
+bhuñjitvā seyyasukhaṃ passasukhaṃ middhasukhaṃ anuyutte viharante. 
+Tassa mayhaṃ nāgita evaṃ hoti...._
+____
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+____
+Some might say that the arahant is intent on the practice of unsensuousness out 
+of faith [in the perfection of the Perfect One's transcendent insight]
+
+_saddhāmattakaṃ nūna ayamāyasmā nissāya nekkhammādhimutto ti._
+____
+
+[quote, M.1.302]
+____
+But the arahant is intent on the practice of unsensuousness due to freedom from 
+attachment, hatred, and undiscernment of reality
+
+_khayā rāgassa vītarāgattā... dosassa vītadosattā... mohassa 
+vītamohattā nekkhammādhimutto hoti._
+____
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+____
+Fondness and attachment regarding the visual sense... the mental sense is a 
+spiritual defilement.
+
+_yo bhikkhave cakkhusmiṃ... manasmiṃ chandarāgo cittasse'so upakkileso_
+____
+
+[quote, S.3.232]
+____
+When a bhikkhu has abandoned the spiritual defilement in these six cases, his 
+mind inclines to the practice of unsensuousness.
+
+_yato kho bhikkhave bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno 
+hoti nekkhammaninnaṃ cassa cittaṃ hoti._
+____
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+[quote, S.3.232]
+____
+A mind trained in the practice of unsensuousness becomes wieldy in regard to 
+those things that are to be known through transcendent insight.
+
+_nekkhammaparibhāvitaṃ cittaṃ kammaniyaṃ khāyati abhiññā 
+sacchikaraṇiyesu dhammesū ti._
+____
+
+.Illustration
+====
+nekkhammena
+
+the practice of unsensuousness
+====
+
+[quote, M.3.130]
+____
+Indeed, there is no possibility that Prince Jayasena, living amidst sensuous 
+pleasure, enjoying sensuous pleasure, being consumed by sensuous thought, 
+tormented by sensuous passion, eager in the quest for sensuous pleasure, could 
+know or see or realise that which can be known, seen, attained and realised 
+through the practice of unsensuousness.
+
+_So vata yaṃ taṃ nekkhammena ñātabbaṃ nekkhammena daṭṭhabbaṃ 
+nekkhammena pattabbaṃ nekkhammena sacchikātabbaṃ taṃ vata jayaseno 
+rājakumāro kāmamajjhe vasanto kāme paribhuñjanto kāmavitakkehi 
+khajjamāno kāmapariḷāhena pariḍayhamāno kāmapariyesanāya ussuko 
+ñassati vā dakkhiti vā sacchi vā karissatīti netaṃ ṭhānaṃ vijjati._
+____
+
+.Illustration
+====
+nekkhammaṃ
+
+the practice of unsensuousness
+====
+
+____
+In this regard, when a bhikkhu is contemplating sensuous pleasure, his mind is 
+not energised, nor does it becomes serene, settled, intent upon it. But when 
+contemplating the practice of unsensuousness his mind becomes energised, 
+serene, settled, and intent upon it.
+
+_Idha bhikkhave bhikkhuno kāmaṃ manasikaroto kāmesu cittaṃ na pakkhandati 
+nappasīdati na santiṭṭhati na vimuccati (read as adhimuccati. See IGPT sv 
+Adhimuccati). Nekkhammaṃ kho panassa manasikaroto nekkhamme cittaṃ 
+pakkhandati pasīdati santiṭṭhati vimuccati (read as adhimuccati. See IGPT 
+sv Adhimuccati)._
+____
+
+[quote, A.3.245]
+____
+When his mind is well-directed, well-developed, has completely emerged from 
+sensuous pleasure, been liberated and emancipated from it, then whatever 
+vexatious and anguishing perceptually obscuring states that arise due to 
+pursuing sensuous pleasure, he is freed from them. He does not experience that 
+sense impression. This is called deliverance from sensuous pleasure.
+
+_Tassa taṃ cittaṃ sugataṃ subhāvitaṃ suvuṭṭhitaṃ suvimuttaṃ 
+suvisaṃyuttaṃ kāmehi; ye ca kāmapaccayā uppajjanti āsavā 
+vighātapariḷāhā mutto so tehi na so taṃ vedanaṃ vediyati. 
+Idamakkhātaṃ kāmānaṃ nissaraṇaṃ._
+____
+
+.Illustration
+====
+nekkhammaṃ
+
+the practice of unsensuousness
+====
+
+[quote, D.3.147]
+____
+If one such as he ends up going forth [into the ascetic life], the practice of 
+unsensuousness being his aspiration and delight, being prudent, best of men 
+he'll be, peerless, never more to be reborn.
+
+_Sace ca pabbajjamupeti tādiso nekkhammachandābhirato vicakkhaṇo +
+Aggo na so gacchati jātu khambhataṃ naruttamo esahi tassa dhammatā ti._
+____
+
+.Illustration
+====
+nekkhamma
+
+the practice of unsensuousness
+====
+
+[quote, A.4.233]
+____
+In that case, the bhikkhu, mentally inclining, verging, and drifting towards 
+seclusion [from sensuous pleasures and spiritually unwholesome factors], 
+psychologically withdrawn [from sensuous pleasures and spiritually unwholesome 
+factors], taking delight in the practice of unsensuousness, is one whose words 
+are exclusively connected with religious inspiration.
+
+_Tatra bhikkhu vivekaninnena cittena vivekapoṇena vivekapabbhārena 
+vavakaṭṭhena nekkhammābhiratena aññadatthu 
+uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
+____
+

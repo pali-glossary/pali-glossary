@@ -1,0 +1,229 @@
+== Vippasannāni indriyāni; Santindriyāni
+
+=== Renderings
+
+- _vippasannāni indriyāni_: serene [mental] faculties
+
+- _indriyāni samathaṃ gatāni_: [mental] faculties calmed
+
+- _santindriyāni_: peaceful [mental] faculties
+
+=== Introduction
+
+==== Which indriyāni?
+
+The problem of assigning _indriyāni_ a meaning is summarised in PED's comment:
+
+- 'It is often to be guessed from the context only, which of the sets of 5 
+_indriyāni_ is meant.'
+
+The confusion over _vippasannāni indriyāni_ is obvious in DOP's comment as 
+follows, with which we disagree:
+
+- 'The serenity of the senses is perceptible to others.'
+
+In the present context we call _indriyāni_ '[mental] faculties', a rendering 
+unsupported by either of the dictionaries. In the suttas, the state of the 
+mental faculties is visible through its effect on firstly the countenance 
+(_mukhavaṇṇo_), and secondly, the complexion (_chavivaṇṇo_):
+
+1. Moggallāna, friend, your [mental] faculties are serene, your countenance is 
+pure and bright. Venerable MahāMoggallāna surely spent today in a peaceful 
+abiding.
++
+****
+_vippasannāni kho te āvuso moggallāna indriyāni parisuddho mukhavaṇṇo 
+pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī ti_ 
+(S.2.275).
+****
+
+2. King Mahāsudassana's [mental] faculties are serene, his complexion is pure 
+and bright. May indeed he not be dead!
++
+****
+_vippasannāni kho rañño mahāsudassanassa indriyāni parisuddho 
+chavivaṇṇo pariyodāto mā heva kho rājā mahāsudassano kālamakāsī ti_ 
+(D.2.190).
+****
+
+==== Linking vippasannāni indriyāni to citta: the Kāmada Sutta
+
+Although many suttas support our rendering, irrefutable support comes from the 
+dialogue in the _Kāmada Sutta_, where _indriyūpasame_ is linked to _citta_, 
+as follows:
+
+&#8203;[The young deva Kāmada:]
+
+____
+'That is hard to compose, Blessed One, namely, the mind.'
+
+_Dussamādahaṃ bhagavā yadidaṃ cittan ti._
+____
+
+&#8203;[The Blessed One:]
+
+[quote, S.1.48]
+____
+'They compose even what is hard to compose, those who delight in calming the 
+&#8203;[mental] faculties.'_
+
+_Dussamādahaṃ vāpi samādahanti indriyūpasame ratā._
+____
+
+=== Illustrations
+
+.Illustration
+====
+vippasannāni indriyāni
+
+serene [mental] faculties
+====
+
+[quote, A.1.181]
+____
+It is astounding and extraordinary, Master Gotama, how serene are Master 
+Gotama's [mental] faculties, and how pure and bright is his complexion. Just as 
+in autumn a yellow jujube fruit is pure and bright, so Master Gotama's [mental] 
+faculties are serene and his complexion is pure and bright.
+
+_Acchariyaṃ bho gotama abbhutaṃ bho gotama yāvañcidaṃ bhoto gotamassa 
+vippasannāni indriyāni parisuddho chavivaṇṇo pariyodāto. Seyyathā pi 
+bho gotama sāradaṃ badarapaṇḍu parisuddhaṃ hoti pariyodātaṃ. 
+Evameva bhoto gotamassa vippasannāni indriyāni parisuddho chavivaṇṇo 
+pariyodāto._
+____
+
+.Illustration
+====
+vippasannāni indriyāni
+
+serene [mental] faculties
+====
+
+____
+In one who is dead and passed away, his activities of body, speech, and mind 
+have ceased and are quelled, his vitality is destroyed, his bodily warmth has 
+dissipated, and his [mental] faculties are broken up.
+
+_Yvāyaṃ gahapati mato kālakato tassa kāyasaṅkhāro niruddho 
+paṭippassaddho vacīsaṅkhāro niruddho paṭippassaddho cittasaṅkhāro 
+niruddho paṭippassaddho āyu parikkhīṇaṃ usmā vūpasantā indriyāni 
+viparibhinnāni_
+____
+
+[quote, S.4.294]
+____
+In one who has attained the ending of perception and sense impression his 
+activities of body, speech, and mind have ceased and are quelled, his vitality 
+is not destroyed, his bodily warmth has not dissipated, and his [mental] 
+faculties are serene.
+
+_yo ca khvāyaṃ gahapati bhikkhu saññāvedayitanirodhaṃ samāpanno 
+tassapi kāyasaṅkhāro niruddho paṭippassaddho vacīsaṅkhāro niruddho 
+paṭippassaddho cittasaṅkhāro niruddho paṭippassaddho āyu 
+aparikkhīṇaṃ usmā avupasantā indriyāni vippasannāni._
+____
+
+.Illustration
+====
+indriyāni vippasidiṃsū
+
+&#8203;[mental] faculties were serene
+====
+
+Then Venerable approached the Blessed One, venerated him, and sat down at a 
+respectful distance. Sitting there, he told the Blessed One:
+
+____
+'Shortly after the Blessed One's departure, Venerable Phagguṇa died. At the 
+time of his death his [mental] faculties were serene.'
+
+__āyasmā bhante phagguṇo acirapakkantassa bhagavato kālamakāsi. Tamhi 
+cassa samaye maraṇakāle indriyāni vippasidiṃsūti._
+____
+
+[quote, A.3.380-1]
+____
+'Why, Ananda, shouldn't the bhikkhu Phagguna's [mental] faculties have been 
+serene? Though his mind was not yet liberated from the five ties to individual 
+existence in the low plane of existence, when he heard that religious 
+discourse, his mind was liberated from them.'
+
+_Kiṃ hānanda phagguṇassa bhikkhuno indriyāni nappasīdissanti 
+phagguṇassa ānanda bhikkhuno pañcahi orambhāgiyehi saṃyojanehi cittaṃ 
+avimuttaṃ ahosi. Tassa taṃ dhammadesanaṃ sutvā pañcahi orambhāgiyehi 
+saṃyojanehi cittaṃ vimuttaṃ._
+____
+
+.Illustration
+====
+santindriyaṃ
+
+peaceful [mental] faculties
+====
+
+____
+You will see the Blessed One
+
+_dakkhissasi tvaṃ soṇa taṃ bhagavantaṃ_
+____
+
+____
+who is beautifully behaved, faith inspiring,
+
+_pāsādikaṃ pasādaniyaṃ_
+____
+
+[quote, Ud.58]
+____
+who has peaceful [mental] faculties and a peaceful mind,
+
+_santindriyaṃ santamānasaṃ._
+____
+
+.Illustration
+====
+santindriyānaṃ
+
+peaceful [mental] faculties
+====
+
+[quote, A.1.65]
+____
+When you have peaceful [mental] faculties and peaceful minds, your bodily 
+conduct will be peaceful, your verbal conduct will be peaceful, and your mental 
+conduct will be peaceful.
+
+_Santindriyānaṃ hi vo sāriputta santamānasānaṃ santaṃ yeva 
+kāyakammaṃ bhavissati santaṃ vacīkammaṃ santaṃ manokammaṃ._
+____
+
+.Illustration
+====
+samāhitindriyo
+
+&#8203;[mental] faculties collected
+====
+
+[quote, A.2.6]
+____
+One whose [mental] faculties are collected
+
+_samāhitindriyo._
+____
+
+.Illustration
+====
+indriyāni samathaṃ gatāni
+
+&#8203;[mental] faculties calmed
+====
+
+[quote, Th.v.206]
+____
+Mine are the [mental] faculties which have been calmed like horses well-tamed 
+by a handler.
+
+_Mayhindriyāni samathaṃ gatāni assā yathā sārathinā sudantā._
+____
+

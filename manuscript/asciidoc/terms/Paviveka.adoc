@@ -1,0 +1,339 @@
+== Paviveka
+
+=== Renderings
+
+- _paviveka_: physical seclusion
+
+- _paviveka_: seclusion from (_Paviveka Sutta_ and _Dutiyadasabala Sutta_).
+
+=== Introduction
+
+==== Paviveka: physical seclusion
+
+_Paviveka_ means physical seclusion except in the _Paviveka Sutta_, where the 
+Buddha indicates that its use is inappropriate.
+
+==== Paviveka: the Paviveka Sutta
+
+In the _Paviveka Sutta_ (A.1.240-1) non-Buddhist ascetics used _paviveka_ to 
+mean seclusion from luxurious items:
+
+____
+Bhikkhus, non-Buddhist ascetics expound three forms of seclusion.
+
+_Tīṇimāni bhikkhave aññatitthiyā paribbājakā pavivekāni paññāpenti_
+____
+
+1. robe material
++
+****
+_cīvarapavivekaṃ_
+****
+
+2. almsfood
++
+****
+_piṇḍapātapavivekaṃ_
+****
+
+3. abodes
++
+****
+_senāsanapavivekaṃ_
+****
+
+These forms of seclusion meant:
+
+1. wearing coarse robes, including hair blankets (_kesakambalampi dhārenti_)
+
+2. eating coarse almsfood, including cowdung (_gomayabhakkhā pi honti_)
+
+3. living in the open air (_abbhokāsaṃ_)
+
+But to confirm that _paviveka_ is wrong useage, in his retort the Buddha used 
+the term _vivitto hoti._ He said:
+
+____
+There are three forms of seclusion (_pavivekāni_) for a bhikkhu in this 
+teaching and training system
+
+_tīṇi kho panimāni bhikkhave imasmiṃ dhammavinaye bhikkhuno pavivekāni_
+____
+
+1. He is virtuous. Having abandoned immorality, he is secluded from it
++
+****
+_sīlavā ca hoti dussīlyañcassa pahīṇaṃ hoti tena ca vivitto hoti_
+****
+
+____
+He has right perception [of reality]. Having abandoned wrong view [of reality], 
+he is secluded from it
+
+_sammādiṭṭhiko hoti micchādiṭṭhi ca'ssa pahīṇā hoti tāya ca 
+vivitto hoti_
+____
+
+[quote, A.1.240-1]
+____
+He is free of perceptually obscuring states. Having abandoned them, he is 
+secluded from them
+
+_khīṇāsavo hoti āsavā ca'ssa pahīṇā honti tehi ca vivitto hoti._
+____
+
+The Buddha's use of _vivitto_ proves that _paviveka_ should be corrected to 
+_viveka_.
+
+==== Dutiyadasabala Sutta: pavivitto exception
+
+In the _Dutiyadasabala Sutta_ (S.2.28-9) _pavivitto_ occurs in the phrase 
+_pavivitto pāpakehi akusalehi dhammehi_, where one would have expected 
+_vivitto_. This word combination occurs just once in the suttas, and is 
+considered a mistake even by the commentary, which says: _Pavivitto ti vivitto 
+viyutto hutvā_. Usually _akusalehi dhammehi_ is linked with _vivicca_, a word 
+combination that occurs 185 times, always in this phrase:
+
+[quote, M.1.435]
+____
+Secluded from sensuous pleasures and spiritually unwholesome factors, he enters 
+and abides in first jhāna, which is accompanied by thinking and pondering, and 
+rapture and physical pleasure born of seclusion [from sensuous pleasures and 
+spiritually unwholesome factors].
+
+_vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ 
+vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati._
+____
+
+The combination with _pavivitto_ is this:
+
+[quote, S.2.28-9]
+____
+The energetic person abides happily, secluded from unvirtuous, spiritually 
+unwholesome factors, and great is the personal good that he achieves.
+
+_Āraddhaviriyo ca kho bhikkhave sukhaṃ viharati pavivitto pāpakehi 
+akusalehi dhammehi mahantañca sadatthaṃ paripūreti._
+____
+
+==== Paviveka: in verse 'viveka'
+
+Sometimes in verse, _paviveka_ is shortened to _viveka._ This is illustrated sv 
+_Viveka_.
+
+==== Paviveka and viveka: inseparably linked
+
+That the Buddha regarded living secludedly (_pavivitta_) to be inseparably 
+linked to the development of seclusion [from sensuous pleasures and spiritually 
+unwholesome factors] (_viveka_) is clear in these two quotes:
+
+1. This teaching is for those who live secludedly, not for those given to the 
+enjoyment of company. So it was said. And in reference to what was it said?
++
+****
+_Pavivittassāyaṃ bhikkhave dhammo nāyaṃ dhammo saṅgaṇikārāmassā' 
+ti iti kho panetaṃ vuttaṃ kiñcetaṃ paṭicca vuttaṃ_
+****
+
+____
+... In this regard, the bhikkhu living secludedly may be visited by bhikkhus, 
+bhikkhunīs, laymen, laywomen, kings and kings' ministers, and non-Buddhist 
+ascetics and their disciples.
+
+_idha bhikkhave bhikkhuno pavivittassa viharato bhavanti upasaṅkamitāro 
+bhikkhū bhikkhūniyo upāsakā upāsikāyo rājāno rājamahāmattā titthiyā 
+titthiyasāvakā._
+____
+
+[quote, A.4.233]
+____
+... In that case, the bhikkhu, mentally inclining, verging, and drifting 
+towards seclusion [from sensuous pleasures and spiritually unwholesome 
+factors], psychologically withdrawn [from sensuous pleasures and spiritually 
+unwholesome factors], taking delight in the practice of unsensuousness, is one 
+whose words are exclusively connected with religious inspiration.
+
+_Tatra bhikkhu vivekaninnena cittena vivekapoṇena vivekapabbhārena 
+vavakaṭṭhena nekkhammābhiratena aññadatthu 
+uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
+____
+
+The Buddha regarded the training in _viveka_ to be part of the burden of 
+_paviveka_:
+
+2. The disciples of a teacher who lives secludedly do not likewise train 
+themselves in seclusion [from sensuous pleasures and spiritually unwholesome 
+factors]. They do not abandon those things which the teacher tells them to 
+abandon. They are luxurious and careless, leaders in backsliding, throwing off 
+the burden of physical seclusion
++
+****
+_Idhāvuso satthu pavivittassa viharato sāvakā vivekaṃ nānusikkhanti. 
+Yesañca dhammānaṃ satthā pahānamāha te ca dhamme nappajahanti. 
+Bāhulikā ca honti sāthalikā okkamane pubbaṅgamā **pavivek**e 
+nikkhittadhurā_ (M.1.14).
+****
+
+=== Illustrations
+
+.Illustration
+====
+paviveko
+
+physical seclusion
+====
+
+[quote, Th.v.597]
+____
+Is there any benefit for you in the rainy season in a forest like Ujjuhāna? 
+&#8203;[The town of] Veramba would be delightful for you. Physical seclusion is really 
+only for those who meditate.
+
+_Kiṃ tavattho vane tāta ujjuhāno va pāvuse +
+Verambā ramaṇīyā te paviveko hi jhāyinaṃ._
+____
+
+Comment:
+
+Ujjuhāna was a jungle abounding in streams which made living there 
+uncomfortable during the rains.
+
+.Illustration
+====
+pavivekāya
+
+physical seclusion
+====
+
+[quote, S.5.398]
+____
+Not content with his unshakeable faith in the [perfection of the] Buddha's 
+&#8203;[transcendent insight], [a noble disciple] makes further effort for physical 
+seclusion by day and for solitary retreat by night.
+
+_So tena buddhe aveccappasādena asantuṭṭho uttariṃ vāyamati divā 
+pavivekāya rattiṃ paṭisallānāya._
+____
+
+.Illustration
+====
+pavivekassa
+
+physical seclusion
+====
+
+[quote, S.2.203]
+____
+I have lived secludedly and have spoken in praise of physical seclusion
+
+_pavivitto ceva pavivekassa ca vaṇṇavādī._
+____
+
+.Illustration
+====
+pavivekaṃ
+
+physical seclusion
+====
+
+[quote, A.3.206]
+____
+Come now, let us, from time to time, enter and abide in the rapture that comes 
+of physical seclusion.
+
+_kinti mayaṃ kālena kālaṃ pavivekaṃ pītiṃ upasampajja vihareyyāmā 
+ti._
+____
+
+.Illustration
+====
+paviveka
+
+physical seclusion
+====
+
+[quote, M.3.110]
+____
+Indeed, Ānanda, is impossible that a bhikkhu who takes pleasure and delight in 
+company, who is given to the enjoyment of company, taking pleasure and delight 
+in human fellowship, given to the enjoyment of human fellowship, can be one who 
+attains at will, without trouble, without difficulty, that which is the 
+pleasure of the practice of unsensuousness, the pleasure of physical seclusion, 
+the pleasure of inward peace, the pleasure of enlightenment.
+
+_So vatānanda bhikkhu saṅgaṇikārāmo saṅgaṇikārato 
+saṅgaṇikārāmataṃ anuyutto gaṇārāmo gaṇarato gaṇasammudito. 
+Yaṃ taṃ nekkhammasukhaṃ pavivekasukhaṃ upasamasukhaṃ sambodhasukhaṃ 
+tassa sukhassa nikāmalābhī bhavissati akicchalābhī akasiralābhīti 
+netaṃ ṭhānaṃ vijjati._
+____
+
+.Illustration
+====
+pavivekāya
+
+physical seclusion
+====
+
+____
+Gotamī, things (_dhamme_) of which you might consider: 'These things lead to
+
+_Ye kho tvaṃ gotamī dhamme jāneyyāsi ime dhammā_
+____
+
+____
+physical seclusion, not company
+
+_pavivekāya no saṅgaṇikāya_
+____
+
+You can definitely consider
+
+____
+this is [in accordance with] the teaching
+
+_eso dhammo_
+____
+
+____
+this is [in accordance with] the discipline
+
+_eso vinayo_
+____
+
+[quote, A.4.280]
+____
+this is [in accordance with] the Teacher's training system
+
+_etaṃ satthusāsanan ti._
+____
+
+.Illustration
+====
+paviveka
+
+physical seclusion
+====
+
+[quote, A.5.134]
+____
+To one who is given to the enjoyment of physical seclusion, being given to the 
+enjoyment of company is a thorn
+
+_pavivekārāmassa saṅgaṇikārāmatā kaṇṭako._
+____
+
+.Illustration
+====
+paviveka
+
+physical seclusion
+====
+
+[quote, It.32]
+____
+Bhikkhus, be given to the enjoyment and delight of physical seclusion.
+
+_Pavivekārāmā bhikkhave viharatha pavivekaratā._
+____
+

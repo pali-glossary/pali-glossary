@@ -1,0 +1,658 @@
+== Vimutta; Vimutti
+
+=== Renderings
+
+- _vimutta_: liberated
+
+- _vimutta_: liberated [from perceptually obscuring states]
+
+_• vimuccati_: to be liberated
+
+_• vimuccati_: to be liberated [from perceptually obscuring states]
+
+_• vimutti_: liberation
+
+_• vimutti_: liberation [from perceptually obscuring states]
+
+=== Correcting the texts
+
+==== On reading vimuccati as adhimuccati
+
+Both VRI and BJT Pāli editions agree that the word sequence _cittaṃ 
+pakkhandati pasīdati santiṭṭhati_ is followed by either _vimuccati_ or 
+_adhimuccati_. In every case we prefer _adhimuccati_. The commentaries support 
+us in two cases. The readings are as follows:
+
+- D.3.240: _santiṭṭhati vimuccati_ (Commentary: _Na vimuccatī ti 
+nādhimuccati_).
+
+- M.1.186: _santiṭṭhati adhimuccati_
+
+- M.1.435: _santiṭṭhati vimuccati_
+
+- M.3.104: _santiṭṭhati adhimuccati_
+
+- M.3.112: _santiṭṭhati vimuccati_
+
+- A.2.166: _santiṭṭhati adhimuccati_
+
+- A.3.245: _santiṭṭhati vimuccati_ (Commentary: _Na vimuccatī ti na 
+adhimuccati_).
+
+- A.4.235: _santiṭṭhati vimuccati_
+
+- A.4.438-48: _santiṭṭhati vimuccati_
+
+==== Horner vs. Trenkner
+
+Concerning the occurrence at M.1.435, Horner praises the reading _pakkhandati 
+pasīdati santiṭṭhati vimuccati_, saying:
+
+- 'The compilers were right to vary the last of the four verbs.'
+
+However, she admits that in saying so she contradicts Trenkner, who 'says he 
+should have adopted' _adhimuccati_.
+
+==== Bodhi: adhimuccati 'makes better sense'
+
+Bodhi supports Trenckner. In two notes to the _Aṅguttara_ references he says:
+
+- 'Though all three editions here read _vimuccati_, Mp glosses the word with 
+_adhimuccati_. The latter makes better sense to me. The manuscript traditions, 
+as well as printed editions, show irregular variations between these two 
+readings throughout the Nikāyas.' (note to A.3.245, NDB n.1206).
+
+- Mp glosses _vimuccati_ here as "liberated from the opposing qualities" 
+(_paccanlkadhammehi ca vimuccati_). Since all three editions, with the support 
+of Mp, have _vimuccati_, I translate in conformity with this reading, but I 
+think it likely that the original reading was _adhimuccati_, "resolved upon" or 
+"focused on." As the text unfolds with respect to the successive meditative 
+attainments, in each case the bodhisatta is _vimuccati/adhimuccati_ upon the 
+attainment before he actually achieves it. In such a context being "focused on" 
+rather than "liberated in" makes better sense (note to A.4.439, NDB n.1943).
+
+==== Conclusion
+
+At all references we follow Trenckner and Bodhi, reading _adhimuccati._
+
+=== Liberation (from specified objects)
+
+==== The vimuccati cognates: specified object
+
+The _vimuccati_ cognates are associated with various specified objects. For 
+example:
+
+==== 1) Vimuccituṃ: to be liberated (from all originated phenomena)
+
+[quote, S.2.191]
+____
+It is time enough, bhikkhus, to be disillusioned with all originated phenomena, 
+to be unattached to them, to be liberated from them.
+
+_Yāvañcidaṃ bhikkhave alameva sabbasaṅkhāresu nibbindituṃ alaṃ 
+virajjituṃ alaṃ vimuccituṃ._
+____
+
+==== 2) Vimutto, liberated (from being reckoned)
+
+[quote, M.1.488]
+____
+The Perfect One is liberated from being reckoned in terms of bodily form... 
+advertence, Vaccha, he is profound, immeasurable, unfathomable like the ocean
+
+_Rūpasaṅkhāvimutto... Viññāṇasaṅkhāvimutto kho vaccha tathāgato 
+gambhīro appameyyo duppariyogāho seyyathā pi mahāsamuddo._
+____
+
+==== 3) Vimuttan, liberated (from āsavas)
+
+[quote, M.3.30]
+____
+Through being without grasping his mind was liberated from perceptually 
+obscuring states
+
+_anupādāya āsavehi cittaṃ vimuttan ti._
+____
+
+==== Vimuccati means 'to be liberated [from perceptually obscuring states]'
+
+Where there is no specified object, we render _vimutta_/_vimutti_ with 
+parenthesis: liberated/liberation [from perceptually obscuring states]. These 
+next two quotes support the parenthesis:
+
+1. For him thus knowing and seeing, his mind is liberated from perceptually 
+obscuring states due to pursuing sensuous pleasure, liberated from perceptually 
+obscuring states due to pursuing individual existence, and liberated from 
+perceptually obscuring states due to uninsightfulness into reality. Being 
+liberated [from perceptually obscuring states], the knowledge arises that he is 
+&#8203;[thus] liberated.
++
+****
+_Tassa evaṃ jānato evaṃ passato kāmāsavāpi cittaṃ vimuccati 
+bhavāsavāpi cittaṃ vimuccati avijjāsavāpi cittaṃ vimuccati. 
+Vimuttasmiṃ vimuttami ti ñāṇaṃ hoti_ (M.1.183-4).
+****
+
+2. This is the first occasion of liberation [from perceptually obscuring 
+states] in which, for a bhikkhu abiding diligently, vigorously, and resolutely 
+applied [to the practice], his unliberated mind is liberated [from perceptually 
+obscuring states], his undestroyed perceptually obscuring states are destroyed, 
+the unreached safety from the danger of bondage [to individual existence] is 
+reached._ +
+☸ Idaṃ bhikkhave paṭhamaṃ vimuttāyatanaṃ yattha bhikkhuno 
+appamattassa ātāpino pahitattassa viharato avimuttaṃ vā cittaṃ vimuccati 
+aparikkhīṇā vā āsavā parikkhayaṃ gacchanti ananuppattaṃ vā 
+anuttaraṃ yogakkhemaṃ anupāpuṇāti_ (A.3.21).
+
+=== Temporary liberation [from perceptually obscuring states]
+
+==== Introduction
+
+_Vimutti/vimutta_ sometimes mean 'temporarily liberated,' and are then often 
+called _sāmayikaṃ vimuttiṃ_ or _samayavimutta_. Sometimes this needs 
+parenthesising, as in two of the following illustrations.
+
+.Illustration
+====
+vimuttiṃ
+
+liberation [from perceptually obscuring states]
+====
+
+[quote, Sn.v.54; M.3.110]
+____
+It is an impossibility for one who who takes delight in company to obtain 
+&#8203;[even] temporary liberation [from perceptually obscuring states].
+
+_Aṭṭhānataṃ saṅgaṇikāratassa yaṃ phassaye sāmayikaṃ 
+vimuttiṃ._
+____
+
+Comment:
+
+The following quote shows that 'temporary liberation' means attaining the 
+jhānas:
+
+[quote, M.3.110]
+____
+Indeed, Ānanda, there is no possibility that a bhikkhu who finds enjoyment in 
+company... can be one who attains at will, without trouble, without difficulty, 
+that which is the pleasure of the practice of unsensuousness, the pleasure of 
+physical seclusion, the pleasure of inward peace, the pleasure of enlightenment.
+
+_So vatānanda bhikkhu saṅgaṇikārāmo... yaṃ taṃ nekkhammasukhaṃ 
+pavivekasukhaṃ upasamasukhaṃ sambodhasukhaṃ tassa sukhassa nikāmalābhī 
+bhavissati akicchalābhī akasiralābhīti netaṃ ṭhānaṃ vijjati._
+____
+
+.Illustration
+====
+vimuttassa
+
+liberated [from perceptually obscuring states]
+====
+
+____
+Five thing lead to the falling away [from spiritually wholesome factors] of a 
+bhikkhu who is temporarily liberated [from perceptually obscuring states]:
+
+_Pañcime bhikkhave dhammā samayavimuttassa bhikkhuno parihānāya 
+saṃvattanti. Katame pañca:_
+____
+
+[quote, A.3.173]
+____
+Being given to the enjoyment of work, talk, sleep, company, and not reviewing 
+the extent to which his mind is liberated [from perceptually obscuring states].
+
+_Kammārāmatā bhassārāmatā niddārāmatā saṅgaṇikārāmatā 
+yathāvimuttaṃ cittaṃ na paccavekkhati._
+____
+
+.Illustration
+====
+vimuttaṃ
+
+&#8203;[temporarily] liberated [from perceptually obscuring states]
+====
+
+[quote, S.5.76-7]
+____
+My mind is [temporarily] liberated [from perceptually obscuring states]. I have 
+abolished lethargy and torpor and thoroughly dispelled restlessness and 
+anxiety. My energy is aroused. I pay attention as a matter of vital concern, 
+not sluggishly.
+
+_cittañca me suvimuttaṃ thīnamiddhañca me susamūhataṃ. Uddhacca 
+kukkuccañca me suppaṭivinītaṃ. Āraddhañca me viriyaṃ aṭṭhikatvā 
+manasikaromi no ca līnan ti._
+____
+
+Comment:
+
+Because this seems not to be the practice of the arahant, we parenthesise 
+'temporarily.'
+
+.Illustration
+====
+suvimuttaṃ
+
+&#8203;[temporarily] liberated [from perceptually obscuring states]
+====
+
+• And how, Kuṇḍaliya, is restraint of the sense faculties [from 
+attraction and repulsion, through mindfulness] developed and cultivated so that 
+it brings to perfection the three kinds of good conduct? +
+_Kathaṃ bhāvito ca kuṇḍaliya indriyasaṃvaro kathaṃ bahulīkato 
+tīṇi sucaritāni paripūreti?_
+
+____
+In this regard, Kuṇḍaliya, seeing a pleasing visible object via the visual 
+sense, a bhikkhu does not long for it or get excited by it or become attached 
+to it.
+
+_Idha kuṇḍaliya bhikkhu cakkhunā rūpaṃ disvā manāpaṃ nābhijjhati 
+nābhihaṃsati na rāgaṃ janeti_
+____
+
+____
+His body is steady and his mind is steady, inwardly settled and [temporarily] 
+liberated [from perceptually obscuring states].
+
+_tassa ṭhito ca kāyo hoti ṭhitaṃ cittaṃ ajjhattaṃ susaṇṭhitaṃ 
+suvimuttaṃ_
+____
+
+____
+In seeing a displeasing visible object via the visual sense, he is not 
+disconcerted by it, not daunted, not dejected, free of ill will.
+
+_cakkhunā kho paneva rūpaṃ disvā amanāpaṃ na maṅku hoti 
+apatitthinacitto adīnamanaso avyāpannacetaso_
+____
+
+[quote, S.5.74]
+____
+His body is steady and his mind is steady, inwardly settled and [temporarily] 
+liberated [from perceptually obscuring states]
+
+_Tassa ṭhito ca kāyo hoti ṭhitaṃ cittaṃ ajjhattaṃ susaṇṭhitaṃ 
+suvimuttaṃ._
+____
+
+Comment:
+
+Because this seems not to be the practice of the arahant, we parenthesise 
+'temporarily.'
+
+.Illustration
+====
+cetovimuttiṃ
+
+liberation [from perceptually obscuring states]
+====
+
+[quote, S.1.120]
+____
+Then Venerable Godhika, abiding diligently, vigorously, and resolutely applied 
+&#8203;[to the practice] attained temporary liberation [from perceptually obscuring 
+states]. But then Venerable Godhika fell away from that temporary liberation 
+&#8203;[from perceptually obscuring states].
+
+_Atha kho āyasmā godhiko appamatto ātāpī pahitatto viharanto sāmayikaṃ 
+cetovimuttiṃ phusi. Atha kho āyasmā godhiko tāya sāmayikāya 
+cetovimuttiyā parihāyi._
+____
+
+Comment:
+
+We discuss _cetovimutti_ sv _Cetovimutti_, but include this well-known quote to 
+show how _cetovimutti_ and _vimutti_ are sometimes synonyms. Just as _vimutti_ 
+can be temporary, so can _cetovimutti_.
+
+=== Perpetual liberation [from perceptually obscuring states]
+
+==== Introduction: asamayavimutti
+
+When _vimutti_ is 'perpetual' it is sometimes designated as such 
+(_asamayavimutti_) and is then equivalent to perpetual _vimokkha_:
+
+[quote, M.1.197]
+____
+Being diligently applied [to the practice], he attains perpetual deliverance 
+&#8203;[from perceptually obscuring states] (_asamayavimokkhaṃ ārādheti_). And it 
+is impossible for that bhikkhu to fall away from that perpetual liberation 
+&#8203;[from perceptually obscuring states] (_asamayavimuttiyā parihāyetha_).
+
+_Appamatto samāno asamayavimokkhaṃ ārādheti. Aṭṭhānametaṃ bhikkhave 
+anavakāso yaṃ so bhikkhu tāya asamayavimuttiyā parihāyetha._
+____
+
+In the quote above, even though _asamayavimuttiyā_ has no designated object, 
+other suttas say that _āsavas_ (perceptually obscuring states) are the object. 
+For example, in the following quote _vimuttacitto_ is defined as _cittaṃ 
+virajjati vimuccati anupādāya āsavehi_.
+
+____
+In what way is one's mind liberated [from perceptually obscuring states]?
+
+_kathañca sāriputta vimuttacitto hoti_
+____
+
+[quote, S.5.158]
+____
+... In this regard a bhikkhu abides contemplating the nature of the body, 
+vigorously, fully consciously, and mindfully, having eliminated greed and 
+dejection in regard to the world [of phenomena]. As he abides contemplating the 
+nature of the body his mind is unattached [to originated phenomena], it is 
+liberated from perceptually obscuring states through being without grasping 
+(_cittaṃ virajjati vimuccati anupādāya āsavehi_).
+
+_Idha sāriputta bhikkhu kāye kāyānupassī viharati ātāpī sampajāno 
+satimā vineyya loke abhijjhādomanassaṃ tassa kāye kāyānupassino viharato 
+cittaṃ virajjati vimuccati anupādāya āsavehi._
+____
+
+Thus when _vimutta_ has no specified object, its object is 'perceptually 
+obscuring states' (_āsavas_).
+
+==== Introduction: three synonymous formulations
+
+Liberation [from perceptually obscuring states] is stated in three ways, 
+namely, with reference to the following liberated agents:
+
+1. the stream of sense consciousness (_viññāṇa_).
+
+2. a bhikkhu's mind (_citta_).
+
+3. a bhikkhu (_bhikkhu_)
+
+We illustrate this in three paragraphs:
+
+==== 1) Liberation of the stream of sense consciousness (viññāṇa)
+
+____
+Bhikkhus, if a bhikkhu has abandoned attachment to bodily form, with the 
+abandonment of attachment the basis is removed: there is no establishment of 
+his stream of sense consciousness.
+
+_Rūpadhātuyā ce bhikkhave bhikkhuno rāgo pahīno hoti rāgassa pahānā 
+vocchijjatārammaṇaṃ patiṭṭhā viññāṇassa na hoti_
+____
+
+If he has abandoned attachment
+
+- to the phenomenon of sense impression...
+
+- to the phenomenon of perception...
+
+- to the phenomenon of intentional activities...
+
+- to the phenomenon of advertence,
+
+____
+with the abandonment of attachment the basis is removed: there is no 
+establishment of his stream of sense consciousness.
+
+_vedanādhātuyā .. saññādhātuyā... saṅkhāradhātuyā... 
+viññāṇadhātuyā ce bhikkhave bhikkhunā rāgo pahīno hoti. Rāgassa 
+pahānā vocchijjatārammaṇaṃ patiṭṭhā viññāṇassa na hoti_
+____
+
+[quote, S.3.53]
+____
+When the stream of sense consciousness is unestablished, not [egoistically] 
+matured, without the performance of [karmically consequential deeds], it is 
+liberated [from perceptually obscuring states].
+
+_tadappatiṭṭhitaṃ viññāṇaṃ avirūḷhaṃ anabhisaṅkhacca 
+vimuttaṃ._
+____
+
+==== 2) Liberation of a bhikkhu's mind (cittaṃ)
+
+[quote, S.3.45]
+____
+If a bhikkhu's mind is unattached to bodily form... advertence, it is liberated 
+from perceptually obscuring states through being without grasping.
+
+_Rūpadhātuyā... viññāṇadhātuyā ce bhikkhave bhikkhuno cittaṃ 
+virattaṃ vimuttaṃ hoti anupādāya āsavehi._
+____
+
+==== 3) Liberation of a bhikkhu
+
+____
+In this regard, having seen any kind of bodily form... advertence according to 
+reality with perfect penetrative discernment as "not [in reality] mine," "not 
+&#8203;[in reality] what I am," "not my [absolute] Selfhood," a bhikkhu is liberated 
+&#8203;[from perceptually obscuring states] through being without grasping.
+
+_Idha aggivessana bhikkhu yaṃ kiñci rūpaṃ atītānāgata paccuppannaṃ 
+ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā 
+paṇītaṃ vā yaṃ dūre sannike vā sabbaṃ rūpaṃ n'etaṃ mama 
+n'eso'hamasmi na me so attā ti evametaṃ yathābhūtaṃ sammappaññāya 
+disvā anupādā vimutto hoti._
+____
+
+_Yā kāci vedanā... saññā... saṅkhārā... viññāṇaṃ..._ (M.1.235).
+
+.Illustration
+====
+suvimutta
+
+liberated [from perceptually obscuring states]
+====
+
+____
+Householder, in regards to bodily form... advertence
+
+_Rūpadhātuyā... Viññāṇadhātuyā kho gahapati_
+____
+
+____
+... through the destruction, fading away, ending, giving up, and relinquishment 
+of fondness, attachment, spiritually fettering delight, craving, clinging, 
+grasping, obstinate adherence, stubborn attachment, and identification
+
+_yo chando yo rāgo yā nandi yā taṇhā ye upayupādānā cetaso 
+adhiṭṭhānābhinivesānusayā tesaṃ khayā virāgā nirodhā cāgā 
+paṭinissaggā_
+____
+
+[quote, S.3.13]
+____
+... one's mind is said to be liberated [from perceptually obscuring states].
+
+_cittaṃ suvimuttan ti vuccati._
+____
+
+Comment:
+
+_Chando, rāgo_ etc are therefore perceptually obscuring states (_āsavas_).
+
+.Illustration
+====
+suvimutta
+
+liberated [from perceptually obscuring states]
+====
+
+____
+He should overcome attachment to forms, sounds, tastes, smells, and tangible 
+objects.
+
+_Rūpesu saddesu atho rasesu gandhesu phassesu sahetha rāgaṃ_
+____
+
+[quote, Sn.v.974-5]
+____
+Through eliminating his fondness for these things, the bhikkhu, being mindful, 
+is one whose mind is liberated [from perceptually obscuring states].
+
+_Etesu dhammesu vineyya chandaṃ bhikkhu satimā suvimuttacitto._
+____
+
+Comment:
+
+_Chanda_ is a therefore perceptually obscuring state (_āsava_).
+
+.Illustration
+====
+suvimuttaṃ
+
+liberated [from perceptually obscuring states]
+====
+
+____
+In what way is a bhikkhu's mind liberated [from perceptually obscuring states]?
+
+_Kathañca bhikkhave bhikkhu suvimuttacitto hoti:_
+____
+
+In this regard a bhikkhu's mind is liberated from
+
+____
+attachment
+
+_rāgā cittaṃ vimuttaṃ hoti_
+____
+
+____
+hatred
+
+_dosā cittaṃ vimuttaṃ hoti_
+____
+
+[quote, A.5.31]
+____
+undiscernment of reality
+
+_mohā cittaṃ vimuttaṃ hoti._
+____
+
+Comment:
+
+_Rāgā, dosā,_ and _mohā_ are therefore perceptually obscuring states 
+(_āsavas_).
+
+.Illustration
+====
+suvimutta
+
+liberated [from perceptually obscuring states]
+====
+
+____
+In what way is a bhikkhu one who knows that his mind is liberated [from 
+perceptually obscuring states]?
+
+_Kathañca bhikkhave bhikkhu suvimuttapañño hoti? Idha bhikkhave bhikkhu_
+____
+
+In this regard a bhikkhu knows that his
+
+- attachment
+
+- hatred
+
+- undiscernment of reality
+
+[quote, A.5.32]
+____
+is abandoned, chopped down at the root, completely and irreversibly destroyed, 
+never to arise again in future.
+
+_rāgo... doso... moho me pahīno ucchinnamūlo tālāvatthukato 
+anabhāvaṃkato āyatiṃ anuppādadhammoti pajānāti._
+____
+
+Comment:
+
+_Rāgā, dosā,_ and _mohā_ are therefore perceptually obscuring states 
+(_āsavas_).
+
+.Illustration
+====
+suvimuttan
+
+liberated [from perceptually obscuring states]
+====
+
+[quote, S.4.142]
+____
+With the destruction of spiritually fettering delight and attachment one's mind 
+is said to be liberated [from perceptually obscuring states].
+
+_nandirāgakkhayā cittaṃ suvimuttan ti vuccati._
+____
+
+Comment:
+
+_Nandirāga_ are therefore perceptually obscuring states (_āsavas_).
+
+.Illustration
+====
+vimutto
+
+liberated [from perceptually obscuring states]
+====
+
+____
+And what is the individual liberated [from perceptually obscuring states] both 
+through [penetrative discernment and through attaining the immaterial states of 
+awareness]?
+
+_Katamo ca bhikkhave puggalo ubhatobhāgavimutto_
+____
+
+[quote, M.1.477-9]
+____
+In this regard, some person abides touching with his very being those 
+immaterial states of awareness, those peaceful states of refined awareness that 
+transcend the refined material states of awareness, and by seeing [reality] 
+with penetrative discernment, his perceptually obscuring states are destroyed.
+
+_idha bhikkhave ekacco puggalo ye te santā vimokkhā atikkamma rūpe āruppā 
+te kāyena phassitvā viharati paññāya cassa disvā āsavā parikkhīṇā 
+honti._
+____
+
+Comment:
+
+_Vimutto_ thus means _āsavā parikkhīṇā honti_.
+
+.Illustration
+====
+vimutti
+
+liberation [from perceptually obscuring states]
+====
+
+[quote, Vin.1.22; S.1.105]
+____
+Through proper contemplation, through proper and right inward striving, I 
+attained and realised the unsurpassed liberation [from perceptually obscuring 
+states].
+
+_mayhaṃ kho bhikkhave yoniso manasikārā yoniso sammappadhānā anuttarā 
+vimutti anuppattā anuttarā vimutti sacchikatā._
+____
+
+.Illustration
+====
+vimutto
+
+liberated [from perceptually obscuring states], permanently
+====
+
+[quote, A.5.336]
+____
+A bhikkhu who is permanently liberated [from perceptually obscuring states] 
+does not see in himself anything still to be done inwardly, or any need to 
+increase what has been done.
+
+_bhikkhu asamayavimutto karaṇīyaṃ attano na samanupassati katassa vā 
+paṭicayaṃ._
+____
+

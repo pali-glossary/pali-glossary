@@ -1,0 +1,563 @@
+== Maññati
+
+=== Renderings
+
+- _maññati_: to think
+
+- _maññati_: to think appropriate
+
+- _maññati_: to think of in personal terms
+
+- _maññati_: to think 'I am'
+
+- _maññita_: thinking in personal terms
+
+=== Introduction
+
+==== Think: rhetorical questions
+
+As a rhetorical introduction to a question, the Buddha would ask what people 
+thought:
+
+- 'What do you think, bhikkhus (_taṃ kiṃ maññatha bhikkhave_)? Is bodily 
+form lasting or unlasting?' (S.3.187).
+
+- 'What do you think, bhikkhus (_taṃ kiṃ maññatha bhikkhave_)? Which is 
+the greater, this small stone I have picked up, the size of my hand, or the 
+Himalayas, the king of mountain ranges?' (M.3.166).
+
+- What do you think, Kālāmas (_taṃ kiṃ maññatha kālāmā_)? Does greed 
+arise for one's benefit or harm? (A.1.189).
+
+==== To think
+
+_Maññati_ sometimes means 'to think':
+
+[quote, Sn.v.840]
+____
+'I think such teaching is truly foolish'
+
+_maññāmahaṃ momūhameva dhammaṃ._
+____
+
+[quote, Vin.2.203]
+____
+'Whoever might think he could pollute the sea with a pot of poison would not be 
+able to do so
+
+_samuddaṃ visakumbhena yo maññeyya padūsituṃ._
+____
+
+[quote, M.2.2]
+____
+Groups of ascetics would sit quietly, hoping that the Buddha 'might think of 
+approaching'
+
+_upasaṅkamitabbaṃ maññeyyā._
+____
+
+==== Think appropriate
+
+_Maññati_ also means 'to think appropriate.' When the matted-hair ascetic 
+Kassapa of Uruvelā wanted to receive ordination, the Buddha told him to 
+consult his group of five hundred ascetics 'so that they can do what they think 
+appropriate' (_yathā te maññissanti tathā karissantī ti_).' That is, 
+whether or not to likewise receive ordination (Vin.1.32).
+
+==== Think of in personal terms
+
+_Maññati_ also means thinking of something in personal terms, or to 'think "I 
+am."' This is the special meaning of _maññati_. For example, a bhikkhu 
+'should not think "I am part of solidness"' (_paṭhaviyā mā maññi_). The 
+past participle _maññita_ is used as the corresponding noun. PED (sv 
+_Maññita_) calls it: 'illusion, imagination'). We say 'thinking in personal 
+terms':
+
+• And what is the way that is appropriate for uprooting all thinking in 
+personal terms (_sabbamaññita_)? In this regard a bhikkhu does not think of 
+the visual sense in personal terms (_na maññati_), does not think (_na 
+maññati_) 'I am part of the visual sense,' does not think 'I am separate from 
+the visual sense,' does not think the visual sense is "[in reality] mine" +
+_Katamā ca sā bhikkhave sabbamaññitasamugghātasāruppapaṭipadā idha 
+bhikkhave bhikkhu cakkhuṃ na maññati cakkhusmiṃ na maññati cakkhuto na 
+maññati cakkhuṃ meti na maññati_ (S.4.22).
+
+==== On resorting to brackets
+
+Although translators agree to this special meaning of _maññati_, 'thinking in 
+personal terms,' they usually resort to brackets. For example, Horner says 'he 
+thinks (of self) in (regard to) extension' (Horner, MLS.1.4).
+
+Bodhi, too, uses brackets, explaining that _maññati_ is often used to mean 
+'the intrusion of the egocentric perspective' (MLDB n.6). In translating the 
+_Mūlapariyāya Sutta_ he therefore introduces the word 'himself,' but in 
+brackets:
+
+[quote, Bodhi, M.1.1]
+____
+'Having perceived earth as earth, he conceives [himself as] earth, he conceives 
+&#8203;[himself] in earth, he conceives [himself apart] from earth, he conceives earth 
+to be 'mine.'
+
+_paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati paṭhaviyā 
+maññati paṭhavito maññati paṭhaviṃ me ti maññati._
+____
+
+Adding brackets tends to suggest that _maññati_ does not have the full 
+meaning one is giving it. We treat it as if it does.
+
+=== Illustrations
+
+.Illustration
+====
+maññati
+
+think of in personal terms; maññati, think 'I am'; maññati, think
+====
+
+• The ignorant Everyman +
+_assutavā puthujjano_
+
+• perceives solidness to be solidness; +
+_paṭhaviṃ paṭhavito sañjānāti_
+
+• Having done so, he thinks of solidness in personal terms; +
+_paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati_
+
+• He thinks 'I am part of solidness,' +
+_paṭhaviyā maññati_
+
+• He thinks 'I am separate from solidness,' +
+_paṭhavito maññati_
+
+• He thinks that solidness is "[in reality] mine." +
+_paṭhaviṃ me ti maññati_
+
+• He takes delight in solidness. +
+_paṭhaviṃ abhinandati_
+
+• For what reason? He does not profoundly understand it. +
+_Taṃ kissa hetu? Apariññātaṃ tassā ti vadāmi_ (_Mūlapariyāya Sutta_, 
+M.1.1).
+
+Comment:
+
+I render the locative case as 'part of,' and the ablative case as 'separate 
+from' for the following reasons:
+
+1. The Locative shows the place in or on which a thing or person is, or an 
+action is done and is therefore expressed as in, on, upon, at (PGPL, para601).
+
+2. The primary meaning of the Ablative is expressed by the word 'from,' namely 
+separation, and other relations in which the idea of separation is more or less 
+discernible (e.g. he fell from the horse) (PGPL, para 600).
+
+.Illustration
+====
+maññati
+
+think of in personal terms; maññati, think 'I am'; maññati, think
+====
+
+• The bhikkhu who is an arahant +
+_bhikkhu arahaṃ_
+
+• fully understands solidness to be solidness +
+_so pi paṭhaviṃ paṭhavito abhijānāti_
+
+• Fully understanding solidness to be solidness +
+_paṭhaviṃ paṭhavito abhiññāya_
+
+• he does not think of solidness in personal terms +
+_paṭhaviṃ na maññati_
+
+• He does not think 'I am part of solidness' +
+_paṭhaviyā na maññati_
+
+• He does not think 'I am separate from solidness' +
+_paṭhavito na maññati_
+
+• He does not think solidness is "[in reality] mine" +
+_paṭhaviṃ me ti na maññati_
+
+• He does not take delight in solidness +
+_paṭhaviṃ nābhinandati_
+
+• For what reason? He profoundly understands it, I declare +
+_Taṃ kissa hetu? Pariññātaṃ tassā ti vadāmi_ (M.1.4).
+
+.Illustration
+====
+maññati
+
+think of in personal terms
+====
+
+____
+Man is subject to torment;
+
+_ayaṃ loko santāpajāto_
+____
+
+____
+Afflicted by sensation,
+
+_phassapareto_
+____
+
+____
+He calls an illness 'endowed with personal qualities';
+
+_rogaṃ vadati attato_
+____
+
+____
+But whatsoever one thinks of in personal terms
+
+_yena yena hi maññati_
+____
+
+[quote, Ud.32]
+____
+It is different than [how one thinks of it],
+
+_tato taṃ hoti aññathā._
+____
+
+.Illustration
+====
+maññati
+
+think of in personal terms; maññati, think 'I am'
+====
+
+____
+The Perfect One in seeing what is to be seen, does not think of what is seen in 
+personal terms.
+
+_tathāgato daṭṭhā daṭṭhabbaṃ diṭṭhaṃ na maññati._
+____
+
+____
+He does not think of what is not seen in personal terms
+
+_Adiṭṭhaṃ na maññati._
+____
+
+____
+He does not think of what should be seen in personal terms
+
+_Daṭṭhabbaṃ na maññati._
+____
+
+[quote, A.2.25]
+____
+He does not think 'I am the seer.'
+
+_Daṭṭhāraṃ na maññati._
+____
+
+.Illustration
+====
+maññati: think 'I am'
+
+____
+The Brahman speaks thus:
+
+_brāhmaṇo evamāha_
+____
+
+____
+All states of individual existence are unlasting
+
+existentially void, destined to change
+====
+
+_sabbe bhavā aniccā dukkhā vipariṇāmadhammā ti._
+____
+
+• In so saying +
+_iti vadaṃ brāhmaṇo_
+
+• he speaks truth not falsehood _saccaṃ +
+☸ āha no musā_
+
+____
+he does not think 'I am an ascetic'
+
+_so tena na samaṇo ti maññati_
+____
+
+____
+he does not think 'I am a Brahmanist'
+
+_na brāhmaṇo ti maññati_
+____
+
+____
+he does not think 'I am better'
+
+_na seyyo'hamasmī ti maññati_
+____
+
+____
+he does not think 'I am equal'
+
+_na sadiso'hamasmī ti maññati_
+____
+
+[quote, A.2.176-7]
+____
+he does not think 'I am worse'
+
+_na hīno'hamasmī ti maññati._
+____
+
+.Illustration
+====
+maññati: think 'I am'
+
+____
+If one profoundly understands what can be expressed
+
+and does not think 'I am the expressor.'
+====
+
+_Akkheyyañca pariññāya akkhātāraṃ na maññati_
+____
+
+[quote, It.53]
+____
+The mind's deliverance [from perceptually obscuring states] is achieved, the 
+unsurpassed Peaceful State.
+
+_Phūṭṭho vimokkho manasā santipadamanuttaraṃ._
+____
+
+.Illustration
+====
+maññati: think 'I am'
+
+[quote
+
+M.3.45]
+====
+
+____
+The arahant does not think 'I am something'; he does not think 'I am 
+somewhere'; he does not think 'I am due to something.'
+
+_na kiñci maññati na kuhiñci maññati na kenaci maññatī ti._
+____
+
+.Illustration
+====
+maññati
+
+think of in personal terms
+====
+
+The _Sappurisa Sutta_ (M.3.42) compares the common person and the spiritually 
+outstanding person (a__sappuriso__ and _sappuriso_). When the common person 
+(a__sappuriso__) gains first jhāna, he thinks
+
+____
+'I am an attainer of the first jhāna; these other bhikkhus are not'
+
+_ahaṃ khomhi paṭhamajjhānasamāpattiyā lābhī ime panaññe bhikkhū na 
+paṭhamajjhānasamāpattiyā lābhino ti_
+____
+
+____
+He thereby exalts himself and disparages others
+
+_attānukkaṃseti paraṃ vambheti_
+____
+
+When a spiritually outstanding person gains jhāna, he thinks:
+
+____
+'The perception that "It is void of personal qualities" even concerning the 
+attainment of the first jhāna has been spoken of by the Blessed One
+
+_paṭhamajjhānasamāpattiyāpi kho atammayatā vuttā bhagavatā_
+____
+
+____
+For whatsoever one thinks of in personal terms, it is different than [how one 
+thinks of it]
+
+_yena yena hi maññati tato taṃ hoti aññathā_
+____
+
+Comment:
+
+_Maññati_ means 'think of in personal terms,' which is seen in the thoughts 
+of the a__sappuriso__, dominated by _ahaṃ_.
+
+.Illustration
+====
+maññati
+
+think; maññati, think of in personal terms
+====
+
+____
+See the world [of beings] with its devas entrenched in [attachment to] 
+denomination-and-bodily-form. It thinks what is void of personal qualities is 
+endowed with personal qualities. It thinks 'This is true [to its appearance].'
+
+_Anattani attamāniṃ passa lokaṃ sadevakaṃ niviṭṭhaṃ 
+nāmarūpasmiṃ idaṃ saccan ti maññati._
+____
+
+____
+But whatsoever they think of in personal terms is different [from how they 
+think of it].
+
+_Yena yena hi maññanti tato taṃ hoti aññathā_
+____
+
+____
+For it is untrue to itself.
+
+_taṃ hi tassa musā hoti_
+____
+
+[quote, Sn.v.756-7]
+____
+That which is transitory is intrinsically false indeed.
+
+_mosadhammaṃ hi ittaraṃ._
+____
+
+.Illustration
+====
+maññita
+
+thinking in personal terms
+====
+
+____
+'I am,' is a matter of thinking in personal terms
+
+_asmī ti maññitametaṃ_
+____
+
+____
+'I am this,' is a matter of thinking in personal terms
+
+_ayamahamasmī ti maññitametaṃ_
+____
+
+____
+'I will be,' is a matter of thinking in personal terms
+
+_bhavissan ti maññitametaṃ_
+____
+
+____
+'I will not be,' is a matter of thinking in personal terms
+
+_na bhavissan ti maññitametaṃ_
+____
+
+____
+'I will be material,' is a matter of thinking in personal terms
+
+_rūpi bhavissanti maññitametaṃ_
+____
+
+____
+'I will be immaterial,' is a matter of thinking in personal terms
+
+_arūpī bhavissan ti maññitametaṃ_
+____
+
+____
+'I will be aware,' is a matter of thinking in personal terms
+
+_saññībhavissan ti maññitametaṃ_
+____
+
+____
+'I will be unaware,' is a matter of thinking in personal terms
+
+_asaññī bhavissan ti maññitametaṃ_
+____
+
+____
+'I will be neither aware nor unaware,' is a matter of thinking in personal terms
+
+_nevasaññināsaññī bhavissan ti maññitametaṃ_
+____
+
+[quote, S.4.203]
+____
+Thinking in personal terms is an illness, a carbuncle, a [piercing] arrow. 
+Therefore train yourselves with the thought, 'We will live with minds free of 
+thinking in personal terms'
+
+_maññitaṃ bhikkhave rogo maññitaṃ gaṇḍo maññitaṃ sallaṃ 
+tasmātiha bhikkhave amaññamānena cetasā viharissāmāti evaṃ hi vo 
+bhikkhave sikkhitabbaṃ._
+____
+
+.Illustration
+====
+maññita
+
+thinking in personal terms; maññati, think of in personal terms; maññati, 
+think 'I am'; maññati, think
+====
+
+____
+And what is the way that is appropriate for uprooting all thinking in personal 
+terms?
+
+_Katamā ca sā bhikkhave sabbamaññitasamugghātasāruppapaṭipadā_
+____
+
+____
+In this regard a bhikkhu does not think of the visual sense in personal terms
+
+_cakkhuṃ na maññati_
+____
+
+____
+does not think 'I am part of the visual sense'
+
+_cakkhusmiṃ na maññati_
+____
+
+____
+does not think 'I am separate from the visual sense'
+
+_cakkhuto na maññati_
+____
+
+[quote, S.4.22]
+____
+does not think the visual sense is "[in reality] mine"
+
+_cakkhuṃ me ti na maññati._
+____
+
+.Illustration
+====
+amaññissaṃ
+
+think appropriate
+====
+
+[quote, D.2.352]
+____
+'I was so pleased and satisfied with Master Kassapa's first parable, I wanted 
+to hear his brilliant replies to these other various questions. So I thought it 
+appropriate to treat Master Kassapa as an opponent.
+
+_Purimeneva ahaṃ opammena bhoto kassapassa attamano abhiraddho. Api cāhaṃ 
+imāni vicitrāni pañhāpaṭibhānāni sotukāmo evāhaṃ bhavantaṃ 
+kassapaṃ paccanīkaṃ kātabbaṃ amaññissaṃ._
+____
+

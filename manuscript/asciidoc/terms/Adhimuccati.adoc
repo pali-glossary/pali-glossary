@@ -1,0 +1,208 @@
+== Adhimuccati
+
+=== Renderings
+
+- _adhimuccati_: to focus on
+
+- _adhimuccati_: to be intent upon
+
+- _adhimuccati_: to be decided about
+
+=== Introduction: correcting the texts
+
+==== Reading vimuccati as adhimuccati
+
+Both VRI and BJT Pāli editions agree that the word sequence _cittaṃ 
+pakkhandati pasīdati santiṭṭhati_ is followed by either _vimuccati_ or 
+_adhimuccati_. In every case we prefer _adhimuccati_. The commentaries support 
+us in two cases. The readings are as follows:
+
+- D.3.240: _santiṭṭhati vimuccati_ (Commentary: _Na vimuccatī ti 
+nādhimuccati_).
+
+- M.1.186: _santiṭṭhati adhimuccati_
+
+- M.1.435: _santiṭṭhati vimuccati_
+
+- M.3.104: _santiṭṭhati adhimuccati_
+
+- M.3.112: _santiṭṭhati vimuccati_
+
+- A.2.166: _santiṭṭhati adhimuccati_
+
+- A.3.245: _santiṭṭhati vimuccati_ (Commentary: _Na vimuccatī ti na 
+adhimuccati_).
+
+- A.4.235: _santiṭṭhati vimuccati_
+
+- A.4.438-48: _santiṭṭhati vimuccati_
+
+==== Horner vs. Trenkner
+
+Concerning the occurrence at M.1.435, Horner praises the reading _pakkhandati 
+pasīdati santiṭṭhati vimuccati_, saying:
+
+- 'The compilers were right to vary the last of the four verbs' (note to 
+M.1.435).
+
+However, she admits that in saying so she contradicts Trenkner, who 'says he 
+should have adopted' _adhimuccati_.
+
+==== Bodhi: adhimuccati 'makes better sense'
+
+Bodhi supports Trenckner. In notes to the _Aṅguttara_ references he says:
+
+- 'Though all three editions here read _vimuccati_, Mp [commentary] glosses the 
+word with _adhimuccati_. The latter makes better sense to me. The manuscript 
+traditions, as well as printed editions, show irregular variations between 
+these two readings throughout the Nikāyas.' (note to A.3.245, NDB n.1206).
+
+- Mp glosses _vimuccati_ here as "liberated from the opposing qualities" 
+(_paccanlkadhammehi ca vimuccati_). Since all three editions, with the support 
+of Mp [commentary], have _vimuccati_, I translate in conformity with this 
+reading, but I think it likely that the original reading was _adhimuccati_, 
+"resolved upon" or "focused on." As the text unfolds with respect to the 
+successive meditative attainments, in each case the bodhisatta is 
+_vimuccati/adhimuccati_ upon the attainment before he actually achieves it. In 
+such a context being "focused on" rather than "liberated in" makes better sense 
+(note to A.4.439, NDB n.1943).
+
+==== Conclusion
+
+At all references we read _adhimuccati._
+
+=== Illustrations
+
+.Illustration
+====
+adhimucceyya
+
+focus on
+====
+
+[quote, A.3.340-1]
+____
+A bhikkhu with psychic power and mental mastery could, if he wished, focus on 
+the solidness of that wooden log.
+
+_Ākaṅkhamāno āvuso bhikkhu iddhimā cetovasippatto amuṃ dārukkhandhaṃ 
+paṭhavītveva adhimucceyya._
+____
+
+.Illustration
+====
+adhimutto
+
+focused on
+====
+
+[quote, M.2.13; A.4.307]
+____
+One is focused exclusively on the Exquisite. This is the third state of refined 
+awareness.
+
+_Subhanteva adhimutto hoti. Ayaṃ tatiyo vimokkho._
+____
+
+.Illustration
+====
+adhimuccati
+
+intent upon
+====
+
+[quote, S.4.119]
+____
+In seeing a visible object via the visual sense, a bhikkhu is not intent upon 
+an agreeable visible object, nor troubled by a disagreeable visible object.
+
+_Idha bhikkhu cakkhunā rūpaṃ disvā piyarūpe rūpe nādhimuccati 
+appiyarūpe rūpe na vyāpajjati._
+____
+
+.Illustration
+====
+adhimuccati
+
+intent upon
+====
+
+[quote, A.3.245]
+____
+A bhikkhu when contemplating sensuous pleasure his mind does not become 
+energised, serene, settled, and intent upon it. But when contemplating the 
+practice of unsensuousness his mind becomes energised, serene, settled, and 
+intent upon it.
+
+_Idha bhikkhave bhikkhuno kāmaṃ manasikaroto kāmesu cittaṃ na pakkhandati 
+nappasīdati na santiṭṭhati na vimuccati (read as adhimuccati. See IGPT sv 
+Adhimuccati). Nekkhammaṃ kho panassa manasikaroto nekkhamme cittaṃ 
+pakkhandati pasīdati santiṭṭhati vimuccati (read as adhimuccati. See IGPT 
+sv Adhimuccati)._
+____
+
+.Illustration
+====
+nādhimuccati
+
+undecided about
+====
+
+____
+One is unsure, doubtful, undecided about, and has no faith in
+
+_idhāvuso bhikkhu satthari... dhamme... saṅghe... sikkhāya... kaṅkhati 
+vicikicchati nādhimuccati na sampasīdati_
+____
+
+- the [perfection of the] Teacher's [transcendent insight]
+
+- the [significance of the] teaching
+
+- the [praiseworthiness of the] community of disciples' [application to the 
+practice]
+
+- the [significance of the] training (D.3.237-8).
+
+.Illustration
+====
+nādhimuccati
+
+undecided
+====
+
+Three states of unsureness (_tisso kaṅkhā_)
+
+____
+One is unsure
+
+_kaṅkhati_
+____
+
+____
+one is doubtful about
+
+_vicikicchati_
+____
+
+____
+one is undecided
+
+_nādhimuccati_
+____
+
+____
+one is unsettled
+
+_na sampasīdati_
+____
+
+• about the [nature of reality in the] periods of the past, the future, and 
+the present. +
+☸ _atītaṃ vā addhānaṃ ārabbha kaṅkhati vicikicchati nādhimuccati 
+na sampasīdati +
+☸ anāgataṃ vā addhānaṃ ārabbha kaṅkhati vicikicchati nādhimuccati 
+na sampasīdati +
+☸ etarahi vā paccuppannaṃ addhānaṃ ārabbha kaṅkhati vicikicchati 
+nādhimuccati na sampasīdati_ (D.3.217).
+

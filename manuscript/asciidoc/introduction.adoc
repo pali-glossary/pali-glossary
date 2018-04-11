@@ -1,0 +1,302 @@
+= Introduction
+
+== Glossary: methodology
+
+This Glossary was originally conceived of as a way of supporting my own 
+translations. Preparing it first of all involved gathering all instances of 
+words in question together with their contexts. It would then usually become 
+clear that words carried different meanings in different contexts. This was in 
+accordance with the findings in Pāli dictionaries, which rarely consist of an 
+explanation by a single word. The excerpts I found could then be divided into 
+groups accordingly. Finding the correct English term for Pāli words when they 
+are grouped on the same page turned out to be altogether easier than working 
+with single passages or sentences and experimenting with terms in one's head. 
+By following this method, and sorting and resorting groups of quotes over days, 
+months, or even years, continuously applying the find-and-replace tool, 
+shifting backwards and forwards nearly two million words, it eventually 
+confirmed or denied choices of my original renderings, and led to increasing 
+confidence in my findings. Such a system of translation is only possible with 
+computer leverage. With computers, Pāli studies have entered a new era.
+
+=== Occam's Razor
+
+One of my guiding principles has been, having divided quotations into groups, 
+to minimise the number of these groups and word renderings. This is in 
+accordance with the 'principle of parsimony' (Occam's Razor), the principle 
+that 'entities should not be multiplied needlessly; the simplest of two 
+competing theories is to be preferred' (WordWeb).
+
+=== Targeting the problematic and curious
+
+One could follow this method to the end, researching each and every word in the 
+scriptures, but my interest was primarily in the 300 words presented here, 
+targeting the problems and curiosities of Buddhism. Some terms, like 
+_viññāṇa_ or _saṅkhārā_ are genuinely important. Some are 
+long-standing puzzles, like _ādiccabandhu_ and _aṇḍabhūto_ and 
+_tathāgata_ -- the 'gnawn bones of exegisis,' says Mrs. Rhys Davids. I was 
+unwilling to test the limits of the reader's patience, therefore over 100 words 
+I researched, I have not presented. These other words are useful for hardcore 
+translators, but of no substantial interest to anyone else.
+
+My research inevitably drew me into fields of controversy, for example in the 
+word _dukkha_. Monier-Williams says although grammarians say _duḥkhā_ is 
+from _dus+kha_, it is more probably a Prākritised form for _duḥ+stha_. 
+Likewise, _sukhā_ is said to be from _su+kha_, but is possibly a Prākrit form 
+of _su+stha_. And whereas _khā_ means 'vacuity, empty space, air, ether, sky,' 
+_stha_ means 'standing, staying, abiding, being situated in, existing or being 
+in or on or among.' Our own studies suggest that both views are correct, and 
+that _sukha_ and _dukkha_ each have two roots. Thus the underlying sense of 
+_sukha_ and _dukkha_ is twofold.
+
+1. 'Standing well' and 'standing badly' support the connotations of pleasure 
+and pain.
+
+2. 'Vacuity' supports the connotation of insubstantiality.
+
+This leads us to rendering the _dukkha_ of the three characteristics 
+(_tilakkhaṇa_) as 'existentially void' and _sukha_ as 'existentially 
+substantial.'
+
+Another example of controversy is in treating the word _āsava_ as an 
+uncountable noun, as indeed the suttas treat it. For example, the scriptures 
+ask:
+
+____
+And what is _āsavo?_
+
+_katamo panāvuso āsavo_
+____
+
+The answer is:
+
+[quote, M.1.55]
+____
+There are these three _āsavas_:
+
+_Tayo'me āvuso āsavā._
+____
+
+This automatically bars countable nouns like 'canker' or 'taint.' But 
+'pollution,' for example, is uncountable, and so is 'perceptual obscuration,' 
+our preferred term, which we discuss sv _Āsava_.
+
+=== Coded Pāli
+
+One of my repeated discoveries has been that many Pāli terms are effectively 
+in code. For instance _nirodho_ is commonly translated as 'cessation.' But 
+cessaton of what? _Viññāṇa_ is translated as 'consciousness.' But 
+consciousness of what? The important terms that are coded in this way are:
+
+1. _vimutti_: liberation from _āsava_
+
+2. _nirodha_: ending of _saṅkhārā_
+
+3. _virāga_: non-attachment to _saṅkhārā_
+
+=== 'The scriptures': working definition
+
+The database of this Glossary is just twenty-seven of the volumes of the Pāli 
+Canon. I call these twenty-seven volumes 'the scriptures.'
+
+- _Dīgha Nikāya_, 3 volumes
+
+- _Majjhima Nikāya_, 3 volumes
+
+- _Saṃyutta Nikāya_, 5 volumes
+
+- _Aṅguttara Nikāya_, 5 volumes
+
+- _Khuddaka Nikāya_, 7 volumes (_Dhammapada, Udāna, Itivuttaka, Suttanipāta, 
+Theragāthā,_ and _Therīgāthā. Jātaka_ verses should also be included).
+
+- _Vinaya Piṭaka_, 4 volumes
+
+The decision to concentrate on these volumes is not without support. Abeynayake 
+says: 'The _Khuddaka Nikāya_ can be easily divided into two strata, one being 
+early, the other being late. The _Suttanipāta, Itivuttaka, Dhammapada, 
+Theragāthā, Therīgāthā, Udana_ and _Jataka_ [verses] belong to the early 
+strata. The [other] texts... can be categorised in the later stratum' _A 
+textual and historical analysis of the Khuddaka Nikāya_ (Colombo, 1984).
+
+Bodhi partly agrees, too. He says the style and contents of the early 
+_Khuddaka_ texts 'suggest they are of great antiquity.' The other texts, 
+including the _Paṭisambhidāmagga_ and the two _Niddesas_, 'represent the 
+standpoint of the Theravāda School and thus must have been composed during the 
+period of Sectarian Buddhism when the early schools had taken their separate 
+paths of doctrinal development (In the Buddha's Words, Wisdom 2005, p.146-7).
+
+=== Pāli database
+
+The Pāli database for this Illustrated Glossary is the digital edition of the 
+Sri Lanka Buddha Jayanti Tripiṭaka (http:// jbe.gold.ac.uk/palicanon.html). 
+Because proofreading for this edition is incomplete I have also referred to the 
+Vipassana Research Institute's Chaṭṭha Saṅgāyana Tipiṭaka 4.0, and to 
+the Pāli Text Society editions.
+
+=== Steep learning curve
+
+I have been unsparing in my review of the chosen words, the translations of 
+many of which have stood unchallenged for over a century. For readers content 
+with these venerable terms, my work cannot possibly be aimed to please them. 
+The problem is not just in my reviewing occasional English terms for Pāli 
+words, as all translators do, but in the relentless combination of such 
+changes. This will be a challenge not only for the reader. The instinct to 
+reject the unfamiliar stands against an easy acceptance of this Glossary and of 
+my studies. Nonetheless, those who persist in studying the material here, will, 
+I hope, find the treasures I have found myself.
+
+Venerable Varado
+
+Sri Lanka, Vassa 2017
+
+== Bibliography
+
+=== Translators and editors
+
+- Ānandajoti Bhikkhu: www. ancient-buddhist-texts.net
+
+- Bodhi Bhikkhu: Middle Length Discourses of the Buddha (Wisdom, 1995); 
+Connected Discourses of the Buddha (Wisdom, 2000); Numerical Discourses of the 
+Buddha (Wisdom, 2012).
+
+- Geiger W., A Pāli Grammar (Pāli Text Society 1994)
+
+- Hare E.M: Gradual Sayings (Pāli Text Society, 1932-4).
+
+- Horner I.B.: Books of Discipline (Pāli Text Society, 1938-1952); Middle 
+Length Sayings (Pāli Text Society, 1954-1959).
+
+- Ireland, J.D: The Udāna and the Itivuttaka (Buddhist Publication Society, 
+1997).
+
+- Norman K.R: Group of Discourses (Pāli Text Society, 2006) and Elders' Verses 
+I and II (Pāli Text Society, 1971, 1989).
+
+- Rhys Davids T.W.: Dialogues of the Buddha (Pāli Text Society, 1899).
+
+- Rhys Davids T.W. & W. Stede: Pāli-English Dictionary (Pāli Text Society, 
+1905).
+
+- Ṭhānissaro Bhikkhu: Access to Insight website (www. accesstoinsight.org).
+
+- Walshe M.O'C: Long Discourses of the Buddha (Wisdom, 1987)
+
+- Warder A.K., Introduction to Pāli (Pāli Text Society 2001)
+
+- Woodward F.L: Gradual Sayings (Pāli Text Society, 1932-6).
+
+=== Organisations
+
+- Access to Insight for www. accesstoinsight.org.
+
+- Sri Lanka Tripiṭaka Project and the Journal of Buddhist Ethics for the free 
+public-domain digital edition of the Sri Lanka Buddha Jayanti Tripiṭaka.
+
+- Vipassana Research Institute: Chaṭṭha Saṅgāyana CD-ROM (www. 
+vri.dhamma.org) and Chaṭṭha Saṅgāyana Tipiṭaka 4.0).
+
+== Abbreviations
+
+=== Pāli references
+
+Pāli references are to the volume and page number of the Pāli Text Society 
+editions. These references are also to be found in the digital edition of the 
+Sri Lanka Buddha Jayanti Tripiṭaka (BJT), and also in the Vipassana Research 
+Institute Chaṭṭha Saṅgāyana version (VRI). But in this Glossary, 
+references to the Dhammapada, Suttanipāta, Theragāthā and Therīgāthā are 
+marked as either verse numbers or page numbers. For example, 'Sn.p.1' or 
+'Sn.v.1.'
+
+The following abbreviations are used:
+
+- D: Dīgha Nikāya
+
+- M: Majjhima Nikāya
+
+- S: Saṃyutta Nikāya
+
+- A: Aṅguttara Nikāya
+
+- Dh: Dhammapada
+
+- Ud: Udāna
+
+- It: Itivuttaka
+
+- Sn: Suttanipāta
+
+- Th: Theragāthā
+
+- Thi: Therīgāthā
+
+- Vin: Vinaya Piṭaka
+
+=== Translations
+
+The following abbreviations are used:
+
+- BD: Books of Discipline, translation of Vinaya Piṭaka by I.B. Horner.
+
+- BS: the Buddha's Sayings, translation of Itivuttaka by J.D. Ireland.
+
+- CDB: Connected Discourses of the Buddha, translation of the Saṃyutta 
+Nikāya by B. Bodhi.
+
+- DB: Dialogues of the Buddha, translation of Dīgha Nikāya by T.W. Rhys Davids
+
+- EVI and EVII: Elders' Verses I and II, translation of Theragāthā and 
+Therīgāthā by K.R. Norman
+
+- GD, Group of Discourses, translation of Suttanipāta by K.R. Norman
+
+- GS, Gradual Sayings, translation of Aṅguttara Nikāya by E.M. Hare and F.L. 
+Woodward.
+
+- IUB: Inspired Utterances of the Buddha, translation of Udāna by J.D. Ireland
+
+- LDB: Long Discourses of the Buddha: translation of Dīgha Nikāya by M.O'C. 
+Walshe
+
+- MLDB: Middle Length Discourses of the Buddha, translation of Majjhima Nikāya 
+by B. Bodhi.
+
+- MLS: Middle Length Sayings, I.B. Horner's translation of the Majjhima Nikāya.
+
+- NDB: Numerical Discourses of the Buddha, translation of the Aṅguttara 
+Nikāya by B. Bodhi.
+
+- UAI: The Udana and the Ittivuttaka, translation by J.D. Ireland.
+
+=== Dictionaries and Grammar Books
+
+The following abbreviations are used:
+
+- BDPPN: Buddhist Dictionary of Pāli Proper Names by Malalasekara (Pāli Text 
+Society, 1937-8).
+
+- DOP: A Dictionary of Pāli by M. Cone (Pāli Text Society, 2001).
+
+- PED: Pāli-English Dictionary by T.W. Rhys Davids & W. Stede (Pāli Text 
+Society).
+
+- PGPL: A Practical Grammar of the Pāli Language by Duroiselle, C. (Buddha 
+Dharma Education Association, 1997).
+
+- SED: Sanskrit-English Dictionary by Monier-Williams M., 1960 (University 
+Press, Oxford).
+
+=== Grammar Resources
+
+- Duroiselle, C.: A Practical Grammar of the Pāli Language, Buddha Dharma 
+Education Association, 1997.
+
+- Warder, A.K.: Introduction to Pāli (Pāli Text Society, 2001).
+
+- Geiger, W., A Pāli Grammar, Pāli Text Society, 1994.
+
+- Ñāṇatusita Bhikkhu: Grammar Sheets, Kandy, 2005.
+
+== About the Author
+
+Venerable Varado was ordained in 1988 as a bhikkhu in Chithurst Buddhist 
+Monastery, England, by Venerable Ajahn Sumedho.

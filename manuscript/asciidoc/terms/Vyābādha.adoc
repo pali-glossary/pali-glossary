@@ -1,0 +1,78 @@
+== Vyābādha
+
+=== Renderings
+
+- _vyābādha_: trouble
+
+- _vyābādha_: harm
+
+=== Illustrations: vyābādha
+
+.Illustration
+====
+vyābādhiyiṃsū
+
+troubled
+====
+
+[quote, Vin.2.140]
+____
+A certain bhikkhu ate garlic, and sat down at a distance, thinking: "May the 
+bhikkhus not be troubled [by the stench of garlic]."
+
+_Aññatarena bhikkhunā lasunaṃ khāyitaṃ hoti. So mā bhikkhū 
+vyābādhiyiṃsū ti ekamantaṃ nisīdi._
+____
+
+.Illustration
+====
+veyyābādhikānaṃ
+
+troublesome
+====
+
+____
+Properly reflecting, he uses therapeutic requisites simply to ward off 
+troublesome feelings that have arisen and for maximum freedom from affliction.
+
+_Paṭisaṅkhā yoniso gilānapaccayabhesajjaparikkhāraṃ paṭisevati 
+yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya 
+avyābajjhaparamatāya._
+____
+
+Comment:
+
+_Veyy_- is a phonetic diaeretic form of _vy_- (PED).
+
+.Illustration
+====
+vyābādhāya
+
+harm
+====
+
+[quote, M.1.115]
+____
+This sensuous thought has arisen in me, but it leads to my own harm, the harm 
+of others, the harm of both.
+
+_uppanno kho me ayaṃ kāmavitakko. So ca kho attavyābādhāyapi saṃvattati 
+paravyābādhāyapi saṃvattati ubhayavyābādhāyapi saṃvattati._
+____
+
+.Illustration
+====
+vyābādhāya
+
+harm
+====
+
+[quote, S.4.339-340]
+____
+Because of attachment he is intent upon his own harm, upon the harm of others, 
+upon the harm of both.
+
+_rāgādhikaraṇaṃ attavyābādhāyapi ceteti paravyābādhāyapi ceteti 
+ubhayavyābādhāyapi ceteti._
+____
+

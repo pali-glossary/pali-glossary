@@ -1,0 +1,197 @@
+== Paṭigha
+
+=== Renderings
+
+- _paṭigha_: repugnance
+
+- _paṭigha_: repulsiveness
+
+- _paṭigha_: tangible
+
+- _paṭigha_: what is touched
+
+- _paṭigha_: physical sensation
+
+=== Illustrations
+
+.Illustration
+====
+paṭigha
+
+repugnance
+====
+
+[quote, S.5.315]
+____
+Having thoroughly dispelled the attitude of repugnance towards either internal 
+things or external things.
+
+_Ajjhattabahiddhā ca me dhammesu paṭighasaññā suppaṭivinītā._
+____
+
+.Illustration
+====
+paṭigha
+
+repugnance
+====
+
+[quote, Sn.v.148]
+____
+He would not wish for another's suffering out of anger, or from an attitude of 
+repugnance
+
+_Vyārosanā paṭighasaññā nāññamaññassa dukkhamiccheyya._
+____
+
+.Illustration
+====
+paṭighaṃ
+
+repugnance
+====
+
+[quote, S.4.195]
+____
+If desire, attachment, hatred, undiscernment of reality, or an attitude of 
+repugnance should arise in regard to visible objects known via the visual sense,
+
+_cakkhuviññeyyesu rūpesu uppajjeyya chando vā rāgo vā doso vā moho vā 
+paṭighaṃ vā cetaso tato cittaṃ nivāraye._
+____
+
+.Illustration
+====
+paṭigha
+
+repugnance
+====
+
+____
+The proclivity to attachment should be abandoned in regard to pleasant sense 
+impression.
+
+_sukhāya vedanāya rāgānusayo pahātabbo_
+____
+
+[quote, S.4.205]
+____
+The proclivity to repugnance should be abandoned in regard to unpleasant sense 
+impression.
+
+_dukkhāya vedanāya paṭighānusayo pahātabbo._
+____
+
+.Illustration
+====
+paṭighaṃ
+
+repugnance
+====
+
+[quote, S.4.71]
+____
+And in smelling a foul stench, dispel repugnance for the stench
+
+_Athopi ghātvā asuciṃ akantiyaṃ akantiyasmiṃ paṭighaṃ vinodaye._
+____
+
+.Illustration
+====
+paṭigha
+
+repulsiveness
+====
+
+____
+There is the quality of loveliness. Much improper contemplation in that regard 
+is a condition that nourishes both the arising of unarisen sensuous hankering, 
+and the increase and expansion of arisen sensuous hankering.
+
+_Atthi bhikkhave subhanimittaṃ. Tattha ayoniso manasikārabahulīkāro 
+ayamāhāro anuppannassa vā kāmacchandassa uppādāya uppannassa vā 
+kāmacchandassa bhiyyobhāvāya vepullāya._
+____
+
+[quote, S.5.64]
+____
+There is the quality of repulsiveness. Much improper contemplation in that 
+regard is a condition that nourishes both the arising of unarisen ill will, and 
+the increase and expansion of arisen ill will.
+
+_Atthi bhikkhave paṭighanimittaṃ. Tattha ayoniso manasikārabahulīkāro 
+ayamāhāro anuppannassa vā vyāpādassa uppādāya uppannassa vā 
+vyāpādassa bhiyyobhāvāya vepullāya._
+____
+
+.Illustration
+====
+paṭighaṃ
+
+tangible
+====
+
+____
+Threefold classification of matter
+
+_Tividhena rūpasaṅgaho_
+____
+
+1. visible and tangible matter;
++
+****
+_sanidassanasappaṭighaṃ rūpaṃ_
+****
+
+2. invisible and tangible matter;
++
+****
+_anidassanasappaṭighaṃ rūpaṃ_
+****
+
+3. invisible and intangible matter
++
+****
+_anidassanaappaṭighaṃ rūpaṃ_ (D.3.217).
+****
+
+.Illustration
+====
+paṭighe
+
+what is sensed
+====
+
+[quote, S.1.186]
+____
+People are ensnared by objects of attachment, by what is seen, heard, sensed, 
+and cognised
+
+_Upadhīsu janā gathitāse diṭṭhasute paṭighe ca mute ca._
+____
+
+Comment:
+
+_Diṭṭhasute paṭighe ca mute ca_ stands for the familiar tetrad: 
+_diṭṭha_, _suta_, _muta_, and _viññāta_.
+
+.Illustration
+====
+paṭigha
+
+physical sensation
+====
+
+[quote, D.1.183]
+____
+By completely transcending refined material states of awareness, with the 
+vanishing of states of refined awareness involving physical sensation, not 
+focusing upon states of refined awareness involving the external senses, a 
+bhikkhu enters and abides in the state of awareness of boundless space where 
+one perceives that space is boundless.
+
+_bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ 
+atthaṅgamā nānattasaññānaṃ amanasikārā ananto ākāso ti 
+ākāsānañcāyatanaṃ upasampajja viharati._
+____
+

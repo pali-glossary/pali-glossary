@@ -1,0 +1,197 @@
+== Dassana
+
+=== Renderings
+
+- _dassana_: vision
+
+- _dassana_: vision [of things according to reality]
+
+=== Introduction
+
+==== Dassana with an object
+
+_Dassana_ often has a specified object:
+
+- _dassanañca rūpānaṃ_: vision of shapes (M.3.160).
+
+- _bahiddhā parakāye ñāṇadassanaṃ_: knowledge and vision externally of 
+others' bodies [according to reality] (D.2.216).
+
+- _maggāmaggañāṇadassana_: knowledge and vision of what is the Path and 
+what is not the Path (M.1.149-150).
+
+==== Dassana without an object: 'things according to reality'
+
+Where _dassana_ does not have an object, the suttas show that 'things according 
+to reality' should be taken as the object, which we now explain. Firstly, 
+compare these quotes, which shows that _Sammādassanaṃ_ equals 
+_yathābhūtañāṇadassana_. _Yathābhūta_ means 'things according to 
+reality' (see Glossary sv _Yathābhūta_):
+
+1. Without knowledge and vision of things according to reality, for one lacking 
+in knowledge and vision of things according to reality, the condition for 
+disillusionment with and non-attachment [to originated phenomena] is cut off;
++
+****
+_Yathābhūtañāṇadassane asati yathābhūtañāṇadassanavipannassa 
+hatūpaniso hoti nibbidāvirāgo_ (A.3.19).
+****
+
+2. Right vision [of things according to reality], Rādha, is for the sake of 
+disillusionment [with originated phenomena].
++
+****
+_Sammādassanaṃ kho rādha nibbidatthaṃ_ (S.3.189).
+****
+
+==== Dassana without an object: 'transcendent insight'
+
+In this passage, _dassana_ ('vision [of things according to reality]') is a 
+synonym of _abhiññāya_ (transcendent insight), which proves its supermundane 
+connotations:
+
+____
+As the Blessed One explained the teaching to me with its increasingly higher 
+and more sublime levels, concerning what is inwardly dark and bright with their 
+correlative combinations, thus through transcendent insight (_abhiññāya_) 
+into a certain one of those teachings, I came to a conclusion about the 
+teachings. I gained faith in the Teacher thus:
+
+_Yathā yathā me āvuso bhagavā dhammaṃ deseti uttaruttariṃ 
+paṇītapaṇītaṃ kaṇhasukkasappaṭibhāgaṃ tathā tathāhaṃ 
+tasmiṃ dhamme abhiññāya idhekaccaṃ dhammaṃ dhammesu 
+niṭṭhamagamaṃ satthari pasīdiṃ_
+____
+
+____
+"The Blessed One is perfectly enlightened. The teaching is well explained by 
+the Blessed One. The community of disciples is applied to an excellent 
+practice.'
+
+_sammā sambuddho bhagavā svākkhāto bhagavatā dhammo supaṭipanno saṅgho 
+ti_
+____
+
+[quote, M.1.320]
+____
+When one's faith in the [perfection of the] Perfect One's [transcendent 
+insight] is settled, rooted, and established, and described in these terms, 
+words, and phrases, then one's faith is said to be supported by reasons, rooted 
+in vision [of things according to reality] (_dassana_), and firm. It is not 
+shakeable by any ascetic, Brahmanist, deva, māra, or brahmā, or by anyone in 
+the world.
+
+_Yassa kassa ci bhikkhave imehi ākārehi imehi padehi imehi vyañjanehi 
+tathāgate saddhā niviṭṭhā hoti mūlajātā patiṭṭhitā ayaṃ 
+vuccatī bhikkhave ākāravatī saddhā dassanamūlikā daḷhā asaṃhāriyā 
+samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci 
+vā lokasmiṃ._
+____
+
+==== Dhammadassana
+
+In the term _dhammadassanaṃ_, we take _dhamma_ as 'things,' and parenthesise 
+('according to reality') accordingly:
+
+[quote, Sn.v.204]
+____
+Therefore the wise person, remembering the Buddhas' training system, should 
+apply himself to faith [in the perfection of the Perfect One's transcendent 
+insight], to virtue, to serenity, and to vision of things [according to 
+reality].
+
+_Tasmā saddhañca sīlañca pasādaṃ dhammadassanaṃ +
+Anuyuñjetha medhāvī saraṃ buddhānaṃ sāsanan ti._
+____
+
+This is supported by a closely related phrase:
+
+[quote, Sn.v.478]
+____
+One who has knowledge and vision of all phenomena [according to reality]
+
+_sabbesu dhammesu ca ñāṇadassī._
+____
+
+=== Illustrations
+
+.Illustration
+====
+dassanaṃ
+
+vision
+====
+
+[quote, A.5.3]
+____
+It is quite natural that one who is disillusioned [with originated phenomena] 
+and unattached [to originated phenomena] will realise the knowledge and vision 
+that follows liberation [from perceptually obscuring states].
+
+_Dhammatā esā bhikkhave yaṃ nibbiṇṇo viratto vimuttiñāṇadassanaṃ 
+sacchikaroti._
+____
+
+.Illustration
+====
+dassana
+
+vision
+====
+
+[quote, M.1.207]
+____
+Good, good, Anuruddha. But while you abide thus diligently, vigorously, and 
+resolutely applied [to the practice], have you attained any superhuman 
+attainment of knowledge and vision that is truly noble, any comfortable abiding?
+
+_Sādhu sādhu anuruddhā. Atthi pana vo anuruddhā evaṃ appamattānaṃ 
+ātāpīnaṃ pahitattānaṃ viharataṃ uttarimanussadhammā 
+alamariyañāṇadassanaviseso adhigato phāsuvihāro ti._
+____
+
+.Illustration
+====
+dassanassa
+
+vision [of things according to reality]
+====
+
+[quote, Dh.v.274]
+____
+This [eightfold path] is the only way to purify one's vision [of things 
+according to reality]. There is no other.
+
+_Eso va maggo natthañño dassanassa visuddhiyā._
+____
+
+.Illustration
+====
+dassana
+
+vision [of things according to reality]
+====
+
+[quote, Sn.v.115]
+____
+The wise and noble man with perfect vision [of things according to reality] 
+partakes of the world of the fortunate.
+
+_Ariyo dassanasampanno sa lokaṃ bhajate sivan ti._
+____
+
+.Illustration
+====
+dassana
+
+vision [of things according to reality]
+====
+
+[quote, Th.v.45]
+____
+I am [now] a disciple of the Perfectly Enlightened One, with perfect vision [of 
+things according to reality].
+
+_dassanasampannaṃ sammāsambuddhasāvakan ti._
+____
+

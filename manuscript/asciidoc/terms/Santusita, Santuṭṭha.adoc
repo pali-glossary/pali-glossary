@@ -1,0 +1,384 @@
+== Santusita; Santuṭṭha
+
+=== Renderings
+
+- _santusitaṃ_: inwardly at peace
+
+- _santuṭṭha_: content [with what is paltry and easily gotten]
+
+- _santuṭṭha_: content
+
+- _itarītarena santuṭṭha_: content [with what is paltry and easily gotten]
+
+- _itarītarena cīvarena santuṭṭha_: content with any old robe whatsoever
+
+- _asantuṭṭha_: discontented
+
+=== Introduction
+
+==== PED definitions
+
+_Santusita_ and _Santuṭṭha_ are past participles of _santussati_, says PED, 
+which renders them:
+
+- _Santusita_: 'contented, pleased, happy.'
+
+- _Santuṭṭha_: 'pleased, happy.'
+
+We explain below why we reject both definitions.
+
+==== Santusita
+
+_Santusita_ is consistently associated with other words that indicate 
+arahantship. To render it 'content' does not represent this situation. 
+'Inwardly at peace' accords better with its usual contexts:
+
+[quote, Th.v.8]
+____
+He is heroic, inwardly at peace, and has overcome his unsureness [about the 
+significance of the teaching].
+
+_vīro santusito vitiṇṇakaṅkho._
+____
+
+[quote, S.3.54]
+____
+Being inwardly at peace, he is not apprehensive. Being not apprehensive, he 
+realises the Untroubled for himself.
+
+_Santusitattā na paritassati. Aparitassaṃ paccattaṃ yeva parinibbāyati._
+____
+
+For further examples, see Illustrations.
+
+==== Santuṭṭha: factor of asceticism (sāmaññaṅga)
+
+As a 'factor of asceticism' _santuṭṭha_ occurs in the phrase 'content with 
+what is paltry and easily gotten.' See the following quote. It therefore does 
+not mean 'content with what one has got':
+
+____
+Four things are paltry, easily gotten, and blameless. Which four?
+
+_Cattārimāni bhikkhave appāni ca sulabhāni ca anavajjāni tāni ca. 
+Katamāni cattāri?_
+____
+
+1. In the category of robes, a rag-robe is paltry, easily gotten, and blameless.
++
+****
+_Paṃsukūlaṃ bhikkhave cīvarānaṃ appañca sulabhañca tañca 
+anavajjaṃ_
+****
+
+2. In the category of meals, food gathered on almsround is paltry, easily 
+gotten, and blameless.
++
+****
+_Piṇḍiyālopo bhikkhave bhojanānaṃ appañca sulabhañca tañca 
+anavajjaṃ_
+****
+
+3. In the category of abodes, the root of a tree among abodes is paltry, easily 
+gotten, and blameless.
++
+****
+_Rukkhamūlaṃ bhikkhave senāsanānaṃ appañca sulabhañca tañca 
+anavajjaṃ_
+****
+
+4. In the category of remedies, concentrated urine is paltry, easily gotten, 
+and blameless.
++
+****
+_Pūtimuttaṃ bhikkhave bhesajjānaṃ appañca sulabhañca tañca anavajjaṃ_
+****
+
+____
+... These four things are paltry, easily gotten, and blameless.
+
+_Imāni kho bhikkhave cattāri appāni ca sulabhāni ca tāni anavajjāni_
+____
+
+[quote, A.2.27]
+____
+... When a bhikkhu is content with what is paltry and easily gotten, this is 
+one of the factors of asceticism, I declare.
+
+_Yato kho bhikkhave bhikkhu appena ca santuṭṭho hoti sulabhena ca. 
+Idamassāhaṃ aññataraṃ sāmaññaṅganti vadāmī ti._
+____
+
+Therefore where contexts indicate that 'content' or 'contentment' involve the 
+factors of asceticism, appropriate parenthesis should be used. For example:
+
+[quote, Vin.1.45]
+____
+Having spoken in dispraise of being discontented [with what is paltry and 
+easily gotten]...
+
+_asantuṭṭhiyā avaṇṇaṃ bhāsitvā._
+____
+
+[quote, Vin.1.45]
+____
+Having spoken in praise of being content [with what is paltry and easily 
+gotten]...
+
+_santuṭṭhassa vaṇṇaṃ bhāsitvā._
+____
+
+==== With itarītarena alone
+
+In some cases the object of _santuṭṭha_ is given as _itarītarena_. This 
+could be rendered as 'content with any old thing.' PED renders _itarītara_ as 
+'one or the other, whatsoever, any;' DOP says 'one or another; whatsoever, any 
+sort of.' Norman says 'whatever comes one's way' (Th.v.230). But we render it 
+by repeating the parenthesis given above. For example:
+
+[quote, Th.v.230]
+____
+One should be content [with what is paltry and easily gotten].
+
+_Itarītarena tusseyya._
+____
+
+Rendering _itarītarena_ as 'with what is paltry and easily gotten' has the 
+following advantages:
+
+1. it is precise
+
+2. it avoids possible misinterpretation ('content with anything whatsoever'). 
+But, for example, even Sāriputta's verses would deny a bhikkhu is 'content 
+with anything whatsoever':
+
+[quote, Th.v.985]
+____
+&#8203;[If] while seating cross-legged it does not rain on his knees, [this abode] is 
+sufficient for the abiding in comfort of a resolute bhikkhu.
+
+_Pallaṅkena nisinnassa jaṇṇuke nābhivassati +
+Alaṃ phāsuvihārāya pahitattassa bhikkhuno._
+____
+
+3. content [with what is paltry and easily gotten] anyway is the meaning of 
+'content with any old thing.'
+
+==== With itarītarena + explicit object
+
+When _itarītarena_ has an object, we say 'any old... whatsoever.' For example:
+
+[quote, A.3.146]
+____
+In this regard a bhikkhu is content with any old robe, almsfood, abode, and 
+therapeutic requisite whatsoever
+
+_Idha bhikkhave bhikkhu santuṭṭho hoti itarītarena cīvarena santuṭṭho 
+hoti itarītarena piṇḍapātena santuṭṭho hoti itarītarena senāsanena 
+santuṭṭho hoti itarītarena gilānapaccayabhesajjaparikkhārena._
+____
+
+==== Itarītarena santuṭṭhiṃ: contentment in relation to one or the other
+
+The Buddha has said:
+
+[quote, Vin.1.280]
+____
+'Whoever wishes may be a rag-robe wearer; whoever wishes may use robes given by 
+householders. And I praise contentment [with what is paltry and easily gotten] 
+in relation to one or the other.'
+
+_Yo icchati paṃsukūliko hotu. Yo icchati gahapaticīvaraṃ sādiyatu. 
+Itarītarenapahaṃ bhikkhave santuṭṭhiṃ vaṇṇemī ti._
+____
+
+It makes sense even concerning robes from householders to render 
+_santuṭṭhiṃ_ as 'contentment [with what is paltry and easily gotten],' 
+because even robes from householders may be paltry. It also makes sense to 
+render _itarītarena_ as 'in relation to one or the other,' not 'with any old 
+thing,' because:
+
+1. the dictionaries support it. PED: 'one or the other, whatsoever, any;' DOP: 
+'one or another; whatsoever, any sort of'
+
+2. it led the bhikkhus to think:
+
+[quote, Vin.1.282]
+____
+Only one (kind of) robe is allowed by the Blessed One, not two (kinds).
+
+_ekaṃyeva bhagavatā cīvaraṃ anuññātaṃ. Na dve ti._
+____
+
+This led to an extension of the allowance:
+
+[quote, Vin.1.282]
+____
+'I allow him who uses robes given by householders to also use rag-robes. And I 
+praise contentment [with what is paltry and easily gotten] in relation to both.'
+
+_Anujānāmi bhikkhave gahapaticīvaraṃ sādiyantena paṃsukūlampi 
+sādiyituṃ. Tadubhayenapahaṃ bhikkhave santuṭṭhiṃ vaṇṇemī ti.._
+____
+
+We must now discuss the meaning of _tadubhayenapahaṃ santuṭṭhiṃ 
+vaṇṇemī_
+
+==== Tadubhayenapahaṃ santuṭṭhiṃ vaṇṇemī
+
+_Tadubhayenapahaṃ santuṭṭhiṃ vaṇṇemī_ cannot mean 'I praise 
+contentment on account of having both,' because:
+
+1. It would make nonsense of the meaning of 'contentment.'
+
+2. It is not in accordance with the orthodox definition of _santuṭṭhi,_ 
+i.e. 'contentment [with what is paltry and easily gotten].'
+
+3. It does not correspond to the meaning we have given to _itarītarena_ in 
+this context, i.e. 'And I praise contentment [with what is paltry and easily 
+gotten] in relation to one or the other.'
+
+==== With aveccappasādena: blameworthy
+
+In relation to _aveccappasādena_, contentment is considered blameworthy:
+
+[quote, S.5.398]
+____
+Content with that unshakeable faith in the Buddha, he does not make further 
+effort for physical seclusion by day nor for solitary retreat at night.
+
+_So tena buddhe aveccappasādena santuṭṭho na uttariṃ vāyamati divā 
+pavivekāya rattiṃ paṭisallānāya._
+____
+
+==== Sadārasantuṭṭho
+
+_Sadārasantuṭṭho_ means 'content with one's wife,' which we render as 
+'happily married':
+
+[quote, A.5.138]
+____
+My paternal uncle Isidatta was not celibate but was happily married
+
+_Petteyyopi me bhante isidatto abrahmacārī ahosi sadārasantuṭṭho._
+____
+
+Bodhi likewise says: 'My paternal uncle Isidatta was not celibate but lived a 
+contented married life.'
+
+=== Illustrations
+
+.Illustration
+====
+santusito
+
+inwardly at peace
+====
+
+[quote, Th.v.981]
+____
+One whose conduct is [virtuously] restrained, who is tranquil and mindful, who 
+meditates with thought restrained, who is diligently applied [to the practice], 
+who finds inward delight, who is inwardly collected, who is unaccompanied [by 
+craving], and who is inwardly at peace, him they [rightly] call a bhikkhu.
+
+_Yathācārī yathāsato satimā yatasaṅkappajjhāyi appamatto +
+Ajjhattarato samāhitatto eko santusito tamāhu bhikkhuṃ._
+____
+
+.Illustration
+====
+santusito
+
+inwardly at peace
+====
+
+[quote, Th.v.6]
+____
+The bhikkhu who went to the Sītavana Wood is [now] unaccompanied [by craving], 
+inwardly at peace, inwardly collected, victorious [over all unvirtuous, 
+spiritually unwholesome factors], free of [fear and] terror, and resolutely 
+fostering mindfulness of the body.
+
+_Yo sītavanaṃ upāgā bhikkhu eko santusito samāhitatto +
+Vijitāvī apetalomahaṃso rakkhaṃ kāyagatāsatiṃ dhitimā ti._
+____
+
+COMMENT
+
+_Eko_: 'unaccompanied [by craving].' The significance of _eko_ is shown in this 
+quote:
+
+[quote, S.4.37]
+____
+Craving is his partner, and he has abandoned it; therefore he is called 'one 
+living unaccompanied.'
+
+_Taṇhā hissa dutiyā sāssa pahīnā tasmā ekavihārī ti vuccatī ti._
+____
+
+.Illustration
+====
+santuṭṭho
+
+content
+====
+
+[quote, Th.v.378]
+____
+Previously content with making sacrifices, led on by the phenomenon of sensuous 
+pleasure, I subsequently rooted out desire and hatred, and delusion, too.
+
+_Pubbe yaññena santuṭṭho kāmadhātupurakkhato +
+Pacchā rāgañca dosañca mohaṃ cā pi samūhaniṃ._
+____
+
+.Illustration
+====
+santuṭṭho
+
+content [with what is paltry and easily gotten]
+====
+
+[quote, D.1.71]
+____
+And how is a bhikkhu content [with what is paltry and easily gotten]? Here, a 
+bhikkhu is content with a robe to protect his body, and with almsfood to 
+satisfy his stomach
+
+_Kathañca mahārāja bhikkhu santuṭṭho hoti? Idha mahārāja bhikkhu 
+santuṭṭho hoti kāyaparihāriyena cīvarena kucchiparihāriyena 
+piṇḍapātena._
+____
+
+.Illustration
+====
+asantuṭṭho
+
+discontented
+====
+
+[quote, Sn.v.108]
+____
+One who is discontented with his own wives, and is seen in the company of 
+prostitutes and other mens' wives, that is the cause of spiritual ruination.
+
+_Sehi dārehi asantuṭṭho vesiyāsu padissati +
+Dissati paradāresu taṃ parābhavato mukhaṃ._
+____
+
+.Illustration
+====
+santusse
+
+content
+====
+
+[quote, Th.v.580]
+____
+And he should be content with even mediocre [food] and not wish for other very 
+flavoursome [food].
+
+_Lūkhena pi ca santusse nāññaṃ patthe rasaṃ bahuṃ._
+____
+

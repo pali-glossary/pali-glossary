@@ -1,0 +1,454 @@
+== Cetanā; Ceteti
+
+=== Renderings
+
+_• cetanā_: intentionality
+
+_• cetanā_: aspiration
+
+_• cetanā_: intention
+
+_• ceteti_: to be intent upon
+
+_• ceteti_: to act intentionally
+
+_• ceteti_: to aspire
+
+_• cetayitvā_: in applying intention
+
+=== Introduction
+
+==== Intention and intentionality
+
+_Cetanā_ can mean either intention or intentionality.
+
+- Intention means not 'action' but 'delayed action.' 'Intending to act' means 
+acting later, if at all.
+
+- Intentionality concerns the application of intention.
+
+The difference between intention and intentionality is crucial in relation to 
+_kamma_, where it is said:
+
+[quote, A.3.415]
+____
+Intentionality is karmically consequential conduct, I declare.
+
+_Cetanāhaṃ bhikkhave kammaṃ vadāmi._
+____
+
+Having the intention to make merit or demerit is action by way of the mind 
+only, whereas intentionality concerns all three modes: body, speech, and mind.
+
+==== Ceteti: to act intentionally
+
+This quote illustrates _ceteti_'s meaning 'to act intentionally.'
+
+____
+-- When pacing back and forth one brings about the death of many small beings. 
+What karmic consequence does the Nigaṇṭha Nātaputta describe for this?
+
+_so abhikkamanto paṭikkamanto bahū khuddake pāṇe saṅghātaṃ 
+āpādeti. Imassa pana gahapati nigaṇṭho nātaputto kaṃ vipākaṃ 
+paññāpetī ti_
+____
+
+• -- The Nigaṇṭha Nātaputta does not declare what is unintentional as 
+greatly blameworthy. +
+_Asañcetanikaṃ bhante nigaṇṭho nātaputto no mahāsāvajjaṃ 
+paññāpetī ti._
+
+____
+-- But what if one does it intentionally?
+
+_Sace pana gahapati cetetī ti._
+____
+
+____
+-- Then it is greatly blameworthy.
+
+_Mahāsāvajjaṃ bhante hotī ti._
+____
+
+____
+-- But under which [of the three categories] does the Nigaṇṭha Nātaputta 
+place intentionality?
+
+_Cetanaṃ pana gahapati nigaṇṭho nātaputto kismiṃ paññāpetī ti._
+____
+
+[quote, M.1.377]
+____
+-- Under the mental category, bhante.
+
+_Manodaṇḍasmiṃ bhante ti._
+____
+
+==== On absolutives
+
+_Cetayitvā_ is an absolutive, the most common connective in Pāli, being 
+almost equivalent to the word 'and,' says Duroiselle. It usually denotes one 
+action completed before another, and so may be translated by the word 'having' 
+followed by a past participle, for example _gantvā_, 'having gone' (PGPL, para 
+618, i).
+
+But the absolutive can sometimes be treated as a present participle. For 
+example: _idha āgantvā ahaṃ coraṃ passiṃ_ whilst coming here I saw a 
+thief (PGPL, para 618, vi). The present participle may generally be translated 
+by 'while, whilst,' thereby expressing contemporaneity of action (PGPL, para 
+619, i). For example, consider this quote:
+
+[quote, M.2.138]
+____
+The Buddha does not sit while grasping his chin with his hand
+
+_na ca pāṇinā hanukaṃ upādiyitvā nisīdati._
+____
+
+_Upādiyitvā_ must be treated as a present participle, otherwise the sentence 
+reads 'He sits down having not grasped his chin with his hand.'
+
+==== Cetayitvā
+
+The word _cetayitvā_ occurs just once in the scriptures: _cetayitvā kammaṃ 
+karoti kāyena vācāya manasā_ (A.3.415). Taken as a present participle, it 
+reads:
+
+- In applying intention, one undertakes karmically consequential conduct by way 
+of body, speech, or mind.
+
+But if taken as a classical 'having' absolutive, the sentence says:
+
+- Having intended, one undertakes conduct by way of body, speech, or mind.
+
+This would suggest that deeds follow a preceding intention, which is not 
+necessarily so. Having intended, one may not act accordingly. 'I intended to 
+make merit' does not mean I actually did so. Therefore _cetayitvā_ means 'in 
+applying intention,' as we have said.
+
+=== Illustrations
+
+.Illustration
+====
+cetanā
+
+intentionality
+====
+
+____
+What, Puṇṇa, is conduct that is neither-dark-nor-bright with 
+neither-dark-nor-bright karmic consequences that leads to the destruction of 
+karmically consequential conduct?
+
+_kammaṃ akaṇhaṃ asukkaṃ akaṇhāsukkavipākaṃ kammakkhayāya 
+saṃvattati_
+____
+
+____
+Where, Puṇṇa, there is the intentionality to abandon karmically 
+consequential conduct that is dark with dark karmic consequences, or bright 
+with bright karmic consequences, or dark-and-bright with dark-and-bright karmic 
+consequences
+
+_yamidaṃ kammaṃ kaṇhaṃ kaṇhavipākaṃ tassa pahānāya yā 
+cetanā... sukkaṃ sukkavipākaṃ tassa pahānāya yā cetanā... 
+kaṇhasukkaṃ kaṇhasukkavipākaṃ tassa pahānāya yā cetanā_
+____
+
+[quote, M.1.391]
+____
+... is called conduct that is neither-dark-nor-bright with 
+neither-dark-nor-bright karmic consequences that leads to the destruction of 
+karmically consequential conduct.
+
+_idaṃ vuccati puṇṇa kammaṃ akaṇhaṃ asukkaṃ 
+akaṇhāsukkavipākaṃ kammakkhayāya saṃvattati._
+____
+
+Comments:
+
+Horner: 'Where, Puṇṇa, there is the will to get rid of that deed that is 
+dark... bright... dark-and-bright... .' Horner's rendering of tatra is crucial.
+
+Bodhi: 'Therein, the volition to abandon the kind of action that is dark... 
+bright... dark-and-bright... .'
+
+.Illustration
+====
+cetanā
+
+intentionality; cetayitvā, in applying intention
+====
+
+[quote, A.3.415]
+____
+Intentionality is karmically consequential conduct, I declare. In applying 
+intention, one undertakes karmically consequential conduct by way of body, 
+speech, or mind.
+
+_Cetanāhaṃ bhikkhave kammaṃ vadāmi cetayitvā kammaṃ karoti kāyena 
+vācāya manasā._
+____
+
+.Illustration
+====
+cetanā
+
+intentionality
+====
+
+When bhikkhus suffered nocturnal emissions they asked the Buddha whether this 
+was also an offence, pointing out that 'intentionality is to be found there 
+also' (_atthi cettha cetanā labbhā ti_). The Buddha agreed but said it was 
+not subject to the rule (Vin.3.112).
+
+.Illustration
+====
+cetanā
+
+intentionality
+====
+
+[quote, M.1.53]
+____
+Sense impression, perception, intentionality, sensation, and the paying of 
+attention, are called 'denomination.'_
+
+_vedanā saññā cetanā phasso manasikāro idaṃ vuccatāvuso nāmaṃ._
+____
+
+.Illustration
+====
+cetanā
+
+intentionality; sañcetanā, intentionality
+====
+
+____
+What are intentional activities?
+
+_katame ca bhikkhave saṅkhārā_
+____
+
+____
+The aggregate of intentionality is sixfold:
+
+_chayime bhikkhave cetanākāyā_
+____
+
+____
+intentionality concerning visible objects
+
+_rūpasañcetanā_
+____
+
+____
+intentionality concerning audible objects
+
+_saddasañcetanā_
+____
+
+____
+intentionality concerning smellable objects
+
+_gandhasañcetanā_
+____
+
+____
+intentionality concerning tasteable objects
+
+_rasasañcetanā_
+____
+
+____
+intentionality concerning tangible objects
+
+_phoṭṭhabbasañcetanā_
+____
+
+[quote, S.3.60]
+____
+intentionality concerning mentally known objects
+
+_dhammasañcetanā._
+____
+
+.Illustration
+====
+cetanā
+
+intention
+====
+
+The man's
+
+- intention (_cetanā_) would be to get away [from a red-hot charcoal pit],
+
+- his desire (_patthanā_) would be to get away,
+
+- his resolve (_paṇidhi_) would be to get away.
+
+☸ _Atha kho bhikkhave tassa purisassa ārakāvassa cetanā ārakā patthanā 
+ārakā paṇidhi_ (S.2.99-100).
+
+.Illustration
+====
+ceteti
+
+is intent upon
+====
+
+[quote, A.4.118]
+____
+When the noble disciple is intent upon going forth from the household life into 
+the ascetic life, he is nearly in leaf, like the celestial coral tree of the 
+Tāvatiṃsa devas._
+
+_yasmiṃ samaye ariyasāvako agārasmā anagāriyaṃ pabbajjāya ceteti 
+paṇḍupalāso bhikkhave ariyasāvako tasmiṃ samaye hoti devānaṃva 
+tāvatiṃsānaṃ pāricchattako koviḷāro._
+____
+
+.Illustration
+====
+cetayamānassa
+
+intentionality; ceteyyaṃ, intent upon
+====
+
+____
+Poṭṭhapāda, once the bhikkhu is possessed of that preliminary state of 
+refined awareness, he proceeds from stage to stage till he reaches the highest 
+state of refined awareness.
+
+_Yato kho poṭṭhapāda bhikkhu idha sakasaññī hoti so tato amutra tato 
+amutra anupubbena saññaggaṃ phusati._
+____
+
+____
+Then, remaining in the highest state of refined awareness it occurs to him, 
+'Intentionality is worse for me, being free of intentionality is better.
+
+_Tassa saññagge ṭhitassa evaṃ hoti cetayamānassa me pāpiyo 
+acetayamānassa me seyyo_
+____
+
+____
+If I were to be intent upon or to aim [at anything further], these states of 
+refined awareness that I have attained would cease and less refined states of 
+refined awareness would arise in me._
+
+_Ahañceva kho pana ceteyyaṃ abhisaṅkhareyyaṃ imā ca me saññā 
+nirujjheyyuṃ aññā ca oḷārikā saññā uppajjeyyuṃ._
+____
+
+____
+How about if I were not to be intent upon or to aim [at anything further]?'
+
+_Yannūnāhaṃ na ceva ceteyyaṃ na cābhisaṅkhareyyan ti._
+____
+
+____
+So he is neither intent [upon anything], nor aims [at anything further].
+
+_So na ceva ceteti na cābhisaṅkharoti._
+____
+
+[quote, D.1.183-4]
+____
+And then, being not intent [upon anything], nor aiming [at anything further], 
+in him just these states of refined awareness cease, and other less refined 
+states of refined awareness do not arise.
+
+_Tassa acetayato anabhisaṅkharoto tā ceva saññā nirujjhanti aññā ca 
+oḷārikā saññā na uppajjanti._
+____
+
+.Illustration
+====
+ceteti
+
+to be intent upon
+====
+
+[quote, S.3.121]
+____
+Bhante, the bhikkhu Vakkali is intent upon deliverance [from perceptually 
+obscuring states].
+
+_vakkali bhante bhikkhu vimokkhāya cetetī ti._
+____
+
+.Illustration
+====
+ceteti
+
+to be intent upon
+====
+
+____
+And how does a spiritually outstanding person think?
+
+_Kathañca bhikkhave sappuriso sappurisacintī hoti_
+____
+
+[quote, M.3.21]
+____
+In this regard a spiritually outstanding person is not intent upon his own 
+harm, the harm of others, the harm of both.
+
+_idha bhikkhave sappuriso nevattavyābādhāya ceteti na paravyābādhāya 
+ceteti na ubhayavyābādhāya ceteti._
+____
+
+.Illustration
+====
+ceteti
+
+to be intent upon
+====
+
+[quote, Vin.2.197]
+____
+Those people who were of little faith [in the perfection of the Perfect One's 
+transcendent insight], spoke thus: The ascetic Gotama is extravagant and is 
+intent upon extravagance.
+
+_Samaṇo pana gotamo bāhuliko bāhullāya cetetī ti._
+____
+
+.Illustration
+====
+cetanāya
+
+aspiration
+====
+
+____
+For one who is virtuous, perfect in virtue, there is no need to harbour the 
+aspiration: 'May freedom from an uneasy conscience arise in me.
+
+_sīlavato bhikkhave sīlasampannassa na cetanāya karaṇīyaṃ 
+avippaṭisāro me uppajjatū ti._
+____
+
+[quote, A.5.3]
+____
+It is quite natural that this should happen.
+
+_dhammatā esā bhikkhave yaṃ sīlavato sīlasampannassa avippaṭisāro 
+uppajjati._
+____
+
+.Illustration
+====
+ceteti
+
+to aspire
+====
+
+• With sensation one experiences, with sensation one perceives, with 
+sensation one aspires. +
+_Phuṭṭho bhikkhave vedeti phuṭṭho sañjānāti phuṭṭho ceteti_ 
+(S.4.68).
+

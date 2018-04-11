@@ -1,0 +1,411 @@
+== Papañca
+
+=== Renderings
+
+- _papañcita_: entrenched perception
+
+- _papañca_: entrenched perception
+
+- _papañceti_: to perceptually entrench
+
+- _papañca_ (adj): entrenched
+
+- _papañcanāmarūpa_: perceptually entrenched denomination-and-bodily-form
+
+- _nippapañca_: unentrenched perception
+
+=== Introduction
+
+==== Papañceti
+
+The meaning of _papañceti_ ('to perceptually entrench') can be concisely 
+illustrated like this:
+
+[quote, M.1.111]
+____
+What one thinks about, one perceptually entrenches.
+
+_Yaṃ vitakketi taṃ papañceti._
+____
+
+==== Papañca: adjective
+
+The meaning of the adjective _papañca_ ('entrenched') can be concisely 
+illustrated like this:
+
+____
+Entrenched perception and conception are the source of thought.
+
+_Vitakko kho devānaminda papañcasaññāsaṅkhānidāno_
+____
+
+[quote, D.2.277]
+____
+When there is entrenched perception and conception, thought arises. Without 
+entrenched perception and conception, there is no thought._
+
+_papañcasaññāsaṅkhāya sati vitakko hoti papañcasaññāsaṅkhāya 
+asati vitakko na hotī ti._
+____
+
+==== Papañcanāmarūpa: adjective
+
+_Papañcanāmarūpaṃ_ occurs just once in the scriptures. We render it as 
+'perceptually entrenched denomination-and-bodily-form':
+
+[quote, Sn.v.530]
+____
+Having found out about perceptually entrenched denomination-and-bodily-form, 
+both internally and externally, and the origin of [mental] illness, and being 
+completely freed from all [mental] illness and its origin, and from bondage [to 
+individual existence], the one of such good qualities is rightly called 
+'well-informed.'
+
+_Anuvicca papañcanāmarūpaṃ +
+Ajjhattaṃ bahiddhā ca rogamūlaṃ +
+Sabbarogamūlabandhanā pamutto +
+Anuvidito tādi pavuccate tathattā._
+____
+
+==== Papañca: noun
+
+_Papañca_ is used as a noun ('entrenched perception'), like this:
+
+[quote, A.4.229]
+____
+This teaching is for those who take pleasure and delight in unentrenched 
+perception, not for those who take pleasure and delight in entrenched 
+perception.
+
+_nippapañcārāmassāyaṃ dhammo nippapañcaratino nāyaṃ dhammo 
+papañcārāmassa papañcaratinoti._
+____
+
+==== Papañcita: noun
+
+The past participle _papañcita_ is used as a noun like this:
+
+[quote, S.4.203]
+____
+The notion "I am" is a matter of entrenched perception.
+
+_asmī ti papañcitametaṃ._
+____
+
+==== Papañca: circular relationship to thought
+
+_Papañca's_ relationship to thought is circular:
+
+[quote, M.1.111]
+____
+What one thinks about, one perceptually entrenches.
+
+_Yaṃ vitakketi taṃ papañceti._
+____
+
+[quote, D.2.277]
+____
+Entrenched perception and conception are the source of thought.
+
+_Vitakko kho devānaminda papañcasaññāsaṅkhānidāno._
+____
+
+==== Papañca: in other terms
+
+_Papañca_ is alluded to in different ways, like this:
+
+1. _Niviṭṭhaṃ_: entrenched
+
+____
+See the world [of beings] with its devas entrenched in [attachment to] 
+denomination-and-bodily-form. It thinks what is void of personal qualities is 
+endowed with personal qualities. It thinks 'This is true [to its appearance].'
+
+_Anattani attamāniṃ passa lokaṃ sadevakaṃ niviṭṭhaṃ 
+nāmarūpasmiṃ idaṃ saccan ti maññati._
+____
+
+____
+But whatsoever they think of in personal terms is different [from how they 
+think of it].
+
+_Yena yena hi maññanti tato taṃ hoti aññathā_
+____
+
+[quote, Sn.v.756-7]
+____
+For it is untrue to itself. That which is transitory is intrinsically false 
+indeed.
+
+_Taṃ hi tassa musā hoti mosadhammaṃ hi ittaraṃ._
+____
+
+2. _Patiṭṭhitā_: entrenched
+
+____
+Beings who perceive [only] what can be expressed and are entrenched in what can 
+be expressed, not profoundly understanding what is expressed, they come under 
+the yoke of death;
+
+_Akkheyyasaññino sattā akkheyyasmiṃ patiṭṭhitā. +
+Akkheyyaṃ apariññāya yogamāyanti maccuno._
+____
+
+[quote, It.53]
+____
+But if one profoundly understands what can be expressed, and does not think 'I 
+am the expressor,' the mind's liberation is achieved, the unsurpassed Peaceful 
+State.
+
+_Akkheyyañca pariññāya akkhātāraṃ na maññati +
+Phūṭṭho vimokkho manasā santipadamanuttaraṃ._
+____
+
+=== Illustrations
+
+.Illustration
+====
+papañcita
+
+entrenched perception
+====
+
+____
+The notion "I am" is a matter of entrenched perception.
+
+_asmī ti papañcitametaṃ_
+____
+
+____
+'I am this' is a matter of entrenched perception.
+
+_ayamahamasmī ti papañcitametaṃ_
+____
+
+____
+'I will be' is a matter of entrenched perception.
+
+_bhavissan ti papañcitametaṃ_
+____
+
+____
+'I will not be' is a matter of entrenched perception.
+
+_na bhavissan ti papañcitametaṃ_
+____
+
+____
+Entrenched perception is an illness, a carbuncle, a [piercing] arrow.
+
+_papañcitaṃ bhikkhave rogo papañcitaṃ gaṇḍo papañcitaṃ sallaṃ_
+____
+
+[quote, S.4.203]
+____
+Therefore train yourselves with the thought, 'We will live with minds taking 
+delight in unentrenched perception
+
+_tasmātiha bhikkhave nippapañcārāmena cetasā viharissāmāti evaṃ hi vo 
+bhikkhave sikkhitabbaṃ._
+____
+
+.Illustration
+====
+papañcita
+
+entrenched perception
+====
+
+____
+The assertion that a Perfect One exists after death is a matter of entrenched 
+perception.
+
+_Hoti tathāgato parammaraṇā ti kho bhikkhu papañcitametaṃ_
+____
+
+[quote, A.4.69]
+____
+The assertion that a Perfect One does not exist after death is a matter of 
+entrenched perception.
+
+_Na hoti tathāgato parammaraṇā ti kho bhikkhu papañcitametaṃ._
+____
+
+.Illustration
+====
+nippapañca
+
+unentrenched perception; papañca, entrenched perception
+====
+
+[quote, A.4.229]
+____
+This teaching is for those who take pleasure and delight in unentrenched 
+perception, not for those who take pleasure and delight in entrenched 
+perception.
+
+_nippapañcārāmassāyaṃ dhammo nippapañcaratino nāyaṃ dhammo 
+papañcārāmassa papañcaratinoti._
+____
+
+.Illustration
+====
+papañceti
+
+perceptually entrenches; papañca, entrenched
+====
+
+____
+What one experiences, one perceives.
+
+_Yaṃ vedeti taṃ sañjānāti_
+____
+
+____
+What one perceives, one thinks about.
+
+_Yaṃ sañjānāti taṃ vitakketi._
+____
+
+____
+What one thinks about, one perceptually entrenches.
+
+_Yaṃ vitakketi taṃ papañceti_
+____
+
+[quote, M.1.111]
+____
+Due to what one perceptually entrenches, entrenched perception and conception 
+assail a man in relation to visible objects known via the visual sense whether 
+past, future, or present.
+
+_Yaṃ papañceti tatonidānaṃ purisaṃ papañcasaññāsaṅkhā 
+samudācaranti atītānāgatapaccuppannesu cakkhuviññeyyesu rūpesu._
+____
+
+.Illustration
+====
+papañca
+
+entrenched
+====
+
+[quote, Sn.v.916]
+____
+A wise person should completely destroy the origin of entrenched conception, 
+the notion "I am."
+
+_mūlaṃ papañcasaṅkhāya mantā asmī ti sabbamuparundhe._
+____
+
+.Illustration
+====
+papañca
+
+entrenched; papañcayantā, perceptually entrench
+====
+
+[quote, S.4.71]
+____
+When ordinary people with entrenched perceptions perceptually entrench and 
+perceive, they become attached.
+
+_Papañcasaññā itarītarā narā +
+Papañcayantā upayanti saññino._
+____
+
+.Illustration
+====
+nippapañca
+
+unentrenched perception
+====
+
+[quote, S.4.368-373]
+____
+What is unentrenched perception? The destruction of attachment, hatred, and 
+undiscernment of reality.
+
+_Katamañca bhikkhave nippapañcaṃ: yo bhikkhave rāgakkhayo dosakkhayo 
+mohakkhayo._
+____
+
+.Illustration
+====
+papañca
+
+entrenched
+====
+
+____
+For whatever the reason
+
+_yatonidānaṃ_
+____
+
+____
+that entrenched perception and conception assail a man
+
+_purisaṃ papañcasaññāsaṅkhā samudācaranti_
+____
+
+____
+if there is found nothing there to be delighted in, welcomed, or clung to
+
+_ettha ce natthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ_
+____
+
+____
+this is the end of the proclivity to attachment
+
+_rāgānusayānaṃ_
+____
+
+____
+this is the end of the proclivity to repugnance
+
+_paṭighānusayānaṃ_
+____
+
+____
+this is the end of the proclivity to dogmatism
+
+_diṭṭhānusayānaṃ_
+____
+
+____
+this is the end of the proclivity to doubt [about the significance of the 
+teaching]
+
+_vicikicchānusayānaṃ_
+____
+
+____
+this is the end of the proclivity to self-centredness
+
+_mānānusayānaṃ_
+____
+
+____
+this is the end of the proclivity to attachment to individual existence
+
+_bhavarāgānusayānaṃ_
+____
+
+____
+this is the end of the proclivity to uninsightfulness into reality
+
+_avijjānusayānaṃ_
+____
+
+• this is the end of the use of sticks and swords; quarrels, arguments, 
+disputes, strife, and malicious speech and lying_._
+
+[quote, M.1.109]
+____
+In this way these unvirtuous, spiritually unwholesome factors cease without 
+remainder
+
+_etthete pāpakā akusalā dhammā aparisesā nirujjhantī ti._
+____
+

@@ -1,0 +1,689 @@
+== Manasikāra
+
+=== Renderings
+
+- _manasikaroti_: to focus on
+
+- _manasikaroti_: to pay attention
+
+- _manasikaroti_: to think
+
+- _manasikaroti_: to contemplate
+
+- _manasikāra_: the paying of attention
+
+- _manasikāra_: contemplation
+
+=== Illustrations
+
+.Illustration
+====
+manasikareyyāsi
+
+focus on
+====
+
+[quote, A.4.86]
+____
+But if by abiding thus you do not shake off that torpor, then focus on the 
+mental image of light, concentrate on the mental image of day. As by day, so at 
+night; as at night, so by day.
+
+_No ce te evaṃ viharato taṃ middhaṃ pahīyetha tato tvaṃ moggallāna 
+ālokasaññaṃ manasikareyyāsi divāsaññaṃ adhiṭṭheyyāsi yathā 
+divā tathā rattiṃ yathā rattiṃ tathā divā._
+____
+
+.Illustration
+====
+manasikareyya
+
+focus on
+====
+
+____
+If a bhikkhu focuses exclusively on the practice of inward collectedness it is 
+likely that his mind will fall into indolence
+
+_ekantaṃ samādhinimittaññeva manasikareyya ṭhānaṃ taṃ cittaṃ 
+kosajjāya saṃvatteyya_
+____
+
+____
+If he focuses exclusively on the practice of effort it is likely that his mind 
+will fall into restlessness
+
+_ekantaṃ paggahanimittaññeva manasikareyya ṭhānaṃ taṃ cittaṃ 
+uddhaccāya saṃvatteyya_
+____
+
+[quote, A.1.256]
+____
+If he focuses exclusively on the practice of detached awareness it is likely 
+that his mind will be not properly collected for the destruction of 
+perceptually obscuring states
+
+_ekantaṃ upekkhānimittaññeva manasikareyya ṭhānaṃ taṃ cittaṃ na 
+sammā samādhiyetha āsavānaṃ khayāya._
+____
+
+.Illustration
+====
+manasikaroto
+
+focus on
+====
+
+____
+In tasting a tasteable object with mindfulness muddled
+
+_rasaṃ bhotvā sati muṭṭhā_
+____
+
+____
+Focusing on the agreeable aspect,
+
+_piyaṃ nimittaṃ manasikaroto_
+____
+
+____
+One experiences it with a mind of attachment
+
+_sārattacitto vedeti_
+____
+
+[quote, Th.v.800]
+____
+And persists in cleaving to it.
+
+_tañca ajjhosa tiṭṭhati._
+____
+
+.Illustration
+====
+manasikaroto
+
+focus on
+====
+
+[quote, M.1.119]
+____
+When a bhikkhu is focusing on an object that arouses unvirtuous, spiritually 
+unwholesome thoughts connected with desire, hatred, and undiscernment of 
+reality, he should focus on some other meditation object connected with what is 
+spiritually wholesome.
+
+_Idha bhikkhave bhikkhunā yaṃ nimittaṃ āgamma yaṃ nimittaṃ 
+manasikaroto uppajjanti pāpakā akusalā vitakkā chandūpasaṃhitāpi 
+dosūpasaṃhitāpi mohūpasaṃhitāpi tena bhikkhave bhikkhunā tamhā 
+nimittā aññaṃ nimittaṃ manasikātabbaṃ kusalūpasaṃhitaṃ._
+____
+
+.Illustration
+====
+manasikarotha
+
+pay attention
+====
+
+[quote, Sn.p.50]
+____
+Listen, pay careful attention, and I will speak
+
+_suṇātha sādhukaṃ manasikarotha bhāsissāmī ti._
+____
+
+.Illustration
+====
+manasikaroma
+
+pay attention
+====
+
+____
+I will recite the Pātimokkha with one and all of us present.
+
+_pātimokkhaṃ uddisissāmi taṃ sabbeva santā_
+____
+
+____
+Listen carefully. Pay attention.
+
+_sādhukaṃ suṇoma manasikaroma_
+____
+
+____
+Listen carefully [means]: pay attention as a matter of vital concern, apply 
+one's whole mind to it.
+
+_sādhukaṃ suṇomā ti aṭṭhikatvā manasikatvā sabbacetasā 
+samannāharāma_
+____
+
+[quote, Vin.1.103]
+____
+Pay attention (means): we listen with an undistracted and untroubled mind, 
+inwardly calm.
+
+_Manasikaromā ti ekaggacittā avikkhittacittā avisāhaṭa cittā nisāmema._
+____
+
+.Illustration
+====
+manasikareyya
+
+pay attention
+====
+
+____
+Suppose a young, foolish infant lying on his back, through the negligence of 
+the nurse puts a stick or stone into his mouth.
+
+_seyyathā pi bhikkhave daharo kumāro mando uttānaseyyako dhātiyā 
+pamādamanvāya kaṭṭhaṃ vā kaṭhalaṃ vā mukhe āhareyya_
+____
+
+[quote, A.3.6]
+____
+The nurse would quickly pay attention and quickly remove it.
+
+_tamenaṃ dhāti sīghasīghaṃ manasikareyya sīghasīghaṃ manasikaritvā 
+sighasīghaṃ āhareyya._
+____
+
+.Illustration
+====
+manasikāra
+
+the paying of attention
+====
+
+____
+All things stem from fondness.
+
+_Chandamūlakā āvuso sabbe dhammā_
+____
+
+____
+All things arise from the paying of attention.
+
+_manasikārasambhavā sabbe dhammā_
+____
+
+[quote, A.4.339]
+____
+Sensation is the origin of all things.
+
+_phassasamudayā sabbe dhammā._
+____
+
+.Illustration
+====
+manasikarotā
+
+attentive
+====
+
+[quote, A.2.187]
+____
+It is by dealing with him that a man's integrity is to be known. And that after 
+a long time not a short time, by one who is attentive not otherwise, by one 
+with penetrative discernment, not one who is void of penetrative discernment.
+
+_Saṃvohārena bhikkhave soceyyaṃ veditabbaṃ. Tañca kho dīghena addhunā 
+na ittaraṃ. Manasikarotā no amanasikārā paññavatā no duppaññenāti._
+____
+
+.Illustration
+====
+manasikātuṃ
+
+think
+====
+
+____
+In whatever quarter the bhikkhus live quarrelsome, cantankerous, contentious, 
+stabbing each other with verbal daggers it is unpleasant for me to even think 
+about that quarter, let alone visit.
+
+_Yassaṃ bhikkhave disāyaṃ bhikkhū bhaṇḍanajātā kalahajātā 
+vivādāpannā aññamaññaṃ mukhasattīhi vitudantā viharanti 
+manasikātumpi me esā bhikkhave disā na phāsu hoti pageva gantuṃ_
+____
+
+[quote, A.1.275]
+____
+In whatever quarter the bhikkhus dwell together in unity, on friendly terms, 
+without quarrelling, like milk and water mixed, viewing each other with 
+affection it is pleasant for me to visit that quarter, let alone think about it.
+
+_Yassaṃ bhikkhave disāyaṃ bhikkhū samaggā sammodamānā avivadamānā 
+khīrodakībhūtā aññamaññaṃ piyacakkhūhi sampassantā viharanti. 
+Gantumpi me esā bhikkhave disā phāsu hoti pageva manasikātuṃ._
+____
+
+.Illustration
+====
+manasikaroto
+
+contemplating
+====
+
+____
+When contemplating sensuous pleasure a bhikkhu's mind does not become 
+energised, serene, settled, and intent upon it.
+
+_Idha bhikkhave bhikkhuno kāmaṃ manasikaroto kāmesu cittaṃ na pakkhandati 
+nappasīdati na santiṭṭhati na vimuccati (read as adhimuccati. See IGPT sv 
+Adhimuccati)_
+____
+
+[quote, A.3.245]
+____
+But when contemplating the practice of unsensuousness his mind becomes 
+energised, serene, settled, and intent upon it.
+
+_Nekkhammaṃ kho panassa manasikaroto nekkhamme cittaṃ pakkhandati pasīdati 
+santiṭṭhati vimuccati (read as adhimuccati. See IGPT sv Adhimuccati)._
+____
+
+.Illustration
+====
+manasikaroti
+
+contemplates
+====
+
+____
+A woman contemplates the femininity in herself, the feminine occupation, ways 
+of behaviour, manners, desires, voice, and attractiveness. She is excited by 
+that, she takes delight in that.
+
+_Itthi bhikkhave ajjhattaṃ itthindriyaṃ manasikaroti itthikuttaṃ 
+itthākappaṃ itthividhaṃ itthicchandaṃ itthissaraṃ itthālaṅkāraṃ 
+sā tattha rajjati tatrābhiramati._
+____
+
+[quote, A.4.57]
+____
+Being thus excited and delighted, she contemplates the masculinity about her, 
+the masculine occupation, ways of behaviour, manners, desires, voice, and 
+attractiveness. She is excited by that, she takes delight in that.
+
+_Sā tattha rattā tatrābhiratā bahiddhā purisindriyaṃ manasikaroti 
+purisakuttaṃ purisākappaṃ purisavidhaṃ purisacchandaṃ purisassaraṃ 
+purisālaṅkāraṃ. Sā tattha rajjati tatrābhiramati._
+____
+
+.Illustration
+====
+manasikāra
+
+contemplating
+====
+
+[quote, S.5.84]
+____
+Bhikkhus, by much contemplating things that are a basis for attachment to 
+sensuous pleasure, unarisen sensuous hankering arises, and arisen sensuous 
+hankering increases and expands.
+
+_Kāmarāgaṭṭhāniyānaṃ bhikkhave dhammānaṃ manasikārabahulīkārā 
+anuppanno ceva kāmacchando uppajjati uppanno ca kāmacchando bhiyyobhāvāya 
+vepullāya saṃvattati._
+____
+
+.Illustration
+====
+manasikaroti
+
+contemplates
+====
+
+____
+Therein the learned noble disciple carefully and properly contemplates 
+dependent origination thus:
+
+_Tatra kho bhikkhave sutavā ariyasāvako paṭiccasamuppādaññeva 
+sādhukaṃ yoniso manasikaroti_
+____
+
+[quote, S.2.65]
+____
+'When there is this, that comes to be. With the arising of this, that arises. 
+Without this, that does not come to be. With the ending of this, that ceases.
+
+_iti imasmiṃ sati idaṃ hoti imassuppādā idaṃ uppajjati imasmiṃ asati 
+idaṃ na hoti imassanirodhā idaṃ nirujjhati._
+____
+
+.Illustration
+====
+manasikarotha
+
+contemplate
+====
+
+____
+Bhikkhus, contemplate the visual sense properly.
+
+_Cakkhuṃ bhikkhave yoniso manasikarotha_
+____
+
+[quote, S.4.142]
+____
+Recognise the unlastingness of the visual sense according to reality.
+
+_cakkhu aniccatañca yathābhūtaṃ samanupassatha._
+____
+
+.Illustration
+====
+manasikaroti
+
+contemplate
+====
+
+____
+The ignorant Everyman contemplates issues that should not be contemplated and 
+does not contemplate issues that should be contemplated
+
+_ye dhammā na manasikaraṇīyā te dhamme manasikaroti ye dhammā 
+manasikaraṇīyā te dhamme na manasikaroti_
+____
+
+____
+This is how he improperly contemplates
+
+_So evaṃ ayoniso manasikaroti_
+____
+
+____
+Was I in the past?
+
+_ahosiṃ nu kho ahaṃ atītamaddhānaṃ_
+____
+
+____
+Was I not in the past?
+
+_na nu kho ahosiṃ atītamaddhānaṃ_
+____
+
+____
+What was I in the past?
+
+_kinnu kho ahosiṃ atītamaddhānaṃ_
+____
+
+____
+How was I in the past?
+
+_kathaṃ nu kho ahosiṃ atītamaddhānaṃ_
+____
+
+____
+Having been what, what did I become in the past?
+
+_Kiṃ hutvā kiṃ ahosiṃ nu kho ahaṃ atītamaddhānaṃ_
+____
+
+____
+Shall I be in the future?
+
+_bhavissāmi nu kho ahaṃ anāgatamaddhānaṃ_
+____
+
+____
+Shall I not be in the future?
+
+_na nu kho bhavissāmi anāgatamaddhānaṃ_
+____
+
+____
+What shall I be in the future?
+
+_kinnu kho bhavissāmi anāgatamaddhānaṃ_
+____
+
+____
+How shall I be in the future?
+
+_kathaṃ nu kho bhavissāmi anāgatamaddhānaṃ_
+____
+
+____
+Having been what, what shall I become in the future?
+
+_kiṃ hutvā kiṃ bhavissāmi nu kho ahaṃ anāgatamaddhānan ti_
+____
+
+____
+Or else he is uncertain about the present in regard to himself
+
+_etarahi vā paccuppannaṃ addhānaṃ ajjhattaṃ kathaṅkathī hoti_
+____
+
+____
+Am I?
+
+_ahaṃ nu khosmi_
+____
+
+____
+Am I not?
+
+_no nu khosmi_
+____
+
+____
+What am I?
+
+_kinnu khosmi_
+____
+
+____
+How am I?
+
+_kathaṃ nu khosmi_
+____
+
+____
+Where has this being come from?
+
+_ayaṃ nu kho satto kuto āgato_
+____
+
+[quote, M.1.7-9]
+____
+Where will it go?
+
+_so kuhiṃ gāmī bhavissatī ti._
+____
+
+.Illustration
+====
+manasikaroti
+
+contemplates
+====
+
+____
+He properly contemplates: This is suffering
+
+_So idaṃ dukkhan ti yoniso manasikaroti_
+____
+
+____
+He properly contemplates: This is the origin of suffering... ...
+
+_ayaṃ dukkhasamudayo ti yoniso manasikaroti_
+____
+
+____
+He properly contemplates: This is the ending of suffering... ...
+
+_ayaṃ dukkhanirodho ti yoniso manasikaroti_
+____
+
+[quote, M.1.8]
+____
+He properly contemplates: This is the practice leading to the ending of 
+suffering.
+
+_ayaṃ dukkhanirodhagāminī paṭipadā ti yoniso manasikaroti._
+____
+
+.Illustration
+====
+manasikāro
+
+paying of attention
+====
+
+[quote, M.1.53]
+____
+Sense impression, perception, intentionality, sensation, and the paying of 
+attention, are called 'denomination.'_
+
+_Vedanā saññā cetanā phasso manasikāro idaṃ vuccatāvuso nāmaṃ._
+____
+
+.Illustration
+====
+manasikārā
+
+contemplation
+====
+
+____
+"Then it occurred to me:
+
+_tassa mayhaṃ bhikkhave etadahosi_
+____
+
+____
+'Without what, is there no old age and death? With the ending of what comes the 
+ending of old age and death?'
+
+_kimhi nu kho asati jarāmaraṇaṃ na hoti? Kissa nirodhā 
+jarāmaraṇanirodho ti?... jātiyā kho asati jarāmaraṇaṃ na hoti. 
+Jātinirodhā jarāmaraṇanirodho ti._
+____
+
+[quote, S.2.8-9]
+____
+Then through proper contemplation, there took place in me a realisation through 
+penetrative discernment: 'When there is no birth, there is no old age and 
+death. With the ending of birth comes the ending of old age and death.'
+
+_tassa mayhaṃ bhikkhave yoniso manasikārā ahu paññāya abhisamayo: 
+jātiyā kho asati jarāmaraṇaṃ na hoti jātinirodhā jarāmaraṇanirodho 
+ti._
+____
+
+.Illustration
+====
+manasikārā
+
+contemplation
+====
+
+____
+A certain bhikkhu who had gone for his daytime abiding kept thinking 
+unvirtuous, spiritually unwholesome thoughts, namely sensuous thought, 
+unbenevolent thought, malicious thought.
+
+_so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi. Seyyathīdaṃ 
+kāmavitakkaṃ vyāpādavitakkaṃ vihiṃsāvitakkaṃ._
+____
+
+____
+Then the deva inhabiting that woodland grove... addressed him in verse:
+
+_Atha kho yā tasmiṃ vanasaṇḍe adhivatthā devatā... taṃ bhikkhuṃ 
+gāthāhi ajjhabhāsi:_
+____
+
+[quote, S.1.203]
+____
+Through improper contemplation you are eaten by your thoughts. Having 
+relinquished what is improper, you should reflect properly.
+
+_Ayoniso manasikārā so vitakkehi khajjasi +
+Ayoniso paṭinissajja yoniso anuvicintaya._
+____
+
+.Illustration
+====
+manasikaroto
+
+contemplates
+====
+
+____
+When a bhikkhu improperly contemplates, unarisen perceptually obscuring states 
+arise, and arisen perceptually obscuring states increase.
+
+_Ayoniso bhikkhave manasikaroto anuppannā ceva āsavā uppajjanti uppannā ca 
+āsavā pavaḍḍhanti._
+____
+
+[quote, M.1.7]
+____
+When a bhikkhu properly contemplates, unarisen _āsavas_ do not arise, and 
+arisen _āsavas_ are abandoned.
+
+_Yoniso ca kho bhikkhave manasikaroto anuppannā ceva āsavā na uppajjanti 
+uppannā ca āsavā pahīyanti._
+____
+
+.Illustration
+====
+manasikāroti
+
+contemplation
+====
+
+____
+And what is the condition that nourishes mindfulness and full consciousness? 
+Proper contemplation, one should reply...
+
+_ko cāhāro satisampajaññassa yoniso manasikārotissa vacanīyaṃ..._
+____
+
+[quote, A.5.118]
+____
+And what is the condition that nourishes proper contemplation? Faith [in the 
+perfection of the Perfect One's transcendent insight], one should reply...
+
+_ko cāhāro yoniso manasikārassa saddhātissa vacanīyaṃ._
+____
+
+.Illustration
+====
+manasikāra
+
+contemplation
+====
+
+____
+Bhikkhus, whatever factors that are spiritually wholesome, part of what is 
+spiritually wholesome, pertaining to what is spiritually wholesome, they all 
+stem from proper contemplation, emanate from proper contemplation, and proper 
+contemplation is declared to be the chief among them.
+
+_Ye keci bhikkhave dhammā kusalā kusalabhāgiyā kusalapakkhiyā sabbe te 
+yoniso manasikāramūlakā yoniso manasikārasamosaraṇā yoniso manasikāro 
+tesaṃ dhammānaṃ aggamakkhāyati._
+____
+
+[quote, S.5.91]
+____
+When a bhikkhu is perfect in proper contemplation, it is to be expected that he 
+will develop and cultivate the seven factors of enlightenment.
+
+_yoniso manasikārasampannassetaṃ bhikkhave bhikkhuno pāṭikaṅkhaṃ 
+satta bojjhaṅge bhāvessati._
+____
+

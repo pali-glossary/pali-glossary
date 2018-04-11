@@ -1,0 +1,348 @@
+== Aveccappasāda
+
+=== Renderings
+
+- _aveccappasāda_: unshakeable faith
+
+- _aveccappasannā_: having unshakeable faith
+
+- _buddhe aveccappasāda_: unshakeable faith in the [perfection of the] 
+Buddha's [transcendent insight]
+
+- _dhamme aveccappasāda_: unshakeable faith in the [significance of the] 
+teaching
+
+- _saṅghe aveccappasāda_: unshakeable faith in the [praiseworthiness of the] 
+community of disciples' [application to the practice]
+
+=== Introduction
+
+==== Etymology: avecca
+
+The etymology and meaning of _avecca_ is at last clear, because whereas the PED 
+had said 'the form is not sufficiently clear semantically,' the DOP now 
+recognises it as an absolutive of _aveti_, to know. Therefore Th.v.497 can be 
+translated accordingly:
+
+[quote, Th.v.497]
+____
+One is neither a thief nor a sage by the word of another. But as one knows 
+oneself, the devas likewise know one too.
+
+_Na pare vacanā coro na pare vacanā muni +
+Attā ca naṃ yathāveti devā pi naṃ tathā vidū._
+____
+
+Notice that _veti_ in pāda c corresponds to _vidū_ in pāda d, from 
+_vindati_, to know.
+
+==== Avecca: meaning
+
+DOP says _avecca_ means 'having penetrated' or 'understanding.' Norman says 
+'having understood' or 'understanding':
+
+1. 'He who having understood the noble truths sees them [clearly]'
++
+****
+_Yo ariyasaccāni avecca passati_ (Norman, Sn.v.229).
+****
+
+2. 'Understanding all knowledge, you have revealed the doctrine, having 
+sympathy for beings.'
++
+****
+_Sabbaṃ tuvaṃ ñāṇamavecca dhammaṃ pakāsesi satte anukampamāno_ 
+(Norman, Sn.v.378).
+****
+
+DOP's 'having penetrated' makes better sense, and we have shown sv _Passati_ 
+that when it lacks an object, _passati_ means 'see [the nature of reality].' 
+Thus we translate the two verses as:
+
+1. He who, having penetrated the [four] noble truths, sees [the nature of 
+reality] (Sn.v.229).
+
+2. Having penetrated all knowledge, you have explained the teaching (Sn.v.378).
+
+Thus, so far, if _pasāda_ means 'faith,' _aveccappasāda_ means 'faith through 
+having penetrated.'
+
+==== Avecca and unshakability
+
+_Avecca_ is linked in the scriptures to unshakability, for example in this 
+verse:
+
+[quote, Sn.__v.22__9]
+____
+Like a locking-post firmly embedded in the ground that is unshakeable by the 
+winds of the four quarters, I declare, is the [quality of a] spiritually 
+outstanding person, who, having penetrated the [four] noble truths, sees [the 
+nature of reality].
+
+_Yathindakhīlo paṭhaviṃ sito siyā catubbhi vātehi asampakampiyo +
+Tathūpamaṃ sappurisaṃ vadāmi yo ariyasaccāni avecca passati._
+____
+
+If _avecca_ implies unshakability, then _aveccappasāda_ seems to mean faith 
+that is unshakeable on account of having penetrated profound truths.
+
+==== Faith is stabilised by knowledge: Sekha Sutta
+
+The theme of stabilising faith through knowledge is confirmed in the _Sekha 
+Sutta_, which says that noble knowledge [of things according to reality] 
+(_ariyañāṇaṃ_) stabilises four of the faculties, including the faculty of 
+faith (_saddhindriya_):
+
+[quote, S.5.228-9]
+____
+When noble knowledge [of things according to reality] has arisen in the noble 
+disciple, then there is stability and steadiness in four faculties. Which four? 
+The faculties of faith [in the perfection of the Perfect One's transcendent 
+insight], energetic application [to the practice], mindfulness, and inward 
+collectedness.
+
+_yato ca kho bhikkhave ariyasāvakassa ariyañāṇaṃ uppannaṃ hoti atha 
+catunnaṃ indriyānaṃ saṇṭhiti hoti atha catunnaṃ indriyānaṃ 
+avaṭṭhiti hoti. Katamesaṃ catunnaṃ saddhindriyassa viriyindriyassa 
+satindriyassa samādhindriyassa._
+____
+
+==== Faith is stabilised by knowledge: Vīmaṃsaka Sutta
+
+Likewise the _Vīmaṃsaka Sutta_. Here a disciple explains how his unshakeable 
+faith arose from transcendent insight into the teaching:
+
+____
+As the Blessed One explained the teaching to me with its increasingly higher 
+and more sublime levels, concerning what is inwardly dark and bright with their 
+correlative combinations, thus through transcendent insight into a certain one 
+of those teachings, I came to a conclusion about the teachings. I gained faith 
+in the Teacher thus: "The Blessed One is perfectly enlightened. The teaching is 
+well explained by the Blessed One. The community of disciples is applied to an 
+excellent practice."
+
+_Yathā yathā me āvuso bhagavā dhammaṃ deseti uttaruttariṃ 
+paṇītapaṇītaṃ kaṇhasukkasappaṭibhāgaṃ tathā tathāhaṃ 
+tasmiṃ dhamme abhiññāya idhekaccaṃ dhammaṃ dhammesu 
+niṭṭhamagamaṃ satthari pasīdiṃ sammā sambuddho bhagavā svākkhāto 
+bhagavatā dhammo supaṭipanno saṅgho ti._
+____
+
+[quote, M.1.320]
+____
+... Bhikkhus, when one's faith in the [perfection of the] Perfect One's 
+&#8203;[transcendent insight] is settled, rooted, and established, and described in 
+these terms, words, and phrases, then one's faith is said to be supported by 
+reasons, rooted in vision [of things according to reality], and firm. It is not 
+shakeable by any ascetic, Brahmanist, deva, māra, or brahmā, or by anyone in 
+the world.
+
+_Yassa kassa ci bhikkhave imehi ākārehi imehi padehi imehi vyañjanehi 
+tathāgate saddhā niviṭṭhā hoti mūlajātā patiṭṭhitā ayaṃ 
+vuccatī bhikkhave ākāravatī saddhā dassanamūlikā daḷhā asaṃhāriyā 
+samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci 
+vā lokasmiṃ._
+____
+
+==== Aveccappasāda: unshakeable faith
+
+In conclusion, _aveccappasāda_ implies a faith that is 'supported by reasons, 
+rooted in vision [of things according to reality], and firm. It is not 
+shakeable by any ascetic, Brahmanist, deva, māra, or brahmā.' We call it 
+'unshakeable faith.'
+
+==== Buddhe aveccappasāda
+
+A noble disciple who has unshakeable faith in the Buddha (_buddhe 
+aveccappasādena samannāgato hoti_) has come to the conclusion that:
+
+[quote, S.5.390]
+____
+He is indeed the Blessed One, the Arahant, the Perfectly Enlightened One, 
+perfect in insightfulness into reality and in conduct, the Sublime One, one who 
+knows the world [of phenomena] [according to reality], the unexcelled trainer 
+of men to be tamed, the teacher of devas and men, the Enlightened One, the 
+Blessed One.
+
+_iti pi so bhagavā arahaṃ sammā sambuddho vijjācaraṇasampanno sugato 
+lokavidu anuttaro purisadammasārathī satthā devamanussānaṃ buddho 
+bhagavā ti._
+____
+
+According to this, the noble disciple's faith is not in the person of the 
+Buddha, but in the perfection of his transcendent insight. This is in 
+accordance with the definition of _saddhindriyaṃ_ which is linked to 
+_tathāgatassa bodhiṃ_:
+
+[quote, S.5.196]
+____
+And what is the faculty of faith? In this regard, the noble disciple has faith. 
+He has faith in the [perfection of the] Perfect One's transcendent insight: 'He 
+is indeed the Blessed One, the Arahant, the Perfectly Enlightened One, perfect 
+in insightfulness into reality and in conduct, the Sublime One, one who knows 
+the world [of phenomena] [according to reality], the unexcelled trainer of men 
+to be tamed, the teacher of devas and men, the Enlightened One, the Blessed 
+One.'
+
+_Katamañca bhikkhave saddhindriyaṃ idha bhikkhave ariyasāvako saddho hoti 
+saddahati tathāgatassa bodhiṃ iti pi so bhagavā arahaṃ sammāsambuddho 
+vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathī satthā 
+devamanussānaṃ buddho bhagavā ti. Idaṃ vuccati bhikkhave saddhindriyaṃ._
+____
+
+Therefore 'unshakeable faith in the Buddha' means 'unshakeable faith in the 
+&#8203;[perfection of the] Buddha's [transcendent insight].'
+
+In this Glossary, therefore, _bodhiṃ_ and _abhiññā_ are treated as 
+synonyms:
+
+[quote, A.3.9]
+____
+I claim to have reached the consummation and perfection of transcendent insight 
+into profound truths not heard before
+
+_pubbāhaṃ bhikkhave ananussutesu dhammesu abhiññāvosānapāramippatto 
+paṭijānāmi._
+____
+
+[quote, A.1.276]
+____
+Bhikkhus, I explain the teaching with transcendent insight, not without 
+transcendent insight.
+
+_abhiññāyā'haṃ bhikkhave dhammaṃ desemi no anabhiññāya._
+____
+
+==== Dhamme aveccappasāda
+
+A noble disciple who has unshakeable faith in the teaching (_dhamme 
+aveccappasādena samannāgato hoti_) has come to the conclusion that:
+
+[quote, S.5.390]
+____
+The teaching is well explained by the Blessed One, fathomable in this lifetime, 
+realisable in the here and now, intriguing, personally applicable, to be 
+realised by the wise for themselves._
+
+_svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko 
+paccattaṃ veditabbo viññūhī ti._
+____
+
+In the light of these qualities, the teaching's excellence and effectiveness, 
+'unshakeable faith in the Dhamma' means 'unshakeable faith in the [significance 
+of the] teaching.'
+
+==== Saṅghe aveccappasāda
+
+A noble disciple who has unshakeable faith in the community of disciples 
+(_saṅghe aveccappasādena samannāgato hoti_) has come to the conclusion that:
+
+[quote, S.5.390]
+____
+The community of the Blessed One's disciples is applied to an excellent 
+practice, is applied to the correct practice, is applied to the noble practice, 
+is applied to a proper practice; that is, the four pairs of persons, the eight 
+types of individuals. This community of the Blessed One's disciples is worthy 
+of offerings, hospitality, gifts, and honouring with joined palms. They are the 
+unsurpassed field of merit for the world._
+
+_supaṭipanno bhagavato sāvakasaṅgho ujupaṭipanno bhagato sāvakasaṅgho 
+ñāyapaṭipanno bhagavato sāvakasaṅgho sāmīcipaṭipanno bhagavato 
+sāvakasaṅgho yadidaṃ cattāri purisayugāni aṭṭhapurisapuggalā 
+esabhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo 
+añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassāti._
+____
+
+'Unshakeable faith in the community of disciples' is therefore not faith in the 
+members of the community themselves, but rather, in the praiseworthiness of 
+their application to the practice.
+
+==== Increasing levels of unshakeability
+
+Although unshakeable faith is associated with stream-entry, the 
+_Cūḷahatthipadopama Sutta_ says one cannot conclude that the Blessed One is 
+perfectly enlightened until arahantship:
+
+[quote, M.1.184]
+____
+And it is not until this point that a noble disciple can come to the 
+conclusion: 'The Blessed One is perfectly enlightened; the teaching is well 
+explained by the Blessed One; the community of the Blessed One's disciples is 
+applied to an excellent practice.'"
+
+_Ettāvatā kho brāhmaṇa ariyasāvako niṭṭhaṃ gato hoti 
+sammāsambuddho bhagavā svākkhāto bhagavatā dhammo supaṭipanno bhagavato 
+sāvakasaṅgho ti._
+____
+
+At levels lesser than arahantship, the faculties, including the faculty of 
+faith, are correspondingly weaker:
+
+[quote, S.5.200]
+____
+One who has completed and fulfilled these five spiritual faculties is an 
+arahant. If they are weaker than that, one is a non-returner; if still weaker, 
+a once-returner; if still weaker, a stream-enterer.
+
+_Imesaṃ kho bhikkhave pañcannaṃ indriyānaṃ samattā paripūrattā 
+arahaṃ hoti. Tato mudutarehi anāgāmī hoti. Tato mudutarehi sakadāgāmī 
+hoti. Tato mudutarehi sotāpanno hoti._
+____
+
+=== Illustrations
+
+.Illustration
+====
+aveccappasannā
+
+having unshakeable faith
+====
+
+[quote, A.5.120]
+____
+Whoever has unshakeable faith in me, all are stream-enterers.
+
+_ye keci bhikkhave mayi aveccappasannā sabbe te sotāpannā._
+____
+
+.Illustration
+====
+aveccappasādena
+
+unshakeable faith
+====
+
+____
+Bhikkhus, a noble disciple possessed of four factors is said to be well off, 
+with great wealth and riches, of great glory. What four?"
+
+_Catūhi bhikkhave dhammehi samannāgato ariyasāvako aḍḍho mahaddhano 
+mahābhogo mahāyaso ti vuccati. Katamehi catūhi_
+____
+
+1. He has unshakeable faith in the [perfection of the] Buddha's [transcendent 
+insight],
++
+****
+_buddhe aveccappasādena samannāgato hoti_
+****
+
+2. He has unshakeable faith in the [significance of the] teaching,
++
+****
+_Dhamme aveccappasādena samannāgato hoti_
+****
+
+3. He has unshakeable faith in the [praiseworthiness of the] community of 
+disciples' [application to the practice],
++
+****
+_Saṅghe aveccappasādena samannāgato hoti_
+****
+
+4. He possesses the virtues dear to the Noble Ones.
++
+****
+_Ariyakantehi sīlehi samannāgato hoti_ (S.5.402).
+****
+

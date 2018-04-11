@@ -1,0 +1,369 @@
+== Saṅga; Satta
+
+=== Renderings
+
+- _saṅga_: bond [to individual existence]
+
+- _saṅga_: bondage [to individual existence]
+
+- _satta_: bound [to individual existence]
+
+- _satta_: bound (to some named object)
+
+- _asattā_: liberated [from individual existence]
+
+=== Introduction
+
+==== Saṅga: bond/bondage [to individual existence]
+
+_Saṅga_ is usually rendered as 'tie' or 'bond' or 'attachment.' But 
+overcoming it is associated with arahantship (_brāhmaṇan_, Ud.6) and wisdom, 
+or those who are wise (_vijānataṃ_, Dh.v.171; _dhīro_, Sn.v.250; 
+_tathāgato_ Sn.v.473). It is a synonym of _saṃyojana_ (Dh.v.342). Thus it is 
+not just bond/bondage, but bond/bondage [to individual existence].
+
+[quote, Ud.6]
+____
+Saṅgāmajiṃ, free of bondage [to individual existence], he is what I call a 
+Brahman.
+
+_Saṅgā saṅgāmajiṃ muttaṃ tamahaṃ brūmi brāhmaṇan ti._
+____
+
+[quote, Dh.v.342]
+____
+Attached by ties and bonds [to individual existence], they end up with 
+suffering again and again for a long time.
+
+_Saṃyojanasaṅgasattakā dukkhamupenti punappunaṃ cirāya._
+____
+
+==== Saṅgātīto: transcended the bonds [to individual existence]
+
+_Saṅgātīto_ ('one who has transcended the bonds [to individual existence]') 
+is associated with _visaṃyutto_ ('one who is emancipated [from individual 
+existence]'):
+
+[quote, Th.v.1022]
+____
+One whose _āsavas_ are destroyed, who is emancipated [from individual 
+existence], who has transcended the bonds [to individual existence], one who is 
+inwardly at complete peace, he bears his last body having gone beyond birth and 
+death.
+
+_Khīṇāsavo visaṃyutto saṅgātīto sunibbuto +
+Dhāreti antimaṃ dehaṃ jātimaraṇapāragū._
+____
+
+==== Saṅgātigataṃ: overcome all bonds [to individual existence]
+
+_Saṅgātigataṃ_ ('one who has overcome all bonds [to individual 
+existence]') is associated with _bhavassa pāragun ti_ (one who has gone beyond 
+individual existence, Th.v.38):
+
+[quote, Th.v.38]
+____
+The devas venerate him, that great sage who has overcome all bonds [to 
+individual existence] and gone beyond individual existence..
+
+_Taṃ sabbasaṅgātigataṃ mahāmuniṃ devā namassanti bhavassa pāragun 
+ti._
+____
+
+These, and other quotes below, show that _saṅga_ means bondage [to individual 
+existence], not just bondage.
+
+==== Varieties and numbers of saṅgas
+
+The number of _saṅgas_ is unsettled. The scriptures say there are either five 
+(_pañcasaṅgātigo bhikkhu_ Th.v.633; S.1.3) or seven 
+(_sattasaṅgapahīṇassa_ It.94), the members of which are explained 
+differently in the commentaries, as follows:
+
+1. The commentaries to Th.v.633 and S.1.3 list the five _saṅga_ as 
+_rāgasaṅgo dosasaṅgo mohasaṅgo mānasaṅgo diṭṭhisaṅgo_.
+
+2. The commentary to It.94 lists the seven _saṅgas_ as _taṇhāsaṅgo 
+diṭṭhisaṅgo mānasaṅgo kodhasaṅgo avijjāsaṅgo kilesasaṅgo 
+duccaritasaṅgo ti_.
+
+3. The commentary to It.94 adds that some say the _saṅgas_ are the seven 
+proclivites (_sattānusayā_) namely: _kāmarāgānusaya paṭighānusaya 
+diṭṭhānusaya vicikicchānusaya mānānusaya bhavarāga avijjā_ (A.4.7-9).
+
+4. In the _Dhotaka Sutta_, the Buddha says all known objects are _saṅga_:
+
+[quote, Sn.v.1068]
+____
+Whatever you know, above, below, across, and also in the middle, knowing this 
+to be a bond [to individual existence] in the world, do not foster craving for 
+any state of individual existence.
+
+_Yaṃ kiñci sampajānāsi uddhaṃ adho tiriyañcāpi majjhe +
+Etaṃ viditvā saṅgo ti loke bhavābhavāya mākāsi taṇhan ti._
+____
+
+==== Satta
+
+_Satta_ is related to _saṅga_, because both stem from _sajjati_. Like 
+_saṅga_, if no object is specified, the object of _satta_ is individual 
+existence. We call it 'bound,' or 'bound [to individual existence].'
+
+[quote, A.4.57]
+____
+Taking delight in and bound to her femininity.
+
+_Itthatte bhikkhave abhiratā sattā._
+____
+
+[quote, Thī.v.35]
+____
+Perishable is the body, Abhayā, to which the common man is bound.
+
+_Abhaye bhiduro kāyo yattha sattā puthujjanā._
+____
+
+[quote, Ud.33]
+____
+Man (_loko_) is bound to individual existence,
+
+_bhavasatto loko._
+____
+
+[quote, Sn.v.706]
+____
+The common man is bound [to individual existence]
+
+_satto puthujjano._
+____
+
+=== Illustrations: saṅgā
+
+.Illustration
+====
+saṅgā
+
+bonds [to individual existence]
+====
+
+[quote, S.1.25]
+____
+The bonds [to individual existence] do not afflict one who is liberated from 
+the perception of existence, who does not adhere to 
+denomination-and-bodily-form.
+
+_Taṃ nāmarūpasmimasajjamānaṃ akiñcanaṃ nānupatanti saṅgā ti._
+____
+
+.Illustration
+====
+saṅgā
+
+bonds [to individual existence]
+====
+
+[quote, Sn.v.386]
+____
+He should walk on almsround in the village at the right time. Bonds [to 
+individual existence] bind one who walks on almsround at the wrong time.
+
+_Gāmañca piṇḍāya careyya kāle +
+Akālacāriṃ hi sajanti saṅgā._
+____
+
+.Illustration
+====
+saṅgā
+
+bonds [to individual existence]
+====
+
+[quote, Th.v.633; S.1.3]
+____
+The bhikkhu who has overcome the five bonds [to individual existence] is called 
+one who has crossed the flood [of suffering].
+
+_Pañcasaṅgātigo bhikkhu oghatiṇṇo ti vuccati._
+____
+
+.Illustration
+====
+saṅgā
+
+bonds [to individual existence]
+====
+
+[quote, It.94]
+____
+For the bhikkhu who has abandoned the seven bonds [to individual existence] and 
+destroyed the conduit to renewed states of individual existence, the round of 
+birth and death is destroyed. For him there are no renewed states of individual 
+existence.
+
+_Sattasaṅgapahīṇassa nettichinnassa bhikkhuno +
+Vikkhīṇo jātisaṃsāro natthi tassa punabbhavo ti._
+____
+
+.Illustration
+====
+saṅgo
+
+bondage [to individual existence]; saṅgā, bonds [to individual existence]
+====
+
+____
+Why is 'bondage [to individual existence]' an epithet for sensuous pleasures?
+
+_Kasmā ca bhikkhave saṅgoti kāmānametaṃ adhivacanaṃ_
+____
+
+[quote, A.3.310]
+____
+Because one who is passionately attached to sensuous pleasure, fastened by 
+fondness and attachment, is neither free of bonds [to individual existence] in 
+this lifetime, nor in the hereafter, therefore 'bondage [to individual 
+existence]' is an epithet for sensuous pleasures.
+
+_yasmā ca kāmarāgarattāyaṃ bhikkhave chandarāgavinibaddho 
+diṭṭhadhammikāpi saṅgā na parimuccati samparāyikāpi saṅgā na 
+parimuccati tasmā saṅgoti kāmānametaṃ adhivacanaṃ._
+____
+
+.Illustration
+====
+saṅgā
+
+bonds [to individual existence]
+====
+
+[quote, Th.v.413]
+____
+For the Teacher has mastered this Path which transcends birth, old age, fear, 
+and the bonds [to individual existence].
+
+_Satthā hi vijesi maggametaṃ saṅgā jātijarābhayā atītaṃ._
+____
+
+.Illustration
+====
+saṅgā
+
+bonds [to individual existence]
+====
+
+[quote, It.57-8; S.4.158]
+____
+The one who has overcome the bonds [to individual existence], death-forsaker, 
+the one free of attachment, has abandoned suffering, and has no renewed states 
+of individual existence.
+
+_Saṅgātigo maccujaho nirupadhi pahāsi dukkhaṃ apunabbhavāya._
+____
+
+.Illustration
+====
+saṅgā
+
+bonds [to individual existence]
+====
+
+[quote, M.1.386]
+____
+I am the disciple of him, the Blessed One who has overcome the bonds [to 
+individual existence], who is free [from individual existence].
+
+_Saṅgātigassa muttassa bhagavato tassa sāvako'hamasmi._
+____
+
+.Illustration
+====
+saṅga
+
+bondage [to individual existence]
+====
+
+____
+Having abandoned son and wife, father and mother, wealth and grain, and 
+relatives, and abundant sensuous pleasures, one should live the religious life 
+as solitarily as a rhinoceros horn.
+
+_Puttañca dāraṃ pitarañca mātaraṃ dhanāni dhaññāni ca bandhavāni +
+Hitvāna kāmāni yathodhikāni eko care khaggavisāṇakappo_
+____
+
+[quote, Sn.v.60-1]
+____
+&#8203;[All of] this is bondage [to individual existence]. Here there is little 
+enjoyment and much suffering.
+
+_Saṅgo eso parittamettha sokhyaṃ appassādo dukkhamettha bhiyyo_
+____
+
+.Illustration
+====
+saṅga
+
+bondage [to individual existence]
+====
+
+[quote, S.1.117]
+____
+Knowing attachment in the world [of phenomena] as bondage [to individual 
+existence], a person should train for its elimination.
+
+_Upadhiṃ viditvā saṅgo ti loke tasseva jantu vinayāya sikkheti._
+____
+
+=== Illustrations: satta
+
+.Illustration
+====
+satto
+
+bound [to individual existence]
+====
+
+[quote, S.3.190]
+____
+One is bound [to individual existence], Rādha, thoroughly bound [to individual 
+existence], by fondness, attachment, spiritually fettering delight, and craving 
+regarding bodily form, therefore one is called a being...
+
+_Rūpe kho rādha yo chando yo rāgo yā nandi yā taṇhā tatra satto tatra 
+visatto tasmā satto ti vuccati._
+____
+
+.Illustration
+====
+asattā
+
+liberated [from individual existence]
+====
+
+[quote, Sn.v.490]
+____
+Those who roam the world who are truly liberated [from individual existence], 
+liberated from the perception of existence, spiritually perfected.
+
+_Ye ve asattā vicaranti loke akiñcanā kevalino._
+____
+
+COMMENT
+
+_Akiñcanā_: 'liberated from the perception of existence.' See Glossary sv 
+_Ākiñcañña_.
+
+.Illustration
+====
+asattaṃ
+
+liberated [from individual existence]
+====
+
+[quote, Sn.v.176]
+____
+Liberated [from individual existence] in the sensuous plane of existence.
+
+_kāmabhave asattaṃ._
+____
+

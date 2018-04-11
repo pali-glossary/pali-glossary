@@ -1,0 +1,187 @@
+== Daratha; Dara
+
+=== Renderings
+
+- _daratha_: suffering
+
+- _dara_: suffering
+
+=== Introduction
+
+==== The perplexity of Daratha and Dara
+
+_Daratha_ and _dara_ have proven perplexing. This is clear from their diverse 
+renderings:
+
+1. PED:
+
+- _Dara_: fear, terror; sorrow, pain
+
+- _Daratha_: anxiety, care, distress
+
+2. Bodhi:
+
+- _Dara_: care (S.1.212); anguish (S.2.101); troublesome (A.2.11).
+
+- _Daratha_: troubles (M.3.287); distress (M.3.136; M.1.77); disturbance 
+(M.3.108).
+
+3. Norman:
+
+- _Dara_: fear (Thī.v.32)
+
+- _Daratha_: distress (Sn.v.15).
+
+4. Horner:
+
+- _Dara_: fear (M.1.464).
+
+- _Daratha_: anxiety (M.3.287); distress (M.3.136); disturbance (M.3.108).
+
+==== Dara and daratha: suffering
+
+We will show in six contexts that both _dara_ and _daratha_ mean 'suffering.'
+
+==== 1) Dara: suffering vs. inward peace
+
+____
+Having eliminated suffering from the heart,
+
+_vineyya hadaye daraṃ_
+____
+
+____
+The Peaceful One sleeps well
+
+_Upasanto sukhaṃ seti_
+____
+
+[quote, S.1.212]
+____
+Having attained to inward peace.
+
+_santiṃ pappuyya cetasoti._
+____
+
+==== 2) Dara: suffering with grief and despair
+
+[quote, S.2.101]
+____
+Where there are future birth, old age, and death, there are grief, suffering, 
+and despair, I declare.
+
+_Yattha atthi āyatiṃ jātijarāmaraṇaṃ sasokaṃ taṃ bhikkhave 
+sadaraṃ saupāyāsan ti vadāmi._
+____
+
+==== 3) Dara: suffering with unpleasant karmic consequences
+
+[quote, A.2.11]
+____
+He is tethered to unvirtuous, spiritually unwholesome factors that are defiling 
+and which lead to renewed states of individual existence, suffering, unpleasant 
+karmic consequences, and future birth, old age, and death.
+
+_Saṃyutto pāpakehi akusalehi dhammehi saṅkilesikehi ponobhavikehi sadarehi 
+dukkhavipākehi āyatiṃ jātijarāmaraṇikehi._
+____
+
+==== 4) Daratha: suffering with torment and anguish
+
+[quote, M.3.287]
+____
+Craving that leads to renewed states of individual existence, accompanied by 
+spiritually fettering delight and attachment, taking delight in this and that, 
+grows. One's physical and psychological sufferings, torments, and anguishes 
+increase.
+
+_Taṇhā cassa ponobhavikā nandirāgasahagatā tatra tatrābhinandinī sā 
+cassa pavaḍḍhati. Tassa kāyikāpi darathā pavaḍḍhanti cetasikāpi 
+darathā pavaḍḍhanti kayikāpi santāpā pavaḍḍhanti cetasikāpi 
+santāpā pavaḍḍhanti kāyikāpi pariḷāhā pavaḍḍhanti cetasikāpi 
+pariḷāhā pavaḍḍhanti._
+____
+
+==== 5) Daratha: suffering with fatigue and anguish
+
+[quote, M.3.136]
+____
+These four bases of mindfulness are to... subdue the suffering, fatigue, and 
+anguish of householders; they are for acquiring the noble practice, and for 
+realising the Untroubled.
+
+_ime cattāro satipaṭṭhānā... gehasitānañceva 
+darathakilamathapariḷāhānaṃ abhinimmadanāya ñāyassa adhigamāya 
+nibbānassa sacchikiriyāya._
+____
+
+==== 6) Daratha: suffering with fatigue and anguish
+
+[quote, M.1.76-7]
+____
+Having plunged into the pond, and bathed, drunk, and allayed all suffering, 
+fatigue, and anguish, and emerged, he is sitting or lying in that woodland 
+grove experiencing exclusively pleasant feelings.
+
+_taṃ pokkharaṇiṃ ogāhetvā nahāyitvā pītvā ca 
+sabbadarathakiḷamathapariḷāhaṃ paṭippassamhetvā paccuttaritvā 
+tasmiṃ vanasaṇḍe nisinnaṃ vā nipannaṃ vā ekantasukhā vedanā 
+vediyamānaṃ._
+____
+
+=== Illustrations: daratha
+
+.Illustration
+====
+daratha
+
+suffering
+====
+
+[quote, Sn.v.15]
+____
+He in whom there is nothing born of suffering which is a cause for returning to 
+the low plane of existence, that bhikkhu sheds the [ties to individual 
+existence in the] low plane of existence and the other planes beyond it, as a 
+snake sheds its old, worn-out skin.
+
+_Yassa darathajā na santi keci oraṃ āgamanāya paccayāse +
+So bhikkhu jahāti orapāraṃ urago jiṇṇamiva tacaṃ purāṇaṃ._
+____
+
+.Illustration
+====
+darathā
+
+suffering
+====
+
+[quote, M.3.108]
+____
+He knows that "Whatever states of suffering there are because of the 
+perceptions of village and man are absent. And there is only this amount of 
+suffering, namely the undistracted concentration focused on the perception of 
+forest."
+
+_So evaṃ pajānāti ye assu darathā gāmasaññaṃ paṭicca tedha na santi 
+ye assu darathā manussasaññaṃ paṭicca tedha na santi atthi cevāyaṃ 
+darathamattā yadidaṃ araññasaññaṃ paṭicca ekattan ti._
+____
+
+.Illustration
+====
+niddaro
+
+free of suffering
+====
+
+[quote, Dh.v.205]
+____
+Having tasted the deliciousness of physical seclusion and of inward peace, and 
+the delectableness of rapture that is righteous, one becomes free of suffering, 
+and free of unvirtuousness.
+
+_Pavivekarasaṃ pitvā rasaṃ upasamassa ca +
+Niddaro hoti nippāpo dhammapītirasaṃ pivaṃ._
+____
+

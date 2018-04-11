@@ -1,0 +1,299 @@
+== Itibhavābhava
+
+=== Renderings
+
+- _itibhavābhava_: honour and renown
+
+=== Introduction
+
+==== Rendering Itibhavābhava
+
+_Itibhavābhava_ is usually rendered in terms of 'being' or 'becoming' or 
+'existence.' For example:
+
+[quote, M.2.238]
+____
+Bodhi: We do not think thus about the Blessed One: 'The recluse Gotama teaches 
+the Dhamma... for the sake of some better state of being.'
+
+_itibhavābhavahetu vā samaṇo gotamo dhammaṃ desetī ti._
+____
+
+[quote, A.1.147]
+____
+Bodhi: I did not go forth from the household life into homelessness... for the 
+sake of becoming this or that.
+
+_na itibhavābhavahetu agārasmā anagāriyaṃ pabbajito._
+____
+
+[quote, Sn.v.6]
+____
+Norman: That bhikkhu... [who] has gone beyond the state of [being reborn in] 
+such-and-such an existence.
+
+_itibhavābhavatañca vītivatto._
+____
+
+==== Saṅgīti Sutta: aspiration for divine rebirth
+
+The idea that bhikkhus might live the religious life for the purpose of some 
+future happy existence is supported by the _Saṅgīti Sutta_ (D.3.239), which 
+says:
+
+[quote, D.3.239]
+____
+A bhikkhu lives the religious life aspiring to rebirth amongst some group of 
+devas, thinking that through his observances, practices, austerities, and 
+religious life he will become a greater or lesser deva.
+
+_Puna ca paraṃ āvuso bhikkhu aññataraṃ devanikāyaṃ paṇidhāya 
+brahmacariyaṃ carati imināhaṃ sīlena vā vatena vā tapena vā 
+brahmacariyena vā devo vā bhavissāmī devaññataro vā ti._
+____
+
+But _itibhavābhava_ more likely involves desire for things of the present 
+life, specifically the desire for honour and renown, because the scriptures 
+unvaryingly place (1) _itibhavābhava_ and (2) honour and renown in 
+corresponding positions beside unvirtuous desires for robe material, almsfood, 
+and abodes.
+
+==== Itibhavābhava: honour and renown
+
+Although _itibhavābhava_ occurs in the scriptures 48 times, in only 3 cases is 
+there any meaningful context, which are as follows:
+
+1. _Taṇhā Sutta_
+
+[quote, A.2.248]
+____
+Craving arises in a bhikkhu on account of robe material, almsfood, abodes, and 
+_itibhavābhava_.
+
+_Cīvarahetu... Piṇḍapātahetu... Senāsanahetu... +
+Itibhavābhavahetu vā bhikkhuno taṇhā uppajjamānā uppajjati._
+____
+
+2. _Ādhipateyya Sutta_
+
+[quote, A.1.147]
+____
+It was not for the sake of robe material that I went forth from the household 
+life into the ascetic life, nor almsfood, nor abodes, nor _itibhavābhava_.
+
+_na kho panā'haṃ cīvarahetu... piṇḍapātahetu... senāsanahetu... 
+itibhavābhavahetu agārasmā anagāriyaṃ pabbajito._
+____
+
+3. _Kinti Sutta_
+
+[quote, M.2.238]
+____
+We do not think this about the Blessed One: 'The ascetic Gotama explains his 
+teaching for the sake of robe material, almsfood, abodes, or _itibhavābhava_.
+
+_Na kho no bhante bhagavati evaṃ hoti cīvarahetu vā... piṇḍapātahetu 
+vā... senāsanahetu vā... itibhavābhavahetu vā samaṇo gotamo dhammaṃ 
+deseti tī._
+____
+
+Thus the unvirtuous search for _itibhavābhava_ is always associated with 
+unvirtuous searches for robe material, almsfood, and abodes.
+
+==== Itibhavābhava corresponds to honour and renown
+
+Unvirtuous searches for gains (e.g. robe material, almsfood, and abodes) are 
+linked in some suttas to _sakkārasiloka_. For example, the _Mātugāma Sutta_ 
+says a bhikkhu could be more obsessed by gains, honour, and renown than by a 
+woman:
+
+[quote, S.2.235]
+____
+Even if a woman when one is alone with her might not obsess one's mind, still 
+gains, honour, and renown might obsess one's mind.
+
+_na tassa bhikkhave mātugāmo eko ekassa cittaṃ pariyādāya tiṭṭhati 
+yassa lābhasakkārasiloko cittaṃ pariyādāya tiṭṭhati_
+____
+
+The _Mahāsāropama Sutta_ warns:
+
+[quote, M.1.197]
+____
+This religious life does not have gains, honour, and renown as its true benefit.
+
+_nayidaṃ brahmacariyaṃ lābhasakkārasilokānisaṃsaṃ._
+____
+
+If one compares these two searches:
+
+1. searches for robe material, almsfood, abodes, and _itibhavābhava_
+
+2. searches for gains, honour, and renown
+
+Then:
+
+1. robe material, almsfood, and abodes correspond to 'gains'
+
+2. _itibhavābhava_ corresponds to 'honour and renown.'
+
+==== Teaching: Āmisasikkhāpadaṃ
+
+We have seen that the bhikkhus denied that the Buddha explained his teaching 
+for the sake of robe material, almsfood, abodes, or _itibhavābhava_. Because 
+other suttas cover the same territory in different terms, they shed light on 
+_itibhavābhava_. For example, the _Āmisasikkhāpadaṃ_ rule says it is an 
+offence for bhikkhus to wrongfully say:
+
+[quote, Vin.4.58]
+____
+Elder bhikkhus instruct the bhikkhunīs for the sake of worldly benefits.
+
+_Āmisahetu therā bhikkhū bhikkhuniyo ovadantī ti._
+____
+
+The Word Analysis defines worldly benefits like this:
+
+____
+For the sake of worldly benefits means: for the sake of robes, almsfood, 
+abodes, therapeutic requisites, honour, respect, and veneration.
+
+_Amisahetu ti cīvarahetu piṇḍapātahetu senāsanahetu 
+gilānapaccayabhesajjaparikkhārehetu sakkārahetu garukārahetu manatahetu 
+vandanahetu pujanahetu._
+____
+
+Similarly, the _Udāyī Sutta_ says one should explain the teaching to others 
+with the thought:
+
+____
+I will speak step-by-step
+
+_Ānupubbīkathaṃ kathessāmīti paresaṃ dhammo desetabbo_
+____
+
+____
+I will speak observing a proper method of exposition
+
+_Pariyāyadassāvī kathaṃ kathessāmīti paresaṃ dhammo desetabbo_
+____
+
+____
+I will speak out of sympathy
+
+_Anuddayataṃ paṭicca kathaṃ kathessāmīti paresaṃ dhammo desetabbo_
+____
+
+____
+I will speak not for the sake of worldly benefits
+
+_Na āmisantaro kathaṃ kathessāmīti paresaṃ dhammo desetabbo_
+____
+
+[quote, A.3.184]
+____
+I will speak without hurting myself or others
+
+_Attānañca parañca anupahacca kathaṃ kathessāmī ti paresaṃ dhammo 
+desetabbo._
+____
+
+Both the _Āmisasikkhāpadaṃ_ rule and the _Udāyī Sutta_ link teaching to 
+worldly benefits, where worldly benefits is defined in the rule as robes, 
+almsfood, abodes, therapeutic requisites, honour, respect, and veneration. This 
+corresponds to the list of advantages that were not reasons for the Buddha 
+explaining his teaching i.e. robe material, almsfood, abodes, or 
+_itibhavābhava_. According to these lists, _itibhavābhava_ stands for honour, 
+respect, and veneration.
+
+=== Illustrations
+
+.Illustration
+====
+itibhavābhava
+
+honour and renown
+====
+
+[quote, A.2.248]
+____
+Craving arises in a bhikkhu on account of robe material, almsfood, abodes, and 
+honour and renown
+
+_Cīvarahetu... Piṇḍapātahetu... Senāsanahetu... +
+Itibhavābhavahetu vā bhikkhuno taṇhā uppajjamānā uppajjati._
+____
+
+.Illustration
+====
+itibhavābhava
+
+honour and renown
+====
+
+[quote, A.1.147]
+____
+It was not for the sake of robe material that I went forth from the household 
+life into the ascetic life, nor almsfood, nor abodes, nor honour and renown.
+
+_na kho panā'haṃ cīvarahetu... piṇḍapātahetu... senāsanahetu... 
+itibhavābhavahetu agārasmā anagāriyaṃ pabbajito._
+____
+
+.Illustration
+====
+itibhavābhava
+
+honour and renown
+====
+
+[quote, M.2.238]
+____
+We do not think this about the Blessed One: 'The ascetic Gotama explains his 
+teaching for the sake of robe material, almsfood, abodes, or honour and renown.
+
+_Na kho no bhante bhagavati evaṃ hoti cīvarahetu vā... piṇḍapātahetu 
+vā... senāsanahetu vā... itibhavābhavahetu vā samaṇo gotamo dhammaṃ 
+deseti tī._
+____
+
+.Illustration
+====
+itibhavābhava
+
+honour and renown
+====
+
+• He in whom there is no inward anger, and who has transcended [craving for] 
+honour and renown, +
+_Yassantarato na santi kopā itibhavābhavatañca vītivatto_ (Sn.v.6).
+
+Norman's translation:
+
+- That bhikkhu in whom there are no angers inwardly, and [who] has gone beyond 
+the state of [being reborn in] such-and-such an existence,.
+
+.Illustration
+====
+itibhavābhavakathā
+
+talk of honour and renown
+====
+
+____
+I will not talk that kind of talk which is low, vulgar, the way of the common 
+man, ignoble, and unconducive to spiritual well-being... that is to say:
+
+_So yāyaṃ kathā hīnā gammā pothujjanikā anariyā anatthasaṃhitā... 
+seyyathīdaṃ_
+____
+
+[quote, M.3.113]
+____
+Talk of kings, talk of thieves, talk of great ministers... legends about the 
+world, legends about the sea, talk of honour and renown.
+
+_rājakathā corakathā mahāmattakathā... lokakkhāyikā samuddakkhāyikā 
+itibhavābhavakathā iti vā iti evarūpiṃ kathaṃ na kathessāmiti._
+____
+

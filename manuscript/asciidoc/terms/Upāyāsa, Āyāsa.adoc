@@ -1,0 +1,259 @@
+== Upāyāsa; Āyāsa
+
+=== Renderings
+
+- _upāyāsa_: vexation
+
+- _upāyāsabahula_: easily vexed
+
+- _āyāsa_: vexation
+
+- _āyāsa_: annoyance
+
+=== Introduction
+
+==== The problem of upāyāsa: the dictionaries
+
+The problem of _upāyāsa_ is nicely illustrated in the disagreement between 
+dictionaries and translators. To find it called 'despair' in a dictionary, one 
+must return to 1875 when Childer called it 'desperation, despair.' Later 
+dictionaries call it:
+
+- PED: trouble, turbulence, misery, unrest, disturbance, unsettled condition
+
+- DOP: trouble, unrest, annoyance, irritation.
+
+==== Upāyāsa and Āyāsa
+
+Both Pāli dictionaries treat _āyāsa_ as practically equivalent to 
+_upāyāsa_.
+
+- PED: trouble, sorrow
+
+- DOP: exertion, trouble, weariness, distress
+
+This is appropriate, because _upāyāsa_ is defined in terms of _āyāsa_:
+
+• What is vexation? It is the annoyance, the vexation, the state of annoyance 
+in one who has some sort of misfortune or other, who is affected by some sort 
+of unpleasant event or another. This is called vexation. +
+☸ _Katamo cāvuso upāyāso: yo kho āvuso aññataraññatarena vyasanena 
+samannāgatassa aññataraññatarena dukkhadhammena phuṭṭhassa āyāso 
+upāyāso āyāsitattaṃ upāyāsitattaṃ ayaṃ vuccatāvuso upāyāso_ 
+M.3.250.
+
+==== Sanskrit equivalent
+
+The Sanskrit-English Dictionary (Monier-Williams) supports the Pāli 
+dictionaries in rejecting 'despair':
+
+- _Āyasta_: pained, distressed, vexed, angry
+
+- _Āyāsa_: fatigue, weariness.
+
+==== The problem of upāyāsa: the translators
+
+But strikingly, almost all translators persist in calling it despair. Only 
+since 2012 has Bodhi rejected the word.
+
+- Ñāṇamoli: despair
+
+- Horner: despair
+
+- Bodhi (CDB, 2000): despair
+
+- Bodhi (NDB, 2012): anguish
+
+- Norman: trouble (Sn.v.542).
+
+==== Kodhūpāyāsa
+
+For those calling _upāyāsa_ 'despair,' its combination with _kodha_ (anger) 
+is awkward because it then obviously approximates anger, and translators are 
+then cornered. Bodhi in 2012 even rejects 'anguish' in favour of 'displeased.'
+
+- Horner: wrathful rage (M.1.360).
+
+- Bodhi: anger and irritation (M.1.360).
+
+- Bodhi: despair due to anger (S.3.109).
+
+- Bodhi: angry and displeased (A.1.124).
+
+- DOP: angry and annoyed
+
+==== Vexation: happy solution
+
+_Upāyāsa_ can in all contexts be rendered 'vexation'.
+
+=== Illustrations
+
+.Illustration
+====
+upāyāsehi
+
+vexation
+====
+
+• They are not freed from birth, old age, and death; they are not freed from 
+grief, lamentation, physical pain, psychological pain, and vexation; they are 
+not freed from suffering, I declare. +
+_Te na parimuccanti jātiyā jarāmaraṇena sokehi paridevehi dukkhehi 
+domanassehi upāyāsehi na parimuccanti dukkhasmā ti vadāmi_ (S.2.108-9).
+
+.Illustration
+====
+upāyāsā
+
+states of vexation
+====
+
+[quote, Sn.v.542]
+____
+All your states of vexation are destroyed and ended. You are freed from inward 
+distress, inwardly tamed, resolute, one whose endeavour is for the sake of 
+truth.
+
+_Upāyāsā ca te sabbe viddhastā vinaḷīkatā +
+Sītibhūto damappatto dhitimā saccanikkamo._
+____
+
+.Illustration
+====
+upāyāsabahulo
+
+easily vexed
+====
+
+[quote, M.3.204]
+____
+In this regard, young man, some woman or man is ill-tempered and easily vexed. 
+On being spoken to even about a trifle, he takes offence, becomes angry, upset, 
+and resentful. He evinces anger, hatred, and irritation.
+
+_Idha pana māṇava ekacco itthi vā puriso vā kodhano hoti upāyāsabahulo 
+appampi vutto samāno abhisajjati kuppati vyāpajjati patitthīyati kopañca 
+dosañca appaccayañca pātukaroti._
+____
+
+.Illustration
+====
+saupāyāsaṃ
+
+vexation
+====
+
+____
+Possessed of six factors a bhikkhu abides unhappily in this very lifetime, with 
+distress, vexation, and anguish, and at death a bad bourne can be expected. 
+What six?
+
+_Chahi bhikkhave dhammehi samannāgato bhikkhu diṭṭheva dhamme dukkhaṃ 
+viharati savighātaṃ saupāyāsaṃ sapariḷāhaṃ kāyassa bhedā 
+parammaraṇā duggati pāṭikaṅkhā. Katamehi chahi:_
+____
+
+[quote, A.3.429]
+____
+Thoughts of sensuous pleasure, ill will, and maliciousness; sensuous mental 
+imagery, unbenevolent mental imagery, and malicious mental imagery.
+
+_Kāmavitakkena, vyāpādavitakkena, vihiṃsāvitakkena, kāmasaññāya, 
+vyāpādasaññāya, vihiṃsāsaññāya._
+____
+
+.Illustration
+====
+saupāyāso
+
+vexation
+====
+
+[quote, M.3.236]
+____
+Bhikkhus, sensuous pleasure, a vile pleasure, the pleasure of the common man, 
+an ignoble pleasure, this is a state associated with pain, distress, vexation, 
+and anguish. It is a wrong practice. Therefore it is defiled.
+
+_Tatra bhikkhave yamidaṃ kāmasukhaṃ mīḷhasukhaṃ pothujjanasukhaṃ 
+anariyasukhaṃ sadukkho eso dhammo saupaghāto saupāyāso sapariḷāho 
+micchāpaṭipadā. Tasmā eso dhammo saraṇo._
+____
+
+.Illustration
+====
+bahūpāyāsā
+
+vexation
+====
+
+[quote, M.1.364]
+____
+Sensuous pleasures have been compared by the Blessed One to a skeleton [of 
+meatless bones smeared with blood which leaves a hungry dog unsatisfied, 
+fatigued, and full of vexation]. They are full of suffering and vexation, while 
+the danger in them is great.
+
+_aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā bahudukkhā bahūpāyāsā 
+ādīnavo ettha bhiyyo ti._
+____
+
+.Illustration
+====
+anāyāso
+
+free of vexation
+====
+
+[quote, Th.v.1008]
+____
+Inwardly at peace, free of vexation, with a serene and undefiled [mind]
+
+_Upasanto anāyāso vippasanno anāvilo._
+____
+
+.Illustration
+====
+anāyāso
+
+free of vexation
+====
+
+[quote, A.4.98]
+____
+Free of anger, free of vexation
+
+_Vītakodhā anāyāsā._
+____
+
+.Illustration
+====
+āyāsaṃ
+
+vexation
+====
+
+[quote, Thī.v.343]
+____
+&#8203;[Indulgence in sensuous pleasures is] being greedy. It is exuberance. It is 
+bewilderment. It [supports] the growth of defilement. It is full of danger. It 
+is full of vexation. Here there is neither endurance nor stability.
+
+_Lobhanaṃ madanaṃ cetaṃ mohanaṃ rajavaḍḍhanaṃ +
+Sāsaṅkaṃ bahu āyāsaṃ natthi cettha dhuvaṃ ṭhiti._
+____
+
+.Illustration
+====
+kodhūpāyāsa
+
+anger and vexation
+====
+
+[quote, S.3.109]
+____
+The steep precipice: this is a metaphor for anger and vexation.
+
+_Sobebhā papāto ti kho tissa kodhūpāyāsassetaṃ adhivacanaṃ._
+____
+

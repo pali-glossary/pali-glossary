@@ -1,0 +1,340 @@
+== Paribbajati
+
+=== Renderings
+
+- _paribbajati_: to fulfil the ideals of religious asceticism
+
+- _paribbājaka_: philosophiser ascetic
+
+- _paribbājaka (=aññatitthiyā paribbājakā)_: non-Buddhist ascetic; ascetic
+
+- _paribbājaka_: one who has fulfilled the ideals of religious asceticism
+
+=== Introduction
+
+==== Paribbajati: an exalted practice
+
+_Paribbajati_ is one of the poetical words of Buddhism, and found only in 
+verse. It is usually (and misleadingly) rendered as 'wander.' In fact it is an 
+exalted practice that even implies arahantship.
+
+==== Paribbajati means asceticism
+
+_Paribbajati_ is the subject of the _Sammāparibbājanīya Sutta_, which is the 
+Buddha's answer to the following question:
+
+[quote, Sn.v.359]
+____
+Having renounced the household life [and] thrust away sensuous pleasure, how 
+would a bhikkhu properly fulfil the ideals of religious asceticism in the world?
+
+_Nikkhamma gharā panujja kāme kathaṃ bhikkhu sammā so loke paribbajeyya._
+____
+
+That _paribbajeyya_ implies asceticism is obvious in the question, involving 
+the renunciation of the household life, and the thrusting away of sensuous 
+pleasure.
+
+==== Paribbajati means arahantship
+
+That _paribbajati_ ultimately implies arahantship is clear in this portion of 
+the Buddha's answer:
+
+[quote, Sn.v.374]
+____
+One who has destroyed all states of attachment, having realised the 
+&#8203;[Untroubled] State, having understood the teaching, having clearly seen the 
+abandonment of all perceptually obscuring states: he would properly fulfil the 
+ideals of religious asceticism in the world.
+
+_Aññāya padaṃ samecca dhammaṃ vivaṭaṃ disvāna pahānamāsavānaṃ +
+Sabbūpadhinaṃ parikkhayāno sammā so loke paribbajeyya._
+____
+
+_Sabbupadhīnaṃ parikkhayāno_: 'One who has destroyed all states of 
+attachment.' Norman treats this as an instrumental: 'because of the destruction 
+of all acquisitions.' We regard it as a primary derivative and a noun with a 
+kita suffix. See Duroiselle para 563-578.
+
+==== Paribbajati does not mean 'wander'
+
+Calling _paribbajati_ 'wander' has had nonsensical results. For example, Norman 
+says that Th.v.1162 means 'a bhikkhu should wander about as though smitten by a 
+sword.' This rendering has also led to the view that the bhikkhu's life is for 
+wandering. But the bhikkhu's life, even for arahants, may involve no wandering 
+at all. For example, if a bhikkhu is living in some quiet grove and his 
+spiritual development is satisfactory, then:
+
+[quote, M.1.106]
+____
+'that bhikkhu should continue living in that quiet grove for the rest of his 
+life; he should not depart'
+
+_Tena bhikkhave bhikkhunā yāvajīvampi tasmiṃ vanapatthe vatthabbaṃ na 
+pakkamitabbaṃ._
+____
+
+==== Paribbajati versus cārika
+
+The usual words for 'wandering' are _carati_ and _cārika._ Although the 
+scriptures say there are benefits in periodic wandering (_ānisaṃsā 
+samavatthacāre_ A.3.257), there are dangers (_ādīnavā_) if it goes on too 
+long (_dīghacārikaṃ_ A.3.257). Therefore is often criticised:
+
+[quote, A.3.257]
+____
+Bhikkhus, there are these five disadvantages for one who engages in lengthy and 
+unsettled wandering. What five?
+
+_Pañcime bhikkhave ādīnavā dīghacārikaṃ anavattha cārikaṃ 
+anuyuttassa viharato. Katame pañca._
+____
+
+[quote, Sn.v.925]
+____
+He should be meditative, not wandering about.
+
+_Jhāyī na pādalolassa._
+____
+
+[quote, Th.v.37]
+____
+They go to different countries, wandering unrestrained. If they lose their 
+inward collectedness, what good will this international travelling do? 
+Therefore one should eliminate [such] harmful conduct. One should meditate 
+unaccompanied.
+
+_Nānājanapadaṃ yanti vicarantā asaṃyatā +
+Samādhiñca virādhenti kiṃsu raṭṭhacariyā karissati +
+Tasmā vineyya sārambhaṃ jhāyeyya apurakkhato ti._
+____
+
+By comparison, if _paribbajati_ meant wandering, we would expect an excess of 
+it to be likewise regarded with caution. Instead, however, it is associated 
+solely with what is good. Indeed, one should do it to the maximum possible 
+extent, as if threatened with a sword, or as if one's head were on fire (see 
+illustrations below, S.1.53).
+
+==== Paribbājaka: two meanings
+
+The term _paribbājaka_ is derived from _paribbajati_, and so for etmological 
+reasons is usually (and misleadingly) rendered 'wanderer.' In fact 
+_paribbājaka_ has two meanings:
+
+1. non-Buddhist ascetics
+
+2. a group of non-Buddhist ascetics renowned for their talkativeness, which we 
+call 'philosophiser ascetics.'
+
+==== Paribbājaka: non-Buddhist ascetics
+
+____
+Paribbājaka can mean 'non-Buddhist ascetics.' For example, Pācittiya 41 says 
+it is an offence for a bhikkhu to give food with his hand to a naked ascetic 
+(_acelaka_), or to a non-Buddhist ascetic (_paribbājako_), or to a female 
+non-Buddhist ascetic (_paribbājikā_).
+
+_Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā 
+sahattā khādanīyaṃ vā bhojanīyaṃ vā dadeyya pācittiyan ti._
+____
+
+The definition of these terms confirms that 'non-Buddhist' is meant:
+
+____
+Naked ascetic (_acelako_) means: whoever being naked is a non-Buddhist ascetic 
+(_paribbājaka_).
+
+_Acelako nāma yo koci paribbājaka samāpanno naggo_
+____
+
+____
+Non-Buddhist ascetic (_paribbājako_) means: setting aside bhikkhu and 
+sāmaṇera, whoever is an ascetic (_paribbājaka_).
+
+_Paribbājako nāma bhikkhuñca sāmaṇerañca ṭhapetvā yo koci 
+paribbājaka samāpanno_
+____
+
+[quote, Vin.4.92]
+____
+Female non-Buddhist ascetic (_paribbājikā_) means: setting aside bhikkhunī 
+and sikkhamānā and sāmaṇerī, whoever is a female ascetic.
+
+_Paribbājikā nāma bhikkhuniñca sikkhamānañca sāmaṇeriñca ṭhapetvā 
+yā kāci paribbājikasamāpannā._
+____
+
+==== Aññatitthiyā paribbājakā: non-Buddhist ascetics
+
+_Paribbājakā_ is an abbreviation for _aññatitthiyā paribbājakā_, which 
+therefore also means 'non-Buddhist ascetic.' But sometimes _aññatitthiyā 
+paribbājakā_ is called 'ascetic of another sect,' as if the Buddha's group is 
+also a sect. 'Sect' means:
+
+- A subdivision of a larger religious group
+
+- A dissenting clique (WordWeb).
+
+Neither Buddhists nor non-Buddhist ascetics were subdivisions of a larger 
+group. They were altogether separate groups of ascetics.
+
+==== Paribbājaka: philosophiser ascetics
+
+_Paribbājaka_ is also the name of a certain group of non-Buddhist ascetics 
+whose lifestyle was governed by the idea that wisdom comes from conversation 
+(D.3.38). We will call them 'philosophiser ascetics.' Calling them 'philosopher 
+ascetics' would unjustly magnify them and their usually frivolous topics of 
+conversation, for example about battles, food, drink, clothes, beds, garlands, 
+scents, relations etc. (D.3.36).
+
+Philosophiser ascetics said that the Buddha's wisdom was destroyed by the 
+solitary life (_suññāgārahatā samaṇassa gotamassa paññā_) and that he 
+was no good at conversation. Apart from the practice of companionship, they 
+praised the practice of self-mortification (D.3.40-1). Their goal was to 
+realise an exclusively pleasant world, and some of them practised samādhi, but 
+only up to third jhāna (M.2.37).
+
+These _paribbājakas_ are correctly known as ascetics, because their lifestyle 
+involved not just the five precepts, but also celibacy (_brahmacārī_, 
+A.3.276). It also involved a simple lifestyle, eating just once a day, and not 
+after noon (_rattūparato ekabhattiko_ M.2.89).
+
+Of the two types of _paribbājaka_ neither are linked in the scriptures to 
+wandering, so that label is simply inappropriate.
+
+==== Paribbājaka: arahant
+
+Thirdly, _paribbājaka_ is a term for an arahant, and in which case we render 
+the word as 'one who has fulfilled the ideals of religious asceticism.' See the 
+last of the Illustrations below (Sn.v.537).
+
+=== Illustrations
+
+.Illustration
+====
+paribbaje
+
+fulfil the ideals of religious asceticism
+====
+
+____
+Recognising this danger,
+
+_Etamādīnavaṃ ñatvā_
+____
+
+____
+That there is great peril in states of attachment,
+
+_nissayesu mahabbhayaṃ_
+____
+
+[quote, Sn.v.752-3]
+____
+Then, unattached, free of grasping, the bhikkhu should mindfully fulfil the 
+ideals of religious asceticism.
+
+_Anissito anupādāno sato bhikkhu paribbaje ti._
+____
+
+.Illustration
+====
+paribbaje
+
+fulfil the ideals of religious asceticism
+====
+
+[quote, Dh.v.415; Sn.v.639]
+____
+Whichever homeless one, having abandoned sensuous pleasure in this world, 
+should fulfil the ideals of religious asceticism, and for whom individual 
+existence in the sensuous plane of existence is destroyed, he is what I call a 
+Brahman.
+
+_Yodha kāme pahatvāna anāgāro paribbaje +
+Kāmabhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ._
+____
+
+.Illustration
+====
+paribbaja
+
+fulfil the ideals of religious asceticism
+====
+
+A brahman priest seated on a low seat taught sacred texts to a king seated on a 
+high seat. A bystander seeing this admonished the priest as follows:
+
+[quote, Vin.4.204]
+____
+'Fulfil the ideals of religious asceticism, great priest, for other creatures 
+boil. By practising what is unrighteous, may you not break like a pot.'
+
+_Paribbaja mahābrahme pacantaññepi pāṇīno +
+Mā tvaṃ adhammo ācarito asmā kumbhamivābhīdā ti._
+____
+
+.Illustration
+====
+paribbaje ti
+
+fulfil the ideals of religious asceticism
+====
+
+[quote, Th.v.39; S.1.53]
+____
+As if threatened with a sword, or as if his head were on fire, having abandoned 
+attachment to sensuous pleasure a bhikkhu should mindfully fulfil the ideals of 
+religious asceticism.
+
+_Sattiyā viya omaṭṭho ḍayhamāno va matthake +
+Kāmarāgappahāṇāya sato bhikkhu paribbaje ti._
+____
+
+[quote, S.1.53]
+____
+As if threatened with a sword, or as if his head were on fire, having abandoned 
+the view of personal identity, a bhikkhu should mindfully fulfil the ideals of 
+religious asceticism.
+
+_sattiyā viya omaṭṭho ḍayhamāno va matthake +
+Sakkāyadiṭṭhippahāṇāya sato bhikkhu paribbaje ti._
+____
+
+.Illustration
+====
+paribbaje
+
+fulfil the ideals of religious asceticism
+====
+
+[quote, Th.v.982]
+____
+Whether eating moist food or dry, one should not be oversatiated. With an 
+ungorged stomach, eating moderately, a bhikkhu should mindfully fulfil the 
+ideals of religious asceticism.
+
+_Allaṃ sukkhaṃ vā bhuñjanto na bāḷhaṃ suhito siyā +
+Ūnūdaro mitāhāro sato bhikkhu paribbaje._
+____
+
+.Illustration
+====
+paribbājaka
+
+one who has fulfilled the ideals of religious asceticism
+====
+
+[quote, Sn.v.537]
+____
+One who lives the religious life with profound understanding, shunning conduct 
+that has an unpleasant karmic consequence, above, below, across, and in the 
+middle (=body, speech, and mind), who has ended deceit, conceit, greed, anger, 
+and denomination-and-bodily-form, they call him one who has fulfilled the 
+ideals of religious asceticism, one who has attained the [supreme] attainment.
+
+_Dukkhavepakkaṃ yadatthi kammaṃ uddhamadho tiriyañcāpi majjhe +
+Paribbājayitvā pariññācārī māyaṃ mānamathopi lobhakodhaṃ +
+Pariyantamakāsi nāmarūpaṃ taṃ paribbājakamāhu pattipattanti._
+____
+

@@ -1,0 +1,259 @@
+== Dosa
+
+=== Renderings
+
+- _dosa_: hatred
+
+- _dosa_: fault
+
+- _dosa_: flaw
+
+- _dosa_: imperfection
+
+- _dosa_: spiritual flaws
+
+- _vantadosa_: free of spiritual flaws
+
+- _visadosa_: virulent spiritual flaw
+
+- _visadosa_: poisonous taint
+
+=== Introduction
+
+==== Two roots: doṣa and dveṣa
+
+_Dosa's_ divergent meanings stem from its having two roots, corresponding to 
+Sanskrit _doṣa_ (fault) and _dveṣa_ (hatred). The two meanings occur 
+together as _dosadosā_ in Dh.v.357:
+
+[quote, Dh.v.357]
+____
+Weeds are the imperfection of fields; hatred is the imperfection of this people.
+
+_Tiṇadosāni khettāni dosadosā ayaṃ pajā._
+____
+
+=== Illustrations
+
+.Illustration
+====
+dosaṃ
+
+hatred
+====
+
+____
+Having destroyed love and hatred,
+
+_chetvā snehadosaṃ_
+____
+
+[quote, Sn.v.66]
+____
+One should live the religious life as solitarily as a rhinoceros horn.
+
+_Eko care khaggavisāṇakappo._
+____
+
+.Illustration
+====
+doso
+
+hatred
+====
+
+____
+Hatred is an origin of what is spiritually unwholesome.
+
+_doso akusalamūlaṃ_
+____
+
+[quote, M.1.47]
+____
+Non-hatred is an origin of what is spiritually wholesome.
+
+_adoso kusalamūlaṃ._
+____
+
+.Illustration
+====
+dosa
+
+hatred
+====
+
+[quote, Vin.4.237]
+____
+The bhikkhunīs are following a wrong course through hatred
+
+_dosagāminiyo ca bhikkhuniyo._
+____
+
+.Illustration
+====
+dosaṃ
+
+fault
+====
+
+[quote, M.1.31]
+____
+O, may this Samīti the cartwright's son trim off this bend, this twist and 
+this fault from this felloe so it is free of bends, twists, and faults, and 
+built of purest heartwood.
+
+_aho vatāyaṃ samīti yānakāraputto imissā nemiyā imañca vaṅkaṃ 
+imañca jimhaṃ imañca dosaṃ taccheyya evāyaṃ nemi apagatavaṅkā 
+apagatajimhā apagatadosā suddhāssa sāre patiṭṭhitāti._
+____
+
+.Illustration
+====
+dosa
+
+flaw
+====
+
+[quote, Sn.v.360]
+____
+That bhikkhu with the flaw of superstition abandoned, would properly fulfil the 
+ideals of religious asceticism in the world.
+
+_So maṅgaladosavippahīno bhikkhu sammā so loke paribbajeyya._
+____
+
+.Illustration
+====
+doso
+
+spiritual flaw
+====
+
+Bhikkhus, there are certain ascetics and Brahmanists whose doctrine and 
+dogmatic view is this: There is no spiritual flaw in [pursuing] sensuous 
+pleasures (_natthi kāmesu doso ti_) (M.1.305).
+
+.Illustration
+====
+dosaṃ
+
+spiritual flaws
+====
+
+____
+Make offerings, Māgha, and while offering
+
+_yajassu yajamāno_
+____
+
+____
+Make your mind serene in every respect.
+
+_sabbattha ca vippasādehi cittaṃ_
+____
+
+____
+For one making offerings (_yajamānassa_), the act of charity (_yaññaṃ_) is 
+the basis [for spiritual development] (_ārammaṇaṃ_).
+
+__ārammaṇaṃ yajamānassa yaññaṃ_
+____
+
+[quote, Sn.v.506]
+____
+Based on this one abandons one's spiritual flaws
+
+_ettha patiṭṭhāya jahāti dosaṃ._
+____
+
+.Illustration
+====
+vantadosa
+
+free of spiritual flaws
+====
+
+____
+Not on account of his eloquence or lotus-like complexion is a man excellent if 
+he is envious, stingy, and fraudulent.
+
+_Na vākkaraṇamattena vaṇṇapokkharatāya vā; +
+Sādhurūpo naro hoti issukī maccharī saṭho._
+____
+
+[quote, Dh.v.262-3]
+____
+For one in whom these [flaws] are eradicated, destroyed, root and all, removed, 
+then being free of spiritual flaws, the wise man is called excellent.
+
+_Yassa cetaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ; +
+Sa vantadoso medhāvī sādhurūpo ti vuccati._
+____
+
+.Illustration
+====
+vantadosa
+
+free of spiritual flaws
+====
+
+[quote, Ud.5]
+____
+One whose _āsavas_ are destroyed, and who is free of spiritual flaws, he is 
+what I call a Brahman.
+
+_Khīṇāsavaṃ vantadosaṃ tamahaṃ brūmi brāhmaṇan ti._
+____
+
+.Illustration
+====
+visadosa
+
+virulent spiritual flaws
+====
+
+[quote, Th.v.768]
+____
+The Buddha, cleanser of virulent spiritual flaws, removed the spiritual shackle 
+&#8203;[of grasping] which had long been lurking in me, long been firmly established 
+in me.
+
+_Dīgharattānusayitaṃ cirarattamadhiṭṭhitaṃ; +
+Buddho mepānudī ganthaṃ visadosappavāhano ti._
+____
+
+.Illustration
+====
+visadosa
+
+virulent imperfection
+====
+
+[quote, M.2.256]
+____
+Craving has been called an arrow by the Ascetic. The virulent imperfection of 
+uninsightfulness into reality oppresses a man with fondness, attachment, and 
+ill will. That arrow of craving has been extracted from me. The virulent 
+imperfection of uninsightfulness into reality has been removed.
+
+_taṇhā kho sallaṃ samaṇena vuttaṃ avijjāvisadoso 
+chandarāgavyāpādena ruppati. Taṃ me taṇhāsallaṃ pahīnaṃ apanīto 
+avijjāvisadoso._
+____
+
+.Illustration
+====
+visadoso
+
+poisonous taint
+====
+
+[quote, M.2.257]
+____
+The arrow has been pulled out of you. The poisonous taint has been removed with 
+no trace left behind. It is incapable of endangering you.
+
+_ubbhataṃ kho te sallaṃ apanīto visadoso saupādiseso analañca te 
+antarāyāya._
+____
+

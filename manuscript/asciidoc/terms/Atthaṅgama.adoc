@@ -1,0 +1,145 @@
+== Atthaṅgama
+
+=== Renderings
+
+- _abbhatthaṃ gacchanti_: to vanish
+
+- _atthaṃ paleti_: to vanish
+
+- _atthaṅgama_: vanishing
+
+=== Introduction
+
+==== Asta/attha: 'vanish' or 'vanishing'
+
+_Attha_ is two words with different roots, _artha_ and _asta_. The former 
+(_artha/attha_) is covered in the Glossary under _Attha_. The latter 
+(_asta/attha_) is examined here. It occurs in three terms:
+
+1. _abbhatthaṃ gacchanti_ (=__abhi+atthaṃ gacchanti__)
+
+2. _atthaṃ paleti_
+
+3. _atthaṅgamo._
+
+These all mean 'to vanish' or 'vanishing.'
+
+=== Illustrations
+
+.Illustration
+====
+abbhatthaṃ gacchanti
+
+to vanish
+====
+
+[quote, A.3.237]
+____
+Whatever one hears of the Master Gotama's teachings... grief, lamentation, 
+physical pain, psychological pain, and vexation immediately vanish.
+
+_tato tato sokaparidevadukkhadomanassupāyāsā abbhatthaṃ gacchanti._
+____
+
+.Illustration
+====
+abbhatthaṃ gacchati
+
+to vanish
+====
+
+If there arise in a bhikkhu unvirtuous, spiritually unwholesome thoughts 
+connected with attachment, hatred, and undiscernment of reality, then he should 
+pay attention to the dynamic quality of those thoughts (_tesaṃ vitakkānaṃ 
+vitakkasaṅkhārasaṇṭhānaṃ manasikātabbaṃ_). As he does so, then 
+spiritually unwholesome thoughts connected with desire, hatred, and 
+undiscernment of reality are abandoned in him and vanish (_pahīyanti te 
+abbhatthaṃ gacchanti_) (M.1.121).
+
+.Illustration
+====
+atthaṃ paleti
+
+to vanish
+====
+
+Just as a flame tossed about by the force of the wind vanishes, and is beyond 
+the limits of conception, (_atthaṃ paleti na upeti saṅkhaṃ_) so a sage 
+liberated from denomination-and-body vanishes, and is beyond the limits of 
+conception (_evaṃ muni nāmakāyā vimutto atthaṃ paleti na upeti 
+saṅkhaṃ_) (Sn.v.1074).
+
+This is explained as follows:
+
+____
+There is no measuring of one who has vanished;
+
+_Atthaṅgatassa na pamāṇamatthi_
+____
+
+[quote, Sn.v.1076]
+____
+... That no longer exists in relation to which one might speak of him;
+
+_Yena naṃ vajjuṃ taṃ tassa natthi._
+____
+
+Thus _atthaṃ paleti_ corresponds to _atthaṅgatassa_.
+
+.Illustration
+====
+atthaṅgamāya
+
+vanishing
+====
+
+[quote, S.5.142]
+____
+This is the one-destination path for the purification of beings, for the 
+overcoming of grief and lamentation, for the vanishing of physical and 
+psychological pain
+
+_dukkhadomanassānaṃ atthaṅgamāya._
+____
+
+.Illustration
+====
+atthaṅgamo
+
+vanishing
+====
+
+____
+Ānanda, there are five grasped aggregates of which a bhikkhu should abide 
+contemplating their [co-conditional] arising and disappearance:
+
+_Pañca kho ime ānanda upādānakkhandhā yattha bhikkhunā 
+udayabbayānupassinā vihātabbaṃ._
+____
+
+'Such is bodily form, such its [co-conditional] origination, such its 
+&#8203;[co-conditional] vanishing
+
+_• iti rūpaṃ_
+
+_• iti rūpassa samudayo_
+
+_• iti rūpassa atthaṅgamo_ (M.3.115).
+
+.Illustration
+====
+atthaṅgamo
+
+vanishing
+====
+
+• Bhikkhus, I will teach you the [co-conditional] origination and 
+&#8203;[co-conditional] vanishing of the four bases of mindfulness. Please listen. +
+_catunnaṃ bhikkhave satipaṭṭhānānaṃ samudayañca atthaṅgamañca 
+desissāmi. Taṃ suṇātha._
+
+• With the origination of food comes the origination of the body. With the 
+ending of food comes the vanishing of the body. +
+_Āhārasamudayā kāyassa samudayo āhāranirodhā kāyassa atthaṅgamo_ 
+(S.5.184).
+

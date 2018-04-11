@@ -1,0 +1,654 @@
+== Ejā
+
+=== Renderings
+
+- _aniñjita_: the not-unstable
+
+- _aneja_: imperturbable
+
+- _āneñja_: imperturbability
+
+- _āneñja_: the Imperturbable
+
+- _iñjita_: the unstable
+
+- _iñjita_: spiritual instability
+
+- _iñjita_: trembling
+
+- _ejā_: spiritual instability
+
+- _āneñja_: karmically neutral
+
+=== Dictionary of Pāli renderings:
+
+- _aniñjita_ (noun): lack of disturbance, quiet.
+
+- _aniñjita_ (adj): not perturbed
+
+- _aniñja_ (noun): immovability, imperturbability
+
+- _aniñja_ (adj): immobile, immoveable, imperturbable
+
+- _aneja_: (noun): imperturbability, unmoveable state, freedom from emotion.
+
+- _aneja_ (adj): unmoved, imperturbable, without emotion
+
+- _āneñja_ (noun): immovability, imperturbability
+
+- _āneñja_ (adj): unmoved, not to be stirred
+
+- _iñja_: moving, being disturbed?; moveable?
+
+- _iñjati_: moves, stirs, is moved, is disturbed;
+
+- _iñjita_ (noun): movement, disturbance
+
+- _iñjita_ (adj): moved, perturbed
+
+- _ejā_: motion, disturbance, agitation, emotion
+
+- _ejānuga_: following, under the influence of, emotion
+
+- _ejati_: moves, trembles, shakes
+
+=== Introduction
+
+==== Aneñja: eleven spellings
+
+PED says of _aneñja_ that the Pāli editions 'show a great variance of 
+spelling, based on manuscript vacillation, in part also due to confusion of 
+derivation.' It lists eleven spellings: _aṇañja, aneñja, aneja, anejja, 
+anañja, āṇañja, āṇeñja, ānañca, ānañja, ānejja, āneñja_.
+
+==== Āneñja and aneñja: relationship to iñjati
+
+Norman considers _ejaṃ_ and _iñjita_ to be related, and says his 
+translations "com-motions" and "e-motions" are an attempt to get the wordplay 
+on the two forms which are from the same root (Norman, GD p.304 n.750-51). But 
+DOP is less sure, saying that _āneñja_ and _aneñja_ may be derived from 
+_iñjati_, with a question mark, thus: 'from _iñjati_?' In practice the 
+uncertainty is irrelevant because the scriptures treat the words as synonyms. 
+For example, Sn.v.750-1 says:
+
+- Whatever suffering arises, all of it arises dependent on spiritual 
+instability (_iñjitapaccayā_)... Therefore having relinquished spiritual 
+instability (_ejaṃ vossajja_), imperturbable (_anejo_) and free of grasping, 
+the bhikkhu should mindfully fulfil the ideals of religious asceticism 
+(Sn.v.750-1).
+
+So _ejaṃ_ and _iñjati_ can be considered together.
+
+==== Ejā: not desire
+
+_Ejā_ was formerly considered part of desire. For example, PED (1905) 
+suggested 'cravings.' But this is now rejected by DOP (2001) which calls it 
+'motion, disturbance, agitation, emotion.'
+
+==== Root word: perturbable
+
+'Perturbable' has become the generally accepted root word for most members of 
+the word family. Thus Bodhi calls _āneñja_ 'imperturbable', and _iñjita_ 
+'perturbable'. DOP agrees, saying _āneñja_ means 'unmoved, not to be stirred, 
+imperturbable.' This rendering is justified, firstly by similes that compare 
+_anejo_ to calm lakes or immoveable mountains (_pabbato viya so ṭhito anejo_ 
+Ud.27), and secondly by the word's co-occurrence with _ṭhito_ 'inwardly 
+stable.' All evidence therefore negates the possibility of 'desire.'
+
+==== Imperturbability: two connotations
+
+Imperturbability has two connotations:
+
+1. Firstly, fourth jhāna and immaterial states of awareness. All levels of 
+_samādhi_ below fourth jhāna lie 'within the unstable' (_iñjitasmiṃ_, 
+locative), whereas fourth jhāna is 'within the not-unstable' 
+(_aniñjitasmiṃ_, M.1.454-5). To attain fourth jhāna is to attain 
+imperturbability (_āneñjappatte_, D.1.76), where one might sit in [a state 
+of] imperturbable inward collectedness (_āneñjena samādhinā nisinno hoti_, 
+Ud.27), a state where one's mind is unshakeable (_ṭhite_, M.3.136).
+
+2. Secondly, arahantship. An arahant has 'realised the Imperturbable' 
+(_anejaṃ te anuppattā,_ S.3.83). In other words, because they are liberated, 
+they are free of spiritual instability (_neva sammā vimuttānaṃ buddhānaṃ 
+atthi iñjitan ti_), and it is impossible to arouse fear, panic, terror in them 
+(_bhayaṃ chambhitattaṃ lomahaṃsaṃ_, S.1.109).
+
+==== 'The Imperturbable'
+
+We have seen in the paragraph above that 'the Imperturbable' means arahantship. 
+However it can also mean refined meditation states, which we detail below:
+
+[quote, M.2.262]
+____
+When there is serenity, he either attains the Imperturbable now, or else he is 
+intent upon discernment.
+
+_Sampasāde sati etarahi vā āneñjaṃ samāpajjati paññāya vā 
+adhimuccati._
+____
+
+We have seen in the section above that fourth jhāna is 'within the 
+not-unstable' (_aniñjitasmiṃ_, M.1.454-5), which can be regarded as part of 
+the Imperturbable because _aniñjita_ and _āneñja_ are treated as synonyms in 
+the suttas. The immaterial states are also part of it:
+
+[quote, A.2.184]
+____
+And how is a bhikkhu one who has attained the Imperturbable? In this regard, by 
+completely transcending refined material states of awareness, with the 
+vanishing of states of refined awareness involving physical sensation, not 
+focusing upon states of refined awareness involving the external senses, a 
+bhikkhu enters and abides in the state of awareness of boundless space where 
+one perceives that space is boundless... By completely transcending the state 
+of awareness of nonexistence, a bhikkhu enters and abides in the state of 
+awareness neither having nor lacking perception.
+
+_Kathaṃ ca bhikkhave bhikkhu āneñjappatto hoti? Idha bhikkhave bhikkhu 
+sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā 
+nānattasaññānaṃ amanasikārā ananto ākāsoti ākāsānañcāyatanaṃ 
+upasampajja viharati... Sabbaso ākiñcaññāyatanaṃ samatikkamma 
+nevasaññānāsaññāyatanaṃ upasampajja viharati. Evaṃ kho bhikkhave 
+bhikkhu āneñjappatto hoti._
+____
+
+==== Imperturbability of arahantship: the basis
+
+Sometimes the imperturbability of arahantship is linked to other terms, which 
+shows the basis for the arahant's imperturbability:
+
+1. The dispelling of fondness ('Dispel fondness for these. Be imperturbable,' 
+_ettha vinodaya chandamanejo,_ S.1.186).
+
+2. Abandoning the perception of Self. For example, to overcome spiritual 
+instability (_ejā_) and attain imperturbability (_anejo_), one should avoid, 
+for example, thinking of the visual sense in personal terms (_cakkhuṃ na 
+maññeyya_, S.4.65). See Glossary sv _Maññati._
+
+==== Iñjita three terms
+
+_Iñjita_, past participle of _iñjati_, means 'moved, perturbed,' says DOP, 
+and the noun is 'movement, disturbance.' But we render it with three terms:
+
+1. spiritual instability
+
+2. trembling
+
+3. the unstable
+
+We illustrate these as follows:
+
+==== 1) Iñjita: spiritual instability
+
+____
+The notion "I am" is a matter of spiritual instability,
+
+_asmī ti bhikkhave iñjitametaṃ_
+____
+
+____
+'I am this' is a matter of spiritual instability
+
+_ayamahamasmī ti iñjitametaṃ_
+____
+
+____
+'I will be' is a matter of spiritual instability
+
+_bhavissanti iñjitametaṃ_
+____
+
+[quote, S.4.203]
+____
+'I will not be' is a matter of spiritual instability
+
+_na bhavissanti iñjitametaṃ._
+____
+
+==== 2) Iñjita: trembling
+
+Māra, the Maleficent One, wishing to arouse fear in the Buddha shattered a 
+number of huge boulders nearby. The Buddha said:
+
+____
+'Even if you shake this entire Vulture Peak
+
+_Sacemaṃ kevalaṃ sabbaṃ gijjhakūṭaṃ caleyyasi_
+____
+
+[quote, S.1.109]
+____
+There is no trembling in fully liberated enlightened ones.'
+
+_Neva sammā vimuttānaṃ buddhānaṃ atthi iñjitan ti._
+____
+
+==== 3) Iñjita: the unstable
+
+____
+First jhāna, I declare, is within the unstable.
+
+_paṭhamaṃ jhānaṃ... iñjitasmiṃ vadāmi._
+____
+
+[quote, M.1.454-5]
+____
+What there is within the unstable? The thinking and pondering that are unended.
+
+_Kiñca tattha iñjitasmiṃ: yadeva tattha vitakkavicārā aniruddhā honti 
+idaṃ tattha iñjitasmiṃ._
+____
+
+==== Aniñjita: the not-unstable
+
+DOP says the negative _aniñjita_ means 'not perturbed, lack of disturbance, 
+quiet,' where we say 'not-unstable,' as follows:
+
+____
+First jhāna, I declare, is within the unstable.
+
+_paṭhamaṃ jhānaṃ... iñjitasmiṃ vadāmi._
+____
+
+____
+What there is within the unstable? The thinking and pondering that are unended.
+
+_Kiñca tattha iñjitasmiṃ: yadeva tattha vitakkavicārā aniruddhā honti 
+idaṃ tattha iñjitasmiṃ_
+____
+
+____
+Second jhāna, I declare, is within the unstable.
+
+_dutiyaṃ jhānaṃ... iñjitasmiṃ vadāmi._
+____
+
+____
+What there is within the unstable? The rapture and physical pleasure that are 
+unended.
+
+_yadeva tattha pītisukhaṃ aniruddhaṃ hoti._
+____
+
+____
+Third jhāna, I declare, is within the unstable.
+
+_tatiyaṃ jhānaṃ... iñjitasmiṃ vadāmi_
+____
+
+____
+What there is within the unstable? The serenity with physical pleasure that is 
+unended.
+
+_yadeva tattha upekkhāsukhaṃ aniruddhaṃ hoti._
+____
+
+[quote, M.1.454-5]
+____
+Fourth jhāna, I declare, is within the not-unstable.
+
+_catutthaṃ jhānaṃ... aniñjitasmiṃ vadāmi._
+____
+
+==== Karmically neutral deeds
+
+_Āneñja_ is used to describe deeds that are neither meritorious nor 
+demeritorious. We call these deeds 'karmically neutral.'
+
+____
+Bhikkhus, if someone who has acquiesced in uninsightfulness into reality 
+undertakes a karmically consequential deed that is meritorious, his stream of 
+sense consciousness (_viññāṇaṃ_) is furnished with merit;
+
+_Avijjāgatoyaṃ bhikkhave purisapuggalo puññaṃ ce saṅkhāraṃ 
+abhisaṅkharoti puññopagaṃ hoti viññāṇaṃ._
+____
+
+____
+... If he undertakes a karmically consequential deed that is demeritorious, his 
+stream of sense consciousness is furnished with demerit;
+
+_Apuññaṃ ce saṅkhāraṃ abhisaṅkharoti apuññopagaṃ hoti 
+viññāṇaṃ._
+____
+
+____
+... If he undertakes a karmically consequential deed that is karmically 
+neutral, his stream of sense consciousness is furnished with what is karmically 
+neutral.
+
+_Āneñjaṃ ce saṅkhāraṃ abhisaṅkharoti āneñjūpagaṃ hoti 
+viññāṇaṃ._
+____
+
+[quote, S.2.82]
+____
+... When a bhikkhu has abandoned uninsightfulness into reality (_avijjā_) and 
+aroused insightfulness into reality (_vijjā_), then, with the fading away of 
+uninsightfulness into reality and the arising of insightfulness into reality, 
+he does not undertake a karmically consequential deed that is meritorious, 
+demeritorious, or karmically neutral.
+
+_Yato kho bhikkhave bhikkhuno avijjā pahīṇā hoti vijjā uppannā so 
+avijjāvirāgā vijjūppādā neva puññābhisaṅkhāraṃ abhisaṅkharoti. 
+Na apuññābhisaṅkhāraṃ abhisaṅkharoti. Na āneñjābhisaṅkhāraṃ 
+abhisaṅkharoti._
+____
+
+=== Illustrations
+
+.Illustration
+====
+ejā
+
+spiritual instability
+====
+
+____
+Spiritual instability, bhante, is an illness, a carbuncle, a [piercing] arrow.
+
+_ejā bhante rogo ejā gaṇḍo ejā sallaṃ_
+____
+
+____
+It draws man to this or that state of individual existence and rebirth.
+
+_ejā imaṃ purisaṃ parikaḍḍhati tassa tasseva bhavassa abhinibbattiyā_
+____
+
+[quote, D.2.283]
+____
+Thus he arises in various [states of individual existence].
+
+_Tasmā ayaṃ puriso uccāvacamāpajjati._
+____
+
+COMMENT
+
+[quote, S.4.203]
+____
+The notion "I am" is a matter of spiritual instability,
+
+_asmī ti bhikkhave iñjitametaṃ._
+____
+
+.Illustration
+====
+ejā
+
+spiritual instability
+====
+
+____
+Abandoning what they have in order to grab something else,
+
+_Purimaṃ pahāya aparaṃ sitāse_
+____
+
+____
+Dogged by spiritual instability, they do not overcome bondage [to individual 
+existence].
+
+_Ejānugā te na taranti saṅgaṃ_
+____
+
+____
+They release and catch hold
+
+_Te uggahāyanti nirassajanti_
+____
+
+[quote, Sn.v.791]
+____
+Like a monkey releasing one branch in order to seize another.
+
+_kapīva sākhaṃ pamuñcaṃ gahāyaṃ._
+____
+
+COMMENT
+
+The following quote shows that instability comes from fondness:
+
+____
+People are ensnared by objects of attachment,
+
+_Upadhīsu janā gathitāse_
+____
+
+____
+By what is seen, heard, sensed, and cognised.
+
+_Diṭṭhasute paṭighe ca mute ca_
+____
+
+____
+Dispel fondness for these. Be imperturbable.
+
+_Ettha vinodaya chandamanejo_
+____
+
+[quote, S.1.186]
+____
+They call him a sage who does not cleave to these objects.
+
+_Yo ettha na limpati taṃ munimāhu._
+____
+
+.Illustration
+====
+anejo
+
+imperturbable
+====
+
+____
+If a bhikkhu should wish, 'May I dwell imperturbable, with the arrow [of 
+spiritual instability] removed!'
+
+_anejo vihareyyaṃ vītasallo ti_
+____
+
+[quote, S.4.65]
+____
+he should not think of the visual sense in personal terms; he should not think 
+'I am part of the visual sense'; he should not think 'I am separate from the 
+visual sense'; he should not think that the visual sense is "[in reality] 
+mine."'
+
+_Cakkhuṃ na maññeyya cakkhusmiṃ na maññeyya cakkhuto na maññeyya 
+cakkhuṃ me ti na maññeyya._
+____
+
+.Illustration
+====
+anejo
+
+imperturbable
+====
+
+[quote, Sn.v.920]
+____
+In the depths of the ocean no wave swells up. It is stable. Likewise is the 
+inward stability of one who is imperturbable. He would have no swelling of 
+conceit about anything.
+
+_Majjhe yathā samuddassa ūmi no jāyati ṭhito hoti +
+Evaṃ ṭhito anejassa ussadaṃ bhikkhu na kareyya kuhiñci._
+____
+
+.Illustration
+====
+anejo
+
+imperturbable
+====
+
+____
+He who has mastered the thorn of sensuous pleasure,
+
+_Yassa jito kāmakaṇṭako_
+____
+
+____
+Abuse, punishment, and imprisonment,
+
+_Akkoso ca vadho ca bandhanañca_
+____
+
+____
+Is as inwardly stable as a mountain, imperturbable,
+
+_pabbato viya so ṭhito anejo_
+____
+
+[quote, Ud.27]
+____
+A bhikkhu like that is unshaken by pleasure and pain.
+
+_Sukhadukkhesu na vedhati sa bhikkhū ti._
+____
+
+.Illustration
+====
+anejo
+
+imperturbable
+====
+
+____
+A wise person through fully understanding the teaching, having understood the 
+teaching,
+
+_dhammamabhiññāya dhammamaññāya paṇḍito_
+____
+
+[quote, It.91-2]
+____
+becomes inwardly at peace, like an unruffled lake, imperturbable.
+
+_rahadova nivāte ca anejo vūpasammati._
+____
+
+.Illustration
+====
+āneñja
+
+imperturbability
+====
+
+____
+With the abandonment of physical pleasure and pain, and following the vanishing 
+of psychological pleasure and pain, he enters and abides in fourth jhāna, 
+which is free of pleasure and pain, and [is imbued with] purified detached 
+awareness and mindfulness.
+
+_Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassa domanassānaṃ 
+atthaṅgamā adukkhaṃ asukhaṃ upekkhā sati pārisuddhiṃ catutthaṃ 
+jhānaṃ upasampajja viharati._
+____
+
+[quote, M.3.136]
+____
+With his mind thus collected, purified, cleansed, unblemished, free of 
+defilement, pliable, wieldy, stable, and attained to imperturbability, he 
+directs and inclines it to the knowledge through recalling of past lives.
+
+_So evaṃ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese 
+muhubhute kammaṇiye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya 
+cittaṃ abhininnāmeti._
+____
+
+.Illustration
+====
+āneñja
+
+&#8203;[a state of] imperturbability, imperturbable
+====
+
+____
+Once, the Blessed One was sitting in [a state of] imperturbable inward 
+collectedness
+
+_Tena kho pana samayena bhagavā āneñjena samādhinā nisinno hoti_
+____
+
+____
+Then those bhikkhus asked themselves what abiding the Blessed One was dwelling 
+in at that time.
+
+_Atha kho tesaṃ bhikkhūnaṃ etadahosi katamena nu kho bhagavā vihārena 
+etarahi viharatī ti_
+____
+
+____
+Then they perceived he was abiding in [a state of] imperturbability.
+
+_Atha kho tesaṃ bhikkhūnaṃ etadahosi āneñjena kho bhagavā vihārena 
+etarahi viharatī ti_
+____
+
+[quote, Ud.27]
+____
+So they also sat in [a state of] imperturbable inward collectedness
+
+_Sabbeva āneñjena samādhinā nisīdiṃsu._
+____
+
+.Illustration
+====
+iñjita
+
+spiritual instability; ejā, spiritual instability; anejo, imperturbable
+====
+
+____
+Whatever suffering arises, all of it arises dependent on spiritual instability.
+
+_Yaṃ kiñci dukkhaṃ sambhoti sabbaṃ iñjitapaccayā;_
+____
+
+____
+With the ending of states of spiritual instability, there is no arising of 
+suffering.
+
+_Iñjitānaṃ nirodhena natthi dukkhassa sambhavo._
+____
+
+____
+Recognising this danger, that suffering arises dependent on spiritual 
+instability
+
+_Etamādīnavaṃ ñatvā dukkhaṃ iñjitapaccayā_
+____
+
+____
+Therefore having relinquished spiritual instability and ended karmically 
+consequential deeds
+
+_Tasmā hi ejaṃ vossajja saṅkhāre uparundhiya_
+____
+
+[quote, Sn.v.750-1]
+____
+Imperturbable and free of grasping, the bhikkhu should mindfully fulfil the 
+ideals of religious asceticism.
+
+_Anejo anupādāno sato bhikkhu paribbaje ti._
+____
+
+.Illustration
+====
+iñjita
+
+trembling
+====
+
+[quote, S.5.316]
+____
+When inward collectedness by mindfulness with breathing has been developed and 
+cultivated, no trembling or unsteadiness arises either in body or mind.
+
+__ānāpānasatisamādhissa bhikkhave bhāvitattā bahulīkatattā neva 
+kāyassa iñjitattaṃ vā hoti phanditattaṃ vā na cittassa iñjitattaṃ 
+vā hoti phanditattaṃ vā._
+____
+

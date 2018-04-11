@@ -1,0 +1,178 @@
+== Parājita
+
+=== Renderings
+
+- _parājita_: defeated
+
+- _aparājita_: undefeated [by Māra's army]
+
+- _aparājita_: invincible
+
+- _aparājita_: the Invincible One
+
+=== Introduction
+
+==== Parajita: 'defeated'
+
+_Parajita_ usually means 'defeated':
+
+[quote, Sn.v.681]
+____
+Victory was for the devas, and the asuras were defeated
+
+_jayo surānaṃ asurā parājitā._
+____
+
+==== Padhāna Sutta: parenthesising '[by Māra's army]'
+
+In his battle with Māra, the Bodhisatta said:
+
+[quote, Sn.v.440]
+____
+'Death in battle is better for me than to [surrender and] live on defeated.'
+
+_Saṅgāme me mataṃ seyyo yaṃ ce jīve parājito._
+____
+
+By 'defeated' he meant 'defeated [by Māra's army]' because, in the previous 
+verse, concerning the ten armies of Māra, he said:
+
+[quote, Sn.v.439]
+____
+'That is your army, Namuci, the forces of inward darkness. None but the heroic 
+will conquer it. Having conquered it one finds happiness.'
+
+_Esā namuci te senā kaṇhassābhippahārinī +
+Na naṃ asūro jināti jetvā ca labhate sukhaṃ._
+____
+
+Where 'defeated' needs parenthesising, this, then, is our parenthesis. It is 
+supported by other passages:
+
+• When will I, having furiously taken up the seers' sword of wisdom of fierce 
+strength, [sitting cross-legged] on the invincible seat, quickly destroy Māra 
+and his army? When, oh when, will it be? +
+☸ _Kadā nu paññāmayamuggatejaṃ satthaṃ isīnaṃ sahasādiyitvā +
+Māraṃ sasenaṃ sahasā bhañjissaṃ sīhāsane taṃ nu kadā bhavissati_ 
+(Th.v.1095). Commentary: _Sīhāsaneti thirāsane aparājitapallaṅketi attho_.
+
+==== Commentary: kilesa and Māra
+
+Frequently the commentary explains _parājito_ in terms of Māra, as we show in 
+quotes in the illustrations below. Sometimes it explains _parājito_ in terms 
+of _kilesa_. For example, _kilesehi parājito_ (Th.v.194). However, _kilesa_ is 
+a synonym of Māra's army and there seems no advantage in changing the 
+parenthesis when the suttas are already clear which parenthesis is to be 
+applied. _Parājito_ implies war, which fits well with 'army.'
+
+==== Aparājita: the Invincible One
+
+In the context of the Buddha, we call _aparājita_ 'the Invincible One':
+
+[quote, Th.v.131-2]
+____
+Since [the time] I heard the Teacher's teaching spoken, I do not recall [in 
+myself any] unsureness about the [perfection of the transcendent insight of 
+the] All-knowing One, the Invincible One.
+
+_Yadāhaṃ dhammamassosiṃ bhāsamānassa satthuno +
+Na kaṅkhamabhijānāmi sabbaññū aparājite._
+____
+
+Commentary: _pañcannampi mārānaṃ abhibhavanato tehi aparājitattā._
+
+=== Illustrations
+
+.Illustration
+====
+aparājito
+
+undefeated [by Māra's army]
+====
+
+[quote, A.2.42]
+____
+That peaceful, mindful bhikkhu, tranquil, undefeated [by Māra's army].
+
+_Sa ve santo sato bhikkhu passaddho aparājito._
+____
+
+Commentary: _Aparājito ti sabbakilese jinitvā ṭhitattā kenaci aparājito_
+
+.Illustration
+====
+aparājitā
+
+undefeated [by Māra's army]
+====
+
+[quote, Sn.v.269]
+____
+'Having cultivated such things, those who are everywhere undefeated [by Māra's 
+army] go everywhere in safety: this for them is supremely auspicious.'
+
+_Etādisāni katvāna sabbatthamaparājitā +
+Sabbattha sotthiṃ gacchanti taṃ tesaṃ maṅgalamuttaman ti._
+____
+
+Commentary: _Sabbatthamaparājitā ti sabbattha 
+khandhakilesābhisaṅkhāradevaputtamārappabhedesu catūsu paccatthikesu 
+ekenapi aparājitā hutvā, sayameva te cattāro māre parājetvāti vuttaṃ 
+hoti._
+
+.Illustration
+====
+aparājito
+
+undefeated [by Māra's army]
+====
+
+[quote, Th.v.513]
+____
+Being endowed with the training and a [right means of] livelihood, with sense 
+faculties well-restrained [from attraction and repulsion, through mindfulness], 
+venerating the Perfectly Enlightened One, I dwelt undefeated [by Māra's army].
+
+_Sikkhāsājīvasampanno indriyesu susaṃvuto +
+Namassamāno sambuddhaṃ vihāsiṃ aparājito._
+____
+
+Commentary: _kilesamārādīhi aparājito._
+
+.Illustration
+====
+aparājita
+
+undefeated [by Māra's army]
+====
+
+[quote, S.1.26]
+____
+A great concourse takes place in the woods. The deva hosts have assembled. We 
+have come to this religious gathering, to see the community of bhikkhus, 
+undefeated [by Māra's army].
+
+_Mahāsamayo pavanasmiṃ devakāyā samāgatā +
+Āgatamha imaṃ dhammasamayaṃ dakkhitāye aparājitasaṅghan ti._
+____
+
+Commentary: _Dakkhitāye aparājitasaṅghan ti kenaci aparājitaṃ ajjeva 
+tayo māre madditvā vijitasaṅgāmaṃ imaṃ aparājitasaṅghaṃ 
+dassanatthāya āgatamhāti attho._
+
+.Illustration
+====
+aparājitaṃ
+
+invincible
+====
+
+[quote, Thī.v.121]
+____
+We shall abide revering you like the Tāvatiṃsā devas revering Inda, 
+invincible in war.
+
+_Indaṃca tidasā devā saṅgāme aparājitaṃ +
+Purakkhatvā vihassāma._
+____
+

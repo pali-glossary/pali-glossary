@@ -1,0 +1,393 @@
+== Vedanā; Vedayita
+
+=== Renderings
+
+- _vedanā_: sense impression
+
+- _vedanā_: feelings
+
+- _vedanā_: pains
+
+- _vedayita_: experienced
+
+- _vedayita_: sense impression
+
+=== Introduction
+
+==== Vedayita=vedanā
+
+_Vedayita_ is the past participle of _vedeti_, meaning 'felt, experienced,' 
+says PED. In some circumstances, we accordingly call it 'experienced.' But it 
+is otherwise to be treated as a synonym of _vedanā_, for which we provide the 
+following evidence:
+
+1. Bodhi treats them as synonyms. For example he calls _vedayita_ 'feeling' at 
+S.4.144 and A.4.409.
+
+2. The suttas likewise treat them as synonyms, for example in these two quotes:
+
+[quote, A.4.409]
+____
+For one who has attained the ending of perception and sense impression, 
+perception and sense impression are ended.
+
+_Saññāvedayitaṃ nirodhaṃ samāpannassa saññā ca vedanā ca niruddhā 
+honti._
+____
+
+[quote, D.2.67]
+____
+'If there were no sense impression in any way, would there be the thought "I am 
+this"?' 'No, bhante.' 'Therefore this argument is invalid: Sense impression is 
+not my [absolute] Selfhood. My [absolute] Selfhood is without sense impression.'
+
+_yattha panāvuso sabbaso vedayitaṃ natthi api nu kho tattha ayamahamasmī ti 
+siyā ti. No hetaṃ bhante. Tasmātihānanda etenapetaṃ nakkhamati na heva 
+kho me vedanā attā appaṭisaṃvedano me attā ti samanupassituṃ._
+____
+
+3. Both _vedayita_ and _vedanā_ have the same threefold division:
+
+[quote, S.4.144]
+____
+Whatever sense impression that arises due to visual sensation -- whether 
+pleasant, unpleasant, or neutral -- becomes manifest to him according to 
+reality, as unlasting.
+
+_yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā 
+dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccanti yathābhūtaṃ okkhāyati._
+____
+
+• Whatever sense impression he experiences, pleasant, unpleasant, or neutral, 
+he takes delight in that sense impression, he welcomes it, and persists in 
+cleaving to it. In so doing, spiritually fettering delight arises. +
+_yaṃ kiñci vedanaṃ vedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā 
+so taṃ vedanaṃ abhinandati abhivadati ajjhosāya tiṭṭhati tassa taṃ 
+vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī_ 
+(M.1.266).
+
+==== Vedanā and Phassa
+
+The relationship between _vedanā_ ('sense impression') and _phassa_ 
+('sensation') is as follows:
+
+[quote, S.2.74]
+____
+Dependent on the visual sense and visible objects, advertence to the visual 
+field arises. The association of the three is sensation. Sense impression 
+arises dependent on sensation.
+
+_Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ. Tiṇṇaṃ 
+saṅgati phasso. Phassapaccayā vedanā.._
+____
+
+=== Illustrations: vedanā
+
+.Illustration
+====
+vedanā
+
+sense impression
+====
+
+• Experiencing a pleasant sense impression, he knows that it is unlasting; he 
+knows that it is not cleaved to; he knows that it is not delighted in. +
+_So sukhaṃ ce vedanaṃ vedeti. Sā aniccā ti pajānāti anajjhositā ti 
+pajānāti anabhinanditā ti pajānāti._
+
+• Experiencing an unpleasant sense impression, he knows that it is unlasting; 
+he knows that it is not cleaved to; he knows that it is not delighted in. +
+_Dukkhaṃ ce vedanaṃ vedeti. Sā aniccā ti pajānāti. Anajjhositā ti 
+pajānāti. Anabhinanditā ti pajānāti_
+
+• Experiencing a neutral sense impression, he knows that it is unlasting; he 
+knows that it is not cleaved to; he knows that it is not delighted in. +
+_adukkhamasukhañce vedanaṃ vedeti sā aniccā ti pajānāti anajjhositā ti 
+pajānāti anabhinanditā ti pajānāti_ (M.3.244)
+
+.Illustration
+====
+vedanā
+
+sense impression
+====
+
+____
+Bhikkhus, when the ignorant Everyman is affected by an unpleasant sense 
+impression, he grieves, suffers, and laments, weeps beating his chest, and 
+falls into bewilderment.
+
+_assutavā puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati 
+paridevati urattāḷiṃ kandati sammohaṃ āpajjati_
+____
+
+• He experiences two sense impressions—a bodily one and a psychological 
+one. +
+☸ _so dve vedanā vediyati kāyikañca cetasikañca._
+
+____
+Being affected by that unpleasant sense impression, he has feelings of 
+repugnance for it._
+
+_Tassāyeva kho pana dukkhāya vedanāya phuṭṭho samāno paṭighavā hoti._
+____
+
+____
+When he has feelings of repugnance for unpleasant sense impression, the 
+proclivity to repugnance towards unpleasant sense impression lurks within him._
+
+_Tamenaṃ dukkhāya vedanāya paṭighavantaṃ yo dukkhāya vedanāya 
+paṭighānusayo so anuseti_
+____
+
+____
+When affected by an unpleasant sense impression, he longs for sensuous 
+pleasure. For what reason?_
+
+_so dukkhāya vedanāya phuṭṭho samāno kāmasukhaṃ abhinandati. Taṃ 
+kissa hetu_
+____
+
+[quote, S.4.208]
+____
+Because the ignorant Everyman does not discern any deliverance from unpleasant 
+sense impression other than through sensuous pleasure._
+
+_na bhikkhave pajānāti assutavā puthujjano aññatra kāmasukhā dukkhāya 
+vedanāya nissaraṇaṃ._
+____
+
+.Illustration
+====
+vedanā
+
+sense impression
+====
+
+[quote, S.4.213-4]
+____
+He knows that: 'There has arisen in me an unpleasant sense impression. Now that 
+is dependent, not self-sufficient. Dependent on what? Dependent on sensation. 
+But sensation is unlasting, originated, dependently arisen. So when an 
+unpleasant sense impression has arisen dependent on sensation, which is 
+unlasting, originated, dependently arisen, how could it be lasting?'
+
+_so evaṃ pajānāti; uppannā kho myāyaṃ dukkhā vedanā sā ca kho 
+paṭicca no apaṭicca kiṃ paṭicca: imameva phassaṃ paṭicca ayaṃ kho 
+pana phasso anicco saṅkhato paṭiccasamuppanno aniccaṃ kho pana 
+saṅkhataṃ paṭiccasamuppannaṃ phassaṃ paṭicca uppannā dukkhā 
+vedanā kuto niccā bhavissatī ti._
+____
+
+.Illustration
+====
+vedanā
+
+sense impression
+====
+
+• Experiencing a pleasant sense impression, he knows that it is unlasting; he 
+knows that it is not cleaved to; he knows that it is not delighted in. +
+_So sukhaṃ ce vedanaṃ vedeti. Sā aniccā ti pajānāti anajjhositā ti 
+pajānāti anabhinanditā ti pajānāti._
+
+• Experiencing an unpleasant sense impression, he knows that it is unlasting; 
+he knows that it is not cleaved to; he knows that it is not delighted in. +
+_Dukkhaṃ ce vedanaṃ vedeti. Sā aniccā ti pajānāti. Anajjhositā ti 
+pajānāti. Anabhinanditā ti pajānāti_
+
+• Experiencing a neutral sense impression, he knows that it is unlasting; he 
+knows that it is not cleaved to; he knows that it is not delighted in. +
+_adukkhamasukhañce vedanaṃ vedeti sā aniccā ti pajānāti anajjhositā ti 
+pajānāti anabhinanditā ti pajānāti_ (M.3.244)
+
+.Illustration
+====
+vedanā
+
+sense impression
+====
+
+• Without sense impression, there is no craving. With the ending of sense 
+impression comes the ending of craving. +
+_vedanāya kho asati taṇhā na hoti vedanānirodhā taṇhānirodho ti_ 
+(D.2.34).
+
+.Illustration
+====
+vedanā
+
+sense impression
+====
+
+____
+Bhikkhus, just as various winds blow in the sky: winds from the east, winds 
+from the west, winds from the north, winds from the south, dusty winds and 
+dustless winds, cold winds and hot winds, mild winds and strong winds; so too, 
+various sense impressions arise in this [wretched human] body:
+
+_Evameva kho bhikkhave imasmiṃ kāyasmiṃ vividhā vedanā uppajjanti_
+____
+
+____
+a pleasant sense impression arises,
+
+_sukhāpi vedanā uppajjati_
+____
+
+____
+an unpleasant sense impression arises
+
+_dukkhāpi vedanā uppajjati_
+____
+
+[quote, S.4.218]
+____
+a neutral sense impression arises.
+
+_adukkhamasukhāpi vedanā uppajjatīti._
+____
+
+.Illustration
+====
+vedanā
+
+feelings; vedanā, pains
+====
+
+[quote, S.4.56]
+____
+Strong painful feelings are increasing in me
+
+_bāḷhā me dukkhā vedanā abhikkamanti._
+____
+
+With the Buddha, _dukkhā_ is often omitted, and _vedanā_ means _dukkhā 
+vedanā_:
+
+[quote, D.2.99]
+____
+Strong, deadly pains assailed him.
+
+_Bāḷhā vedanā vattanti māraṇantikā._
+____
+
+[quote, S.1.27]
+____
+Severe pains assailed the Blessed One
+
+_bhusā sudaṃ bhagavato vedanā vattanti._
+____
+
+.Illustration
+====
+vedanā
+
+feeling
+====
+
+____
+Having passed beyond the rapture of physical seclusion, having passed beyond 
+unworldly pleasure, having entered [sublime] neutral feeling, he abides therein.
+
+_pavivekāya pītiyā samatikkamā nirāmisassa sukhassa samatikkamā 
+adukkhamasukhaṃ vedanaṃ upasampajja viharati_
+____
+
+[quote, M.2.237]
+____
+He thinks, 'This is peaceful, this is sublime, namely: having entered [sublime] 
+neutral feeling I am abiding therein.'
+
+_Etaṃ santaṃ etaṃ paṇītaṃ yadidaṃ adukkhamasukhaṃ vedanaṃ 
+upasampajja viharāmī ti._
+____
+
+=== Illustrations: vedayita
+
+.Illustration
+====
+vedayita
+
+experienced
+====
+
+____
+These three types of sense impression have been spoken of by me: pleasant sense 
+impression, unpleasant sense impression, and neutral sense impression. These 
+three types of sense impression have been spoken of by me.
+
+_tisso imā bhikkhu vedanā vuttā mayā sukhā vedanā dukkhā vedanā 
+adukkhamasukhā vedanā imā tisso vedanā vuttā mayā_
+____
+
+[quote, S.4.216]
+____
+And I have also said: 'Whatever is experienced is included within existential 
+voidness.
+
+_Vuttaṃ kho panetaṃ bhikkhu mayā yaṃ kiñci vedayitaṃ taṃ dukkhasmin 
+ti._
+____
+
+.Illustration
+====
+vedayita
+
+experienced
+====
+
+[quote, M.1.302]
+____
+That which is experienced by body or mind as pleasant or enjoyable is called a 
+pleasant sense impression.
+
+_Yaṃ kho āvuso visākha kāyikaṃ vā cetasikaṃ vā sukhaṃ sātaṃ 
+vedayitaṃ ayaṃ sukhā vedanā._
+____
+
+.Illustration
+====
+vedayita
+
+sense impression
+====
+
+• When the ignorant Everyman is affected by sense impression born of 
+sensation and uninsightfulness into reality, craving arises. +
+_avijjāsamphassajena bhikkhave vedayitena phuṭṭhassa assutavato 
+puthujjanassa uppannā taṇhā_ (S.3.96).
+
+.Illustration
+====
+vedayita
+
+sense impression
+====
+
+[quote, S.4.171]
+____
+Seeing thus the learned noble disciple is disillusioned with the visual sense, 
+visible objects, advertence to the visual field, visual sensation, and whatever 
+sense impression that arises due to visual sensation -- whether pleasant, 
+unpleasant, or neutral;...
+
+_Evaṃ passaṃ bhikkhu sutavā ariyasāvako cakkhusmimpi nibbindati rūpesupi 
+nibbindati cakkhuviññāṇepi nibbindati cakkhusamphassepi nibbindati 
+yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ 
+vā adukkhamasukhaṃ vā tasmimpi nibbindati._
+____
+
+.Illustration
+====
+vedayita
+
+sense impression
+====
+
+• With the demise of the body at death, and with the ending of life, he knows 
+that all sense impressions, being not delighted in, will be dissipated right 
+here in this world. +
+_Kāyassa bhedā parammaraṇā uddhaṃ jīvitapariyādānā ideva 
+sabbavedayitāni anabhinanditāni sītibhavissantī ti pajānāti_ (M.3.245).
+

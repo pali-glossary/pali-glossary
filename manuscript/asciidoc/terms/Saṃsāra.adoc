@@ -1,0 +1,256 @@
+== Saṃsāra
+
+=== Renderings
+
+- _saṃsarati_: to wander the round of birth and death
+
+- _saṃsāra_: the round of birth and death
+
+- _saṃsāra_: a round of birth and death
+
+- _saṃsāra_ (present participle of _saṃsarati_): wandering the round of 
+birth and death
+
+=== Introduction
+
+==== Jātimaraṇasaṃsāra
+
+We take _saṃsāra_ and _jātisaṃsāra_ as abbreviations for 
+_jātimaraṇasaṃsāra_, which occurs just four times in the scriptures, and 
+for which we use the term 'the round of birth and death.'
+
+Others' translations of _jātimaraṇasaṃsāra_ are:
+
+- the journeying-on of [repeated] births and deaths (Norman, Sn.v.729).
+
+- the journeying-on of birth and death (Norman, Sn.v.202; Th.v.202; Th.v.339).
+
+- wandering on in [the round of] birth and death (Bodhi, A.4.228).
+
+==== Saṃsarati's present participles
+
+_Saṃsarati_ has two present participles, says PED, _saṃsaraṃ_ and 
+_saṃsaranto_: 'wandering the round of birth and death.' For example:
+
+• Beings roaming and wandering the round of birth and death... +
+☸ _sattā... sandhāvantā saṃsarantā_ (S.2.184-5). +
+Bodhi: 'Beings roaming and wandering on'
+
+• While wandering the round of birth and death I went to hell +
+☸ _saṃsaraṃ hi nirayaṃ agacchisaṃ_ (Th.v.258). +
+Norman: 'While journeying-on'
+
+• Wandering the round of birth and death for a long time I transmigrated 
+through [various] states of existence. +
+☸ _Saṃsaraṃ dīghamaddhānaṃ gatīsu parivattisaṃ_ (Th.v.215-6). +
+Norman: 'Journeying-on for a long time.'
+
+==== Saṃsaraṃ as a verb
+
+_Saṃsaraṃ_ is also used as a verb: 'has wandered the round of birth and 
+death.'
+
+• Man has wandered the round of birth and death for a long time. +
+☸ _puriso dīghamaddhānaṃ saṃsaraṃ_ (A.2.10). +
+Bodhi: 'A person wanders during this long time.'
+
+==== Round of rebirth, not cycle
+
+_Saṃsāra_ is derived from _sarati_, which means 'to go, flow, move along,' 
+says PED. This suggests linearity not circularity. Hence we prefer not to call 
+it 'cycle of birth and death,' but 'round of birth and death,' meaning 'a route 
+or circuit habitually covered' (Webster's).
+
+The same issue would be true of _vaṭṭaṃ_. Unfortunately PED does not 
+differentiate between 'round' and 'cycle' when it gives the meaning of 
+_vaṭṭa_ as 'the "round" of existences, cycle of transmigrations.' But 
+_vaṭṭa_ is linked to _vattati_ which means 'to move, go on, proceed; to 
+happen, take place, to be; to be in existence; to fare, to do' (PED). Thus 
+_vaṭṭaṃ,_ too, is rendered here as 'round' not 'cycle':
+
+[quote, Ud.__7__5]
+____
+He has destroyed the round of rebirth, abandoned longing. The dried-up stream 
+no longer flows. The round of rebirth, destroyed, no longer continues. This is 
+truly the end of suffering.
+
+_Acchecchi vaṭṭaṃ byagā nirāsaṃ vusukkhā saritā na sandati. 
+Chinnaṃ vaṭṭaṃ na vattati esevanto dukkhassā ti._
+____
+
+=== Illustrations
+
+.Illustration
+====
+saṃsārena
+
+wandering the round of birth and death; saṃsāro, a round of birth and death
+====
+
+____
+There are certain ascetics and Brahmanists whose doctrine and dogmatic view is 
+this: 'Purification comes about by wandering the round of birth and death.'
+
+_Santi kho pana sāriputta eke samaṇabrāhmaṇā evaṃ vādino evaṃ 
+diṭṭhino saṃsārena suddhī ti._
+____
+
+____
+But it is not easy to find a round of birth and death in this long time where I 
+have not wandered, apart from the devas of the Pure Abodes.
+
+_Na kho paneso sāriputta saṃsāro sulabharūpo yo mayā asaṃsaritapubbo 
+iminā dīghena addhunā aññatra suddhāvāsehi devehi._
+____
+
+[quote, M.1.81]
+____
+For if I had wandered the round of birth and death amongst the devas of the 
+Pure Abodes I could not have come back again to this [low] plane of existence
+
+_Suddhāvāse cāhaṃ sāriputta deve saṃsareyyaṃ nayimaṃ lokaṃ 
+punarāgaccheyyaṃ._
+____
+
+.Illustration
+====
+saṃsaritvā
+
+wanders the round of birth and death
+====
+
+____
+Such a one, by destroying the first three ties to individual existence, is 
+destined to seven more [human lifetimes] at most. For seven more [human 
+lifetimes] at most he roams and wanders the round of birth and death amongst 
+devas and men and then puts an end to suffering.
+
+_So tiṇṇaṃ saṃyojanānaṃ parikkhayā sattakkhattuparamo hoti 
+sattakkhattuparamaṃ deve ca manusse ca sandhāvitvā saṃsaritvā 
+dukkhassantaṃ karoti._
+____
+
+[quote, A.1.232]
+____
+or he is reborn amongst [human] families. Having roamed and wandered the round 
+of birth and death amongst two or three [human] families he puts an end to 
+suffering
+
+_kolaṅkolo hoti dve vā tīṇi vā kulāni sandhāvitvā saṃsaritvā 
+dukkhassantaṃ karoti._
+____
+
+Comment:
+
+The Buddha said if Venerable Ānanda did not attain arahantship in this 
+lifetime, he would be Lord of the Devas seven times, and the king of Jambudīpa 
+for seven times (A.1.228). Thus _sattakkhattuparamo_ means one who is destined 
+to seven more [human lifetimes] at most. Deva rebirths do not count.
+
+.Illustration
+====
+saṃsarataṃ
+
+wandering the round of birth and death; saṃsaro, the round of birth and death
+====
+
+____
+The round of birth and death is long-lasting beyond conception.
+
+_Anamataggoyaṃ bhikkhu saṃsāro_
+____
+
+[quote, S.2.181-2]
+____
+A first point is not to be discerned of beings [obstructed by] uninsightfulness 
+into reality, and [tethered to individual existence] by craving, roaming and 
+wandering the round of birth and death.
+
+_pubbā koṭi na paññāyati avijjānīvaraṇānaṃ sattānaṃ 
+taṇhāsaṃyojanānaṃ sandhāvataṃ saṃsarataṃ._
+____
+
+.Illustration
+====
+saṃsaritaṃ
+
+wandered the round of birth and death
+====
+
+[quote, D.2.90]
+____
+It is through not fathoming, not penetrating the four noble truths, that you 
+and I for a long time have roamed and wandered the round of birth and death.
+
+_catunnaṃ bhikkhave ariyasaccānaṃ ananubodhā appaṭivedhā evamidaṃ 
+dīghamaddhānaṃ sandhāvitaṃ saṃsaritaṃ mamañceva tumhākañca._
+____
+
+.Illustration
+====
+jātimaraṇasaṃsāro
+
+round of birth and death
+====
+
+[quote, Th.v.202]
+____
+This is their latest body. This is their final body. There are now no further 
+rounds of birth and death [for them], and no renewed states of individual 
+existence.
+
+_Tesamayaṃ pacchimako carimoyaṃ samussayo +
+Jātimaraṇasaṃsāro natthi dāni punabbhavo ti._
+____
+
+.Illustration
+====
+jātisaṃsāraṃ
+
+I roamed countless rounds of birth and death
+====
+
+[quote, Th.v.78]
+____
+I roamed countless rounds of birth and death without respite. It brought me 
+suffering. Now my mass of suffering has disappeared.
+
+_Anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ +
+Tassa me dukkhajātassa dukkhakkhandho aparaddho ti._
+____
+
+.Illustration
+====
+jātisaṃsāro
+
+the round of birth and death
+====
+
+____
+The round of birth and death is destroyed
+
+_vikkhīṇo jātisaṃsāro_
+____
+
+[quote, Th.v.908]
+____
+There are now [for me] no renewed states of individual existence
+
+_natthi dāni punabbhavo._
+____
+
+.Illustration
+====
+saṃsāram
+
+round of birth and death
+====
+
+[quote, Th.v.784-5]
+____
+He ends up in a womb in the world beyond undergoing successive rounds of birth 
+and death.
+
+_Upeti gabbhañca parañca lokaṃ saṃsāramāpajja paramparāya._
+____
+

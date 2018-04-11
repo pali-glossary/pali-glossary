@@ -1,0 +1,490 @@
+== Ṭhāna
+
+=== Renderings
+
+- _ṭhāna_: possible
+
+- _ṭhāna_: likely
+
+- _ṭhāna_: stage
+
+- _ṭhāna_: matter
+
+- _ṭhāna_: thing
+
+- _ṭhāna_: way
+
+- _ṭhāna_: mode
+
+- _ṭhāna_: on the spot
+
+- _ṭhāna_: feature
+
+- _ṭhāna_: base
+
+- _ṭhāna_: basis
+
+- _ṭhāna_: reason
+
+- _ṭhāna_: case
+
+- _ṭhāna_: place
+
+- _ṭhāna_: situation
+
+- _ṭhāna_: way of conduct
+
+=== Illustrations
+
+.Illustration
+====
+ṭhānaṃ
+
+possible
+====
+
+[quote, S.5.215]
+____
+It would be impossible for that faculty of physical-plus-psychological neutral 
+experience to arise without grounds, without a source, without originative 
+factors, without necessary conditions.
+
+_Taṃ vata animittaṃ anidānaṃ asaṅkhāraṃ appaccayaṃ 
+upekkhindriyaṃ uppajjissatī ti netaṃ ṭhānaṃ vijjati._
+____
+
+.Illustration
+====
+ṭhānam
+
+possible
+====
+
+[quote, S.4.168]
+____
+it is possible that one will go to one of two places of rebirth: either hell or 
+the animal realm.
+
+__ṭhānametaṃ vijjati yaṃ dvinnaṃ gatīnaṃ aññataraṃ gatiṃ 
+gaccheyya nirayaṃ vā tiracchānayoniṃ vā._
+____
+
+.Illustration
+====
+ṭhānaṃ
+
+possible
+====
+
+[quote, S.4.220]
+____
+Now it is possible, Ānanda, that non-Buddhist ascetics might speak thus
+
+__Ṭhānaṃ kho panetaṃ ānanda vijjati yaṃ aññatitthiyā paribbājakā 
+evaṃ vadeyyuṃ._
+____
+
+.Illustration
+====
+ṭhānaṃ
+
+likely
+====
+
+[quote, A.1.256]
+____
+If a bhikkhu who is applied to the higher mental states focuses exclusively on 
+the practice of inward collectedness, his mind will likely fall into indolence
+
+_Sace bhikkhave adhicittamanuyutto bhikkhu ekantaṃ samādhinimittaññeva 
+manasikareyya ṭhānaṃ taṃ cittaṃ kosajjāya saṃvatteyya._
+____
+
+.Illustration
+====
+ṭhāne
+
+stage
+====
+
+[quote, S.5.13]
+____
+There is the endeavour to attain the as-yet-unattained. When that stage has 
+been reached, there is also sense impression arises due to that.
+
+_Appattassa pattiyā atthi vāyāmaṃ tasmimpi ṭhāne anuppatte 
+tappaccayāpi vedayitan ti._
+____
+
+.Illustration
+====
+ṭhānaṃ
+
+matter
+====
+
+[quote, M.1.167]
+____
+For beings who take pleasure and delight in clinging, finding satisfaction in 
+clinging, this were a matter difficult to see, that is to say dependent 
+origination with specific conditionality
+
+__ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṃ 
+idaṃ ṭhānaṃ yadidaṃ idappaccayatāpaṭiccasamuppādo._
+____
+
+.Illustration
+====
+ṭhāne
+
+matter
+====
+
+Through lack of investigation and penetration (_ananuvicca apariyogāhetvā_) a 
+foolish, incompetent, ordinary person exhibits
+
+____
+faith in a matter that is not worthy of faith
+
+_appasādaniye ṭhāne pasādaṃ upadaṃseti_
+____
+
+[quote, A.1.90]
+____
+lack of faith in a matter that is worthy of faith
+
+_pasādaniye ṭhāne appasādaṃ upadaṃseti._
+____
+
+.Illustration
+====
+ṭhānāni
+
+things
+====
+
+____
+A bhikkhu who is an arahant... is intent on six things
+
+_yo so bhante bhikkhu arahaṃ... so chaṭṭhānāni adhimutto hoti_
+____
+
+____
+he is intent on the practice of unsensuousness
+
+_nekkhammādhimutto hoti_
+____
+
+____
+he is intent on physical seclusion
+
+_pavivekādhimutto hoti_
+____
+
+____
+he is intent on freedom from hostility
+
+_avyāpajjhādhimutto hoti_
+____
+
+____
+he is intent on the destruction of grasping
+
+_upādānakkhayādhimutto hoti_
+____
+
+____
+he is intent on the destruction of craving
+
+_taṇhakkhayādhimutto hoti_
+____
+
+[quote, A.3.377]
+____
+he is intent on freedom from undiscernment of reality
+
+_asammohādhimutto hoti._
+____
+
+.Illustration
+====
+ṭhānehi
+
+ways
+====
+
+[quote, S.2.151]
+____
+The ignorant Everyman conducts himself wrongly in three ways: by body, speech, 
+and mind.
+
+_assutavā puthujjano tīhi ṭhānehi micchā paṭipajjati kāyena vācāya 
+manasā._
+____
+
+.Illustration
+====
+ṭhānesu
+
+ways of conduct
+====
+
+[quote, M.1.10-11]
+____
+Properly reflecting, he avoids sitting in the sorts of unsuitable seats, 
+wandering to the sorts of unsuitable places, and associating with the sorts of 
+unvirtuous friends that would make his knowledgeable companions in the 
+religious life suspect him of unvirtuous ways of conduct.
+
+_viññū sabrahmacārī pāpakesu ṭhānesu okappeyyuṃ._
+____
+
+.Illustration
+====
+ṭhānaṃ
+
+mode
+====
+
+____
+There are five modes of meditation
+
+_pañca bhante anussatiṭṭhānāni ti_
+____
+
+1. Practising the first three jhānas: this mode of meditation when developed 
+and cultivated leads to pleasant states of meditation in this lifetime.
++
+****
+_Idaṃ bhante anussatiṭṭhānaṃ evaṃ bhāvitaṃ evaṃ bahūlīkataṃ 
+diṭṭha dhammasukhavihārāya saṃvattati._
+****
+
+2. Focusing on the mental image of light, concentrating on the mental image of 
+day (_ālokasaññaṃ manasikaroti divāsaññaṃ adhiṭṭhāti_): this 
+mode of meditation when developed and cultivated leads to the attainment of 
+knowledge and vision [of things according to reality].
++
+****
+_idaṃ bhante anussatiṭṭhānaṃ evaṃ bhāvitaṃ evaṃ bahulīkataṃ 
+ñāṇadassanapaṭilābhāya saṃvattati._
+****
+
+3. Reflecting on the body, covered in skin and full of various foul things 
+(_nānappakārassa asucino_): this mode of meditation when developed and 
+cultivated leads to the abandonment of attachment to sensuous pleasure
++
+****
+_idaṃ bhante anussatiṭṭhānaṃ evaṃ bhāvitaṃ evaṃ bahūlikataṃ 
+kāmarāgassa pahānāya saṃvattati_
+****
+
+4. Considering a corpse cast away in a charnel ground and remembering that this 
+&#8203;[wretched human] body has the same nature and constitution (_ayampi kho kāyo 
+evaṃdhammo evaṃbhāvī evaṃ anatīto ti_): This mode of meditation when 
+developed and cultivated leads to completely uprooting self-centredness.
++
+****
+_Idambhante anussatiṭṭhānaṃ evaṃ bhāvitaṃ evaṃ bahulīkataṃ 
+asmimānasamugghātāya saṃvattati_.
+****
+
+5. Practising fourth jhāna: this mode of meditation when developed and 
+cultivated leads to the understanding of the countless elements.
++
+****
+_Idaṃ bhante anussatiṭṭhānaṃ evaṃ bhāvitaṃ evaṃ bahulīkataṃ 
+anekadhātu paṭivedhāya saṃvattatī_
+****
+
+6. In this regard, Ānanda, a bhikkhu sets out mindfully, returns mindfully, 
+stands mindfully, sits mindfully, lies down mindfully, concentrates on his 
+activities mindfully.
++
+****
+_Idhānanda bhikkhu satova abhikkamati satova paṭikkamati satova tiṭṭhati 
+satova nisīdati satova seyyaṃ kappeti satova kammaṃ adhiṭṭhāti._
+****
+
+[quote, A.3.323-6]
+____
+This mode of meditation when developed and cultivated leads to mindfulness and 
+full consciousness
+
+_Idaṃ ānanda anussatiṭṭhānaṃ evaṃbhāvitaṃ evaṃ bahulīkataṃ 
+satisampajaññāya saṃvattatī ti._
+____
+
+.Illustration
+====
+ṭhāna
+
+on the spot
+====
+
+[quote, S.1.193]
+____
+Did you think out these verses beforehand, Vaṅgīsa, or did they occur to you 
+on the spot?
+
+_Kinnu te vaṅgīsa imā gāthāyo pubbe parivitakkitā udāhu ṭhānasova 
+taṃ paṭibhantī ti._
+____
+
+.Illustration
+====
+ṭhānehi
+
+features
+====
+
+____
+By three features a person with faith and confidence in the Perfect One is to 
+be known. What three?
+
+_tīhi bhikkhave ṭhānehi saddho pasanno veditabbo_
+____
+
+1. He wants to see virtuous people
++
+****
+_sīlavantānaṃ dassanakāmo hoti_
+****
+
+2. He wants to listen to the true teaching
++
+****
+_☸ saddhammaṃ sotukāmo hoti _
+****
+
+3. he lives at home with a mind unblighted by stinginess
++
+****
+_vigatamalamaccherena cetasā agāraṃ ajjhāvasati_ (A.1.150).
+****
+
+.Illustration
+====
+ṭhānāni
+
+base
+====
+
+____
+Six bases of meditation
+
+_cha anussatiṭhānāni_
+____
+
+[quote, D.3.250]
+____
+Meditation on the [perfection of the] Buddha's [transcendent insight], on the 
+&#8203;[significance of the] teaching, on the [praiseworthiness of the] community of 
+disciples' [application to the practice], on [the impeccability of one's own] 
+virtue, on [the ungrudgingness of one's own] generosity, and on [one's own] 
+deva-like accomplishments [in faith, virtue, learning, generosity, and wisdom].
+
+_buddhānussati dhammānussati saṅghānussati sīlānussati cāgānussati 
+devatānussati._
+____
+
+.Illustration
+====
+ṭhānā
+
+basis
+====
+
+[quote, M.3.170]
+____
+Liquor, wines, and intoxicants which are bases of negligence [in the practice].
+
+_surāmerayamajjapamādaṭṭhānā._
+____
+
+.Illustration
+====
+ṭhānaṃ
+
+reason
+====
+
+[quote, A.2.196-7]
+____
+Do you see a reason, Vappa, due to which perceptually obscuring states 
+productive of unpleasant sense impression should flow in upon him at some 
+future time?
+
+_Passasi no tvaṃ vappa taṃ ṭhānaṃ yato nidānaṃ purisaṃ 
+dukkhavedanīyā āsavā assaveyyuṃ abhisamparāyanti._
+____
+
+.Illustration
+====
+ṭhānesu
+
+cases
+====
+
+____
+Fondness and attachment regarding the visual sense is a spiritual defilement; 
+the auditory sense, the olfactory sense, the gustatory sense, the tactile 
+sense, the mental sense.
+
+_Yo bhikkhave cakkhusmiṃ... manasmiṃ chandarāgo cittasse'so upakkileso_
+____
+
+[quote, S.3.232]
+____
+In so far as one abandons the spiritual defilement in these six cases, his mind 
+inclines to the practice of unsensuousness.
+
+_Yato kho bhikkhave bhikkhuno imesu chasu ṭhānesu cetaso upakkileso pahīno 
+hoti nekkhammaninnaṃ cassa cittaṃ hoti._
+____
+
+.Illustration
+====
+ṭhānaṃ places [of pilgrimage]
+
+____
+There are four places [of pilgrimage] that fill one with an earnest attitude 
+&#8203;[to the practice]
+
+and should be seen by a noble young man who has faith [in the perfection of the 
+Perfect One's transcendent insight]
+====
+
+_Cattārimāni bhikkhave saddhassa kulaputtassa dassanīyāni saṃvejanīyāni 
+ṭhānāni_
+____
+
+[quote, D.2.140]
+____
+Where the Perfect One was born... fully awakened to unsurpassed, complete 
+enlightenment... set in motion the Wheel of the Teaching... passed away to the 
+Untroubled-without-residue is a place [of pilgrimage] that fills one with an 
+earnest attitude [to the practice], and should be seen by a noble young man who 
+has faith [in the perfection of the Perfect One's transcendent insight].
+
+_Idha tathāgato anupādisesāya nibbānadhātuyā parinibbuto ti bhikkhave 
+saddhassa kulaputtassa dassanīyaṃ saṃvejanīyaṃ ṭhānaṃ._
+____
+
+.Illustration
+====
+ṭhānāni
+
+situations
+====
+
+____
+Five impossible situations
+
+_Pañca abhabbaṭṭhānāni_
+____
+
+It is impossible (_abhabbo_) for an arahant to kill, steal, have sex, lie, or 
+store up luxuries (_bhogaṃ_ D.1.6) to be used for sensuous pleasure as he did 
+as a layman (D.3.235).
+

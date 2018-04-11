@@ -1,0 +1,523 @@
+== Uju; Ujju
+
+=== Renderings
+
+- _uju_: correct
+
+- _uju_: erect
+
+- _uju_: straight
+
+- _uju_: direct
+
+- _uju_: directly
+
+- _uju_: undeviant
+
+- _ujuka_: standing erect
+
+- _ujuka_: honest
+
+- _ujuka_: direct
+
+- _ujukaṃ karoti_: to purify
+
+- _ujukaṃ karoti_: to straighten up
+
+- _ujugata_: purified
+
+- _ujugata_: spiritually purified
+
+- _ujugata_: correct
+
+- _ujjugata_: bolt upright
+
+- _ujubhūta_: spiritually purified
+
+- _ujubhūta_: purified
+
+=== Introduction
+
+==== Uju: straight
+
+The adjective _uju_ means either physically or spiritually straight.
+
+==== Uju: spiritual purity
+
+_Uju_ sometimes means spiritual purity, because the _Mahānāma Sutta_ 
+(A.3.285) says that when the noble disciple reflects on the Perfect One, his 
+mind is not absorbed in _rāga dosa_ or _moha._ At that time his mind 'is made 
+_uju'_ with the Perfect One as the initiating factor (_ujugatamevassa tasmiṃ 
+samaye cittaṃ hoti tathāgataṃ ārabbha_ (A.3.285).
+
+_Uju_ here means the disciple's mind is free from _rāga dosa_ and _moha_, 
+either temporarily or permanently, and _uju_ therefore means 'purified,' and 
+the disciple is therefore 'spiritually purified.'
+
+==== Ujuka: -ka suffix
+
+The -_ka_ suffix of _uju_ is in accordance with Duroiselle's observation: 'Not 
+seldom -_ka_ adds nothing whatever to the primary meaning of a word ' (PGPL, 
+Para 581). DOP agrees (sv _Ujuka_ and _Ka2_).
+
+=== Illustrations
+
+.Illustration
+====
+ujubhūta
+
+purified
+====
+
+[quote, S.5.384]
+____
+When one has faith in the community of disciples and purified vision [of things 
+according to reality]...
+
+_saṅghe pasādo yassatthi ujubhūtañca dassanaṃ._
+____
+
+.Illustration
+====
+ujubhūta
+
+spiritually purified
+====
+
+[quote, S.1.100]
+____
+To these who are spiritually purified, with a serene mind he should give food, 
+drink, clothing, and furniture and covers.
+
+_Annaṃ pānaṃ khādanīyaṃ vatthasenāsanāni ca +
+Dadeyya ujubhūtesu vippasannena cetasā._
+____
+
+.Illustration
+====
+ujjubhūtesu
+
+spiritually purified
+====
+
+[quote, S.1.170]
+____
+Honour those who are spiritually purified
+
+_satujjubhūtesu namo karohi._
+____
+
+.Illustration
+====
+ujubhūto
+
+spiritually purified
+====
+
+[quote, A.4.292]
+____
+This community of bhikkhus is spiritually purified, [well] established in 
+penetrative discernment and virtue.
+
+_Esa saṅgho ujubhūto paññāsīlasamāhito._
+____
+
+.Illustration
+====
+ujugata
+
+spiritually purified
+====
+
+[quote, A.3.285]
+____
+Mahānāma, when the noble disciple reflects on the Perfect One, his mind is 
+not absorbed in attachment, hatred, and undiscernment of reality. His mind is 
+spiritually purified at that time with the Perfect One as the initiating factor.
+
+_yasmiṃ mahānāma samaye ariyasāvako tathāgataṃ anussarati nevassa 
+tasmiṃ samaye rāgapariyuṭṭhitaṃ cittaṃ hoti na 
+dosapariyuṭṭhitaṃ cittaṃ hoti na mohapariyuṭṭhitaṃ cittaṃ hoti 
+ujugatamevassa tasmiṃ samaye cittaṃ hoti tathāgataṃ ārabbha._
+____
+
+.Illustration
+====
+ujubhūta
+
+spiritually purified
+====
+
+[quote, S.2.279]
+____
+The bhikkhu whose mind is spiritually purified is glorious
+
+_Sobhati vatāyaṃ bhikkhu ujubhūtena cetasā._
+____
+
+.Illustration
+====
+ujukaṃ akaṃsu
+
+purified
+====
+
+[quote, S.1.26]
+____
+The bhikkhus there are inwardly collected; they have purified their minds.
+
+_Tatra bhikkhavo samādahaṃsu cittaṃ attano ujukaṃ akaṃsu._
+____
+
+.Illustration
+====
+uju
+
+undeviant
+====
+
+____
+In this regard, some person kills living beings; he is ferocious, 
+bloody-handed, intent on injuring and violence, merciless towards living beings
+
+_idha bhikkhave ekacco pāṇātipātī hoti luddo lohitapāṇī hatapahate 
+niviṭṭho adayāpanno sabbapāṇabhūtesu_
+____
+
+____
+He goes crookedly by way of body, speech, and mind. His conduct of body, 
+speech, and mind are deviant._
+
+_so saṃsappati kāyena saṃsappati vācāya saṃsappati manasā tassa 
+jimhaṃ kāyakammaṃ hoti jimhaṃ vacīkammaṃ jimhaṃ manokammaṃ_
+____
+
+____
+His destiny is deviant; his rebirth is deviant
+
+_jimhā gati jimhupapatti._
+____
+
+[quote, A.5.289]
+____
+There are two possible places of rebirth for one whose destiny and rebirth are 
+deviant: the unmitigated pain of Niraya Hell or the womb of a crooked type of 
+animal
+
+_Jimhagatikassa kho panāhaṃ bhikkhave jimhupapattikassa dvinnaṃ gatīnaṃ 
+aññataraṃ gatiṃ vadāmi ye vā ekantadukkhā nirayā yā vā 
+saṃsappajātikā tiracchānayoni._
+____
+
+____
+Some person abandons killing, lays aside the rod and knife, abiding 
+conscientious, merciful, he abides tenderly concerned for the welfare of all 
+living beings.
+
+_pāṇātipātaṃ pahāya pāṇātipātā paṭivirato hoti nihita daṇḍo 
+nihitasattho lajjī dayāpanno sabbapāṇabhūtahitānukampī viharati_
+____
+
+____
+He goes uncrookedly by way of body, speech, and mind.
+
+_So na saṃsappati kāyena na saṃsappati vācāya na saṃsappati manasā._
+____
+
+____
+His conduct of body, speech, and mind are undeviant.
+
+_Tassa ujuṃ kāya kammaṃ hoti ujuṃ vacīkammaṃ ujuṃ mano kammaṃ_
+____
+
+____
+His destiny is undeviant; his rebirth is undeviant
+
+_uju gati ujūpapatti_
+____
+
+[quote, A.5.290]
+____
+There are two possible places of rebirth for one whose destiny and rebirth are 
+undeviant: the unmitigated pleasure of heaven, or wealthy families.
+
+_ujugatikassa kho panāhaṃ bhikkhave ujūpapattikassa dvinnaṃ gatīnaṃ 
+aññataraṃ gatiṃ vadāmi ye vā ekantasukhā saggā yāni vā pana tāni 
+uccakulāni khattiyamahāsāḷakulāni vā brāhmaṇamahāsāḷakulāni vā 
+gahapati mahāsāḷakulāni vā aḍḍhāni mahaddhanāni mahābhogāni 
+pahūtajātarūparajatāni pahūta cittūpakaraṇāni pahūtadhanadhaññāni._
+____
+
+.Illustration
+====
+ujugatā
+
+correct
+====
+
+[quote, M.1.55]
+____
+A noble disciple has right perception [of reality], has a perception [of 
+reality] that is correct, has unshakeable faith in the [significance of the] 
+teaching, and has fathomed this true teaching.
+
+_ariyasāvako sammādiṭṭhi hoti ujugatāssa diṭṭhi dhamme 
+aveccappasādena samannāgato āgato imaṃ saddhamman ti._
+____
+
+.Illustration
+====
+uju
+
+correct
+====
+
+[quote, S.5.343]
+____
+The community of the Blessed One's disciples is applied to the correct practice,
+
+_ujupaṭipanno bhagavato sāvakasaṅgho._
+____
+
+.Illustration
+====
+ujukā
+
+correct
+====
+
+____
+And what is the basis of spiritually wholesome factors?
+
+_ko ca ādi kusalānaṃ dhammānaṃ_
+____
+
+[quote, S.5.143]
+____
+Virtue that is well purified and view [of reality] that is correct.
+
+_sīlañca suvisuddhaṃ diṭṭhi ca ujukā._
+____
+
+.Illustration
+====
+ujjugatā
+
+bolt upright
+====
+
+[quote, Sn.v.350]
+____
+Every one of us is listening to you, bolt upright
+
+_Sabbe va te ujjugatā suṇoma._
+____
+
+.Illustration
+====
+ujukā
+
+standing erect
+====
+
+[quote, M.1.124]
+____
+A man wishing to protect a forest grove would tend the well-formed saplings 
+that were standing erect.
+
+_tā sālalaṭṭhiyo ujukā sujātā tā sammā parihareyya._
+____
+
+.Illustration
+====
+ujukaṃ
+
+standing erect
+====
+
+[quote, S.4.167]
+____
+A man might take a sharp axe and enter a forest. There he would see the trunk 
+of a large banana tree, standing erect, young, without a fruit-bud core.
+
+_so tattha passeyya mahantaṃ kadalikkhandhaṃ ujukaṃ navaṃ 
+akukkukajātaṃ._
+____
+
+.Illustration
+====
+ujuṃ
+
+erect
+====
+
+[quote, M.2.139]
+____
+Having washed his feet he seats himself. Having crossed his legs, having set 
+his body erect, having established mindfulness within himself,
+
+_so pāde pakkhāletvā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ 
+paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā._
+____
+
+.Illustration
+====
+ujuṃ karoti
+
+straighten, straighten up
+====
+
+[quote, Dh.v.33]
+____
+Like a fletcher straightens an arrow, the wise man straightens up his unsteady, 
+fluttery mind, which is hard to supervise, hard to restrain.
+
+_Phandanaṃ capalaṃ cittaṃ durakkhaṃ dunnivārayaṃ +
+Ujuṃ karoti medhāvī usukāro va tejanaṃ._
+____
+
+.Illustration
+====
+ujumaggo
+
+direct path
+====
+
+[quote, D.1.235]
+____
+This indeed is the direct path, the straight way, which leads to deliverance 
+&#8203;[from suffering]
+
+_ayameva ujumaggo ayamañjasāyano niyyāniko._
+____
+
+.Illustration
+====
+ujuko
+
+direct
+====
+
+[quote, S.1.33]
+____
+'Direct' is the name of that road [to the Untroubled].
+
+_ujuko nāma so maggo._
+____
+
+.Illustration
+====
+uju
+
+direct
+====
+
+[quote, It.53]
+____
+For a disciple in training, following the direct path
+
+_sekhassa sikkhamānassa ujumaggānusārino._
+____
+
+.Illustration
+====
+uju
+
+directly
+====
+
+____
+The ascetic Suppiyo was in many ways criticising the Buddha, his teaching, and 
+the community of bhikkhus, whereas his young pupil Brahmadatta was in many ways 
+praising them.
+
+_suppiyo paribbājako anekapariyāyena buddhassa avaṇṇaṃ bhāsati 
+dhammassa avaṇṇaṃ bhāsati saṅghassa avaṇṇaṃ bhāsati suppiyassa 
+pana paribbājakassa antevāsī brahmadatto māṇavo anekapariyāyena 
+buddhassa vaṇṇaṃ bhāsati dhammassa vaṇṇaṃ bhāsati saṅghassa 
+vaṇṇaṃ bhāsati_
+____
+
+[quote, D.1.1]
+____
+And so this pair, teacher and pupil, directly opposing each other's arguments, 
+followed step-by-step behind the Blessed One and the community of bhikkhus,_
+
+_Itiha te ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā 
+bhagavantaṃ piṭṭhito piṭṭhito anubaddhā honti bhikkhusaṅghañca._
+____
+
+.Illustration
+====
+uju
+
+directly
+====
+
+____
+'There are certain ascetics and Brahmanists whose doctrine and dogmatic view is 
+this: There is no complete ending of individual existence'
+
+_Santi gahapatayo eke samaṇabrāhmaṇā evaṃ vādino evaṃ diṭṭhino 
+natthi sabbaso bhavanirodho ti._
+____
+
+[quote, M.1.410]
+____
+'And there are some ascetics and Brahmanists whose doctrine is directly opposed 
+to those ascetics and Brahmanists: 'There is a complete ending of individual 
+existence.'_
+
+_Tesaṃyeva kho gahapatayo samaṇabrāhmaṇānaṃ eke samaṇabrāhmaṇā 
+ujuvipaccanīkavādā te evamāhaṃsu atthi sabbaso bhavanirodho ti._
+____
+
+.Illustration
+====
+ujukaṃ
+
+honest
+====
+
+[quote, M.1.428]
+____
+'If the Blessed One does not know whether the world [of beings] is eternal or 
+not, then, not knowing or seeing, it would be honest of him to simply admit, "I 
+do not know. I do not see."'
+
+_No ce bhagavā jānāti sassato loko ti vā asassato loko ti vā ajānato kho 
+pana apassato etadeva ujukaṃ hoti yadidaṃ na jānāmi na passāmī ti._
+____
+
+.Illustration
+====
+ujuko
+
+honest
+====
+
+[quote, S.4.298]
+____
+'Here, your reverences, see how honest, straightforward, and aboveboard is the 
+layman Citta.'
+
+_idaṃ bhavanto passantu yāva ujuko cāyaṃ citto gahapati yāva asaṭho 
+cāyaṃ citto gahapati yāva amāyāvī cāyaṃ citto gahapati._
+____
+
+.Illustration
+====
+anujjuko
+
+dishonest
+====
+
+[quote, S.4.299]
+____
+'Here, your reverences, see how dishonest, fraudulent, and deceitful is the 
+layman Citta.'
+
+_idaṃ bhavanto passantu yāva anujjuko cāyaṃ citto gahapati yāva saṭho 
+cāyaṃ citto gahapati yāva māyāvī cāyaṃ citto gahapatī ti._
+____
+
