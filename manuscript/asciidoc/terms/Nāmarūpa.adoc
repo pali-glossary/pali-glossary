@@ -69,15 +69,16 @@ uncountable noun is needed.
 
 .Illustration
 ====
-nāmarūpaṃ denomination-and-bodily-form
+nāmarūpaṃ
+
+denomination-and-bodily-form
+====
 
 ____
-And what is denomination-and-bodily-form
-
+And what is denomination-and-bodily-form,
 what is the [co-conditional] origination of denomination-and-bodily-form, what 
 is the [co-conditional] ending of denomination-and-bodily-form, what is the 
 practice leading to the ending of denomination-and-bodily-form?
-====
 
 _Katamaṃ panāvuso nāmarūpaṃ? Katamo nāmarūpasamudayo? Katamo 
 nāmarūpanirodho? Katamā nāmarūpanirodhagāminī paṭipadā ti?._
@@ -127,14 +128,15 @@ ____
 
 .Illustration
 ====
-nāmarūpaṃ denomination-and-bodily-form
+nāmarūpaṃ
+
+denomination-and-bodily-form
+====
 
 ____
-When there is what
-
+When there is what,
 does denomination-and-bodily-form arise? What is denomination-and-bodily-form 
 dependent on?_
-====
 
 _kimhi nu kho sati nāmarūpaṃ hoti. Kiṃ paccayā nāmarūpan ti._
 ____

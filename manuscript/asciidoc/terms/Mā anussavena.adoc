@@ -2,10 +2,10 @@
 
 === Renderings
 
-_• mā anussavena_: Do not [abandon religious teachings merely] because they 
+- _mā anussavena_: Do not [abandon religious teachings merely] because they 
 do not accord with an oral tradition.
 
-_• mā anussavena_: Do not [accept and abide by religious teachings merely] 
+- _mā anussavena_: Do not [accept and abide by religious teachings merely] 
 because they accord with an oral tradition.
 
 === Introduction
@@ -149,10 +149,10 @@ circumstances this is what they should do (_atha tumhe kālāmā
 pajaheyyātha... atha tumhe kālāmā upasampajja vihareyyātha_). These, then, 
 are the verbs to use instead of 'go.'
 
-_• mā anussavena_: Do not [abandon religious teachings merely] because they 
+- _mā anussavena_: Do not [abandon religious teachings merely] because they 
 do not accord with an oral tradition.
 
-_• mā anussavena_: Do not [accept and abide by religious teachings merely] 
+- _mā anussavena_: Do not [accept and abide by religious teachings merely] 
 because they accord with an oral tradition.
 
 ==== Dhammā: teachings
@@ -174,9 +174,7 @@ they despise, revile, and pull to pieces.
 
 _Te sakaṃyeva vādaṃ dīpenti jotenti parappavādaṃ pana khuṃsenti 
 vambhenti paribhavanti omakkhiṃ karonti_
-____
 
-____
 ... Bhante, there is unsureness, there is doubt in us concerning them. Which of 
 these reverend ascetics and Brahmanists spoke the truth and which falsehood?"
 
@@ -186,44 +184,32 @@ ____
 
 *Answer:*
 
+[quote, A.1.189]
 ____
 -- Kālāmas, if you yourselves should consider:
 
 _Yadā tumhe kālāmā attanāva jāneyyātha_
-____
 
-____
 ... These teachings (_dhammā_) are unwholesome;
 
 _ime dhammā akusalā_
-____
 
-____
 ... these teachings are blameworthy;
 
 _ime dhammā sāvajjā_
-____
 
-____
 ... these teachings are denounced by the wise;
 
 _ime dhammā viññugarahitā_
-____
 
-____
 ... when followed and taken up
 
 _ime dhammā samattā samādinnā_
-____
 
-____
 ... these teachings lead to harm and suffering,"
 
 _ahitāya dukkhāya saṃvattantīti_
-____
 
-[quote, A.1.189]
-____
 ... you should abandon them.
 
 _atha tumhe kālāmā pajaheyyātha._
@@ -236,16 +222,14 @@ hatred, and undiscernment of reality (_lobho doso moho_) and their opposites,
 non-greed, non-hatred, and discernment of reality (_alobho adoso amoho_). The 
 sutta calls these phenomena _dhammā_ which we render as 'factors.'
 
+[quote, A.1.189-191]
 ____
 -- 'What do you think, Kālāmas? Are these factors spiritually wholesome, or 
 spiritually unwholesome?'
 
 _Taṃ kiṃ maññatha kālāmā ime dhammā kusalā vā akusalā vā ti?_
-____
 
-[quote, A.1.189-191]
-____
--- 'Spiritually unwholesome, bhante'
+-- 'Spiritually unwholesome, bhante.'
 
 _Akusalā bhante._
 ____
@@ -326,7 +310,7 @@ hoti kusalesu dhammesu viriyena akataṃ hoti kusalesu dhammesu paññāya
 akataṃ hoti kusalesu dhammesu anurakkhitabbo tāva me so bhikkhave bhikkhu 
 hoti._
 ****
-
++
 [quote, A.3.6]
 ____
 But when [what should be done] by a bhikkhu is done, either with the help of 
@@ -354,6 +338,7 @@ attadīpo viharati attasaraṇo anaññasaraṇo dhammadīpo dhammasaraṇo
 anaññasaraṇo:_
 ****
 
+[quote, S.5.154]
 ____
 ... In this regard a bhikkhu abides contemplating the nature of the body, 
 vigorously, fully consciously, and mindfully, having eliminated greed and 
@@ -361,9 +346,7 @@ dejection in regard to the world [of phenomena].
 
 _idhānanda bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā 
 vineyya loke abhijjhādomanassaṃ._
-____
 
-____
 ... He abides contemplating the nature of sense impressions... the nature of 
 the mind... the nature of certain objects of the systematic teachings
 
@@ -371,19 +354,14 @@ _Vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke
 abhijjhādomanassaṃ. Citte cittānupassī viharati ātāpī sampajāno 
 satimā vineyya loke abhijjhādomanassaṃ. Dhammesu dhammānupassī viharati 
 ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ._
-____
 
-____
 ... Thus a bhikkhu abides spiritually self-reliant, with himself as his refuge, 
 with no other refuge, relying completely on the teaching, with the teaching as 
 his refuge, with no other refuge.
 
 _Evaṃ kho ānanda bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo 
 dhammadīpo dhammasaraṇo anaññasaraṇo_
-____
 
-[quote, S.5.154]
-____
 ... Those bhikkhus, either now or after my passing, who abide spiritually 
 self-reliant, with themselves as their refuge, with no other refuge; relying 
 completely on the teaching, with the teaching as their refuge, with no other 
@@ -402,108 +380,74 @@ ____
 mā anussavena
 
 Do not [abandon religious teachings]:
+====
 
+[quote, A.1.189]
 ____
 &#8203;[merely] because they do not accord with an oral tradition.
 
 _mā anussavena_
-____
 
-____
 &#8203;[merely] because they do not accord with a religious lineage.
 
 _mā paramparāya_
-____
 
-____
 &#8203;[merely] because they do not accord with popular opinion.
 
 _mā itikirāya_
-____
 
-____
 &#8203;[merely] because they do not accord with the scriptural collections.
 
 _mā piṭakasampadānena_
-____
 
-____
 &#8203;[merely] because they do not accord with logical reasoning.
 
 _mā takkahetu_
-____
 
-____
 &#8203;[merely] because they not accord with inferential reasoning.
 
 _mā nayahetu_
-____
 
-____
 &#8203;[merely] because they do not accord with reasoned cogitation.
 
 _mā ākāraparivitakkena_
-____
 
-____
 &#8203;[merely] because of a considered disapproval of some view.
 
 _mā diṭṭhinijjhānakkhantiyā_
-____
 
-____
 &#8203;[merely] because of their implausibility.
 
 _mā bhabbarūpatāya_
-____
 
-____
 &#8203;[merely] because the expounding ascetic is not your teacher.
 
 _mā samaṇo no garū ti_
-____
 
-____
-Kālāmas
-
-if you yourselves should consider:
-====
+Kālāmas, if you yourselves should consider:
 
 _Yadā tumhe kālāmā attanāva jāneyyātha_
-____
 
-____
 "These teachings are unwholesome;
 
 _ime dhammā akusalā_
-____
 
-____
 these teachings are blameworthy;
 
 _ime dhammā sāvajjā_
-____
 
-____
 these teachings are denounced by the wise;
 
 _ime dhammā viññugarahitā_
-____
 
-____
 when followed and taken up
 
 _ime dhammā samattā samādinnā_
-____
 
-____
 these teachings lead to harm and suffering,"
 
 _ahitāya dukkhāya saṃvattantīti_
-____
 
-[quote, A.1.189]
-____
 you should abandon them.
 
 _atha tumhe kālāmā pajaheyyātha._
@@ -514,108 +458,74 @@ ____
 mā anussavena
 
 Do not [accept and abide by religious teachings]:
+====
 
+[quote, A.1.190]
 ____
 &#8203;[merely] because they accord with an oral tradition.
 
 _mā anussavena_
-____
 
-____
 &#8203;[merely] because they accord with a religious lineage.
 
 _mā paramparāya_
-____
 
-____
 &#8203;[merely] because they accord with popular opinion.
 
 _mā itikirāya_
-____
 
-____
 &#8203;[merely] because they accord with the scriptural collections.
 
 _mā piṭakasampadānena_
-____
 
-____
 &#8203;[merely] because they accord with logical reasoning.
 
 _mā takkahetu_
-____
 
-____
 &#8203;[merely] because they accord with inferential reasoning.
 
 _mā nayahetu_
-____
 
-____
 &#8203;[merely] because they accord with reasoned cogitation.
 
 _mā ākāraparivitakkena_
-____
 
-____
 &#8203;[merely] because of a considered approval of some view.
 
 _mā diṭṭhinijjhānakkhantiyā_
-____
 
-____
 &#8203;[merely] because of their plausibility.
 
 _mā bhabbarūpatāya_
-____
 
-____
 &#8203;[merely] because the expounding ascetic is your teacher.
 
 _mā samaṇo no garū ti_
-____
 
-____
-Kālāmas
-
-if you yourselves should consider:
-====
+Kālāmas, if you yourselves should consider:
 
 _Yadā tumhe kālāmā attanāva jāneyyātha_
-____
 
-____
 "These teachings are wholesome;
 
 _ime dhammā kusalā_
-____
 
-____
 these teachings are blameless;
 
 _ime dhammā anavajjā_
-____
 
-____
 these teachings are praised by the wise;
 
 _ime dhammā viññuppasatthā_
-____
 
-____
 when followed and taken up
 
 _ime dhammā samattā samādinnā_
-____
 
-____
 these teachings lead to benefit and happiness,"
 
 _hitāya sukhāya saṃvattantīti_
-____
 
-[quote, A.1.190]
-____
 you should accept and abide by them.
 
 _atha tumhe kālāmā upasampajja vihareyyātha._

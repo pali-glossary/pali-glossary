@@ -259,55 +259,46 @@ ____
 
 .Illustration
 ====
-maññati: think 'I am'
+maññati
 
+think 'I am'
+====
+
+[quote, A.2.176-7]
 ____
 The Brahman speaks thus:
 
 _brāhmaṇo evamāha_
-____
 
-____
-All states of individual existence are unlasting
-
+All states of individual existence are unlasting,
 existentially void, destined to change
-====
 
 _sabbe bhavā aniccā dukkhā vipariṇāmadhammā ti._
-____
 
-• In so saying +
+In so saying
+
 _iti vadaṃ brāhmaṇo_
 
-• he speaks truth not falsehood _saccaṃ +
-☸ āha no musā_
+he speaks truth not falsehood
 
-____
+_saccaṃ āha no musā_
+
 he does not think 'I am an ascetic'
 
 _so tena na samaṇo ti maññati_
-____
 
-____
 he does not think 'I am a Brahmanist'
 
 _na brāhmaṇo ti maññati_
-____
 
-____
 he does not think 'I am better'
 
 _na seyyo'hamasmī ti maññati_
-____
 
-____
 he does not think 'I am equal'
 
 _na sadiso'hamasmī ti maññati_
-____
 
-[quote, A.2.176-7]
-____
 he does not think 'I am worse'
 
 _na hīno'hamasmī ti maññati._
@@ -315,19 +306,18 @@ ____
 
 .Illustration
 ====
-maññati: think 'I am'
+maññati
 
-____
-If one profoundly understands what can be expressed
-
-and does not think 'I am the expressor.'
+think 'I am'
 ====
-
-_Akkheyyañca pariññāya akkhātāraṃ na maññati_
-____
 
 [quote, It.53]
 ____
+If one profoundly understands what can be expressed, 
+and does not think 'I am the expressor.'
+
+_Akkheyyañca pariññāya akkhātāraṃ na maññati_
+
 The mind's deliverance [from perceptually obscuring states] is achieved, the 
 unsurpassed Peaceful State.
 
@@ -336,13 +326,12 @@ ____
 
 .Illustration
 ====
-maññati: think 'I am'
+maññati
 
-[quote
-
-M.3.45]
+think 'I am'
 ====
 
+[quote, M.3.45]
 ____
 The arahant does not think 'I am something'; he does not think 'I am 
 somewhere'; he does not think 'I am due to something.'
