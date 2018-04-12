@@ -25,12 +25,9 @@
 .Illustration
 ====
 gross
-
-[quote
-
-M.3.18-9]
 ====
 
+[quote, M.3.18-9]
 ____
 Whatever bodily form, past, future, or present, internal or external, gross or 
 subtle, inferior or sublime, far or near
@@ -43,12 +40,9 @@ ____
 .Illustration
 ====
 gross
-
-[quote
-
-M.1.48]
 ====
 
+[quote, M.1.48]
 ____
 Physical food, gross or subtle;
 
@@ -58,12 +52,9 @@ ____
 .Illustration
 ====
 gross
-
-[quote
-
-Vin.1.199]
 ====
 
+[quote, Vin.1.199]
 ____
 What now if I allowed medicine for bhikkhus, both medicine itself as well as 
 what could be regarded as medicine, which though it serves as nourishment in 
@@ -77,12 +68,9 @@ ____
 .Illustration
 ====
 gross material
-
-[quote
-
-D.1.202]
 ====
 
+[quote, D.1.202]
 ____
 Whenever the gross material acquired self is present, it is not reckoned as a 
 mind-made material acquired self, nor an immaterial acquired self. It is 
@@ -97,13 +85,12 @@ ____
 .Illustration
 ====
 self-evident
+====
 
 ____
-In this regard
-
+In this regard,
 in seeing a visible object via the visual sense, there arises in a bhikkhu 
 pleasure, or displeasure, or pleasure plus displeasure.
-====
 
 _cakkhunā rūpaṃ disvā uppajjati manāpaṃ uppajjati amanāpaṃ uppajjati 
 manāpāmanāpaṃ._
@@ -133,17 +120,16 @@ ____
 .Illustration
 ====
 self-evident
+====
 
 ____
 Some [ascetics and Brahmanists] proclaim that the state of awareness of 
-nonexistence
-
+nonexistence,
 limitless and imperturbable, where one perceives that there is [nowhere] 
 anything at all, is the purest, highest, best, and greatest of those states of 
 refined awareness, whether refined material states of awareness, or immaterial 
 states of awareness, or states of refined awareness involving mental cognisance 
 alone, or involving the external senses.
-====
 
 _Yā vā panetāsaṃ saññānaṃ parisuddhā paramā aggā anuttariyā 
 akkhāyati yadi rūpasaññānaṃ yadi arūpasaññānaṃ yadi 
@@ -165,12 +151,9 @@ ____
 .Illustration
 ====
 obvious
-
-[quote
-
-S.5.259]
 ====
 
+[quote, S.5.259]
 ____
 But though Venerable Ānanda was given such a broad hint by the Blessed One, 
 such an obvious suggestion, he was unable to perceive it._
@@ -182,12 +165,9 @@ ____
 .Illustration
 ====
 less subtle
-
-[quote
-
-D.2.210]
 ====
 
+[quote, D.2.210]
 ____
 Whenever Brahmā Sanaṅkumāra appears to the Tāvatiṃsā devas, he appears 
 having created [for himself] a less subtle bodily form (_oḷārikaṃ 
@@ -203,17 +183,15 @@ ____
 .Illustration
 ====
 less subtle
-
-Hatthaka
-
-the deva's son, approached the Blessed One, thinking, 'I will stand in the 
-presence of the Blessed One,' but he sank down, collapsed, could not stand 
-upright. Just as butter or oil when poured upon sand sinks down, sinks in, 
-cannot abide.
 ====
 
 [quote, A.1.279]
 ____
+Hatthaka, the deva's son, approached the Blessed One, thinking, 'I will stand in the 
+presence of the Blessed One,' but he sank down, collapsed, could not stand 
+upright. Just as butter or oil when poured upon sand sinks down, sinks in, 
+cannot abide.
+
 Then the Blessed One told him 'Create a less subtle bodily form, Hatthaka'
 
 _oḷārikaṃ hatthaka attabhāvaṃ abhinimmināhī ti._
@@ -222,14 +200,12 @@ ____
 .Illustration
 ====
 less refined
+====
 
 ____
-'Poṭṭhapāda
-
-once the bhikkhu is possessed of that preliminary state of refined awareness, 
+'Poṭṭhapāda, once the bhikkhu is possessed of that preliminary state of refined awareness, 
 he proceeds from stage to stage till he reaches the highest state of refined 
 awareness.
-====
 
 _Yato kho poṭṭhapāda bhikkhu idha sakasaññī hoti so tato amutra tato 
 amutra anupubbena saññaggaṃ phusati._
@@ -290,20 +266,16 @@ ____
 .Illustration
 ====
 not particularly refined
-
-____
--- Moggallāna
-
-friend, your [mental] faculties are serene, your countenance is pure and 
-bright. Venerable MahāMoggallāna surely spent today in a peaceful abiding.
 ====
-
-_vippasannāni kho te āvuso moggallāna indriyāni parisuddho mukhavaṇṇo 
-pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī'ti_
-____
 
 [quote, S.2.275]
 ____
+-- Moggallāna, friend, your [mental] faculties are serene, your countenance is pure and 
+bright. Venerable MahāMoggallāna surely spent today in a peaceful abiding.
+
+_vippasannāni kho te āvuso moggallāna indriyāni parisuddho mukhavaṇṇo 
+pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī'ti_
+
 -- Friend, I spent the day in a not particularly refined abiding, but I had 
 some discussion on the teaching [with the Blessed One].
 
@@ -317,15 +289,14 @@ talk."
 .Illustration
 ====
 effortful
-
-It is just as if a man walking fast might ask himself why he is walking fast. 
-Why not walk slowly? Then walking slowly
-
-why not stand? Then standing, why not sit? Then sitting, why not lie down?
 ====
 
 [quote, M.1.121]
 ____
+It is just as if a man walking fast might ask himself why he is walking fast. 
+Why not walk slowly? Then walking slowly,
+why not stand? Then standing, why not sit? Then sitting, why not lie down?
+
 In this way the man would substitute for each more effortful posture one that 
 was less effortful.
 
@@ -336,14 +307,13 @@ ____
 .Illustration
 ====
 morally unrefined
+====
 
 ____
 There are three pathways to happiness discovered by the Blessed One who knows 
-and sees [the nature of reality]
-
+and sees [the nature of reality],
 the second of which is for someone in whom the morally unrefined deeds of body, 
 speech, and mind are unquelled
-====
 
 _oḷārikā kāyasaṅkhārā... vacīsaṅkhārā... cittasaṅkhārā 
 appaṭippassaddhā honti_

@@ -90,16 +90,14 @@ ____
 knowledge
 ====
 
+[quote, M.3.108]
 ____
 For him thus knowing and seeing, his mind is liberated [from perceptually 
 obscuring states].
 
 _Tassa evaṃ jānato evaṃ passato kāmāsavā pi... avijjāsavā pi cittaṃ 
 vimuccati._
-____
 
-[quote, M.3.108]
-____
 Being liberated [from perceptually obscuring states], the knowledge arises that 
 he is [thus] liberated.
 
@@ -113,16 +111,14 @@ ____
 knowledge
 ====
 
+[quote, M.3.210]
 ____
 Some ascetic or Brahmanist says 'All those who kill... will be reborn in the 
 realm of happiness, in the heavenly worlds.'
 
 _So evamāha yo kira bho pāṇātipātī... micchādiṭṭhi sabbo so 
 kāyassa bhedā parammaraṇā sugatiṃ saggaṃ lokaṃ upapajjati._
-____
 
-[quote, M.3.210]
-____
 And says: 'Those who know thus, know rightly; those who know otherwise, their 
 knowledge is wrong.'
 
@@ -137,12 +133,12 @@ ____
 knowledge
 ====
 
+[quote, S.2.118]
+____
 Suppose, friend, there was a well along a desert road, but it had neither a 
 rope nor a bucket. Then a man came, oppressed by the heat, tired, parched, and 
 thirsty.
 
-[quote, S.2.118]
-____
 He would look into the well and would have the knowledge, 'There is water,' but 
 he would not be able to make bodily contact with it.
 
@@ -157,26 +153,20 @@ ____
 knowledge
 ====
 
+[quote, D.3.275]
 ____
 The three final knowledges.
 
 _Tisso vijjā_
-____
 
-____
 the final knowledge: the knowledge through recalling of past lives
 
 _pubbenivāsānussati ñāṇaṃ vijjā_
-____
 
-____
 the final knowledge: the knowledge of the transmigration of beings
 
 _sattānaṃ cutūpapāte ñāṇaṃ vijjā_
-____
 
-[quote, D.3.275]
-____
 the final knowledge: the knowledge of the destruction of perceptually obscuring 
 states_._
 
@@ -380,25 +370,23 @@ ____
 
 .Illustration
 ====
-aññāṇaṃ ignorance of it [according to reality]; ñāṇaṃ knowledge of 
+aññāṇaṃ
+
+ignorance of it [according to reality]; ñāṇaṃ knowledge of 
 it [according to reality]
+====
 
+[quote, S.5.430]
 ____
-Bhikkhus
-
-ignorance of suffering [according to reality], the origin of suffering, the 
+Bhikkhus, ignorance of suffering [according to reality], the origin of suffering, the 
 ending of suffering, the practice leading to the ending of suffering, is called 
 uninsightfulness into reality, and it is on account of this quality that one 
 lacks insight into reality.
-====
 
 _Yaṃ kho bhikkhu dukkhe aññāṇaṃ dukkhasamudaye aññāṇaṃ 
 dukkhanirodhe aññāṇaṃ dukkhanirodhagāminiyā paṭipadāya 
 aññāṇaṃ ayaṃ vuccati bhikkhu avijjā ettāvatā ca avijjāgato hoti._
-____
 
-[quote, S.5.430]
-____
 Bhikkhus, whatsoever is the knowledge of suffering [according to reality], of 
 the origin of suffering, the ending of suffering, and of the practice leading 
 to the ending of suffering, is called insightfulness into reality, and it is on 
@@ -521,13 +509,13 @@ of awareness of boundless mental consciousness.
 _Tassa yā purimā ākāsānañcāyatanasukhumasaccasaññā sā nirujjhati. 
 Viññāṇañcāyatanasukhumasaccasaññā tasmiṃ samaye hoti. 
 Viññāṇañcāyatanasukhumasaccasaññī yeva tasmiṃ samaye hoti._
-____
 
-• ... In this way one state of refined awareness (_saññā_) arises through 
+... In this way one state of refined awareness (_saññā_) arises through 
 the training, and one state of refined awareness (_saññā_) ceases through 
-the training. +
+the training.
+
 _Evampi sikkhā ekā saññā uppajjati. Sikkhā ekā saññā nirujjhati_ 
-(D.1.183-4).
+____
 
 Now, following the Buddha's explanation, Poṭṭhapāda wanted to know the 
 relationship between states of refined awareness and perception of those 
