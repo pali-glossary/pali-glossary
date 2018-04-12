@@ -95,12 +95,9 @@ DOP's renderings are:
 .Illustration
 ====
 somewhere separately
-
-[quote
-
-Vin.4.228]
 ====
 
+[quote, Vin.4.228]
 ____
 Then that man, in love with that bhikkhunī, appointing a bedroom for those 
 bhikkhunīs, appointed a bedroom somewhere separately for that bhikkhunī.
@@ -112,12 +109,9 @@ ____
 .Illustration
 ====
 somewhere quiet
-
-[quote
-
-Th.v.317]
 ====
 
+[quote, Th.v.317]
 ____
 Being mindful and fully conscious, I sat down somewhere quiet.
 
@@ -127,12 +121,9 @@ ____
 .Illustration
 ====
 somewhere quiet
-
-[quote
-
-Thī.v.118]
 ====
 
+[quote, Thī.v.118]
 ____
 Undertake the Buddha's training system. Having done so one does not [later] 
 regret it. Wash your feet quickly and sit down somewhere quiet.
@@ -144,12 +135,9 @@ ____
 .Illustration
 ====
 somewhere quiet
-
-[quote
-
-Th.v.560]
 ====
 
+[quote, Th.v.560]
 ____
 Out of tender concern the Teacher gave me a [clean] foot-cloth, [saying]: 
 'Properly concentrate on this pure thing somewhere quiet.'
@@ -160,14 +148,11 @@ ____
 .Illustration
 ====
 somewhere out of the way
+====
 
 Wanting to spy on someone:
 
-[quote
-
-Vin.3.22]
-====
-
+[quote, Vin.3.22]
 ____
 they hid themselves somewhere out of the way.
 
@@ -177,12 +162,9 @@ ____
 .Illustration
 ====
 out of the way
-
-[quote
-
-A.3.75]
 ====
 
+[quote, A.3.75]
 ____
 When they saw him, they put down their bows and sent their dogs out of the way.
 
@@ -193,12 +175,9 @@ ____
 .Illustration
 ====
 somewhere out of the way
-
-[quote
-
-Vin.2.141]
 ====
 
+[quote, Vin.2.141]
 ____
 Now at that time bhikkhus urinated here and there in the monastery; the 
 monastery was fouled. They told this matter to the Blessed One. He said: "I 
@@ -212,12 +191,9 @@ ____
 .Illustration
 ====
 somewhere suitable
-
-[quote
-
-Vin.2.154]
 ====
 
+[quote, Vin.2.154]
 ____
 Now at that time bhikkhus made fireplaces here and there in the monastic 
 compound; the monastic compound became dirty. They told this matter to the 
@@ -231,14 +207,11 @@ ____
 .Illustration
 ====
 somewhere suitable
+====
 
 &#8203;[Cūḷapanthaka:]
 
-[quote
-
-Th.v.564-5]
-====
-
+[quote, Th.v.564-5]
 ____
 Then the Teacher sent a messenger to me to announce the mealtime. When the 
 mealtime was announced, I approached [Jīvaka's residence] through the air. 
@@ -252,12 +225,9 @@ ____
 .Illustration
 ====
 somewhere removed
-
-[quote
-
-Vin.1.94]
 ====
 
+[quote, Vin.1.94]
 ____
 I allow you, bhikkhus, having first instructed somewhere removed, to ask about 
 obstacles to ordination in the midst of the assembly of bhikkhus.
@@ -269,17 +239,15 @@ ____
 .Illustration
 ====
 at a distance
+====
 
 ____
 Venerable MahāMoggallāna performed a feat of psychic power such that he made 
-the Mansion of Migāra's Mother shake
-
+the Mansion of Migāra's Mother shake,
 quake, and tremble with his big toe. Then the resident bhikkhus, dismayed and 
 terrified, stood at a distance...
-====
 
-_Atha kho te bhikkhū saṃviggā lomahaṭṭhajātā ekamantaṃ 
-aṭṭhaṃsu._
+_Atha kho te bhikkhū saṃviggā lomahaṭṭhajātā ekamantaṃ aṭṭhaṃsu._
 ____
 
 [quote, S.5.270]
@@ -295,12 +263,9 @@ ____
 .Illustration
 ====
 at a distance
-
-[quote
-
-Vin.2.140]
 ====
 
+[quote, Vin.2.140]
 ____
 Now at that time the Blessed One was seated, explaining the teaching, 
 surrounded by a large assembly. A certain bhikkhu had eaten garlic, and had sat 
@@ -318,12 +283,9 @@ ____
 .Illustration
 ====
 aside
-
-[quote
-
-Vin.1.47]
 ====
 
+[quote, Vin.1.47]
 ____
 Having received his preceptor's robe, he should lay it aside.
 
@@ -333,12 +295,9 @@ ____
 .Illustration
 ====
 aside
-
-[quote
-
-Vin.2.218]
 ====
 
+[quote, Vin.2.218]
 ____
 When he is cleaning the dwelling-place, having first taken out the bowl and 
 robes, he should lay them aside.
@@ -350,12 +309,9 @@ ____
 .Illustration
 ====
 aside
-
-[quote
-
-Vin.2.192]
 ====
 
+[quote, Vin.2.192]
 ____
 Then that man, having laid aside his sword and shield, having laid down his bow 
 and quiver, approached the Blessed One.
@@ -367,12 +323,9 @@ ____
 .Illustration
 ====
 aside
-
-[quote
-
-Vin.1.173]
 ====
 
+[quote, Vin.1.173]
 ____
 Having taken that bhikkhu aside, having had him dealt with according to the 
 rule...
@@ -383,12 +336,9 @@ ____
 .Illustration
 ====
 aside
-
-[quote
-
-D.1.221]
 ====
 
+[quote, D.1.221]
 ____
 Then, Kevaḍḍha, the Great Brahmā took that bhikkhu by the arm, led him 
 aside and said...
@@ -400,12 +350,9 @@ ____
 .Illustration
 ====
 aside
-
-[quote
-
-Vin.1.122]
 ====
 
+[quote, Vin.1.122]
 ____
 Please will you, venerable ones, stand aside for a short time while this 
 bhikkhu declares his entire purity?
@@ -417,12 +364,9 @@ ____
 .Illustration
 ====
 at one end
-
-[quote
-
-M.3.238]
 ====
 
+[quote, M.3.238]
 ____
 Then the Blessed One entered the potter's workshop, prepared a spread of grass 
 at one end, seated himself cross-legged, set his body erect, and established 
@@ -436,12 +380,9 @@ ____
 .Illustration
 ====
 to one side
-
-[quote
-
-D.2.180]
 ====
 
+[quote, D.2.180]
 ____
 Being thus refused by the King, they withdrew to one side and considered:
 
@@ -451,12 +392,9 @@ ____
 .Illustration
 ====
 on the one side... to the other side
-
-[quote
-
-A.4.170]
 ====
 
+[quote, A.4.170]
 ____
 When a large heap of grain is being winnowed, the grains that are firm and 
 pithy form a pile on the one side, and the wind blows the spoiled grains and 
@@ -471,12 +409,9 @@ ____
 .Illustration
 ====
 beside them
-
-[quote
-
-Ud.47-8]
 ====
 
+[quote, Ud.47-8]
 ____
 Then Suppabuddha the leper approached that large crowd. He saw the Blessed One 
 sitting down, surrounded by a large assembly, explaining the teaching. Seeing 
@@ -498,12 +433,9 @@ ____
 .Illustration
 ====
 at a respectful distance
-
-[quote
-
-Vin.4.117]
 ====
 
+[quote, Vin.4.117]
 ____
 Now at one time bhikkhus were bathing in the Tapoda Hot Springs. Then King 
 Seniya Bimbisāra of Magadha, wanting to bathe his head, having gone to Tapoda, 
@@ -517,12 +449,9 @@ ____
 .Illustration
 ====
 at a respectful distance
-
-[quote
-
-D.1.50]
 ====
 
+[quote, D.1.50]
 ____
 Then King Ajātasattu approached the Blessed One and stood at a respectful 
 distance. Standing thus, King Ajātasattu gazed at the assembly of bhikkhus 
@@ -537,12 +466,9 @@ ____
 .Illustration
 ====
 at a respectful distance
-
-[quote
-
-D.2.270]
 ====
 
+[quote, D.2.270]
 ____
 Welcomed, Sakka entered the Indasāla Cave, venerated the Blessed One, and 
 stood at a respectful distance.
@@ -554,12 +480,9 @@ ____
 .Illustration
 ====
 at a respectful distance
-
-[quote
-
-M.2.142-3]
 ====
 
+[quote, M.2.142-3]
 ____
 'I shall sit here in front of the ascetic Gotama.' Then the brahman Brahmāyu 
 approached the Blessed One; and having exchanged greetings and words of 
@@ -581,12 +504,9 @@ _santike_: in the presence of, before, with (PED).
 .Illustration
 ====
 at a respectful distance
-
-[quote
-
-D.2.102]
 ====
 
+[quote, D.2.102]
 ____
 Then the Blessed One approached the Cāpāla Shrine and seated himself on the 
 prepared seat. Venerable Ānanda, having paid respects, sat down at a 
@@ -602,12 +522,9 @@ ____
 .Illustration
 ====
 at a respectful distance
-
-[quote
-
-M.1.393]
 ====
 
+[quote, M.1.393]
 ____
 When the Blessed One had eaten and had withdrawn his hand from the bowl, Prince 
 Abhaya taking a low seat, sat down at a respectful distance.

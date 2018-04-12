@@ -577,14 +577,14 @@ ____
 
 .Illustration
 ====
-āhāraṃ nourishing condition
+āhāraṃ
+
+nourishing condition
+====
 
 ____
 Faith [in the perfection of the Perfect One's transcendent insight] has a 
-nourishing condition
-
-I declare, not no nourishing condition.
-====
+nourishing condition, I declare, not no nourishing condition.
 
 _Saddhampahaṃ bhikkhave sāhāraṃ vadāmi no anāhāraṃ._
 ____
@@ -626,13 +626,13 @@ ____
 
 -- Yes, bhante
 
+[quote, M.1.260]
 ____
 -- Bhikkhus, do you see: 'With the ending of that nourishing condition, what is 
 brought about is destined to cease'?
 
 _tadāhāranirodhā yaṃ bhūtaṃ taṃ nirodhadhamman ti bhikkhave passathā 
 ti?_
+
+-- Yes, bhante.
 ____
-
--- Yes, bhante (M.1.260).
-

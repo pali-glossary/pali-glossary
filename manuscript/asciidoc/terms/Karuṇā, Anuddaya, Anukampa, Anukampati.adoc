@@ -83,14 +83,18 @@ karuṇā
 &#8203;[unlimited, all-encompassing] compassion
 ====
 
-• -- 'The Blessed One abides in a state of [unlimited, all-encompassing] 
-compassion' +
+[quote, M.1.370]
+____
+-- 'The Blessed One abides in a state of [unlimited, all-encompassing] compassion'
+
 _bhagavā hi bhante karuṇāvihārī ti._
 
-• -- 'Jīvaka, any attachment, hatred, or undiscernment of reality whereby 
+-- 'Jīvaka, any attachment, hatred, or undiscernment of reality whereby 
 maliciousness might arise, have been abandoned by the Perfect One... If what 
-you said referred to that, then I allow it to you' +
-☸... _vihesavā assa.._ (M.1.370).
+you said referred to that, then I allow it to you'
+
+ _...vihesavā assa..._
+____
 
 .Illustration
 ====
@@ -417,7 +421,10 @@ ____
 
 .Illustration
 ====
-anuddayataṃ sympathy
+anuddayataṃ
+
+sympathy
+====
 
 ____
 One who explains the teaching to others should establish five principles within 
@@ -460,28 +467,26 @@ _Attānañca parañca anupahacca kathaṃ kathessāmī ti paresaṃ dhammo
 desetabbo_ (A.3.184).
 ****
 
-==== Illustration: anuddayatā
+.Illustration
+====
+anuddayatā
 
 sympathy
 ====
 
+[quote, It.72]
+____
 There are these three kinds of spiritually unwholesome thinking 
 (_akusalavitakkā_). Which three?
 
-____
 thinking concerned with not wanting to be despised
 
 _anavaññattipaṭisaṃyutto vitakko_
-____
 
-____
 thinking concerned with gains, honour, and renown
 
 _lābhasakkārasilokapaṭisaṃyutto vitakko_
-____
 
-[quote, It.72]
-____
 thinking concerned with feeling sorry for others
 
 _parānuddayatāpaṭisaṃyutto vitakko._
@@ -557,13 +562,16 @@ sīlavantettha bhojetvā saṃyate brahmacārayo +
 Yā tattha devatā āsuṃ tāsaṃ dakkhiṇamādise._
 ____
 
-• Venerated, they will venerate them, revered, they will revere them. They 
+[quote, "D.2.88-9, Ud.89, Vin.1.229-230"]
+____
+Venerated, they will venerate them, revered, they will revere them. They 
 will tenderly reciprocate, as a mother for her own son. He with whom the devas 
-tenderly reciprocate always has good fortune. +
-☸ _Tā pūjitā pūjayanti mānitā mānayanti naṃ +
+tenderly reciprocate always has good fortune.
+
+_Tā pūjitā pūjayanti mānitā mānayanti naṃ +
 tato naṃ anukampanti mātā puttaṃ'ca orasaṃ +
-Devatānukampito poso sadā bhadrāni passatī ti_ (D.2.88-9) (Ud.89) 
-(Vin.1.229-230).
+Devatānukampito poso sadā bhadrāni passatī ti._
+____
 
 .Illustration
 ====
@@ -572,16 +580,14 @@ anukampāya
 tender concern
 ====
 
+[quote, A.1.98]
 ____
 For two good reasons the Perfect One establishes training rules for disciples:
 
 _sāvakānaṃ sikkhāpadaṃ paññattaṃ_
-____
 
-[quote, A.1.98]
-____
 Out of tender concern for the layfolk; and to stop factions of bhikkhus with 
-unvirtuous desires._
+unvirtuous desires.
 
 _gihīnaṃ anukampāya pāpicchānaṃ bhikkhūnaṃ pakkhupacchedāya._
 ____
@@ -682,34 +688,27 @@ anukampī
 be tenderly concerned
 ====
 
+[quote, D.1.228]
+____
 -- Lohicca, do you reside at Sālavatikā?
 
 -- Yes, reverend Gotama.
 
-____
 -- Well, if anyone said: "The Brahman Lohicca resides at Sālavatikā, and he 
 should enjoy the entire revenue and produce of Sālavatikā, not giving 
 anything to others" would not anyone who spoke like that be a source of danger 
 to your tenants?
 
 _evaṃvādi so ye taṃ upajīvanti tesaṃ antarāyakaro vā hoti no vā ti_
-____
 
-____
 -- He would be a source of danger, reverend Gotama.
 
 _Antarāyakaro bho gotama_
-____
 
-____
 -- And as such, would he be tenderly concerned for their welfare or not?
 
-_Antarāyakaro samāno lohicca hitānukampī vā tesaṃ hoti ahitānukampī 
-vā ti_
-____
+_Antarāyakaro samāno lohicca hitānukampī vā tesaṃ hoti ahitānukampī vā ti_
 
-[quote, D.1.228]
-____
 -- He would not, reverend Gotama.
 
 _Ahitānukampī bho gotama._

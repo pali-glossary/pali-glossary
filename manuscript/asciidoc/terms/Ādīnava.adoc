@@ -54,13 +54,12 @@ ____
 
 .Illustration
 ====
-ādīnavaṃ danger
+ādīnavaṃ
 
-[quote
-
-Sn.v.731-2]
+danger
 ====
 
+[quote, Sn.v.731-2]
 ____
 Recognising this danger, that suffering arises dependent on karmically 
 consequential deeds
@@ -70,14 +69,14 @@ ____
 
 .Illustration
 ====
-ādīnavaṃ danger
+ādīnavaṃ
+
+danger
+====
 
 ____
--- Ānanda
-
-friend, do the bhikkhus teach the abandonment of attachment, hatred, and 
+-- Ānanda, friend, do the bhikkhus teach the abandonment of attachment, hatred, and 
 undiscernment of reality?'
-====
 
 _rāgassa pahānaṃ paññāpetha dosassa pahānaṃ paññāpetha mohassa 
 pahānaṃ paññāpethāti_
@@ -100,18 +99,21 @@ thus does not experience psychological pain and dejection (A.1.216-7).
 
 .Illustration
 ====
-ādīnavaṃ danger
+ādīnavaṃ
 
-• Suppose that I
-
-being myself liable to defilement, knowing the danger of [seeking] what is 
-liable to defilement, should seek the undefiled, the unsurpassed safety from 
-the danger of bondage [to individual existence], the Untroubled. +
+danger
 ====
 
-☸ _kinnu kho ahaṃ_... _attanā saṅkilesadhammo samāno saṅkilesadhamme 
+[quote, M.1.163]
+____
+Suppose that I, being myself liable to defilement, knowing the danger of [seeking] what is 
+liable to defilement, should seek the undefiled, the unsurpassed safety from 
+the danger of bondage [to individual existence], the Untroubled.
+
+_kinnu kho ahaṃ... attanā saṅkilesadhammo samāno saṅkilesadhamme 
 ādīnavaṃ viditvā asaṅkiliṭṭhaṃ anuttaraṃ yogakkhemaṃ 
-nibbānaṃ pariyeseyyan ti_ (M.1.163).
+nibbānaṃ pariyeseyyan ti._
+____
 
 .Illustration
 ====
@@ -120,7 +122,10 @@ nibbānaṃ pariyeseyyan ti_ (M.1.163).
 danger
 ====
 
-• Five dangers of having faith which is based on a single individual +
+[quote, A.3.270]
+____
+Five dangers of having faith which is based on a single individual
+
 _Pañcime bhikkhave ādīnavā puggalappasāde. Katame pañca:_
 
 When a person's complete faith is based on a single individual (_puggale 
@@ -130,7 +135,8 @@ bhikkhus has suspended he who is beloved and dear to me.' And he will be no
 more full of faith in the bhikkhus (_bhikkhūsu appasādabahulo hoti_), and 
 from being without faith he will not follow other bhikkhus, and from not 
 following other bhikkhus he will not hear the true teaching, and from not 
-hearing the true teaching he will fall away from the true teaching (A.3.270).
+hearing the true teaching he will fall away from the true teaching.
+____
 
 .Illustration
 ====
@@ -152,11 +158,14 @@ is very unpleasant and a great danger.
 _bahu dukkho kho ayaṃ kāyo bahu ādīnavo_
 ____
 
-• Many illnesses arise in it, namely, illnesses of the eye, ear, nose... 
-cold, heat, hunger, thirst, faeces and urine. +
-☸ _iti imasmiṃ kāye vividhā ābādhā uppajjanti seyyathīdaṃ 
+____
+Many illnesses arise in it, namely, illnesses of the eye, ear, nose... 
+cold, heat, hunger, thirst, faeces and urine.
+
+_iti imasmiṃ kāye vividhā ābādhā uppajjanti seyyathīdaṃ 
 cakkhurogo sotarogo ghānarogo... sītaṃ uṇhaṃ jighacchā pipāsā 
-uccāro passāvo ti_).
+uccāro passāvo ti._
+____
 
 [quote, A.5.110]
 ____
@@ -480,7 +489,7 @@ disadvantage
 ____
 Bhikkhus, there are these five disadvantages of a campfire.
 
-__ādīnavā aggismiṃ_
+_ādīnavā aggismiṃ_
 ____
 
 [quote, A.3.256]
@@ -502,7 +511,7 @@ disadvantage
 ____
 Bhikkhus, there are five disadvantages in not chewing tooth-wood:
 
-__ādīnavā dantakaṭṭhassa akhādane_
+_ādīnavā dantakaṭṭhassa akhādane_
 ____
 
 ____
@@ -538,7 +547,7 @@ ____
 ____
 There are five advantages in chewing tooth-wood:
 
-__ānisaṃsā dantakaṭṭhassa khādane_
+_ānisaṃsā dantakaṭṭhassa khādane_
 ____
 
 ____

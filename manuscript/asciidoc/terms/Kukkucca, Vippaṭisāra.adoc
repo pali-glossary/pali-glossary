@@ -310,41 +310,32 @@ The assertion that a Perfect One exists after death, or does not exist, or both
 exists and does not exist, or neither exists nor not exists (_Hoti tathāgato 
 parammaraṇā ti_) is an
 
+[quote, A.4.68-9]
 ____
 acquiescence in dogmatism
 
 _diṭṭhigatametaṃ_
-____
 
-____
 acquiescence in craving
 
 _taṇhāgatametaṃ_
-____
 
-• acquiescence in mental imagery** +
-☸** _saññāgatametaṃ_
+acquiescence in mental imagery
 
-____
+_saññāgatametaṃ_
+
 matter of thinking in personal terms
 
 _maññitametaṃ_
-____
 
-____
 matter of entrenched perception
 
 _papañcitametaṃ_
-____
 
-____
 acquiescence in grasping
 
 _upādānagatametaṃ_
-____
 
-[quote, A.4.68-9]
-____
 and a matter of uneasiness
 
 _vippaṭisāro eso._
@@ -357,16 +348,14 @@ vippaṭisārī
 conscience-stricken; kukkuccaṃ, anxious
 ====
 
+[quote, Vin.3.37]
 ____
 A certain bhikkhu intending to have sex with a woman was conscience-stricken at 
 the mere touch.
 
 _Tena kho pana samayena aññataro bhikkhu itthiyā methunaṃ dhammaṃ 
 patisevissāmiti chupitamatte vippaṭisārī ahosī._
-____
 
-[quote, Vin.3.37]
-____
 He became anxious, thinking, 'The Blessed One has established a training rule. 
 I hope I have not fallen into a pārājika offence.'
 
@@ -399,16 +388,14 @@ avippaṭisārissa
 uneasy conscience
 ====
 
+[quote, A.5.2]
 ____
 For one who is virtuous, perfect in virtue, there is no need to harbour the 
-aspiration: 'May freedom from an uneasy conscience arise in me.
+aspiration: 'May freedom from an uneasy conscience arise in me.'
 
 _Sīlavato bhikkhave sīlasampannassa na cetanāya karaṇīyaṃ 
 avippaṭisāro me uppajjatū ti._
-____
 
-[quote, A.5.2]
-____
 It is quite natural that one who is virtuous, perfect in virtue, freedom from 
 an uneasy conscience arises in him.
 
@@ -431,14 +418,11 @@ _Jhāyatha cunda mā pamādattha. Mā pacchā vippaṭisārino ahuvattha_
 .Illustration
 ====
 anxiety and uneasiness
+====
 
 ==== Illustration: anxious and uneasy
 
-[quote
-
-M.1.437-8]
-====
-
+[quote, M.1.437-8]
 ____
 'Bhante, I am not willing to eat at a single session; for if I did, I might 
 become anxious and uneasy about it.'
@@ -450,39 +434,29 @@ ____
 .Illustration
 ====
 anxious and uneasy
-
-____
--- 'I hope
-
-Assaji, you are not anxious or uneasy about anything.'
 ====
 
-_Kacci te assaji na kiñci kukkuccaṃ na koci vippaṭisāro ti_
+[quote, S.3.125]
 ____
+-- 'I hope, Assaji, you are not anxious or uneasy about anything.'
 
-____
+_Kacci te assaji na kiñci kukkuccaṃ na koci vippaṭisāro ti_
+
 -- 'In fact, bhante, I am very anxious and uneasy.'
 
 _Taggha me bhante anappakaṃ kukkuccaṃ anappako vippaṭisāro ti_
-____
 
-____
 -- 'I hope, Assaji, you have nothing to reproach yourself about in regard to 
 virtue.'
 
 _Kacci pana taṃ assaji attā sīlato na upavadatī ti_
-____
 
-____
 -- 'I have nothing, bhante, to reproach myself about in regard to virtue.'
 
 _Na kho maṃ bhante attā sīlato upavadatī ti_
-____
 
 -- 'Then, Assaji, what is there to be anxious and uneasy about?'
 
-[quote, S.3.125]
-____
 -- 'Formerly, bhante, when I was ill I dwelt with my bodily form tranquillised. 
 Now I do not attain that inward collectedness. As I do not attain that inward 
 collectedness, bhante, it occurs to me: "May I not waste away!"'
@@ -495,14 +469,11 @@ ____
 .Illustration
 ====
 remorseful and conscience-stricken
+====
 
 ==== Illustration: remorseful and conscience-stricken
 
-[quote
-
-Vin.1.223]
-====
-
+[quote, Vin.1.223]
 ____
 When a chief minister became angry with the bhikkhus, he became remorseful and 
 conscience-stricken about it.
@@ -513,21 +484,19 @@ ____
 .Illustration
 ====
 remorseful and conscience-stricken
+====
 
 ____
--- 'Bhante
-
-on one occasion, while the Blessed One instructed the bhikkhus with a talk on 
+-- 'Bhante, on one occasion, while the Blessed One instructed the bhikkhus with a talk on 
 the training rules, I became impatient and irritated, thinking: 'This ascetic 
 is too stringent.'
-====
 
 _ahudeva akkhanti ahu appaccayo adhisallikhatevāyaṃ samaṇo ti._
 ____
 
 [quote, A.1.237]
 ____
-'Afterwards I became remorseful and conscience-stricken about it.
+Afterwards I became remorseful and conscience-stricken about it.
 
 _ahudeva kukkuccaṃ ahu vippaṭisāro._
 ____
@@ -535,45 +504,33 @@ ____
 .Illustration
 ====
 remorseful and conscience-stricken
-
-____
--- 'I hope
-
-Vakkali, you are not remorseful or conscience-stricken about anything.'
 ====
 
-_Kacci te vakkali na kiñci kukkuccaṃ na koci vippaṭisāro ti_
+[quote, S.3.121]
 ____
+-- 'I hope, Vakkali, you are not remorseful or conscience-stricken about anything.'
 
-____
+_Kacci te vakkali na kiñci kukkuccaṃ na koci vippaṭisāro ti_
+
 -- 'In fact, bhante, I am very remorseful and conscience-stricken.'
 
 _Taggha me bhante anappakaṃ kukkuccaṃ anappako vippaṭisāro ti_
-____
 
-____
 -- 'I hope, Vakkali, you have nothing to reproach yourself about in regard to 
 virtue.'
 
 _Kacci pana taṃ vakkali attā sīlato na upavadatī ti_
-____
 
-____
 -- 'I have nothing, bhante, to reproach myself about in regard to virtue.'
 
 _Na kho maṃ bhante attā sīlato upavadatī ti_
-____
 
-____
 -- 'Then, Vakkali, what is there to be remorseful and conscience-stricken 
 about?.'
 
 _No ce kira vakkali attā sīlato upavadati atha kiñca te kukkuccaṃ ko ca 
 vippaṭisāro ti?_
-____
 
-[quote, S.3.121]
-____
 -- 'For a long time, bhante, I have wanted to come to see the Blessed One, but 
 I haven't had strength enough to do so'
 
@@ -585,12 +542,9 @@ ____
 .Illustration
 ====
 remorseful and conscience-stricken
-
-[quote
-
-Vin.3.19]
 ====
 
+[quote, Vin.3.19]
 ____
 After having had sex Venerable Sudinna was remorseful and conscience-stricken
 

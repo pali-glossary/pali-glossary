@@ -18,7 +18,7 @@ perceptually obscuring states].' This can be demonstrated in two steps:
 
 1. _Cetovimutti_ means freedom from attachment, hatred, and undiscernment of 
 reality.
-
++
 [quote, S.4.296-7]
 ____
 Now that unshakeable liberation [from perceptually obscuring states] is void of 
@@ -84,7 +84,7 @@ ____
 
 ==== Cetovimutti plus paññāvimutti
 
-__W__hen _cetovimutti_ occurs with _paññāvimutti_ it has a different 
+When _cetovimutti_ occurs with _paññāvimutti_ it has a different 
 meaning. _Paññāvimutti_ never occurs without _cetovimutti_, so has a single 
 meaning. Here we will consider their meanings when they occur together, in the 
 light of the eleventh _Bālavaggo_ sutta, where they correspond to _samatha_ 
@@ -94,8 +94,7 @@ ____
 Two things are conducive to insightfulness into reality. Which two? Inward calm 
 and insightfulness.
 
-_Dve me bhikkhave dhammā vijjābhāgiyā. Katame dve? Samatho ca vipassanā 
-ca._
+_Dve me bhikkhave dhammā vijjābhāgiyā. Katame dve? Samatho ca vipassanā ca._
 ____
 
 ____
@@ -155,9 +154,9 @@ ____
 
 On the basis of this sutta this we render the terms as:
 
-_• Cetovimutti_: liberation [from attachment through inward calm]
+- _Cetovimutti_: liberation [from attachment through inward calm]
 
-_• Paññāvimutti_: liberation [from uninsightfulness] through penetrative 
+- _Paññāvimutti_: liberation [from uninsightfulness] through penetrative 
 discernment
 
 ==== Cetovimuttiṃ plus paññāvimuttiṃ: not necessarily arahantship
@@ -177,14 +176,16 @@ paññāvimuttiṃ yathābhūtaṃ pajānāti yatthassa taṃ dussīlyaṃ
 aparisesaṃ nirujjhati._
 ____
 
-• He, in this very lifetime, through the destruction of perceptually 
+[quote, "A.1.234, M.1.34"]
+____
+He, in this very lifetime, through the destruction of perceptually 
 obscuring states, enters upon and abides in the liberation [from attachment 
 through inward calm] and the liberation [from uninsightfulness] through 
 penetrative discernment, realising it for himself through transcendent insight. 
-+
-☸ _So āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ 
+
+_So āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ 
 diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati_ 
-(A.1.234) (M.1.34).
+____
 
 ==== Ubhatobhāgavimutto; Paññāvimutto; Paññāvimuttin; Cetovimuttin
 

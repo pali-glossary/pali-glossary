@@ -123,13 +123,12 @@ ____
 
 .Illustration
 ====
-chandaṃ fondness for
+chandaṃ
 
-[quote
-
-S.1.197]
+fondness for
 ====
 
+[quote, S.1.197]
 ____
 Desiring seclusion [from sensuous pleasures and spiritually unwholesome 
 factors] you entered the woods, yet your mind gushes outwardly. Eliminate, man, 
@@ -152,8 +151,12 @@ All things stem from fondness.
 _chandamūlakā āvuso sabbe dhammā._
 ____
 
-• These five grasped aggregates stem from fondness ** +
-**__Ime kho bhikkhu pañcupādānakkhandhā chandamūlakā ti__ (S.3.100-1).
+[quote, S.3.100-1]
+____
+These five grasped aggregates stem from fondness
+
+_Ime kho bhikkhu pañcupādānakkhandhā chandamūlakā ti._
+____
 
 .Illustration
 ====
@@ -324,25 +327,26 @@ chando
 fondness
 ====
 
+[quote, S.4.329-330]
 ____
 -- 'What do you think, headman? Before you saw Ciravāsi's mother or heard 
 about her, did you have any fondness, attachment, or love for her?'
 
 _adiṭṭhā āsi assutā ahosi ciravāsissa mātuyā chando vā rāgo vā 
 pemaṃ vā ti_
-____
 
--- 'No, bhante' (S.4.329-330).
+-- 'No, bhante'.
+____
 
 .Illustration
 ====
-chandaṃ fondness
+chandaṃ
+
+fondness
+====
 
 ____
-"As is this one
-
-so is that one. As is that one, so is this one."
-====
+"As is this one, so is that one. As is that one, so is this one."
 
 _Yathā idaṃ tathā etaṃ yathā etaṃ tathā idaṃ_
 ____
@@ -362,21 +366,24 @@ chanda
 fondness
 ====
 
-• How does fondness arise based on past bases of fondness and attachment? +
-_Kathañca bhikkhave atīte chandarāgaṭṭhānīye dhamme ārabbha chando 
-jāyati:_
+[quote, A.1.264]
+____
+How does fondness arise based on past bases of fondness and attachment?
 
-• Based on past bases of fondness and attachment, he thinks and ponders. +
-_atīte bhikkhave chandarāgaṭṭhānīye dhamme ārabbha cetasā 
-anuvitakketi anuvicāreti._
+_Kathañca bhikkhave atīte chandarāgaṭṭhānīye dhamme ārabbha chando jāyati:_
 
-• For him, thinking and pondering on past bases of fondness and attachment, 
-fondness arises. +
-_Tassa atīte chandarāgaṭṭhānīye dhamme ārabbha cetasā anuvitakkayato 
-anuvicārayato chando jāyati._
+Based on past bases of fondness and attachment, he thinks and ponders.
 
-• With the arising of fondness, he is tethered to those things. +
-_Chandajāto tehi dhammehi saṃyutto hoti_ (A.1.264).
+_atīte bhikkhave chandarāgaṭṭhānīye dhamme ārabbha cetasā anuvitakketi anuvicāreti._
+
+For him, thinking and pondering on past bases of fondness and attachment, fondness arises.
+
+_Tassa atīte chandarāgaṭṭhānīye dhamme ārabbha cetasā anuvitakkayato anuvicārayato chando jāyati._
+
+With the arising of fondness, he is tethered to those things.
+
+_Chandajāto tehi dhammehi saṃyutto hoti._
+____
 
 .Illustration
 ====
@@ -1114,4 +1121,3 @@ _tena kho pana samayena upāsikā bhikkhunī saṅghassa cīvaratthāya
 chandakaṃ saṃharitvā aññatarassa pāvārikassa ghare parikkhāraṃ 
 nikkhipitvā._
 ____
-
