@@ -49,10 +49,13 @@ ____
 How misperception of sense impression leads to craving is explained in the 
 _Sammasa Sutta_ as follows:
 
-• Bhikkhus, whatever ascetics and Brahmanists in the past... in the future... 
-at present regard that in the world which is agreeable and pleasing +
+____
+Bhikkhus, whatever ascetics and Brahmanists in the past... in the future... 
+at present regard that in the world which is agreeable and pleasing
+
 _Ye hi ke ci bhikkhave atītamaddhānaṃ... anāgatamaddhānaṃ... etarahi 
 samaṇā vā brāhmaṇā yaṃ loke piyarūpaṃ sātarūpaṃ_
+____
 
 ____
 as lasting
@@ -138,9 +141,9 @@ penetrative discernment he abandons craving for states of individual existence.
 +
 ****
 _Sabbe te bhavā aniccā dukkhā vipariṇāmadhammā_. +
-****
 _Evametaṃ yathābhūtaṃ sammappaññāya passato_ +
 _Bhavataṇhā pahīyati_ (Ud.33).
+****
 
 We likewise treat _vibhavataṇhā_ as a plural, otherwise it would only be 
 applicable to the annihilationist ideal. Here, because some devas and men are 
@@ -323,13 +326,12 @@ ____
 
 .Illustration
 ====
-taṇhaṃ craving
+taṇhaṃ
 
-[quote
-
-Sn.v.339]
+craving
 ====
 
+[quote, Sn.v.339]
 ____
 Do not foster craving for robe material, almsfood, therapeutic requisites, and 
 abodes
@@ -339,23 +341,29 @@ ____
 
 .Illustration
 ====
-taṇhaṃ craving
+taṇhaṃ
 
-• Because of craving
-
-search. _ +
+craving
 ====
 
-taṇhaṃ paṭicca pariyesanā_
+[quote, A.4.401]
+____
+Because of craving, search.
 
-• Because of search, acquisition +
-pariyesanaṃ paṭicca lābho
+_taṇhaṃ paṭicca pariyesanā_
 
-• Because of acquisition, examination _ +
-lābhaṃ paṭicca vinicchayo_
+Because of search, acquisition
 
-• Because of examination, fondness and attachment _ +
-vinicchayaṃ paṭicca chandarāgo_ (A.4.401).
+_pariyesanaṃ paṭicca lābho_
+
+Because of acquisition, examination
+
+_lābhaṃ paṭicca vinicchayo_
+
+Because of examination, fondness and attachment
+
+_vinicchayaṃ paṭicca chandarāgo_.
+____
 
 .Illustration
 ====
@@ -381,39 +389,32 @@ taṇhā
 craving
 ====
 
--- 'Ānanda, if there were no craving in any way
-
+[quote, D.2.62]
 ____
+-- 'Ānanda, if there were no craving in any way,
+
 craving for sensuous pleasure,
 
 _kāmataṇhā_
-____
 
-____
 craving for states of individual existence
 
 _bhavataṇhā_
-____
 
-____
 craving for the cessation of states of individual existence
 
 _vibhavataṇhā_
-____
 
-____
 with the total ending of craving
 
 _sabbaso taṇhā nirodhā_
-____
 
-____
 would search be evident?'
 
 _api nu kho pariyesanā paññāyethā ti._
-____
 
--- 'No, bhante' (D.2.62).
+-- 'No, bhante'.
+____
 
 .Illustration
 ====
@@ -488,14 +489,14 @@ ____
 
 .Illustration
 ====
-taṇhaṃ craving
+taṇhaṃ
+
+craving
+====
 
 ____
-Bhikkhus
-
-whatever ascetics and Brahmanists in the past regarded that in the world which 
+Bhikkhus, whatever ascetics and Brahmanists in the past regarded that in the world which 
 is agreeable and pleasing
-====
 
 _ye ca kho ke ci bhikkhave atītamaddhānaṃ samaṇā vā brāhmaṇā vā 
 yaṃ loke piyarūpaṃ sātarūpaṃ taṃ_

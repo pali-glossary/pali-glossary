@@ -163,12 +163,9 @@ ____
 .Illustration
 ====
 viññāṇaṃ anidassanaṃ anantaṃ sabbato pabhaṃ
-
-[quote
-
-M.1.329]
 ====
 
+[quote, M.1.329]
 ____
 The mind with no attribute, boundless, altogether free of defilement: that is 
 not reached by the solidness of earth, the liquidness of water, the warmth of 
@@ -183,12 +180,10 @@ ____
 .Illustration
 ====
 viññāṇaṃ anidassanaṃ anantaṃ sabbato pabhaṃ
+====
 
 ____
-The mind with no attribute
-
-boundless, altogether free of defilement:
-====
+The mind with no attribute, boundless, altogether free of defilement:
 
 _Viññāṇaṃ anidassanaṃ anantaṃ sabbato pabhaṃ_
 ____

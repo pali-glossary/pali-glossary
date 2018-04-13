@@ -424,7 +424,10 @@ ____
 
 .Illustration
 ====
-vippasannaṃ serene
+vippasannaṃ
+
+serene
+====
 
 ____
 The assembly of bhikkhus remained completely silent like a serene lake
@@ -432,11 +435,7 @@ The assembly of bhikkhus remained completely silent like a serene lake
 _rahadamiva vippasannaṃ_
 ____
 
-[quote
-
-D.1.50]
-====
-
+[quote, D.1.50]
 ____
 The king wished that Prince Udāyibhaddo were possessed of such peacefulness.
 
@@ -989,8 +988,11 @@ pasādeti
 to become serene
 ====
 
-• In giving his mind becomes serene.* +
-☸* _dadaṃ cittaṃ pasādeti_
+____
+In giving his mind becomes serene.
+
+_dadaṃ cittaṃ pasādeti_
+____
 
 [quote, A.4.244]
 ____
@@ -1006,10 +1008,13 @@ pasādenti
 to become serene
 ====
 
-• In thinking, 'This is the stupa of the Blessed One, the Arahant, the 
-Perfectly Enlightened One,' Ānanda, the minds of the manyfolk become serene** +
-☸** _Ayaṃ tassa bhagavato arahato sammāsambuddhassa thūpo ti ānanda 
+____
+In thinking, 'This is the stupa of the Blessed One, the Arahant, the 
+Perfectly Enlightened One,' Ānanda, the minds of the manyfolk become serene
+
+_Ayaṃ tassa bhagavato arahato sammāsambuddhassa thūpo ti ānanda 
 bahū janā cittaṃ pasādenti_
+____
 
 [quote, D.2.143]
 ____
@@ -1109,8 +1114,11 @@ wanders about hurting and injuring himself; he is blameworthy, criticised by
 the wise, and begets much demerit. Which two? Through lack of investigation and 
 penetration (_ananuvicca apariyogāhetvā_) he exhibits
 
-• *•* faith in a matter that is not worthy of faith; +
-☸ _appasādaniye ṭhāne pasādaṃ upadaṃseti_
+____
+faith in a matter that is not worthy of faith;
+
+_appasādaniye ṭhāne pasādaṃ upadaṃseti_
+____
 
 [quote, A.1.90]
 ____
@@ -1191,8 +1199,11 @@ pasādā
 faith
 ====
 
-• There are three foremost kinds of faith** +
-☸** _aggappasādā_
+____
+There are three foremost kinds of faith
+
+_aggappasādā_
+____
 
 [quote, It.88]
 ____
@@ -1228,8 +1239,11 @@ wanders about hurting and injuring himself; he is blameworthy, criticised by
 the wise, and begets much demerit. Which two? Through lack of investigation and 
 penetration (_ananuvicca apariyogāhetvā_) he exhibits
 
-• *•* faith in a matter that is not worthy of faith +
-☸ _appasādaniye ṭhāne pasādaṃ upadaṃseti_
+____
+faith in a matter that is not worthy of faith
+
+_appasādaniye ṭhāne pasādaṃ upadaṃseti_
+____
 
 [quote, A.1.90]
 ____
@@ -1282,13 +1296,12 @@ and rebirth, destruction of perceptually obscuring states) (M.3.11).
 
 .Illustration
 ====
-pasādaniyaṃ faith inspiring
+pasādaniyaṃ
 
-[quote
-
-Th.v.591]
+faith inspiring
 ====
 
+[quote, Th.v.591]
 ____
 Undertaking [what is virtuous], refraining [what is unvirtuous], having a 
 deportment that is faith inspiring, and being applied to the higher mental 
@@ -1300,7 +1313,10 @@ ____
 
 .Illustration
 ====
-pasādaniyaṃ faith inspiring
+pasādaniyaṃ
+
+faith inspiring
+====
 
 ____
 You will see the Blessed One
@@ -1309,10 +1325,7 @@ _dakkhissasi tvaṃ soṇa taṃ bhagavantaṃ_
 ____
 
 ____
-who is beautifully behaved
-
-faith inspiring,
-====
+who is beautifully behaved, faith inspiring,
 
 _pāsādikaṃ pasādaniyaṃ_
 ____
@@ -1326,13 +1339,12 @@ ____
 
 .Illustration
 ====
-pasādaniyaṃ faith inspiring
+pasādaniyaṃ
 
-[quote
-
-A.2.38]
+faith inspiring
 ====
 
+[quote, A.2.38]
 ____
 The brahman Doṇa followed the Blessed One's footprints and saw him sitting at 
 the root of some tree, beautifully behaved, faith inspiring, with peaceful 
@@ -1574,13 +1586,12 @@ ____
 
 .Illustration
 ====
-pasannānaṃ faith
+pasannānaṃ
 
-[quote
-
-A.1.26]
+faith
 ====
 
+[quote, A.1.26]
 ____
 Foremost amongst my lay disciples whose faith is based on a single individual 
 is Jīvaka Komārabhacca.

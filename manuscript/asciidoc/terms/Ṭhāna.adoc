@@ -445,7 +445,10 @@ ____
 
 .Illustration
 ====
-ṭhānaṃ places [of pilgrimage]
+ṭhānaṃ
+
+places [of pilgrimage]
+====
 
 ____
 There are four places [of pilgrimage] that fill one with an earnest attitude 
@@ -453,7 +456,6 @@ There are four places [of pilgrimage] that fill one with an earnest attitude
 
 and should be seen by a noble young man who has faith [in the perfection of the 
 Perfect One's transcendent insight]
-====
 
 _Cattārimāni bhikkhave saddhassa kulaputtassa dassanīyāni saṃvejanīyāni 
 ṭhānāni_

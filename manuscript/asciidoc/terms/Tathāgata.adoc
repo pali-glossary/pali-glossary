@@ -108,12 +108,9 @@ other than _nibbāna_ (M.1.252).
 .Illustration
 ====
 Perfect One
-
-[quote
-
-D.3.84]
 ====
 
+[quote, D.3.84]
 ____
 This is a term for the Perfect One: the embodiment of the teaching, the 
 embodiment of Brahmā, one who has become righteousness itself, one who has 
@@ -126,15 +123,14 @@ ____
 .Illustration
 ====
 Perfect One
+====
 
 ____
-Whatever in this world [of beings] with its devas
-
+Whatever in this world [of beings] with its devas,
 māras, and brahmās, in the world of mankind with its ascetics and 
 Brahmanists, its royalty and commoners is seen, heard, sensed, cognised, 
 attained, sought after, pondered over, that has been fully understood by the 
 Perfect One. Thus he is called the Perfect One.
-====
 
 _Yaṃ bhikkhave sadevakassa lokassa samārakassa sabrahmakassa 
 sassamaṇabrāhmaṇiyā pajāya sadevamanussāya diṭṭhaṃ sutaṃ 
@@ -179,12 +175,9 @@ ____
 .Illustration
 ====
 Perfect One
-
-[quote
-
-D.3.134-5]
 ====
 
+[quote, D.3.134-5]
 ____
 Concerning things past, future, and present the Perfect One is one who speaks 
 at the right time, about what is true, what is beneficial, what is the 
@@ -197,12 +190,9 @@ ____
 .Illustration
 ====
 Perfect One
-
-[quote
-
-S.3.118]
 ====
 
+[quote, S.3.118]
 ____
 The Perfect One, the unexcelled person, the supreme person, one who has 
 attained the supreme attainment.

@@ -15,12 +15,9 @@
 .Illustration
 ====
 what is originated
-
-[quote
-
-A.1.83]
 ====
 
+[quote, A.1.83]
 ____
 Bhikkhus, it is with what is originated as their basis that unvirtuous, 
 spiritually unwholesome factors arise, not without what is originated.
@@ -32,12 +29,10 @@ ____
 .Illustration
 ====
 originated
+====
 
 ____
-Lady
-
-is the noble eightfold path originated or unoriginated?
-====
+Lady, is the noble eightfold path originated or unoriginated?
 
 _Ariyo panayye aṭṭhaṅgiko maggo saṅkhato udāhu asaṅkhato ti?_
 ____
@@ -52,6 +47,7 @@ ____
 .Illustration
 ====
 the originated
+====
 
 ____
 And why do you call them intentional activities
@@ -59,10 +55,13 @@ And why do you call them intentional activities
 _kiñca bhikkhave saṅkhāre vadetha_
 ____
 
-• They originate the originated therefore they are called intentional 
-activities.* +
-☸* _saṅkhataṃ abhisaṅkharontī ti bhikkhave tasmā saṅkhārā ti 
+____
+They originate the originated therefore they are called intentional 
+activities.
+
+_saṅkhataṃ abhisaṅkharontī ti bhikkhave tasmā saṅkhārā ti 
 vuccanti_
+____
 
 ____
 And what is the originated that they originate?
@@ -114,17 +113,13 @@ The dative case indicates the place to which motion is directed: 'a few go to
 heaven'; 'he takes me to the water' (PGPL, para597.viii). I have taken this 
 meaning here, using the dative case to indicate the result of originative 
 activity.
-====
 
 .Illustration
 ====
 originated
-
-[quote
-
-S.__5.16__4]
 ====
 
+[quote, S.5.164]
 ____
 How could it be that what is born, brought about, originated, destined to 
 decay, not decay? It is not possible.
@@ -136,12 +131,9 @@ ____
 .Illustration
 ====
 originated
-
-[quote
-
-It.61]
 ====
 
+[quote, It.61]
 ____
 From whatever is brought about, originated, dependently arisen, the ending [of 
 originated phenomena] is the deliverance.
@@ -153,12 +145,9 @@ ____
 .Illustration
 ====
 originated
-
-[quote
-
-D.2.66]
 ====
 
+[quote, D.2.66]
 ____
 Pleasant sense impression is unlasting, originated, and dependently arisen. It 
 is destined to be destroyed, to disappear, to pass away, to cease.
@@ -170,6 +159,7 @@ ____
 .Illustration
 ====
 originated
+====
 
 ____
 Of phenomena either originated or unoriginated
@@ -177,11 +167,7 @@ Of phenomena either originated or unoriginated
 _Yāvatā bhikkhave dhammā saṅkhatā vā asaṅkhatā vā_
 ____
 
-[quote
-
-A.2.34]
-====
-
+[quote, A.2.34]
 ____
 the passing away [of originated phenomena] is reckoned as best of them
 
@@ -191,20 +177,23 @@ ____
 .Illustration
 ====
 originated
-
-• If there were no unborn
-
-no not-brought-about, no unproduced, no unoriginated, then no deliverance would 
-be discernable from what is born, brought about, produced, originated. +
 ====
+
+- If there were no unborn
+
+[quote, Ud.80]
+____
+no not-brought-about, no unproduced, no unoriginated, then no deliverance would 
+be discernable from what is born, brought about, produced, originated.
 
 _No ce taṃ bhikkhave abhavissā ajātaṃ abhūtaṃ akataṃ asaṅkhataṃ 
 nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṃ paññāyetha_ 
-(Ud.80).
+____
 
 .Illustration
 ====
 originated/unoriginated
+====
 
 ____
 There are three marks of the originated.
@@ -213,44 +202,43 @@ _Tīṇi'māni bhikkhave saṅkhatassa saṅkhatalakkhaṇāni_
 ____
 
 ____
-an arising is discernable _
+an arising is discernable
 
 _uppādo paññāyati_
 ____
 
 ____
-a disappearance is discernable _
+a disappearance is discernable
 
 _vayo paññāyati_
 ____
 
-• a changeability while persisting is discernable. _ +
-☸ ṭhitassa aññathattaṃ paññāyati_ (A.1.152).
+[quote, A.1.152]
+____
+a changeability while persisting is discernable.
+
+_ṭhitassa aññathattaṃ paññāyati._
+____
 
 ____
 There are three marks of the unoriginated
 
-_Tīṇi'māni bhikkhave asaṅkhatassa asaṅkhatalakkhaṇāni. Katamāni 
-tīṇi:_
+_Tīṇi'māni bhikkhave asaṅkhatassa asaṅkhatalakkhaṇāni. Katamāni tīṇi:_
 ____
 
 ____
-an arising is not to be discerned _
+an arising is not to be discerned
 
 _na uppādo paññāyati_
 ____
 
 ____
-a disappearance is not to be discerned _
+a disappearance is not to be discerned
 
 _na vayo paññāyati_
 ____
 
-[quote
-
-A.1.152]
-====
-
+[quote, A.1.152]
 ____
 a changeability while persisting is not to be discerned
 
@@ -260,18 +248,15 @@ ____
 .Illustration
 ====
 unoriginated
+====
 
 ____
-What is the unoriginated?_
+What is the unoriginated?
 
 _Katamañca bhikkhave asaṅkhataṃ:_
 ____
 
-[quote
-
-S.4.368-373]
-====
-
+[quote, S.4.368-373]
 ____
 The destruction of attachment, hatred, and undiscernment of reality. This is 
 called the unoriginated._
@@ -283,12 +268,9 @@ ____
 .Illustration
 ====
 prepared
-
-[quote
-
-A.2.63]
 ====
 
+[quote, A.2.63]
 ____
 One gives well-prepared food, good quality, excellent, and delicious.
 
@@ -298,12 +280,9 @@ ____
 .Illustration
 ====
 contrived
-
-[quote
-
-A.5.186-7]
 ====
 
+[quote, A.5.186-7]
 ____
 That view is brought about, contrived, thought out, and dependently arisen
 
@@ -313,12 +292,9 @@ ____
 .Illustration
 ====
 made
-
-[quote
-
-Sn.v.21]
 ====
 
+[quote, Sn.v.21]
 ____
 A well-made float
 
