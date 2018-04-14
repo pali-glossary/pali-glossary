@@ -41,30 +41,24 @@ go forth from the household life into the ascetic life; pabbājetu, let someone
 go forth [into the ascetic life]
 ====
 
+[quote, Ud.57]
 ____
 Soṇa Koṭikaṇṇa said 'It is not easy while living the household life to 
 live the religious life, utterly perfect and pure as a polished shell.'
 
 _nayidaṃ sukaraṃ agāraṃ ajjhāvasatā ekantaparipuṇṇaṃ 
 ekantaparisuddhaṃ saṅkhalikhitaṃ brahmacariyaṃ carituṃ_
-____
 
-____
 He said 'How about if I shaved off my hair and beard, and went forth from the 
 household life into the ascetic life?'
 
 _Yannūnāhaṃ kesamassuṃ ohāretvā kāsāyāni vatthāni acchādetvā 
 agārasmā anagāriyaṃ pabbajeyyan ti_
-____
 
-____
 Let me go forth [into the ascetic life], Master Mahākaccāna!"
 
 _Pabbājetu maṃ bhante ayyo mahākaccāyano ti._
-____
 
-[quote, Ud.57]
-____
 Mahākaccāna replied, "It is hard, Soṇa, the life-long, one-meal-a-day, 
 solitary bed, celibate life. Please, stay as a householder, apply yourself to 
 the Buddha's training system and, on the Observance Day, to observing 
@@ -153,8 +147,11 @@ pabbajjā
 going forth [into the ascetic life]
 ====
 
-• The going forth [into the ascetic life] of all those noble young men was 
-not in vain or barren, but fruitful and productive. +
-_iti kho pana sabbesaṃ yeva tesaṃ kulaputtānaṃ amoghā pabbajjā ahosi 
-avañjhā saphalā saudrayā ti_ (D.2.251).
+[quote, D.2.251]
+____
+The going forth [into the ascetic life] of all those noble young men was 
+not in vain or barren, but fruitful and productive.
 
+_iti kho pana sabbesaṃ yeva tesaṃ kulaputtānaṃ amoghā pabbajjā ahosi 
+avañjhā saphalā saudrayā ti._
+____
