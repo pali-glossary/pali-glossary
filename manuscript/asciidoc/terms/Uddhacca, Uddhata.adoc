@@ -67,14 +67,18 @@ Grouping 2:
 The meanings of _uddhacca_ and _capala_ can be illustrated as follows:
 
 1. _uddhata_: restless
++
+[quote, S.5.115]
+____
+When one's mind is restless it is timely to develop the enlightenment 
+factors of tranquillity, inward collectedness, and detached awareness.
 
-• When one's mind is restless it is timely to develop the enlightenment 
-factors of tranquillity, inward collectedness, and detached awareness. +
-☸ _Yasmiṃ bhikkhave samaye uddhataṃ cittaṃ hoti kālo tasmiṃ samaye 
-passaddhisambojjhaṅgassa bhāvanāya_... (S.5.115).
+_Yasmiṃ bhikkhave samaye uddhataṃ cittaṃ hoti kālo tasmiṃ samaye 
+passaddhisambojjhaṅgassa bhāvanāya._
+____
 
 2. _capala_: fluttery
-
++
 [quote, Dh.v.33]
 ____
 Like a fletcher straightens an arrow, the wise man straightens up his unsteady, 
@@ -85,7 +89,7 @@ Ujuṃ karoti medhāvī usukāro va tejanaṃ._
 ____
 
 3. _uddhato_: vain; _capalo_: puffed up
-
++
 [quote, Th.v.1080]
 ____
 A vain, puffed up bhikkhu clothed in rag-robes does not look glorious because 
@@ -96,7 +100,7 @@ Kapīva sīhacammena na so tenupasobhati._
 ____
 
 4. _uddhato_: vain; _capalo_: puffed up
-
++
 [quote, Th.v.157]
 ____
 Because of improper contemplation I was addicted to finery. I was vain, puffed 

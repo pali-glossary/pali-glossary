@@ -49,15 +49,13 @@ ____
 
 In the following quote we parenthesise '[by old age and death]':
 
+[quote, S.4.28-9]
 ____
 All is ravaged [by old age and death]. What is the all that is ravaged [by old 
 age and death]?_
 
 _Sabbaṃ bhikkhave upaddutaṃ. Kiñca bhikkhave sabbaṃ upaddutaṃ_
-____
 
-[quote, S.4.28-9]
-____
 ... The visual sense is ravaged, visible objects are ravaged, advertence to the 
 visual field is ravaged, visual sensation is ravaged, whatever sense impression 
 that arises due to visual sensation -- whether pleasant, unpleasant, or neutral 
@@ -73,7 +71,7 @@ We parenthesise like this for two reasons:
 
 1. Firstly, this sutta is placed in the scriptures in a sequence of similar 
 suttas, as follows:
-
++
 [quote, S.4.26-9]
 ____
 All is subject to birth... subject to old age... subject to illness... subject 
@@ -84,21 +82,17 @@ maraṇadhammaṃ... sokadhammaṃ... upaddutaṃ... upassaṭṭhaṃ._
 ____
 
 2. Secondly, it is comparable to the _Addabhūta Sutta_ which says:
-
++
+[quote, S.4.21]
 ____
 All is conquered. What is the all that is conquered?_
 
 _Sabbaṃ bhikkhave addhabhūtaṃ. Kiñca bhikkhave sabbaṃ addhabhūtaṃ?_
-____
 
-____
 ... The visual sense is conquered, visible objects are conquered, etc. .
 
 _Cakkhuṃ bhikkhave addhabhūtaṃ rūpā addhabhūtā_
-____
 
-[quote, S.4.21]
-____
 ... Conquered by what? Conquered by birth, old age, and death; by grief, 
 lamentation, physical pain, psychological pain, and vexation, I declare.
 
@@ -150,7 +144,7 @@ We say '[all] is ravaged [by death]' for the following reasons:
 
 1. 'All' is consonant with the association elsewhere of _upaddutaṃ_ and 
 _upassaṭṭhaṃ_ and _sabbaṃ_:
-
++
 [quote, S.4.29]
 ____
 All is ravaged... All is afflicted.

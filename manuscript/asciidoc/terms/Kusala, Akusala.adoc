@@ -142,7 +142,7 @@ akusalaṃ_) and killing (_pāṇātipāto akusalaṃ_).
 kusalaṃ_).
 
 3. _Akusala_ is found in mental conduct:
-
++
 ____
 Sensuous thought, unbenevolent thought, malicious thought. These are called 
 spiritually unwholesome thoughts.
@@ -152,7 +152,7 @@ akusalasaṅkappā._
 ____
 
 4. Refraining from such conduct is _kusala_:
-
++
 [quote, M.2.28]
 ____
 Unsensuous thought, thought of goodwill, compassionate thought. These are 
@@ -166,40 +166,30 @@ ____
 
 _Akusala_ is found in mental states:
 
+[quote, M.1.47]
 ____
 Greed is spiritually unwholesome
 
 _abhijjhā akusalaṃ_
-____
 
-____
 Ill will is spiritually unwholesome
 
 _vyāpādo akusalaṃ_
-____
 
-____
 Wrong view [of reality] is spiritually unwholesome
 
 _micchādiṭṭhi akusalaṃ_
-____
 
 _Kusala_ is found in their opposites.
 
-____
 Non-greed is spiritually wholesome
 
 _anabhijjhā kusalaṃ_
-____
 
-____
 Goodwill is spiritually wholesome
 
 _avyāpādo kusalaṃ_
-____
 
-[quote, M.1.47]
-____
 Right perception [of reality] is spiritually wholesome
 
 _sammādiṭṭhi kusalaṃ._

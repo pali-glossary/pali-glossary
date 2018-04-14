@@ -151,10 +151,10 @@ following advantages:
 2. it avoids possible misinterpretation ('content with anything whatsoever'). 
 But, for example, even Sāriputta's verses would deny a bhikkhu is 'content 
 with anything whatsoever':
-
++
 [quote, Th.v.985]
 ____
-&#8203;[If] while seating cross-legged it does not rain on his knees, [this abode] is 
+[If] while seating cross-legged it does not rain on his knees, [this abode] is 
 sufficient for the abiding in comfort of a resolute bhikkhu.
 
 _Pallaṅkena nisinnassa jaṇṇuke nābhivassati +

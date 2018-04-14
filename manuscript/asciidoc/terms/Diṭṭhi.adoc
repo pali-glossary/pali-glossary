@@ -147,8 +147,7 @@ ____
 There are four definitions that support us rendering the higher meaning of 
 _sammādiṭṭhi_ in terms of perception, not view:
 
-1. the scriptures define _sammādiṭṭhi_ in terms of discernment 
-(_pajānāti_):
+The scriptures define _sammādiṭṭhi_ in terms of discernment (_pajānāti_):
 
 [quote, M.1.46-7]
 ____
@@ -157,10 +156,7 @@ has right perception [of reality]
 
 _Yato kho āvuso ariyasāvako dukkhañca pajānāti... ettāvatā pi kho āvuso 
 ariyasāvako sammādiṭṭhi hoti._
-____
 
-[quote, M.1.46-7]
-____
 When a noble disciple discerns what is spiritually unwholesome... On these 
 grounds a noble disciple has right perception [of reality].
 
@@ -168,14 +164,17 @@ _Yato kho āvuso ariyasāvako akusalañca pajānāti... Ettāvatā pi kho
 āvuso ariyasāvako sammādiṭṭhi hoti._
 ____
 
-• He knows wrong view [of reality] as wrong view [of reality] and right 
+[quote, M.3.72]
+____
+He knows wrong view [of reality] as wrong view [of reality] and right 
 perception [of reality] as right perception [of reality]. That is his right 
-perception [of reality]. +
-_Micchādiṭṭhiṃ micchādiṭṭhī ti pajānāti sammādiṭṭhiṃ 
-sammādiṭṭhī ti pajānāti sāssa hoti sammādiṭṭhi_ (M.3.72).
+perception [of reality].
 
-2. the scriptures define _sammādiṭṭhi_ in terms of insightfulness 
-(_vijjāgata_):
+_Micchādiṭṭhiṃ micchādiṭṭhī ti pajānāti sammādiṭṭhiṃ 
+sammādiṭṭhī ti pajānāti sāssa hoti sammādiṭṭhi._
+____
+
+The scriptures define _sammādiṭṭhi_ in terms of insightfulness (_vijjāgata_):
 
 [quote, S.5.1]
 ____
@@ -185,7 +184,7 @@ reality] arises.
 _vijjāgatassa bhikkhave viddasuno sammādiṭṭhi pahoti._
 ____
 
-3. the scriptures define _sammādiṭṭhi_ in terms of perceiving (_passati_):
+The scriptures define _sammādiṭṭhi_ in terms of perceiving (_passati_):
 
 [quote, S.3.51]
 ____
@@ -196,8 +195,7 @@ _Aniccaññeva bhikkhave bhikkhu rūpaṃ aniccanti passati sāssa hoti
 sammādiṭṭhi._
 ____
 
-4. the scriptures define _sammādiṭṭhi_ in terms of knowledge [of things 
-according to reality] (_ñāṇaṃ_):
+The scriptures define _sammādiṭṭhi_ in terms of knowledge [of things according to reality] (_ñāṇaṃ_):
 
 [quote, M.3.251]
 ____

@@ -25,7 +25,7 @@ following evidence:
 S.4.144 and A.4.409.
 
 2. The suttas likewise treat them as synonyms, for example in these two quotes:
-
++
 [quote, A.4.409]
 ____
 For one who has attained the ending of perception and sense impression, 
@@ -34,7 +34,7 @@ perception and sense impression are ended.
 _Saññāvedayitaṃ nirodhaṃ samāpannassa saññā ca vedanā ca niruddhā 
 honti._
 ____
-
++
 [quote, D.2.67]
 ____
 'If there were no sense impression in any way, would there be the thought "I am 
@@ -47,7 +47,7 @@ kho me vedanā attā appaṭisaṃvedano me attā ti samanupassituṃ._
 ____
 
 3. Both _vedayita_ and _vedanā_ have the same threefold division:
-
++
 [quote, S.4.144]
 ____
 Whatever sense impression that arises due to visual sensation -- whether 
@@ -57,14 +57,17 @@ reality, as unlasting.
 _yampidaṃ cakkhusamphassapaccayā uppajjati vedayitaṃ sukhaṃ vā 
 dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccanti yathābhūtaṃ okkhāyati._
 ____
-
-• Whatever sense impression he experiences, pleasant, unpleasant, or neutral, 
++
+[quote, M.1.266]
+____
+Whatever sense impression he experiences, pleasant, unpleasant, or neutral, 
 he takes delight in that sense impression, he welcomes it, and persists in 
-cleaving to it. In so doing, spiritually fettering delight arises. +
+cleaving to it. In so doing, spiritually fettering delight arises.
+
 _yaṃ kiñci vedanaṃ vedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā 
 so taṃ vedanaṃ abhinandati abhivadati ajjhosāya tiṭṭhati tassa taṃ 
-vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī_ 
-(M.1.266).
+vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī._ 
+____
 
 ==== Vedanā and Phassa
 

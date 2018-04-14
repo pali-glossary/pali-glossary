@@ -173,51 +173,39 @@ gives it a much broader application.
 
 These plurals are therefore applicable in the following quotes:
 
-1. Three further types of craving
-+
-****
-_Aparā pi tisso taṇhā_
-****
-
+[quote, D.3.216]
 ____
+Three further types of craving
+
+_Aparā pi tisso taṇhā_
+
 craving for the sensuous plane of existence
 
 _kāmataṇhā_
-____
 
-____
 craving for the refined material plane of existence
 
 _rūpataṇhā_
-____
 
-[quote, D.3.216]
-____
 craving for the immaterial plane of existence.
 
 _arūpataṇhā._
 ____
 
-2. Three further varietes of craving:
-+
-****
-_aparā pi tisso taṇhā_
-****
-
+[quote, D.3.216]
 ____
+Three further varietes of craving:
+
+_aparā pi tisso taṇhā_
+
 craving for refined material states of awareness
 
 _rūpataṇhā_
-____
 
-____
 craving for immaterial states of awareness
 
 _arūpataṇhā_
-____
 
-[quote, D.3.216]
-____
 craving for the ending [of originated phenomena]
 
 _nirodhataṇhā._
@@ -761,44 +749,32 @@ taṇhā
 craving
 ====
 
+[quote, S.2.3]
 ____
 There are six categories of craving
 
 _chayime taṇhākāyā_
-____
 
-____
 craving for visible objects
 
 _rūpataṇhā_
-____
 
-____
 craving for audible objects
 
 _saddataṇhā_
-____
 
-____
 craving for smellable objects
 
 _gandhataṇhā_
-____
 
-____
 craving for tasteable objects
 
 _rasataṇhā_
-____
 
-____
 craving for tangible objects
 
 _phoṭṭhabbataṇhā_
-____
 
-[quote, S.2.3]
-____
 craving for mentally known objects
 
 _dhammataṇhā._

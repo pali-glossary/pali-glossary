@@ -24,7 +24,7 @@ _Assa_ and _siyā_ are optative forms of _atthi_, meaning either:
 _Assa_ can also be rendered as:
 
 1. 'it would be' i.e. the conditional simple tense. For example:
-
++
 [quote, D.2.225]
 ____
 'May the Blessed One live for a long time, free of sickness and illness! That 
@@ -36,7 +36,7 @@ ____
 2. 'it would have been' i.e. the conditional perfect progressive tense. For 
 example, if the Buddha were to die prematurely, Venerable Sāriputta said he 
 would think:
-
++
 [quote, S.2.274]
 ____
 'If the Blessed One had lived for a long time, that would have been for the 

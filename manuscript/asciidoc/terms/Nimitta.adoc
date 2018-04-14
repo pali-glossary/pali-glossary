@@ -147,15 +147,13 @@ be proven in four steps as follows:
 1. Attaining the liberation [from perceptually obscuring states] by focusing 
 upon the unabiding [phenomenon] (_animittāya cetovimuttiyā samāpattiyā_) 
 involves these steps:
-
++
+[quote, M.1.297]
 ____
 not focusing upon any abiding phenomenon
 
 _sabbanimittānañca amanasikāro_
-____
 
-[quote, M.1.297]
-____
 focusing upon the unabiding phenomenon
 
 _animittāya ca dhātuyā manasikāro._
@@ -163,7 +161,7 @@ ____
 
 2. 'Any/all abiding phenomena' (_sabbanimittāni_) means the senses, their 
 objects, and the phenomena involved in sense impression, as this passage shows:
-
++
 [quote, S.4.50]
 ____
 He perceives all phenomena (_sabbanimittāni_) differently. He sees the visual 
@@ -179,7 +177,8 @@ ____
 3. Not focusing upon any abiding phenomenon (_sabbanimittānañca 
 amanasikāro_) is equivalent to the _etaṃ santaṃ_ reflection, as this 
 passage shows:
-
++
+[quote, A.5.321]
 ____
 A bhikkhu reflects thus: This is peaceful, this is sublime, namely: the 
 quelling of all originated phenomena, the relinquishment of the whole 
@@ -189,10 +188,7 @@ originated phenomena], the ending [of originated phenomena], the Untroubled.
 _Idhānanda bhikkhu evaṃ manasikaroti: etaṃ santaṃ etaṃ paṇītaṃ 
 yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo 
 virāgo nirodho nibbānan ti_
-____
 
-[quote, A.5.321]
-____
 ... In this way his winning of inward collectedness is such that though he does 
 not contemplate the visual sense or visible object... nor what is seen, heard, 
 sensed, cognised, attained, sought after, thought out by mind, all that he does 
@@ -207,16 +203,14 @@ ____
 4. The _etaṃ santaṃ_ reflection equals the perceptions of non-attachment to 
 and ending [of originated phenomena]. This is obvious in the passage in 3). The 
 following passages also show it:
-
++
+[quote, A.5.110]
 ____
 And what, Ānanda, is the perception of the passing away [of originated 
 phenomena]?
 
 _virāgasaññā_
-____
 
-[quote, A.5.110]
-____
 ... In this regard, Ānanda, a bhikkhu... contemplates thus: This is peaceful, 
 this is sublime, namely: the quelling of all originated phenomena, the 
 relinquishment of the whole phenomenon of attachment, the destruction of 
@@ -224,16 +218,11 @@ craving, the passing away [of originated phenomena], the Untroubled.
 
 _etaṃ santaṃ etaṃ paṇītaṃ yadidaṃ sabbasaṅkhārasamatho 
 sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nibbānan ti._
-____
 
-____
 What is the perception of the ending [of originated phenomena]?
 
 _nirodhasaññā_
-____
 
-[quote, A.5.110]
-____
 ... In this regard, Ānanda, a bhikkhu... contemplates: This is peaceful, this 
 is sublime, namely: the quelling of all originated phenomena, the 
 relinquishment of the whole phenomenon of attachment, the destruction of 

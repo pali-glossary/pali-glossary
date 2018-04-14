@@ -135,7 +135,7 @@ _Nicca_ stems from _ni_, which means 'downward'=onward, on and on, says PED. We
 give it two meanings corresponding with the two meanings for _anicca_.
 
 1. When we call it 'everlasting', it is commonly linked to 'eternal':
-
++
 [quote, M.1.138]
 ____
 Having passed on, that I will be -- everlasting, enduring, eternal, of an 
@@ -146,7 +146,7 @@ tatheva ṭhassāmī ti._
 ____
 
 2. Where _nicca_ is linked to 'unlasting' we call it 'lasting':
-
++
 [quote, S.3.187]
 ____
 Is bodily form lasting or unlasting?

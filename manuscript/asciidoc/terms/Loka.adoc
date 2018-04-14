@@ -114,9 +114,9 @@ concerning the world, the shape and size of it, and whether it is eternal or
 not. For most of them, 'world' means 'the world [of beings].' But for the 
 Extensionists (_antānantikā_), it means 'the physical world.'
 
-1. The ascetics and Brahmanists who are Eternalists proclaim the eternity of 
+(1) The ascetics and Brahmanists who are Eternalists proclaim the eternity of 
 the [absolute] Selfhood and the world [of beings] in four ways:
-+
+
 ****
 _ye te samaṇabrāhmaṇā sassatavādā sassataṃ attānañca 
 lokañcapaññapenti catūhi vatthūhi_
@@ -128,10 +128,10 @@ Eternal are the [absolute] Selfhood and the world [of beings]
 _sassato attā ca loko ca_
 ____
 
-2. The ascetics and Brahmanists who are Partial-Etemalists proclaim the partial 
+(2) The ascetics and Brahmanists who are Partial-Etemalists proclaim the partial 
 eternity and partial non-eternity of the [absolute] Selfhood and the world [of 
 beings] in four ways
-+
+
 ****
 _samaṇabrāhmaṇā ekaccasassatikā ekaccaasassatikā ekaccaṃ sassataṃ 
 ekaccaṃ asassataṃ attānañca lokañca paññāpenti catūhi vatthūhi_
@@ -142,24 +142,18 @@ That illustrious Brahmā is everlasting, but we who were formed by him are
 unlasting
 
 _brahmā nicco mayaṃ aniccā_
-____
 
-____
 Those devas who are not spiritually defiled by merriment are everlasting, but 
 we are unlasting
 
 _te devā niccā mayaṃ aniccā_
-____
 
-____
 Those devas who do not spend an excessive amount of time gazing at each other, 
 their minds do not become defiled, because of which they do not become weary in 
 body and mind. Therefore they are everlasting, but we are unlasting
 
 _te devā niccā mayaṃ aniccā_
-____
 
-____
 This which is called the visual sense and the auditory sense and the olfactory 
 sense and the gustatory sense and the tactile sense is an [absolute] Selfhood 
 that is unlasting, but this which is called 'mind' or 'cognition' or 
@@ -169,35 +163,29 @@ an [absolute] Selfhood that is everlasting
 _ayaṃ attā anicco ayaṃ attā nicco_
 ____
 
-3. The ascetics and Brahmanists who are Extensionists proclaim the finitude and 
+(3) The ascetics and Brahmanists who are Extensionists proclaim the finitude and 
 infinitude in extent of the physical world on four grounds:
-+
+
 ****
 _eke samaṇabrāhmaṇā antānantikā antānantaṃ lokassa paññāpenti 
 catūhi vatthūhi_
 ****
 
+[quote, D.1.22-25]
 ____
 Finite in extent is the physical world, and spherical
 
 _antavā ayaṃ loko parivaṭumo_
-____
 
-____
 Infinite in extent is the physical world, and limitless
 
 _ananto ayaṃ loko apariyanto_
-____
 
-____
 The physical world is both finite and infinite in extent (finite in the upward 
 and downward directions, but infinite across)
 
 _antavā ca ayaṃ loko ananto ca_
-____
 
-[quote, D.1.22-25]
-____
 The physical world is neither finite nor infinite in extent
 
 _nevāyaṃ loko antavā na panānanto ti._

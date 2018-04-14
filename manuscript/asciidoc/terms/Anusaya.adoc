@@ -57,7 +57,8 @@ equal,' 'I am worse' (S.5.56).
 _Surādha Sutta_, which says that transcending the modes [of self-centredness] 
 (_vidhā samatikkantaṃ_) is attained by not identifying with the five 
 aggregates, as follows:
-
++
+[quote, S.3.80-1]
 ____
 One perceives all bodily form... advertence according to reality with perfect 
 penetrative discernment as "not [in reality] mine," "not [in reality] what I 
@@ -65,10 +66,7 @@ am," "not my [absolute] Selfhood"'
 
 _sabbaṃ rūpaṃ... sabbaṃ viññāṇaṃ n'etaṃ mama n'eso'hamasmi na 
 me so attā ti._
-____
 
-[quote, S.3.80-1]
-____
 ... Thus knowing, thus seeing, in regard to this [wretched human] body together 
 with its advertence and all external phenomena, the mind is rid of the 
 illusions of personal identity and personal ownership and self-centredness, it 
@@ -85,8 +83,8 @@ ____
 (_anumīyati_) comes from _anuseti._ Therefore _anuseti_ means 'to identify 
 with.'
 
-6. Accordingly, the _Dutiya Bhikkhu Sutta_ can be translated as follows:
-
+5. Accordingly, the _Dutiya Bhikkhu Sutta_ can be translated as follows:
++
 [quote, S.3.36-7]
 ____
 'What one identifies with, by that one is measured.'

@@ -809,85 +809,59 @@ saṅkhāra
 effort
 ====
 
+[quote, A.2.155-6]
+____
 Bhikkhus, these four persons are found in the world. Which four?
 
 1. A person liberated with effort in this very lifetime.
 +
-****
 _diṭṭheva dhamme sasaṅkhāraparinibbāyī hoti_
-****
 
 2. A person liberated with effort after the body breaks up.
 +
-****
 _kāyassa bhedā sasaṅkhāraparinibbāyī hoti_
-****
 
 3. A person liberated effortlessly in this very lifetime.
 +
-****
 _diṭṭheva dhamme asaṅkhāraparinibbāyī hoti_
-****
 
 4. A person liberated effortlessly after the body breaks up.
 +
-****
 _kāyassa bhedā asaṅkhāraparinibbāyī hoti._
-****
 
-1. In what way is a person liberated with effort in this very lifetime?
-+
-****
-_Kathañca bhikkhave puggalo diṭṭheva dhamme sasaṅkhāraparinibbāyī 
-hoti?_
-****
+In what way is a person liberated with effort in this very lifetime?
 
-____
+_Kathañca bhikkhave puggalo diṭṭheva dhamme sasaṅkhāraparinibbāyī hoti?_
+
 In this regard a bhikkhu is one who:
 
 _Idha bhikkhave bhikkhu_
-____
 
-____
 abides contemplating the unloveliness of the body
 
 _asubhānupassī kāye viharati._
-____
 
-____
 perceives the loathsome nature of digestion.
 
 __āhāre paṭikkūlasaññī._
-____
 
-____
 perceives disgust for the whole world [of phenomena].
 
 _sabbaloke anabhiratasaññī._
-____
 
-____
 contemplates the unlastingness of all originated phenomena.
 
 _sabbasaṅkhāresu aniccānupassī._
-____
 
-____
 and for whom the perception of [the ever-present possibility of] death is 
 well-established within himself.
 
 _maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti._
-____
 
-3. In what way is a person liberated effortlessly in this very lifetime?
-+
-****
-_Kathañca bhikkhave puggalo diṭṭheva dhamme asaṅkhāraparinibbāyī 
-hoti?_
-****
+In what way is a person liberated effortlessly in this very lifetime?
 
-[quote, A.2.155-6]
-____
+_Kathañca bhikkhave puggalo diṭṭheva dhamme asaṅkhāraparinibbāyī hoti?_
+
 In this regard a bhikkhu is one who enters and abides in first... fourth jhāna:
 
 _Idha bhikkhave bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi 
@@ -963,16 +937,14 @@ saṅkhāra
 aspiration
 ====
 
+[quote, D.2.99; S.5.152-3]
 ____
 'Let me then suppress this illness with energy and live on, having firmly 
 established the aspiration for further life.'
 
 _Yannūnāhaṃ imaṃ ābādhaṃ viriyena paṭippaṇāmetvā 
 jīvitasaṅkhāraṃ adhiṭṭhāya vihareyyanti_
-____
 
-[quote, D.2.99; S.5.152-3]
-____
 Then the Blessed One suppressed his illness with energy and lived on having 
 firmly established the aspiration for further life.
 
@@ -987,17 +959,15 @@ saṅkhāra
 aspiration
 ====
 
+[quote, Ud.64; S.5.263]
 ____
 Then the Blessed One at the Cāpāla Shrine, mindful and fully conscious, 
 relinquished the aspiration for further life...
 
 _Atha kho bhagavā cāpāle cetiye sato samapajāno āyusaṅkhāraṃ ossaji_
-____
 
 Then the Blessed One spoke this inspired utterance:
 
-[quote, Ud.64; S.5.263]
-____
 Comparing the incomparable with individual existence, the Sage relinquished the 
 aspiration for [renewed] states of individual existence.
 
@@ -1012,6 +982,7 @@ saṅkhāra
 aspiration
 ====
 
+[quote, M.3.99]
 ____
 A bhikkhu thinks, 'Oh, that at the demise of the body at death, I might be 
 reborn in the company of wealthy _khattiyas_.' He fixes his mind on that idea, 
@@ -1019,10 +990,7 @@ concentrates on it, and develops it
 
 _so taṃ cittaṃ dahati taṃ cittaṃ adhiṭṭhāti taṃ cittaṃ 
 bhāveti_
-____
 
-[quote, M.3.99]
-____
 These aspirations and musings of his, when developed and cultivated, lead to 
 his rebirth there
 
@@ -1146,7 +1114,7 @@ tranquillised in mindfulness with breathing.
 The factors tranquillised in mindfulness with breathing are:
 
 1. Trembling and unsteadiness:
-
++
 [quote, S.5.316]
 ____
 It is when inward collectedness by mindfulness with breathing has been 
@@ -1159,7 +1127,7 @@ vā hoti phanditattaṃ vā._
 ____
 
 2. Discursive thinking:
-
++
 [quote, Ud.37]
 ____
 Mindfulness with breathing should be developed to cut off discursive thinking
@@ -1168,27 +1136,21 @@ __ānāpānasati bhāvetabbā vitakkupacchedāya._
 ____
 
 3. Four factors that are quelled with jhāna:
-
++
+[quote, S.4.218]
 ____
 quelling of speech in first jhāna
 
 _vācā paṭippassaddhā hoti_
-____
 
-____
 quelling of thinking and pondering in second jhāna
 
 _vitakkavicārā paṭippassaddhā honti_
-____
 
-____
 quelling of rapture in third jhāna
 
 _pīti paṭippassaddhā hoti_
-____
 
-[quote, S.4.218]
-____
 quelling of breathing in fourth jhāna
 
 _assāsapassāsā paṭippassaddhā._

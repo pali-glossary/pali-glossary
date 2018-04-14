@@ -396,25 +396,24 @@ ____
 
 COMMENT
 
-&#8203;[By uninsightfulness into reality], by comparison with:
+[By uninsightfulness into reality], by comparison with:
 
-1. Led on within the round of birth and death [by uninsightfulness into 
-reality].
-+
-****
-_Saṃsārena purakkhato_ (Th.v.1174).
-****
+[quote, Th.v.1174]
+____
+Led on within the round of birth and death [by uninsightfulness into reality].
 
-Commentary to Th.v.1174: _Saṃsārena purakkhato 
-saṃsārabandhanaavijjādinā purakkhato_.
+_Saṃsārena purakkhato._
+____
 
-2. Led on by uninsightfulness into reality, [such] beings follow the round of 
+Commentary to Th.v.1174: _Saṃsārena purakkhato saṃsārabandhanaavijjādinā purakkhato_.
+
+[quote, A.2.12]
+____
+Led on by uninsightfulness into reality, [such] beings follow the round of 
 birth and death, and go to rebirth and death.
-+
-****
+
 _avijjāya purakkhatā sattā gacchanti saṃsāraṃ jātimaraṇagāmino_ 
-(A.2.12).
-****
+____
 
 .Illustration
 ====

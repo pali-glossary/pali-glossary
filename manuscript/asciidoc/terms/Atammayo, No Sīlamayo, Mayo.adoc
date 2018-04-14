@@ -31,14 +31,14 @@ _Maya_ means
 ==== Maya: examples
 
 1. Made of:
-
++
 [quote, Vin.1.203]
 ____
 Ointment-boxes made of bone
 
 _aṭṭhimayaṃ._
 ____
-
++
 [quote, Sn.v.669]
 ____
 With hammers made of iron
@@ -47,23 +47,26 @@ _ayomayakuṭehi._
 ____
 
 2. Comprised of:
-
-• There are three bases for the generating of merit: the basis for the 
++
+[quote, D.3.218. It.51]
+____
+There are three bases for the generating of merit: the basis for the 
 generating of merit comprised of generosity, or of virtue, or of spiritual 
-cultivation +
-☸ _tīṇi puññakiriyavatthūni_: _dānamayaṃ puññakiriyavatthu, 
-sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu_ 
-(D.3.218. It.51).
+cultivation
+
+_tīṇi puññakiriyavatthūni_: _dānamayaṃ puññakiriyavatthu, 
+sīlamayaṃ puññakiriyavatthu, bhāvanāmayaṃ puññakiriyavatthu._
+____
 
 3. Created by:
-
++
 [quote, D.1.77]
 ____
 Mind-created material body
 
 _rūpiṃ manomayaṃ._
 ____
-
++
 [quote, S.4.70]
 ____
 Perceptions (_saññā_) created by the mind
@@ -72,7 +75,7 @@ _manomayaṃ._
 ____
 
 4. Aroused by
-
++
 [quote, D.3.219]
 ____
 Wisdom aroused by reflection, or by learning, or by spiritual development

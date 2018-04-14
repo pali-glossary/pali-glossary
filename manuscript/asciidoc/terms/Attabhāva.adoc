@@ -31,7 +31,7 @@ existence' (DOP sv _Attan_).
 But -_paṭilābho_ is sometimes better treated as a past participle:
 
 1. 'Acquired':
-
++
 One of Venerable MahāMoggallāna's supporters was reborn in a mind-made body 
 (_aññataraṃ manomayaṃ kāyaṃ upapanno_), and his [newly] acquired 
 bodily form (_tassa evarūpo attabhāvapaṭilābho hoti_) was such that he 
@@ -40,7 +40,7 @@ form harmed neither himself nor another (_so tena attabhāvapaṭilābhena
 nevattānaṃ no paraṃ vyābādheti_) (A.3.122).
 
 2. 'Assumed':
-
++
 [quote, S.3.144]
 ____
 Bhikkhu, there is not even this amount of one's assumed individuality that is 

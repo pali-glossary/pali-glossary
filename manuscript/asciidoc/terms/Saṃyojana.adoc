@@ -173,77 +173,57 @@ saṃyojanāni
 ties to individual existence
 ====
 
-1. There are these five ties to individual existence in the low plane of 
-existence
-+
-****
-_Pañcimāni bhikkhave orambhāgiyāni saṃyojanāni. Katamāni pañca:_
-****
-
+[quote, S.5.61-62]
 ____
+There are these five ties to individual existence in the low plane of 
+existence
+
+_Pañcimāni bhikkhave orambhāgiyāni saṃyojanāni. Katamāni pañca:_
+
 view of personal identity
 
 _sakkāyadiṭṭhi_
-____
 
-____
 doubt [about the significance of the teaching]
 
 _vicikicchā_
-____
 
-____
 adherence to observances and practices
 
 _sīlabbataparāmāso_
-____
 
-____
-sensuous hankering _
+sensuous hankering
 
 _kāmacchando_
-____
 
-[quote, S.5.61-62]
-____
-ill will _
+ill will
 
 _vyāpādo._
 ____
 
-2. There are these five ties to individual existence in the middle and high 
-planes of existence. What five?
-+
-****
-_pañcimāni bhikkhave uddhambhāgiyāni saṃyojanāni. katamāni pañca?_
-****
-
+[quote, S.5.61-62]
 ____
-attachment to the refined material states of awareness _
+There are these five ties to individual existence in the middle and high 
+planes of existence. What five?
+
+_pañcimāni bhikkhave uddhambhāgiyāni saṃyojanāni. katamāni pañca?_
+
+attachment to the refined material states of awareness
 
 _rūparāgo_
-____
 
-____
-attachment to immaterial states of awareness _
+attachment to immaterial states of awareness
 
 _arūparāgo_
-____
 
-____
-self-centredness _
+self-centredness
 
 _māno_
-____
 
-____
 vanity
 
 _uddhaccaṃ_
-____
 
-[quote, S.5.61-62]
-____
 uninsightfulness into reality
 
 _avijjā._
@@ -256,55 +236,42 @@ saṃyojanaṃ
 ties to individual existence
 ====
 
+[quote, A.4.7-9]
 ____
 This religious life is lived for the abandonment and eradication of seven ties 
 to individual existence. Which seven?
 
 _Sattannaṃ bhikkhave saṃyojanānaṃ pahānāya samucchedāya 
 brahmacariyaṃ vussati. Katamesaṃ sattannaṃ:_
-____
 
 1. attraction [to sensuous pleasure]
 +
-****
 _anunayasaṃyojanaṃ_
-****
 
 2. repugnance
 +
-****
 _paṭighasaṃyojanaṃ_
-****
 
 3. dogmatism
 +
-****
 _diṭṭhisaṃyojanaṃ_
-****
 
 4. doubt [about the significance of the teaching]
 +
-****
 _vicikicchāsaṃyojanaṃ_
-****
 
 5. pride
 +
-****
 _mānasaṃyojanaṃ_
-****
 
 6. envy
 +
-****
 _issāsaṃyojanaṃ_
-****
 
 7. stinginess
 +
-****
-_macchariyasaṃyojanaṃ_ (A.4.7-9).
-****
+_macchariyasaṃyojanaṃ._
+____
 
 .Illustration
 ====

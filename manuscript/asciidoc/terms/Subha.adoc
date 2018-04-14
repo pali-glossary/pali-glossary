@@ -23,7 +23,7 @@
 We will show in 8 steps that the Exquisite means fourth jhāna.
 
 1. Meditation on [unlimited, all-encompassing] goodwill leads to the Exquisite:
-
++
 [quote, S.5.119]
 ____
 Bhikkhus, the liberation [from perceptually obscuring states] through 
@@ -37,7 +37,7 @@ ____
 
 2. Having a mind that is immeasurable, unlimited, and well developed leads to 
 the Imperturbable:
-
++
 [quote, M.2.262]
 ____
 How about if I, by transcending the world [of sensuous pleasure] with resolve, 
@@ -60,16 +60,16 @@ tabbahulavihārino āyatane cittaṃ pasīdati. Sampasāde sati etarahi vā
 ____
 
 3. _Aniñjita_ includes fourth jhāna:
-
++
 [quote, M.1.454-5]
 ____
 Fourth jhāna I declare, is within the not-unstable.
 
 _catutthaṃ jhānaṃ... aniñjitasmiṃ vadāmi._
 ____
-
++
 Other jhānas are within the unstable:
-
++
 [quote, M.1.454]
 ____
 He enters and abides in third jhāna. That, I declare, is within the unstable.
@@ -79,17 +79,19 @@ iñjitasmiṃ vadāmi._
 ____
 
 4. _Āneñjaṃ_ and _aniñjita_ are synonyms. For example, Sn.v.750-1 says:
-
-- Whatever suffering arises, all of it arises dependent on spiritual 
-instability (_iñjitapaccayā_)... Therefore having relinquished spiritual 
++
+[quote, Sn.v.750-1]
+____
+Whatever suffering arises, all of it arises dependent on spiritual 
+instability (_iñjitapaccayā_) ... Therefore having relinquished spiritual 
 instability (_ejaṃ vossajja_), imperturbable (_anejo_) and free of grasping, 
-the bhikkhu should mindfully fulfil the ideals of religious asceticism 
-(Sn.v.750-1).
+the bhikkhu should mindfully fulfil the ideals of religious asceticism.
+____
 
 5. Therefore, fourth jhāna is part of the Imperturbable.
 
 6. The immaterial states are also part of the Imperturbable:
-
++
 [quote, A.2.184]
 ____
 And how is a bhikkhu one who has attained the Imperturbable? In this regard, by 
@@ -108,19 +110,19 @@ upasampajja viharati... Sabbaso ākiñcaññāyatanaṃ samatikkamma
 nevasaññānāsaññāyatanaṃ upasampajja viharati. Evaṃ kho bhikkhave 
 bhikkhu āneñjappatto hoti._
 ____
-
++
 However, these immaterial states cannot be called the Exquisite, because in the 
 list of the eight states of refined awareness the Exquisite is clearly 
 separated from the immaterial states. For example, the third and fourth states 
 are:
-
++
 ____
 One is focused exclusively on the Exquisite. This is the third state of refined 
 awareness
 
 _Subhanteva adhimutto hoti. Ayaṃ tatiyo vimokkho._
 ____
-
++
 [quote, D.2.71; M.2.13; A.4.307]
 ____
 By completely transcending refined material states of awareness, with the 
@@ -136,7 +138,7 @@ ____
 
 7. In developing _mettā_, one develops a mind that is abundant, exalted and 
 measureless (_cetasā vipulena mahaggatena appamāṇena_):
-
++
 [quote, M.1.126]
 ____
 We shall abide pervading the whole world [of beings] with a mind of [unlimited, 
@@ -170,13 +172,13 @@ _Karuṇā_: the liberation [from perceptually obscuring states] through
 &#8203;[unlimited, all-encompassing] compassion has the state of awareness of 
 boundless space as its culmination.
 
-__ākāsānañcāyatanaparamāhaṃ bhikkhave karuṇā cetovimuttiṃ vadāmi._
+_ākāsānañcāyatanaparamāhaṃ bhikkhave karuṇā cetovimuttiṃ vadāmi._
 ____
 
 [quote, S.5.120]
 ____
 _Muditā_: the liberation [from perceptually obscuring states] through 
-&#8203;[unlimited, all-encompassing] joy has the state of awareness of boundless 
+[unlimited, all-encompassing] joy has the state of awareness of boundless 
 mental consciousness as its culmination.
 
 _viññāṇañcāyatanaparamāhaṃ bhikkhave muditā cetovimuttiṃ vadāmi._
@@ -185,10 +187,10 @@ ____
 [quote, S.5.121]
 ____
 _Upekkhā_: the liberation [from perceptually obscuring states] through 
-&#8203;[unlimited, all-encompassing] detached awareness has the state of awareness of 
+[unlimited, all-encompassing] detached awareness has the state of awareness of 
 nonexistence as its culmination.
 
-__ākiñcaññāyatanaparamāhaṃ bhikkhave upekkhā cetovimuttiṃ vadāmi._
+_ākiñcaññāyatanaparamāhaṃ bhikkhave upekkhā cetovimuttiṃ vadāmi._
 ____
 
 It neatly fits the sequence to consider the Exquisite as fourth jhāna.

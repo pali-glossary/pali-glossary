@@ -172,15 +172,13 @@ The suffix -_atta_ is usually redundant. For example, in _pahitatto_
 ****
 _ussahitvā tuleti_
 ****
-
++
+[quote, M.1.480]
 ____
 ... Having scrutinised [it], he strives [to practise it].
 
 _tulayitvā padahati_
-____
 
-[quote, M.1.480]
-____
 ... Being resolutely applied [to the practice] he realises with his very being 
 the supreme truth, and he sees [the nature of reality] having penetrated it 
 with discernment.
@@ -188,7 +186,7 @@ with discernment.
 _pahitatto samāno kāyena ceva paramaṃ saccaṃ sacchikaroti paññāya ca 
 naṃ paṭivijjha passati._
 ____
-
++
 Comment: Here _padahati_ is directly linked to its suffixed past participle, 
 where the suffix is clearly shown to be redundant.
 
@@ -197,7 +195,7 @@ where the suffix is clearly shown to be redundant.
 ****
 _bhavantu sukhitattā_ (Sn.v.145).
 ****
-
++
 Comment: PED (sv _Sukhita_) likewise calls _sukhitattā_ 'happy, easy.' Norman 
 says 'happy-minded.'
 

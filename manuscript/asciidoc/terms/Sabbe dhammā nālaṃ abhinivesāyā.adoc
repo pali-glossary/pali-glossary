@@ -37,7 +37,7 @@ dogmatic opinions.
 
 3. In the attachment to one language whose vocabulary one might continue to use 
 in a different country:
-
++
 [quote, M.3.235]
 ____
 Whatever they label the thing in one particular country, dogmatically grasping 
@@ -97,24 +97,28 @@ _Nālaṃ_ can be used with a dative or infinitive. The meanings of _nālaṃ_
 in summary are:
 
 1. With dative: incapable of, unsuited to, not enough, will not:
-
++
 [quote, D.3.38]
 ____
 He is incapable of conversation.
 
 _nālaṃ sallāpāya._
 ____
++
+[quote, M.1.251; S.4.50; A.4.88]
+____
+All things are unsuited to stubborn attachment
 
-• All things are unsuited to stubborn attachment +
-_sabbe dhammā nālaṃ abhinivesāyā ti_ (M.1.251; S.4.50; A.4.88).
-
+_sabbe dhammā nālaṃ abhinivesāyā ti._
+____
++
 [quote, Sn.v.895-6]
 ____
 What praise they receive is trifling, not enough to bring them consolation.
 
 _appaṃ hi etaṃ na alaṃ samāya._
 ____
-
++
 [quote, A.3.6]
 ____
 He will not be negligent [in looking after himself]
@@ -123,21 +127,21 @@ _kumāro nālaṃ pamādāyā ti._
 ____
 
 2. With infinitive: incapable of, unsuited to, not fit, not fitting, would not
-
++
 [quote, S.2.94]
 ____
 Incapable of being disillusioned with it.
 
 _nālaṃ nibbindituṃ._
 ____
-
++
 [quote, A.3.144]
 ____
 A nurse is unsuited to caring for the sick if he possesses five qualities.
 
 _nālaṃ gilānaṃ upaṭṭhātuṃ._
 ____
-
++
 [quote, M.2.263]
 ____
 What is unlasting is not fit to be delighted in, welcomed, or clung to. 
@@ -145,7 +149,7 @@ What is unlasting is not fit to be delighted in, welcomed, or clung to.
 _yadaniccaṃ taṃ nālaṃ abhinandituṃ nālaṃ abhivadituṃ nālaṃ 
 ajjhositun ti._
 ____
-
++
 [quote, M.2.171]
 ____
 It is not fitting for a wise man who preserves truth to come to the unqualified 
@@ -154,7 +158,7 @@ conclusion, "This alone is true, all else is false"
 _saccamanurakkhatā bhāradvāja viññunā purisena nālamettha ekaṃsena 
 niṭṭhaṃ gantuṃ idameva saccaṃ moghamaññan ti._
 ____
-
++
 [quote, Sn.v.217]
 ____
 Would neither extol nor speak disparagingly about it
@@ -171,14 +175,16 @@ abhinivesāyā
 stubborn attachment
 ====
 
+[quote, M.1.252]
 ____
 When a bhikkhu has heard that all things are unsuited to stubborn attachment
 
 _sutaṃ hoti sabbe dhammā nālaṃ abhinivesāyā ti_
-____
 
-• ... he fully understands the whole teaching, +
-_so sabbaṃ dhammaṃ abhijānāti_ (M.1.252).
+... he fully understands the whole teaching,
+
+_so sabbaṃ dhammaṃ abhijānāti._
+____
 
 .Illustration
 ====

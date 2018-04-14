@@ -22,12 +22,16 @@ Arahantship is gained either 1) by first attaining the four jhānas or 2), by
 first attaining the immaterial states of awareness, says the _Jhānanissaya 
 Sutta_:
 
-• The destruction of perceptually obscuring states depends on [attaining] 
+[quote, A.4.422]
+____
+The destruction of perceptually obscuring states depends on [attaining] 
 first jhāna, I declare... depends on [attaining] the state of awareness of 
-boundless space, I declare... etc +
-☸ _Paṭhamampahaṃ bhikkhave jhānaṃ nissāya āsavānaṃ khayaṃ 
+boundless space, I declare... etc.
+
+_Paṭhamampahaṃ bhikkhave jhānaṃ nissāya āsavānaṃ khayaṃ 
 vadāmi... Ākāsānañcāyatanampahaṃ bhikkhave nissāya āsavānaṃ 
-khayaṃ vadāmi_... (A.4.422).
+khayaṃ vadāmi..._
+____
 
 This gives rise to two types of arahants: _ubhatobhāgavimutto_ and 
 _paññāvimutto_:
@@ -37,17 +41,15 @@ bhikkhu is called 'one who is liberated [from perceptually obscuring states]
 both through [penetrative discernment and through attaining the immaterial 
 states of awareness]' (_ubhatobhāgavimutto_). The following passage is the 
 basis of us saying this:
-
++
+[quote, M.1.477-9]
 ____
 And what is the individual liberated [from perceptually obscuring states] both 
 through [penetrative discernment and through attaining the immaterial states of 
 awareness]?
 
 _Katamo ca bhikkhave puggalo ubhatobhāgavimutto_
-____
 
-[quote, M.1.477-9]
-____
 ... In this regard, some person abides touching with his very being those 
 immaterial states of awareness, those peaceful states of refined awareness that 
 transcend the refined material states of awareness, and by seeing [reality] 
@@ -62,16 +64,14 @@ ____
 is liberated [from perceptually obscuring states] through penetrative 
 discernment' (_paññāvimutto_). The following passage is the basis of us 
 saying this:
-
++
+[quote, M.1.477-9]
 ____
 And what is the individual liberated [from perceptually obscuring states] 
 through penetrative discernment?
 
 _Katamo ca bhikkhave puggalo paññāvimutto_
-____
 
-[quote, M.1.477-9]
-____
 ... In this regard, some person does not abide touching with his very being 
 those immaterial states of awareness, those peaceful states of refined 
 awareness that transcend the refined material states of awareness, but by 

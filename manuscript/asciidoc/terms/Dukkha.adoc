@@ -164,7 +164,7 @@ ____
 The term 'existentially void' is in accordance with other aspects of the 
 teachings:
 
-1. The Buddha's advice to Upasīva:
+The Buddha's advice to Upasīva:
 
 [quote, Sn.v.1070]
 ____
@@ -174,28 +174,34 @@ of the reflection 'It does not exist,' cross the flood [of suffering].
 _Ākiñcaññaṃ pekkhamāno satimā natthī ti nissāya tarassu oghaṃ._
 ____
 
-2. The five reflections of the _Pheṇapiṇḍūpama Sutta_. For example:
+The five reflections of the _Pheṇapiṇḍūpama Sutta_. For example:
 
-• Bhikkhus, suppose that this river Ganges was carrying along a large lump of 
+[quote, S.3.140-1]
+____
+Bhikkhus, suppose that this river Ganges was carrying along a large lump of 
 froth. A clear-sighted man would examine it, ponder it, and properly 
 investigate it. As he does so, it would appear to be empty, hollow, 
-insubstantial. For what substantial reality could there be in a lump of froth? +
-• So, too, whatever kind of bodily form there is, whether past, future, or 
+insubstantial. For what substantial reality could there be in a lump of froth?
+
+So, too, whatever kind of bodily form there is, whether past, future, or 
 present, internal or external, gross or subtle, inferior or sublime, far or 
 near: a bhikkhu examines it, ponders it, and properly investigates it. As he 
 does so, it would appear to be empty, hollow, insubstantial. For what 
-substantial reality could there be in bodily form? +
-☸ _Seyyathā pi bhikkhave ayaṃ gaṅgānadī mahantaṃ pheṇapiṇḍaṃ 
+substantial reality could there be in bodily form?
+
+_Seyyathā pi bhikkhave ayaṃ gaṅgānadī mahantaṃ pheṇapiṇḍaṃ 
 āvaheyya tamenaṃ cakkhumā puriso passeyya nijjhāyeyya yoniso upa 
 parikkheyya tassa taṃ passato nijjhāyato yoniso upaparikkhato rittakaññeva 
 khāyeyya tucchakaññe va khāyeyya asārakaññeva khāyeyya kiṃ hi siyā 
-bhikkhave pheṇapiṇḍe sāro? +
-☸ Evameva kho bhikkhave yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ 
+bhikkhave pheṇapiṇḍe sāro?
+
+Evameva kho bhikkhave yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ 
 ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā 
 paṇītaṃ vā yaṃ dūre santike vā taṃ bhikkhu passati nijjhāyati 
 yoniso upaparikkhati tassa taṃ passato nijjhāyato yoniso upaparikkhato 
 rittakaññeva khāyati tucchakaññeva khāyati asārakaññeva khāyati kiṃ 
-hi siyā bhikkhave rūpe sāro?_ (S.3.140-1).
+hi siyā bhikkhave rūpe sāro?._
+____
 
 ==== Bodhi: 'no permanent essence'
 
@@ -301,60 +307,45 @@ voidness.'
 
 The _dukkha_ of the four noble truths is 'suffering':
 
-1. Birth is suffering; old age is suffering; death is suffering;
-+
-****
-_jāti pi dukkhā jarāpi dukkhā maraṇampi dukkhaṃ_
-****
-
+[quote, S.5.422]
 ____
+Birth is suffering; old age is suffering; death is suffering;
+
+_jāti pi dukkhā jarāpi dukkhā maraṇampi dukkhaṃ_
+
 grief, lamentation, physical pain, psychological pain, and vexation are 
 suffering;
 
 _sokaparidevadukkhadomanassupāyāsāpi dukkhā_
-____
 
-____
 association with the unbeloved is suffering; separation from the beloved is 
 suffering;
 
 _appiyehi sampayogo dukkho piyehi vippayogo dukkho_
-____
 
-____
 not getting what one wants, that too is suffering.
 
 _yampicchaṃ na labhati tampi dukkhaṃ_
-____
 
-[quote, S.5.422]
-____
 In brief the five grasped aggregates are suffering.
 
 _saṅkhittena pañcupādānakkhandhā dukkhā._
 ____
 
-2. 'This is suffering': an effort should be made [to profoundly understand 
-this].
-+
-****
-_Idaṃ dukkhan ti yogo karaṇīyo._
-****
-
+[quote, S.5.430]
 ____
+'This is suffering': an effort should be made [to profoundly understand this].
+
+_Idaṃ dukkhan ti yogo karaṇīyo._
+
 'This is the origin of suffering': an effort should be made [to abandon this].
 
 _Ayaṃ dukkhasamudayo ti yogo karaṇīyo._
-____
 
-____
 'This is the ending of suffering': an effort should be made [to realise this].
 
 _Ayaṃ dukkhanirodho ti yogo karaṇīyo._
-____
 
-[quote, S.5.430]
-____
 'This is the practice leading to the ending of suffering': an effort should be 
 made [to develop this].
 
@@ -368,7 +359,7 @@ psychologically based'. For example, the body itself is sometimes called
 suffering, but sometimes suffering is said to arise from attachment to the 
 body. Some quotes contain a mixture of both connotations.
 
-1. The actual:
+The actual:
 
 [quote, S.3.32]
 ____
@@ -378,7 +369,7 @@ the arising of suffering.
 _Yo rūpassa uppādo ṭhīti abhinibbatti pātubhāvo dukkhasseso uppādo._
 ____
 
-2. The psychologically based:
+The psychologically based:
 
 [quote, Ud.32-3]
 ____
@@ -398,7 +389,7 @@ _Yo imesu pañcasupādānakkhandhesu chandarāgavinayo chandarāgappahānaṃ
 so dukkhanirodho ti._
 ____
 
-3. Both actual and psychologically based:
+Both actual and psychologically based:
 
 [quote, Th.v.1116]
 ____

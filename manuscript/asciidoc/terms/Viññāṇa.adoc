@@ -130,7 +130,7 @@ The _viññāṇa_ of the fifth aggregate is the _viññāṇa_ of _phassa_.
 This can be demonstrated in three ways:
 
 1. The _Mahāhatthipadopama Sutta_ says:
-
++
 [quote, M.1.190]
 ____
 If the visual sense is operational and visible objects come into its range, and 
@@ -149,7 +149,7 @@ then the _viññāṇa_ of _phassa_ would have no aggregate to belong to. It is
 not material, so it could not belong to the first aggregate of bodily form. Nor 
 could it belong to the three immaterial aggregates, because they depend on 
 _phassa_:
-
++
 [quote, M.3.17]
 ____
 Sensation is the indispensible and necessary condition by which the aggregates 
@@ -162,20 +162,22 @@ ____
 
 3. _Viññāṇakkhandha_ and _phasso_ have the same source, i.e. 
 _nāmarūpaṃ_:
++
+[quote, S.3.102]
+____
+Denomination-and-bodily-form is the indispensible and necessary condition 
+by which the aggregate of advertence is to be discerned.
 
-• Denomination-and-bodily-form is the indispensible and necessary condition 
-by which the aggregate of advertence is to be discerned._ +
-☸ nāmarūpaṃ hetu nāmarūpaṃ paccayo viññāṇakkhandhassa 
-paññāpanāyā_ ti (S.3.102).
-
+nāmarūpaṃ hetu nāmarūpaṃ paccayo viññāṇakkhandhassa 
+paññāpanāyā ti_.
+____
++
 [quote, Sn.v.872]
 ____
 Sensation arises dependent on denomination-and-bodily-form.
 
 _Nāmañca rūpañca paṭicca phasso._
 ____
-
-4)
 
 ==== Viññāṇakkhandha = viññāṇa of phassa: puzzling relationship to 
 nāmarūpa

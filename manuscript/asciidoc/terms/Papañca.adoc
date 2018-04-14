@@ -115,7 +115,8 @@ ____
 _Papañca_ is alluded to in different ways, like this:
 
 1. _Niviṭṭhaṃ_: entrenched
-
++
+[quote, Sn.v.756-7]
 ____
 See the world [of beings] with its devas entrenched in [attachment to] 
 denomination-and-bodily-form. It thinks what is void of personal qualities is 
@@ -123,17 +124,12 @@ endowed with personal qualities. It thinks 'This is true [to its appearance].'
 
 _Anattani attamāniṃ passa lokaṃ sadevakaṃ niviṭṭhaṃ 
 nāmarūpasmiṃ idaṃ saccan ti maññati._
-____
 
-____
 But whatsoever they think of in personal terms is different [from how they 
 think of it].
 
 _Yena yena hi maññanti tato taṃ hoti aññathā_
-____
 
-[quote, Sn.v.756-7]
-____
 For it is untrue to itself. That which is transitory is intrinsically false 
 indeed.
 
@@ -141,7 +137,8 @@ _Taṃ hi tassa musā hoti mosadhammaṃ hi ittaraṃ._
 ____
 
 2. _Patiṭṭhitā_: entrenched
-
++
+[quote, It.53]
 ____
 Beings who perceive [only] what can be expressed and are entrenched in what can 
 be expressed, not profoundly understanding what is expressed, they come under 
@@ -149,10 +146,7 @@ the yoke of death;
 
 _Akkheyyasaññino sattā akkheyyasmiṃ patiṭṭhitā. +
 Akkheyyaṃ apariññāya yogamāyanti maccuno._
-____
 
-[quote, It.53]
-____
 But if one profoundly understands what can be expressed, and does not think 'I 
 am the expressor,' the mind's liberation is achieved, the unsurpassed Peaceful 
 State.

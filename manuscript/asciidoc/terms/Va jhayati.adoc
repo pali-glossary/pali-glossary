@@ -30,7 +30,7 @@ examples we see that meditation in nature is done 'happily indeed.' Otherwise
 it is done 'mindfully indeed.'
 
 1. _sato va jhāyati_: he meditates mindfully indeed (Th.v.518-520).
-
++
 [quote, Th.v.518]
 ____
 When the wise man [sees that] old age and death, to which the ignorant Everyman 
@@ -44,7 +44,7 @@ Dukkhaṃ pariññāya sato va jhāyati tato ratiṃ paramataraṃ na vindati._
 ____
 
 2. _sumano va jhāyati_: he meditates happily indeed (Th.v.524).
-
++
 [quote, Th.v.524]
 ____
 When, seated on the banks of rivers full of flowers and beautifully garlanded 
@@ -56,7 +56,7 @@ Tīre nisinno sumano va jhāyati tato ratiṃ paramataraṃ na vindati._
 ____
 
 3. _bhaddova jhāyati_: he meditates happily indeed (Th.v.466).
-
++
 [quote, Th.v.466]
 ____
 In a woodland grove on the far side of Hog-plum Monastery, Bhaddiya, having 

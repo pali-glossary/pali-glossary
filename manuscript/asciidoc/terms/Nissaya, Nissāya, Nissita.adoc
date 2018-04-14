@@ -1857,7 +1857,7 @@ In the following group of contexts, I take _nissita_ to mean 'attached' not
 1. Because _nissita_ is frequently linked to other words implying grasping: 
 _upādāya, upādiyati, chandarāgaṃ, paṭibaddho,_ and _saṃyutto_. For 
 example:
-
++
 [quote, Sn.v.752]
 ____
 One who is attached, grasping states of individual existence in this world or 
@@ -1866,7 +1866,7 @@ another does not transcend the round of birth and death
 _nissito ca upādiyaṃ +
 Itthabhāvaññathābhāvaṃ saṃsāraṃ nātivattati._
 ____
-
++
 [quote, D.2.292]
 ____
 And he (practising _satipaṭṭhāna_ mindfulness) abides unattached, not 

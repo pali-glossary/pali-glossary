@@ -90,7 +90,7 @@ hoti_ (S.4.200).
 ****
 _Ko cāhāro indriyāsaṃvarassa?_
 ****
-
++
 [quote, A.5.113]
 ____
 ... Lack of mindfulness and full consciousness, one should reply.
@@ -104,7 +104,7 @@ attraction and repulsion, through mindfulness]?
 ****
 _ko cāhāro indriyasaṃvarassa_
 ****
-
++
 [quote, A.5.115]
 ____
 ... Mindfulness and full consciousness, one should reply.
@@ -116,33 +116,30 @@ ____
 
 When the senses are mastered the bhikkhu takes no delight in sense objects:
 
-• In what way is there restraint [of the sense faculties] [from attraction 
-and repulsion, through mindfulness]? +
+[quote, S.4.78-80]
+____
+In what way is there restraint [of the sense faculties] [from attraction 
+and repulsion, through mindfulness]?
+
 _Kathañca bhikkhave saṃvaro hoti?_
 
-____
 ...There are visible objects known via the visual sense that are likeable, 
 loveable, pleasing, agreeable, connected with sensuous pleasure, and charming.
 
 _Santi bhikkhave cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā 
 kāmupasaṃhitā rajanīyā._
-____
 
-____
 ... If a bhikkhu does not take delight in them, welcome them, persist in 
 cleaving to them, he should understand this thus: 'I am not falling away from 
 spiritually wholesome factors. For this has been called not falling away by the 
-Blessed One._
+Blessed One.
 
 _Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati. 
 Veditabbametaṃ bhikkhave bhikkhunā na parihāyāmi kusalehi dhammehi 
 aparihānaṃ hetaṃ vuttaṃ bhagavatā ti._
-____
 
-[quote, S.4.78-80]
-____
 ... In this way there is restraint [of the sense faculties] [from attraction 
-and repulsion, through mindfulness]_
+and repulsion, through mindfulness]
 
 _Evaṃ kho bhikkhave saṃvaro hotī ti._
 ____

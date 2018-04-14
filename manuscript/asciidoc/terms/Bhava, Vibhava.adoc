@@ -37,7 +37,7 @@
 Rendering _bhava_ as 'individual existence' is justified for several reasons:
 
 1. _Bhava_ is linked to 'the way one exists' (_bhūta_):
-
++
 [quote, A.3.202]
 ____
 In whatever way one exists such that there is the immediate destruction of 
@@ -47,7 +47,7 @@ _Yathābhūtassa anantarā āsavānaṃ khayo hoti idaṃ bhavānaṃ aggan ti._
 ____
 
 2. _Bhava_ is linked to an [absolute] Selfhood (_atta_):
-
++
 [quote, It.44]
 ____
 Some people are revolted, appalled, and disgusted by individual existence. They 
@@ -62,7 +62,7 @@ etaṃ yathāvantī._
 ____
 
 3. _Bhava_ is linked to the stream of sense consciousness (_viññāṇaṃ_):
-
++
 [quote, A.1.223-4]
 ____
 The stream of sense consciousness is established in the low plane of existence. 
@@ -72,10 +72,10 @@ future.... This, Ānanda, is what is implied by the term 'individual existence.'
 _Hīnāya dhātuyā viññāṇaṃ patiṭṭhitaṃ. Evaṃ āyatiṃ 
 punabbhavābhinibbatti hoti... evaṃ kho ānanda bhavo hotī ti._
 ____
-
++
 That the stream of sense consciousness is equivalent to the individual 
 (_purisa_) is seen here:
-
++
 [quote, D.3.105]
 ____
 He comes to know man's stream of sense consciousness as an unbroken stream that 
@@ -86,7 +86,7 @@ patiṭṭhitañca paraloke patiṭṭhitaṃ ca._
 ____
 
 4. _Bhava_ is linked to _puggala_:
-
++
 [quote, S.3.25-6]
 ____
 And what is the carrier of the burden. The person, one should reply, this 

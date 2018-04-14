@@ -278,8 +278,7 @@ ____
 _atha tumhe kālāmā pajaheyyātha._
 ____
 
-==== Dhammesu dhammānupassī viharati: certain objects of the systematic 
-teachings
+==== Dhammesu dhammānupassī viharati: certain objects of the systematic teachings
 
 _Dhammesu dhammānupassī viharati_ in the _Satipaṭṭhāna Sutta_ is defined 
 in relation to five groups of systematic teachings:
@@ -299,7 +298,7 @@ ____
 But only the aggregates and sense bases really fit here, because the purpose of 
 _Satipaṭṭhāna_ is:
 
-1. to profoundly understand objects:
+(1) to profoundly understand objects:
 
 [quote, S.5.182]
 ____
@@ -321,7 +320,7 @@ _Katame ca bhikkhave pariññeyyā dhammā. Rūpaṃ bhikkhave pariññeyyo
 dhammo... viññāṇaṃ pariññeyyo dhammo._
 ____
 
-2. to abandon fondness for and attachment to objects:
+(2) to abandon fondness for and attachment to objects:
 
 [quote, S.5.182]
 ____
@@ -369,7 +368,7 @@ vā dukkhaṃ vā adukkhamasukhaṃ vā tampi aniccaṃ tatra te chando
 pahātabbo._
 ____
 
-3. to observe the cessation of objects. For example, in mindfulness with 
+(3) to observe the cessation of objects. For example, in mindfulness with 
 breathing, the object of contemplation is said to be the fourth of the bases of 
 mindfulness:
 
@@ -384,26 +383,21 @@ ____
 Therefore, with mindfulness with breathing, one can parenthesise the 
 instructions as follows:
 
-- He trains himself: I will breathe in... I will breathe out contemplating
-
+[quote, S.5.324]
 ____
+He trains himself: I will breathe in... I will breathe out contemplating
 ... unlastingness [in relation to certain objects of the systematic teachings]
 
 _Aniccānupassī assasissāmī ti... passasissāmī ti sikkhati_
-____
 
-• ... passing away [in relation to certain objects of the systematic 
-teachings] +
-☸ virāgā__nupassī assasissāmī ti... passasissāmī ti sikkhati__
+... passing away [in relation to certain objects of the systematic teachings]
 
-____
+_virāgānupassī assasissāmī ti... passasissāmī ti sikkhati_
+
 ... ending [in relation to certain objects of the systematic teachings]
 
 _nirodhānupassī assasissāmī ti... passasissāmī ti sikkhati_
-____
 
-[quote, S.5.324]
-____
 ... relinquishment [in relation to certain objects of the systematic teachings]
 
 _paṭinissaggānupassī assasissāmī ti... passasissāmī ti sikkhati._

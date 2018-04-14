@@ -31,7 +31,7 @@ The -_ka_ suffix of _pāpaka_ is in accordance with Duroiselle's observation:
 Our schedule of renderings is as follows:
 
 1. Where _pāpa_ is antonymous to _puñña_ we call it 'demerit':
-
++
 [quote, S.1.182]
 ____
 He in this world who lives the religious life having spurned [the accumulating 
@@ -42,7 +42,7 @@ ____
 
 2. In the context of karmically consequential conduct, where _pāpaka_ is 
 antonymous to _kalyāṇa_ we call it 'demeritorious':
-
++
 [quote, A.3.185]
 ____
 He is the inheritor of whatever karmically consequential conduct he undertakes 
@@ -53,41 +53,45 @@ bhavissatī ti._
 ____
 
 3. Where _pāpaka_ is synonymous with _akusala_ we call it 'unvirtuous':
-
-- When contemplating an object that arouses unvirtuous, spiritually unwholesome 
++
+[quote, M.1.119]
+____
+When contemplating an object that arouses unvirtuous, spiritually unwholesome 
 thoughts (_pāpakā akusalā vitakkā_), a bhikkhu should ponder a meditation 
 object connected with what is spiritually wholesome (_aññaṃ nimittaṃ 
-manasikātabbaṃ kusalūpasaṃhitaṃ_) (M.1.119).
+manasikātabbaṃ kusalūpasaṃhitaṃ_).
+____
 
 4. Where _pāpaka_ is antonymous to _bhaddaka_ and implies a bad inner nature 
 we call it 'odious.'
-
-- Whatever a bitter gourd seed absorbs leads to bitterness, acridity, and 
++
+[quote, A.5.212-213]
+____
+Whatever a bitter gourd seed absorbs leads to bitterness, acridity, and 
 unpleasant taste. For what reason? The seed is odious (_bījaṃ hi bhikkhave 
-pāpakaṃ_) (A.5.212).
+pāpakaṃ_).
 
-- Whatever a sugar-cane seed absorbs leads to sweetness, pleasantness and 
+Whatever a sugar-cane seed absorbs leads to sweetness, pleasantness and 
 delicious flavour. For what reason? The seed is excellent (_bījaṃ hi 
-bhikkhave bhaddakaṃ_) (A.5.213).
+bhikkhave bhaddakaṃ_).
+____
 
 5. In relation to _diṭṭhi_, where _pāpika_ is antonymous to _bhaddakaṃ_ 
 we call it 'odious':
-
++
+[quote, A.5.212]
 ____
 his view [of reality] is odious
 
 _diṭṭhi hi bhikkhave pāpikā_
-____
 
-[quote, A.5.212]
-____
 his perception [of reality] is excellent
 
 _diṭṭhi hi bhikkhave bhaddikā._
 ____
 
 6. Where _pāpaka_ means unpleasant we call it 'wretched.'
-
++
 [quote, Vin.3.73]
 ____
 what use to you is this wretched and difficult life?
@@ -96,20 +100,23 @@ _kiṃ tuyhaminā pāpakena dujjīvitena._
 ____
 
 7. In reference to friends we call it 'unvirtuous.'
-
-- King Ajātasattu of Magadha has unvirtuous friends (_ajātasattu vedehiputto 
++
+[quote, S.1.83]
+____
+King Ajātasattu of Magadha has unvirtuous friends (_ajātasattu vedehiputto 
 pāpamitto_). King Pasenadi of Kosala has virtuous friends (_pasenadi kosalo 
-kalyāṇamitto_) (S.1.83).
+kalyāṇamitto_).
+____
 
 8. When it implies unvirtuous behaviour we call it 'unvirtuous.'
-
++
 [quote, Vin.2.203]
 ____
 free of unvirtuous conduct
 
 _pāpakammaṃ akubbato._
 ____
-
++
 [quote, A.2.222]
 ____
 What is unvirtuous? In this regard, some person kills
@@ -119,14 +126,14 @@ ____
 
 9. Similarly, where _pāpaka_ is antonymous to _kalyāṇa_ and implies bad 
 practices, we call it 'unvirtuous.'
-
++
 [quote, M.3.255-6]
 ____
 unvirtuous, of an unvirtuous moral nature
 
 _dussīlā pāpadhammā._
 ____
-
++
 [quote, S.5.397]
 ____
 virtuous and of a virtuous moral nature.
@@ -134,11 +141,11 @@ virtuous and of a virtuous moral nature.
 _sīlavantehi kalyāṇadhammehī ti._
 ____
 
-\10) When it describes someone who is unvirtuous we call it 'unvirtuous.' Thus 
+10. When it describes someone who is unvirtuous we call it 'unvirtuous.' Thus 
 an unvirtuous bhikkhu is unvirtuous (_pāpabhikkhu dussīlo_ A.2.239).
 
-\11) As a word of condemnation, we call it 'odious.'
-
+11. As a word of condemnation, we call it 'odious.'
++
 [quote, Vin.4.259]
 ____
 excessive greed is odious
@@ -146,7 +153,7 @@ excessive greed is odious
 _atilobho hi pāpako._
 ____
 
-\12) Māra's epithet is _pāpimant_, 'the Maleficent One.'
+12. Māra's epithet is _pāpimant_, 'the Maleficent One.'
 
 === Illustrations: pāpa
 

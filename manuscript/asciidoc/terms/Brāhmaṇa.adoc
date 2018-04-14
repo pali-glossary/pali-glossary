@@ -49,26 +49,28 @@ Style Manual, 2008).
 Where _brāhmaṇa_ means arahant, we capitalise it: Brahman. But sometimes 
 _brāhmaṇa_ is applied to those still striving to be Brahmans. Two examples:
 
-1. One should not strike a Brahman. [Likewise], a Brahman should not vent 
-&#8203;[wrath on his assailant]. Shame on the one who strikes a Brahman! And shame on 
-&#8203;[the Brahman] who vents [wrath on his assailant]!
-+
-****
+[quote, Dh.v.389]
+____
+One should not strike a Brahman. [Likewise], a Brahman should not vent 
+[wrath on his assailant]. Shame on the one who strikes a Brahman! And shame on 
+[the Brahman] who vents [wrath on his assailant]!
+
 _Na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo +
-****
-Dhī brāhmaṇassa hantāraṃ tato dhī y'assa muñcati_ (Dh.v.389).
+Dhī brāhmaṇassa hantāraṃ tato dhī y'assa muñcati._
+____
 
 This, of course, means one should not strike an arahant, and one who is 
 striving to be an arahant should not vent his wrath.
 
-2. It is not worse for a Brahman when his mind is restrained from agreeable 
+[quote, Dh.v.390]
+____
+It is not worse for a Brahman when his mind is restrained from agreeable 
 things. The more his mind turns away from agreeable things the more his 
 miseries subside.
-+
-****
+
 _Na brāhmaṇassetadakiñci seyyo yadā nisedho manaso piyehi +
-****
-Yato yato hiṃsamano nivattati tato tato sammatimeva dukkhaṃ_ (Dh.v.390).
+Yato yato hiṃsamano nivattati tato tato sammatimeva dukkhaṃ._
+____
 
 Here again, where his miseries are still subsiding, _brāhmaṇa_ means 'one 
 striving to be a Brahman.'

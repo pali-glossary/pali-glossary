@@ -119,27 +119,20 @@ He explains that in this path and practice a bhikkhu:
 2. contemplates the five aggregates as an illness, a carbuncle, a [piercing] 
 arrow, suffering etc, then
 +
-****
 _te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato 
 parato palokato suññato anattato samanupassati_
-****
 
 3. averts his mind from those states, then
 +
-****
 _So tehi dhammehi cittaṃ paṭivāpeti_
-****
 
 4. focuses his mind on the immortal phenomenon:
 +
-****
-_so tehi dhammehi cittaṃ paṭivāpetvā amatāya dhātuyā cittaṃ 
-upasaṃharati_
-****
+_so tehi dhammehi cittaṃ paṭivāpetvā amatāya dhātuyā cittaṃ upasaṃharati_
 
 5. Focusing on the immortal phenomenon is followed in the sutta by the 
 following reflection:
-
++
 [quote, M.1.435]
 ____
 This is peaceful, this is sublime, namely: the quelling of all originated 
@@ -154,10 +147,8 @@ ____
 6. The sutta then says: 'Established therein, he attains the destruction of 
 perceptually obscuring states.
 +
-****
 _So tattha ṭhito āsavānaṃ khayaṃ pāpuṇāti_
-****
-
++
 The destruction of perceptually obscuring states means the attainment of 
 arahantship. Therefore arahantship occurs after having focused the mind on the 
 immortal phenomenon, and even after the reflection 'this is _nibbāna_.' In 
@@ -166,7 +157,7 @@ this case, the immortal phenomenon and _nibbāna_ precede arahantship.
 7. The sutta confirms this because it says that those who have the _etaṃ 
 santaṃ_ reflection may not attain arahantship until the following life, 
 because it says:
-
++
 [quote, M.1.435]
 ____
 'If the bhikkhu does not thereby attain the destruction of perceptually 
@@ -203,7 +194,7 @@ tampi na manasikareyya manasi ca pana kareyyā ti_ (A.5.321).
 
 3. These objects that one does not contemplate are called 'all _nimittāni'_ 
 (_sabbanimittāni_) in this passage:
-
++
 [quote, S.4.50]
 ____
 He perceives all phenomena (_sabbanimittāni_) differently. He sees the visual 
@@ -225,29 +216,27 @@ _nimittāni_ (_sabbanimittāni na manasikareyya_) yet still contemplating
 6. Attaining the liberation [from perceptually obscuring states] by focusing 
 upon the unabiding [phenomenon] (_animittāya cetovimuttiyā samāpattiyā_) 
 involves two similar steps:
-
++
+[quote, M.1.297]
 ____
 ignoring all _nimittāni_
 
 _sabbanimittānañca amanasikāro_
-____
 
-[quote, M.1.297]
-____
 focusing upon the a__nimitta__ phenomenon
 
 _animittāya ca dhātuyā manasikāro._
 ____
 
 7. Therefore these phrases are equivalent:
-
++
 [quote, M.1.435]
 ____
 he focuses his mind on the _amatadhātu_
 
 _amatāya dhātuyā cittaṃ upasaṃharati_
 ____
-
++
 [quote, M.1.297]
 ____
 focusing upon the _animittadhātu_

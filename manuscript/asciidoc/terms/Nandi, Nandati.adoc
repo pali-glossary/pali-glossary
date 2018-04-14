@@ -27,7 +27,7 @@ We say _nandi_ is 'spiritually fettering' for four reasons:
 
 1. Through its association with _saṃyojana_ ('bond [to individual 
 existence]'):
-
++
 [quote, S.4.36]
 ____
 Tethered [to individual existence] by the bond of spiritually fettering 
@@ -38,12 +38,16 @@ Taṇhā hissa dutiyā sāssa appahīnā tasmā sadutiya vihārīti vuccati._
 ____
 
 2. Through its association with _upadānaṃ_ ('grasping'):
++
+[quote, M.1.266]
+____
+Spiritually fettering delight in sense impression is grasping.
 
-• Spiritually fettering delight in sense impression is grasping. +
-_Yā vedanāsu nandī tadupadānaṃ_ (M.1.266).
+_Yā vedanāsu nandī tadupadānaṃ._
+____
 
 3. Through its association with _saṃyojano_ ('bond'):
-
++
 [quote, Sn.v.1109]
 ____
 Spiritually fettering delight is the bond of the world [by which it is tethered 
@@ -53,7 +57,7 @@ _Nandi saṃyojano loko._
 ____
 
 4. Through its association with _rāgo_ ('attachment'):
-
++
 [quote, S.4.36]
 ____
 When there is spiritually fettering delight, there is attachment.
@@ -71,17 +75,11 @@ ____
 spiritually fettering delight in sensuous pleasure
 
 _kāmanandi._
-____
 
-[quote, A.2.10]
-____
 spiritually fettering delight in views
 
 _diṭṭhinandi._
-____
 
-[quote, A.2.10]
-____
 spiritually fettering delight in individual existence _
 
 _bhavanandi._
@@ -92,10 +90,7 @@ ____
 spiritually fettering delight in ill will
 
 _vyāpādanandī._
-____
 
-[quote, A.3.245]
-____
 spiritually fettering delight in maliciousness
 
 _vihesānandī._

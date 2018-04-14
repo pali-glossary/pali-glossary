@@ -63,7 +63,7 @@ and abodes.
 Although _itibhavābhava_ occurs in the scriptures 48 times, in only 3 cases is 
 there any meaningful context, which are as follows:
 
-1. _Taṇhā Sutta_
+_Taṇhā Sutta_
 
 [quote, A.2.248]
 ____
@@ -74,7 +74,7 @@ _Cīvarahetu... Piṇḍapātahetu... Senāsanahetu... +
 Itibhavābhavahetu vā bhikkhuno taṇhā uppajjamānā uppajjati._
 ____
 
-2. _Ādhipateyya Sutta_
+_Ādhipateyya Sutta_
 
 [quote, A.1.147]
 ____
@@ -85,7 +85,7 @@ _na kho panā'haṃ cīvarahetu... piṇḍapātahetu... senāsanahetu...
 itibhavābhavahetu agārasmā anagāriyaṃ pabbajito._
 ____
 
-3. _Kinti Sutta_
+_Kinti Sutta_
 
 [quote, M.2.238]
 ____

@@ -184,7 +184,7 @@ teachings, and there is definite evidence for this, too, as follows:
 existence (_pañcorambhāgiyāni saṃyojanāni_) is usually called unspecified 
 _vicikicchā_ (D.3.234). But in the _Mahāmāluṅkya Sutta_, this unspecified 
 doubt is plainly linked to the teachings:
-
++
 [quote, M.1.433]
 ____
 A young infant does not have the notion 'teachings' (_dhammā ti pi na hoti_), 
@@ -198,7 +198,7 @@ ____
 2. The fifth of the five hindrances is usually called unspecified 
 _vicikicchā_, but when the bhikkhu in the _Upajjhāya Sutta_ experienced 
 doubt, he linked it to the teachings, _dhammesu vicikicchā_:
-
++
 [quote, A.3.69]
 ____
 Bhante, my body now seems as if drugged. I have lost my bearings. The teachings 
@@ -213,12 +213,15 @@ vicikicchā ti._
 ____
 
 3. In several suttas doubt is openly linked to _saddhamma_:
++
+[quote, S.3.99]
+____
+The ignorant Everyman... is unsure, doubtful, undecided about the 
+[significance of the] true teaching (_saddhamme_).
 
-• The ignorant Everyman... is unsure, doubtful, undecided about the 
-&#8203;[significance of the] true teaching (_saddhamme_). +
-_assutavā puthujjano... kaṅkhī hoti vicikicchī aniṭṭhaṅgato 
-saddhamme_ (S.3.99).
-
+_assutavā puthujjano... kaṅkhī hoti vicikicchī aniṭṭhaṅgato saddhamme._
+____
++
 [quote, A.2.174]
 ____
 Some person here is unsure, doubtful, undecided about the [significance of the] 
@@ -233,7 +236,7 @@ quotes), doubt in the teachings necessarily implies doubt in all objects of
 faith. Therefore doubt in the teachings is effectively the all-embracing term, 
 and can be used as such when the object of doubt is unspecified. That faith in 
 the teachings is the basis of other aspects of faith is shown in these quotes:
-
++
 [quote, M.1.179]
 ____
 On hearing the teaching he acquires faith in the [perfection of the] Perfect 
@@ -241,7 +244,7 @@ One's [transcendent insight]
 
 _So taṃ dhammaṃ sutvā tathāgate saddhaṃ paṭilabhati._
 ____
-
++
 [quote, M.1.320]
 ____
 As the Blessed One explained the teaching to me with its increasingly higher 
@@ -258,7 +261,7 @@ tasmiṃ dhamme abhiññāya idhekaccaṃ dhammaṃ dhammesu
 niṭṭhamagamaṃ satthari pasīdiṃ sammā sambuddho bhagavā svākkhāto 
 bhagavatā dhammo supaṭipanno saṅgho ti._
 ____
-
++
 [quote, A.5.115]
 ____
 Faith [in the perfection of the Perfect One's transcendent insight] has a 
@@ -305,7 +308,7 @@ significance of the teaching].' What is the difference?
 
 1. _Vicikicchā saṃyojana_ is a powerful form of doubt that is a tie to 
 individual existence in the low plane of existence:
-
++
 [quote, M.1.434]
 ____
 The ignorant Everyman abides with a mind absorbed in and overcome by doubt 
@@ -1064,7 +1067,7 @@ We make two points:
 justified if 'the teaching' concerns 'the abandoning of spiritually unwholesome 
 factors and undertaking of spiritually wholesome factors.' Which it does, says 
 this quote:
-
++
 [quote, Dh.v.183]
 ____
 The refraining from everything unvirtuous; the undertaking of what is 
@@ -1078,14 +1081,14 @@ ____
 2. According to our parenthesis, spiritually unwholesome factors are 
 'abandoned' and spiritually wholesome factors are 'undertaken'. The parentheses 
 come from these two quotes:
-
++
 [quote, S.3.8]
 ____
 The Blessed One praises the abandonment of spiritually unwholesome factors.
 
 _bhagavā akusalānaṃ dhammānaṃ pahānaṃ vaṇṇeti._
 ____
-
++
 [quote, S.3.9]
 ____
 The Blessed One praises the undertaking of spiritually wholesome factors.

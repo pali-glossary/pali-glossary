@@ -168,17 +168,15 @@ because the three words usually mean 'aggression' and 'slaughter,' we prefer
 'harmful conduct.' We illustrate this as follows:
 
 1. _Ārambha_: harmful conduct
-
++
+[quote, Sn.v.744]
 ____
 Whatever suffering arises, all of it arises dependent on harmful conduct. That 
 is the first consideration.
 
 _Yaṃ kiñci dukkhaṃ sambhoti sabbaṃ ārambhapaccayā ti. 
 Ayamekānupassanā_
-____
 
-[quote, Sn.v.744]
-____
 With the complete fading away and ending of harmful conduct, there is no 
 arising of suffering. That is the second consideration.
 
@@ -187,7 +185,7 @@ dutiyānupassanā._
 ____
 
 2. _Samārambha_: harmful conduct
-
++
 [quote, A.2.197-8]
 ____
 As to those vexatious and anguishing perceptually obscuring states that arise 
@@ -201,7 +199,7 @@ honti._
 ____
 
 3. _Sārambha_: harmful conduct
-
++
 [quote, Th.v.37]
 ____
 They go to different countries, wandering unrestrained. If they lose their 
@@ -221,7 +219,7 @@ meaning to _ārambha_, exertion. But 'arrangement' is indeed unexpected.
 
 1. _Samārambha_: onerous (i.e. a food offering is less onerous than an animal 
 sacrifice):
-
++
 [quote, D.1.144]
 ____
 The perpetual offerings made by families which are dedicated to virtuous 
@@ -236,7 +234,7 @@ ca mahapphalataro ca mahānisaṃsataro cā ti._
 ____
 
 2. _Samārambha_: arrangement
-
++
 [quote, Vin.4.67]
 ____
 If any bhikkhu knowingly eats almsfood which a bhikkhunī has caused to be 
@@ -246,16 +244,15 @@ offence of pācittiya.
 _Yo pana bhikkhu jānaṃ bhikkhunīparipācitaṃ piṇḍapātaṃ bhuñjeyya 
 aññatra pubbe gihīsamārambhā pācittiyan ti._
 ____
-
++
 'Arrangement' is explained in the word commentary as follows:
-
++
 [quote, Vin.4.67]
 ____
 An arrangement with the householder means: either they are one's relatives, or 
 &#8203;[the bhikkhus] were [previously] invited, or [the meal] is ordinarily 
 &#8203;[scheduled to be] prepared for the bhikkhu.
 
-_Gihīsamārambho nāma ñātaka vā honti pavārikā vā pakatipaṭiyattaṃ 
-vā._
+_Gihīsamārambho nāma ñātaka vā honti pavārikā vā pakatipaṭiyattaṃ vā._
 ____
 

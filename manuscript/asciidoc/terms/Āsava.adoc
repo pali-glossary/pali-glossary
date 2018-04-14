@@ -348,41 +348,36 @@ are 'due to' those conditions, which is our preferred phrasing.
 The way that pursuit leads to _āsavas_ can be seen throughout the scriptures. 
 For example:
 
-1. There is the quality of loveliness. Much improper contemplation in that 
+[quote, S.5.105]
+____
+There is the quality of loveliness. Much improper contemplation in that 
 regard is a condition that nourishes both the arising of unarisen sensuous 
 hankering, and the increase and expansion of arisen sensuous hankering.
-+
-****
+
 _Atthi bhikkhave subhanimittaṃ. Tattha ayoniso manasikārabahulīkāro 
 ayamāhāro anuppannassa vā kāmacchandassa uppādāya uppannassa vā 
-kāmacchandassa bhiyyobhāvāya vepullāya_ (S.5.105).
-****
+kāmacchandassa bhiyyobhāvāya vepullāya._
+____
 
-2. And what are the issues that should not be contemplated that he contemplates?
-+
-****
+[quote, M.1.7]
+____
+And what are the issues that should not be contemplated that he contemplates?
+
 _Katame ca bhikkhave dhammā na manasikaraṇīyā ye dhamme manasikaroti?_
-****
 
 ... Whatever issues that, when he contemplates them:
 
-____
 ... unarisen perceptual obscuration due to pursuing sensuous pleasure arises, 
 and arisen perceptual obscuration due to pursuing sensuous pleasure increases
 
 _anuppanno vā kāmāsavo uppajjati uppanno vā kāmāsavo pavaḍḍhati_
-____
 
-____
 ... unarisen perceptual obscuration due to pursuing individual existence 
 arises, and arisen perceptual obscuration due to pursuing individual existence 
 increases
 
 _anuppanno vā bhavāsavo uppajjati uppanno vā bhavāsavo pavaḍḍhati_
-____
 
-[quote, M.1.7]
-____
 ... unarisen perceptual obscuration due to uninsightfulness into reality 
 arises, and arisen perceptual obscuration due to uninsightfulness into reality 
 increases.
@@ -390,21 +385,22 @@ increases.
 _anuppanno vā avijjāsavo uppajjati uppanno vā avijjāsavo pavaḍḍhati._
 ____
 
-3. In this regard a bhikkhu, properly reflecting, abides with the faculty of 
+[quote, M.1.9]
+____
+In this regard a bhikkhu, properly reflecting, abides with the faculty of 
 sight restrained through restraint [of attraction and repulsion, through 
 mindfulness]. The vexatious and anguishing perceptually obscuring states that 
 would arise if he were to abide with the faculty of sight unrestrained through 
 unrestraint [of attraction and repulsion, through mindfulness] do not arise for 
 him when he abides with the faculty of sight restrained through restraint [of 
 attraction and repulsion, through mindfulness].
-+
-****
+
 _Idha bhikkhave bhikkhu paṭisaṅkhā yoniso cakkhundriyasaṃvarasaṃvuto 
 viharati. Yaṃ hi'ssa bhikkhave cakkhundriyasaṃvaraṃ asaṃvutassa 
 viharato uppajjeyyuṃ āsavā vighātapariḷāhā 
 cakkhundriyasaṃvarasaṃvutassa viharato evaṃsa te āsavā 
-vighātapariḷāhā na honti_ (M.1.9).
-****
+vighātapariḷāhā na honti._
+____
 
 ==== Sāsavo: 'associated with perceptually obscuring states'
 
@@ -864,7 +860,7 @@ differentiating them is technically justifed, it is problematic to do so,
 because of their similarlty. For example:
 
 1. Both are defiling and weakening of penetrative discernment:
-
++
 [quote, M.1.250]
 ____
 Him I call undiscerning of reality, Aggivessana, who has not abandoned 
@@ -876,7 +872,7 @@ _Yassa kassaci aggivessana ye āsavā saṅkilesikā... appahīnā tamahaṃ
 sammūḷho ti vadāmi. Āsavānaṃ hi aggivessana appahānā sammūḷho 
 hoti._
 ____
-
++
 [quote, S.5.95]
 ____
 Sensuous hankering (and each of the _nīvaraṇas_) is a spiritual obstruction, 
@@ -888,15 +884,15 @@ dubbalīkaraṇo._
 ____
 
 2. Both _nīvaraṇas_ and _āsavas_ are productive of _avijjā_:
-
++
 [quote, M.1.46-56]
 ____
 With the origination of perceptual obscuration comes the origination of 
 uninsightfulness into reality
 
-__āsavasamudayā avijjāsamudayo._
+_āsavasamudayā avijjāsamudayo._
 ____
-
++
 [quote, A.5.116]
 ____
 What is the condition that nourishes uninsightfulness into reality? The five 
@@ -914,7 +910,7 @@ _nīvaraṇas_ is _vicikicchā_, which we have shown above is also an _āsava_.
 shown in the Vimutta section that _vimutta_ means 'liberated from _āsavas_.' 
 The third and fourth of the _nīvaraṇas_ are _thīnamiddhaṃ_ and _uddhacca 
 kukkucca_. These are treated like _āsavas_ in this quote:
-
++
 [quote, S.5.76-7]
 ____
 My mind is [temporarily] liberated [from perceptually obscuring states]. I have 
@@ -926,10 +922,10 @@ _cittañca me suvimuttaṃ thīnamiddhañca me susamūhataṃ. Uddhacca
 kukkuccañca me suppaṭivinītaṃ. Āraddhañca me viriyaṃ aṭṭhikatvā 
 manasikaromi no ca līnan ti._
 ____
-
++
 The second _nīvaraṇa_ is ill will, and this is shown to be an _āsava_ via 
 _cetovimutta_:
-
++
 [quote, D.3.248]
 ____
 If the liberation [from perceptually obscuring states] through [unlimited, 
@@ -954,28 +950,30 @@ return, even in succeeding lives.
 But other _āsavas_ are liable to return. This is implied in these two quotes, 
 because _cetovimutti_ means liberation from the _āsavas_:
 
-1. To whatever extent there are unlimited liberations from perceptually 
+[quote, S.4.297]
+____
+To whatever extent there are unlimited liberations from perceptually 
 obscuring states, the unshakeable liberation [from perceptually obscuring 
 states] is declared the chief among them.
-+
-****
+
 _yāvatā kho bhante appamāṇā cetovimuttiyo akuppā tāsaṃ cetovimutti 
-aggamakkhāyati_ (S.4.297).
-****
+aggamakkhāyati._
+____
 
 If some liberations from perceptually obscuring states are 'unshakeable,' then 
 others are shakeable i.e. some _āsavas_ are liable to return.
 
-2. Then Venerable Godhika, abiding diligently, vigorously, and resolutely 
+[quote, S.1.120]
+____
+Then Venerable Godhika, abiding diligently, vigorously, and resolutely 
 applied [to the practice] attained temporary liberation [from perceptually 
 obscuring states]. But then Venerable Godhika fell away from that temporary 
 liberation [from perceptually obscuring states].
-+
-****
+
 _Atha kho āyasmā godhiko appamatto ātāpī pahitatto viharanto sāmayikaṃ 
 cetovimuttiṃ phusi. Atha kho āyasmā godhiko tāya sāmayikāya 
-cetovimuttiyā parihāyi_ (S.1.120).
-****
+cetovimuttiyā parihāyi._
+____
 
 So, some _āsavas_ are liable to return. These quotes therefore show that 
 liberation from the _āsavas_ is not necessarily unshakeable. The same point is 
@@ -983,16 +981,14 @@ seen in the _Sabbāsava Sutta_, which describes various modes of behaviour in
 which _āsavas_ might arise, and if these modes of behaviour are avoided, then 
 those _āsavas_ do not exist. For example:
 
+[quote, M.1.11]
 ____
 In this regard a bhikkhu, properly reflecting, does not tolerate an arisen 
 sensuous thought. He abandons it, dispels it, puts an end to it, eradicates it.
 
 _Idha bhikkhave bhikkhu paṭisaṅkhā yoniso uppannaṃ kāmavitakkaṃ 
 nādhivāseti pajahati vinodeti vyantīkaroti. Anabhāvaṃ gameti._
-____
 
-[quote, M.1.11]
-____
 ... The vexatious and anguishing _āsavas_ that would arise if he were not to 
 dispel these things do not arise for him when he dispels them.
 
@@ -1013,77 +1009,57 @@ individual existence. We have already seen that the first three such ties are
 specifically called _āsavas_. These and the other seven ties to individual 
 existence fall into two groups, as follows:
 
-1. There are these five ties to individual existence in the low plane of 
-existence
-+
-****
-_Pañcimāni bhikkhave orambhāgiyāni saṃyojanāni. Katamāni pañca:_
-****
-
+[quote, S.5.61-62]
 ____
+There are these five ties to individual existence in the low plane of 
+existence
+
+_Pañcimāni bhikkhave orambhāgiyāni saṃyojanāni. Katamāni pañca:_
+
 view of personal identity
 
 _sakkāyadiṭṭhi_
-____
 
-____
 doubt [about the significance of the teaching]
 
 _vicikicchā_
-____
 
-____
 adherence to observances and practices
 
 _sīlabbataparāmāso_
-____
 
-____
-sensuous hankering _
+sensuous hankering
 
 _kāmacchando_
-____
 
-[quote, S.5.61-62]
-____
-ill will _
+ill will
 
 _vyāpādo._
 ____
 
-2. There are these five ties to individual existence in the middle and high 
-planes of existence. What five?
-+
-****
-_pañcimāni bhikkhave uddhambhāgiyāni saṃyojanāni. katamāni pañca?_
-****
-
+[quote, S.5.61-62]
 ____
-attachment to the refined material states of awareness _
+There are these five ties to individual existence in the middle and high 
+planes of existence. What five?
+
+_pañcimāni bhikkhave uddhambhāgiyāni saṃyojanāni. katamāni pañca?_
+
+attachment to the refined material states of awareness
 
 _rūparāgo_
-____
 
-____
-attachment to immaterial states of awareness _
+attachment to immaterial states of awareness
 
 _arūparāgo_
-____
 
-____
-self-centredness _
+self-centredness
 
 _māno_
-____
 
-____
 vanity
 
 _uddhaccaṃ_
-____
 
-[quote, S.5.61-62]
-____
 uninsightfulness into reality
 
 _avijjā._

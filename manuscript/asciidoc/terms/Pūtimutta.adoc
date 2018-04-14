@@ -79,7 +79,7 @@ and clay can be mixed (Vin.1.206).
 
 3. _Pūtimutta_ is linked in medicinal importance with ghee, butter, oil, 
 honey, and molasses.
-
++
 [quote, Vin.1.58]
 ____
 Going forth [into the ascetic life] is with the support of _pūtimutta_ as 
@@ -89,10 +89,10 @@ extra requisites are ghee, butter, oil, honey, and molasses.
 _Pūtimuttabhesajjaṃ nissāya pabbajjā. Tattha te yāvajīvaṃ ussāho 
 karaṇiyo. Atirekalābho sappi navatītaṃ telaṃ madhu phāṇitanti.._
 ____
-
++
 Ghee, butter, oil, honey, and molasses are 'medicinal' only in respect of their 
 nutritive properties:
-
++
 [quote, V.1.200]
 ____
 These five remedies, that is to say ghee, fresh butter, oil, honey, molasses, 
@@ -103,32 +103,31 @@ _imāni kho pañca bhesajjāni seyyathīdaṃ sappi navanītaṃ telaṃ madhu
 phāṇitaṃ bhesajjāni ceva bhesajjasammatāni ca lokassa āhāratthañca 
 pharanti na ca oḷāriko āhāro paññāyati._
 ____
-
++
 It is accordance with this to regard _pūtimutta_ as useful only for its 
 nutritive properties, which we will consider below.
 
 4. When the Buddha was sick his resource was often simply hot or tepid water. 
 For example, Upavāna was the Buddha's attendant at a time when he was affected 
 by 'winds.'
-
++
 [quote, S.1.174]
 ____
 Please, find me some hot water.
 
 _ingha me uṇh'odakaṃ jānāhi._
 ____
-
++
 Some of the water was for bathing, and some for drinking with molasses. Then, 
 again, after consuming Cunda's _sūkaramaddava_, and being attacked a painful 
 and bloody illness, sitting at the root of a tree, he said:
-
++
 [quote, D.2.128]
 ____
 Ānanda, please bring me water. I am thirsty, Ānanda, and need [something] to 
 drink.
 
-_iṅgha me tvaṃ ānanda pānīyaṃ āhara pipāsito'mhi ānanda pivissāmī 
-ti._
+_iṅgha me tvaṃ ānanda pānīyaṃ āhara pipāsito'mhi ānanda pivissāmī ti._
 ____
 
 ==== Pūtimutta: not cows' urine
@@ -211,7 +210,7 @@ gradually increased over 4-7 days.
 
 5. Rehydration should be done cautiously.
 
-7. Thiamine (vitamin B1, 200-300mg daily) supplementation should be used for at 
+6. Thiamine (vitamin B1, 200-300mg daily) supplementation should be used for at 
 least 10 days to prevent Wernicke's encephalopathy and Korsakoff's syndrome.
 
 Source: Refeeding syndrome: what it is, and how to prevent and treat it, 

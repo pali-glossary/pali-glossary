@@ -59,8 +59,7 @@ ____
 Therefore _baddho so mārabandhanena_, means 'bound [to individual existence] 
 by Māra's bond.'
 
-==== Passage 2: mohena baddhā, bound [to individual existence] by 
-undiscernment of reality
+==== Passage 2: mohena baddhā, bound [to individual existence] by undiscernment of reality
 
 _Mohena baddhā_ occurs in this passage:
 
@@ -79,7 +78,7 @@ association with _bandhanaṃ_. That _bandhana_ means bondage [to individual
 existence] can be shown in three ways:
 
 1. It is sometimes explicit:
-
++
 [quote, S.1.35]
 ____
 Through understanding your teaching they severed the bondage to individual 
@@ -90,7 +89,7 @@ ____
 
 2. Sometimes the meaning is conveyed through its association with words like 
 _saṃyojana_:
-
++
 [quote, D.2.274]
 ____
 Like the elephant that bursts all its fastenings and chains, they severed the 
@@ -103,14 +102,14 @@ ____
 
 3. Sometimes, the context implies it. For example here, where its link to 
 _bhava_ is proven by its link to _taṇhā_:
-
++
 [quote, S.1.8]
 ____
 Craving you call bondage [to individual existence].
 
 _taṇhaṃ me brūsi bandhanan ti._
 ____
-
++
 [quote, S.3.26]
 ____
 Craving that leads to renewed states of individual existence

@@ -133,37 +133,28 @@ pemaṃ
 affection
 ====
 
-1. Affection is born from affection
-+
-****
-_pemā pemaṃ jāyati_
-****
-
-2. Hatred is born from affection
-+
-****
-_pemā doso jāyati_
-****
-
-3. Affection is born from hatred
-+
-****
-_dosā pemaṃ jāyati_
-****
-
-4. Hatred is born from hatred
-+
-****
-_dosā doso jāyati_
-****
-
-1. How is affection born from affection?
-+
-****
-_pemā pemaṃ jāyati?_
-****
-
+[quote, A.2.213-4]
 ____
+Affection is born from affection
+
+_pemā pemaṃ jāyati_
+
+Hatred is born from affection
+
+_pemā doso jāyati_
+
+Affection is born from hatred
+
+_dosā pemaṃ jāyati_
+
+Hatred is born from hatred
+
+_dosā doso jāyati_
+
+How is affection born from affection?
+
+_pemā pemaṃ jāyati?_
+
 In this regard, someone is likeable, loveable, and dear to another, so when 
 others treat the former as likeable, loveable, and dear, the latter thinks: 'He 
 who is to me likeable, loveable, and dear is treated by others as likeable, 
@@ -172,15 +163,11 @@ affection born of affection.
 
 _yo kho myāyaṃ puggalo iṭṭho kanto manāpo taṃ pare iṭṭhena 
 kantena manāpena samudācarantī ti so tesu pemaṃ janeti._
-____
 
-2. How is hatred born from affection?
-+
-****
+How is hatred born from affection?
+
 _Kathañca bhikkhave pemā doso jāyati?_
-****
 
-____
 In this regard, someone is likeable, loveable, and dear to another, so when 
 others treat the former as unlikeable, unloveable, and loathsome, the latter 
 thinks: 'He who is to me likeable, loveable, and dear is treated by others as 
@@ -189,15 +176,11 @@ Thus is hatred born of affection.
 
 _yo kho myāyaṃ puggalo iṭṭho kanto manāpo taṃ pare aniṭṭhena 
 akantena amanāpena samudācarantī ti. So tesu dosaṃ janeti._
-____
 
-3. How is affection born from hatred?
-+
-****
+How is affection born from hatred?
+
 _Kathañca bhikkhave dosā pemaṃ jāyati_
-****
 
-____
 In this regard, one person is unlikeable, unloveable, and loathsome to another 
 person, so when others treat the former as unlikeable, unloveable, and 
 loathsome, the latter thinks: 'He who is unlikeable, unloveable, and loathsome 
@@ -206,16 +189,11 @@ therefore evokes affection for them. Thus is affection born of hatred.
 
 _yo kho myāyaṃ puggalo aniṭṭho akanto amanāpo taṃ pare aniṭṭhena 
 akantena amanāpena samudācarantī ti so tesu pemaṃ janeti._
-____
 
-4. How is hatred born from hatred?
-+
-****
+How is hatred born from hatred?
+
 _Kathañca bhikkhave dosā doso jāyati?_
-****
 
-[quote, A.2.213-4]
-____
 In this regard, one person is unlikeable, unloveable, and loathsome to another 
 person, so when others treat the former as likeable, loveable, and dear, the 
 latter thinks: 'He who is unlikeable, unloveable, and loathsome to me is 

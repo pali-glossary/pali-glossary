@@ -79,7 +79,7 @@ This is justified for two reasons:
 1. by _saṃyoga_'s relationship to _saṃyutto_ which we parenthesise likewise 
 (and explain sv _Saṃyutta_)_,_ as seen in the following quote. See Glossary 
 sv _Saṃyutta_:
-
++
 [quote, S.4.36]
 ____
 When there is spiritually fettering delight, there is attachment. Where there 
@@ -102,23 +102,19 @@ saṃyogaṃ
 emotional bondage; saṃyogaṃ, bondage [to individual existence]
 ====
 
+[quote, A.4.57]
 ____
 Being thus excited and delighted, she desires an emotional bondage with those 
 about her.
 
 _Sā tattha rattā tatrābhiratā bahiddhā saṃyogaṃ ākaṅkhati._
-____
 
-____
 And whatsoever physical and psychological pleasure arises from this emotional 
 bondage, that she desires.
 
 _Yañcassā saṃyogapaccayā uppajjati sukhaṃ somanassaṃ tañca 
 ākaṅkhati._
-____
 
-[quote, A.4.57]
-____
 Taking delight in and bound to her femininity, she has fallen into bondage [to 
 individual existence] amongst men.
 

@@ -20,19 +20,19 @@ scriptures called _viññāṇaṃ_; and furthermore, _nibbāna_ is never
 described as _sabbato pabhaṃ_. See synonyms of _nibbāna_ at S.4.368-373.
 
 2. In the scriptures _pabhassara_ is commonly linked to _cittaṃ._ For example:
-
++
 [quote, A.3.16-17]
 ____
 the mind is pliable and workable and radiant
 
 _cittaṃ mudu ca kammaniyañca pabhassarañca._
 ____
-
++
 That the related word _pabhaṃ_ is linked in our verse to _viññāṇaṃ_ 
 suggests that _viññāṇaṃ_ is the phenomenon more usually known as 
 _cittaṃ_. This is not greatly surprising because the two words are already 
 used as synonyms elsewhere in the scriptures. For example:
-
++
 [quote, S.2.95]
 ____
 That which is called 'mind' or 'cognition' or 'consciousness' arises as one 
@@ -42,12 +42,12 @@ _Yañca kho etaṃ bhikkhave vuccati cittaṃ iti pi mano iti pi
 viññāṇaṃ iti pi taṃ rattiyā ca divasassa ca aññadeva uppajjati 
 aññaṃ nirujjhati._
 ____
-
++
 Therefore the _viññāṇaṃ_ in our phrase might make more sense if 
 understood as _cittaṃ_. Accordingly, we will call it 'mind.'
 
 3. _Anidassanaṃ_ can mean invisible. For example:
-
++
 [quote, M.1.127]
 ____
 Because empty space is formless and invisible; it is not easy to draw pictures 
@@ -55,7 +55,7 @@ there
 
 __ākāso arūpī anidassano tattha na sukaraṃ rūpaṃ likhituṃ._
 ____
-
++
 However, PED gives nine meanings to _nidassana_ including 'attribute.' 
 Therefore we render _anidassana_ as 'with no attribute.'
 
@@ -63,7 +63,7 @@ Therefore we render _anidassana_ as 'with no attribute.'
 rationally be rendered as 'altogether radiant.' We therefore adopt the _via 
 negativa_ approach. This is easily accomplished because in the scriptures 
 _pabhassara_ means liberation from defilement. For example:
-
++
 [quote, A.1.10]
 ____
 The mind is intrinsically radiant: it is defiled by extrinsic defilements
@@ -71,41 +71,41 @@ The mind is intrinsically radiant: it is defiled by extrinsic defilements
 _Pabhassaramidaṃ bhikkhave cittaṃ tañca kho āgantukehi upakkilesehi 
 upakkiliṭṭhan ti._
 ____
-
++
 Therefore _sabbato pabhaṃ_ can be rendered as 'altogether free of 
 defilement.' This is compatible with 'having no attribute.'
 
 5. Our phrase is associated with the ending of all phenomena because it is 
 linked in its two references to these two statements:
-
++
 [quote, D.1.223]
 ____
 \a) Here denomination-and-bodily-form is completely ended
 
 _Ettha nāmañca rūpañca asesaṃ uparujjhati._
 ____
-
++
 [quote, M.1.329]
 ____
 \b) It is not reached by the totality of everything
 
 _sabbassa sabbattena ananubhūtaṃ._
 ____
-
++
 These statements both suggest our phrase means the ending of perception and 
 sense impression (_saññāvedayitanirodha_) because:
-
++
 [quote, M.1.53]
 ____
 \a) _Nāma_ includes sense impression and perception
 
 _Vedanā saññā cetanā phasso manasikāro idaṃ vuccatāvuso nāmaṃ._
 ____
-
++
 \b) 'Everything' (_sabba_) by definition includes 'whatever sense impression 
 that arises due to mental sensation' (_yampidaṃ manosamphassapaccayā 
 uppajjati vedayitaṃ sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ_, S.4.27).
-
++
 Therefore our phrase implies a state 'not reached by' sense impression.
 
 6. Our phrase is part of a five-line verse, which is quoted in full in the 

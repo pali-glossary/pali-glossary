@@ -127,15 +127,14 @@ That the Buddha regarded living secludedly (_pavivitta_) to be inseparably
 linked to the development of seclusion [from sensuous pleasures and spiritually 
 unwholesome factors] (_viveka_) is clear in these two quotes:
 
-1. This teaching is for those who live secludedly, not for those given to the 
+[quote, A.4.233]
+____
+This teaching is for those who live secludedly, not for those given to the 
 enjoyment of company. So it was said. And in reference to what was it said?
-+
-****
+
 _Pavivittassāyaṃ bhikkhave dhammo nāyaṃ dhammo saṅgaṇikārāmassā' 
 ti iti kho panetaṃ vuttaṃ kiñcetaṃ paṭicca vuttaṃ_
-****
 
-____
 ... In this regard, the bhikkhu living secludedly may be visited by bhikkhus, 
 bhikkhunīs, laymen, laywomen, kings and kings' ministers, and non-Buddhist 
 ascetics and their disciples.
@@ -143,10 +142,7 @@ ascetics and their disciples.
 _idha bhikkhave bhikkhuno pavivittassa viharato bhavanti upasaṅkamitāro 
 bhikkhū bhikkhūniyo upāsakā upāsikāyo rājāno rājamahāmattā titthiyā 
 titthiyasāvakā._
-____
 
-[quote, A.4.233]
-____
 ... In that case, the bhikkhu, mentally inclining, verging, and drifting 
 towards seclusion [from sensuous pleasures and spiritually unwholesome 
 factors], psychologically withdrawn [from sensuous pleasures and spiritually 
@@ -161,18 +157,19 @@ ____
 The Buddha regarded the training in _viveka_ to be part of the burden of 
 _paviveka_:
 
-2. The disciples of a teacher who lives secludedly do not likewise train 
+[quote, M.1.14]
+____
+The disciples of a teacher who lives secludedly do not likewise train 
 themselves in seclusion [from sensuous pleasures and spiritually unwholesome 
 factors]. They do not abandon those things which the teacher tells them to 
 abandon. They are luxurious and careless, leaders in backsliding, throwing off 
-the burden of physical seclusion
-+
-****
+the burden of physical seclusion.
+
 _Idhāvuso satthu pavivittassa viharato sāvakā vivekaṃ nānusikkhanti. 
 Yesañca dhammānaṃ satthā pahānamāha te ca dhamme nappajahanti. 
-Bāhulikā ca honti sāthalikā okkamane pubbaṅgamā **pavivek**e 
-nikkhittadhurā_ (M.1.14).
-****
+Bāhulikā ca honti sāthalikā okkamane pubbaṅgamā paviveke 
+nikkhittadhurā._
+____
 
 === Illustrations
 

@@ -318,26 +318,25 @@ COMMENT:
 when he said that?' Ānanda relayed the question to the Buddha, who replied 
 with the following two statements:
 
-1. 'Ānanda, that bhikkhu must be either newly ordained, or a foolish and 
+[quote, A.3.403]
+____
+'Ānanda, that bhikkhu must be either newly ordained, or a foolish and 
 incompetent elder. When [the statement] was declared by me categorically, how 
 on earth could he be unclear about it?'
-+
-****
+
 _So vā kho ānanda bhikkhu navo bhavissati acirapabbajito thero vā pana bālo 
 avyatto. Kathaṃ hi nāma yaṃ mayā ekaṃsena vyākataṃ tattha dvejjhaṃ 
 āpajjissati?_
-****
 
-He continued:
+(He continued...)
 
-2. 'I do not see any other single person about whom I have made a declaration 
+'I do not see any other single person about whom I have made a declaration 
 after [more completely] applying my whole mind to [the matter] as [I did with] 
 Devadatta.'
-+
-****
+
 _Nāhaṃ ānanda aññaṃ ekapuggalampi samanupassāmi yo evaṃ mayā 
-sabbaṃ cetaso samannāharitvā vyākato yathayidaṃ devadatto_ (A.3.403).
-****
+sabbaṃ cetaso samannāharitvā vyākato yathayidaṃ devadatto._
+____
 
 .Illustration
 ====

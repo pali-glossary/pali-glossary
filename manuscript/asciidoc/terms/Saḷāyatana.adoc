@@ -46,7 +46,7 @@ _Cha bāhirāni āyatanāni rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ
 rasāyatanaṃ phoṭṭhabbāyatanaṃ dhammāyatanaṃ_ (D.3.243).
 ****
 
-==== Cakkhuṃ=cakkhāyatanaṃ
+==== Cakkhuṃ = cakkhāyatanaṃ
 
 The scriptures rarely use the term _āyatanaṃ_ in reference to individual 
 senses. Although _saḷāyatanaṃ_ occurs 668 times, _cakkhāyatanaṃ_ occurs 
@@ -101,23 +101,26 @@ Thus _cakkhusamphassāyatanaṃ_ would mean 'basis for visual sensation.'
 
 The full terms of the six _āyatanā_ would therefore be:
 
-• basis for visual sensation +
-☸ _cakkhuṃ_ or _cakkhāyatanaṃ_
+[cols="2*"]
+|===
+| basis for visual sensation
+| _cakkhuṃ_ or _cakkhāyatanaṃ_
 
-• basis for auditory sensation +
-☸ _sotaṃ_ or _sotāyatanaṃ_
+| basis for auditory sensation
+| _sotaṃ_ or _sotāyatanaṃ_
 
-• basis for olfactory sensation +
-☸ _ghānaṃ_ or _ghānāyatanaṃ_
+| basis for olfactory sensation
+| _ghānaṃ_ or _ghānāyatanaṃ_
 
-• basis for gustatory sensation +
-☸ _jivhā_ or _jivhāyatanaṃ_
+| basis for gustatory sensation
+| _jivhā_ or _jivhāyatanaṃ_
 
-• basis for tactile sensation +
-☸ _kāyo_ or _kāyāyatanaṃ_
+| basis for tactile sensation
+| _kāyo_ or _kāyāyatanaṃ_
 
-• basis for mental sensation +
-☸ _mano_ or _manāyatanaṃ_
+| basis for mental sensation
+| _mano_ or _manāyatanaṃ_
+|===
 
 ==== Terminology: abbreviated
 
@@ -143,14 +146,12 @@ phoṭṭhabbāyatanaṃ dhammāyatanaṃ._ These terms are not abbreviations.
 Therefore, if we again render _āyatana_ as 'basis,' then each of the 
 _āyatanas_ are 'a basis of sensation,' and the _āyatanas_ can be rendered as:
 
+[quote, D.3.243]
 ____
 visible objects basis of sensation
 
 _rūpāyatanaṃ_
-____
 
-[quote, D.3.243]
-____
 mentally known objects basis of sensation
 
 _dhammāyatanaṃ._
@@ -162,9 +163,7 @@ ____
 visible objects...
 
 _rūpāyatanaṃ..._
-____
 
-____
 mentally known objects
 
 _dhammāyatanaṃ_
@@ -241,80 +240,55 @@ ____
 
 Our renderings of terms produces the following phrases:
 
-____
-In seeing a visible object via the visual sense
+.D.3.250
+[cols="2*"]
+|===
+| In seeing a visible object via the visual sense
+| _cakkhunā rūpaṃ disvā_
 
-_cakkhunā rūpaṃ disvā_
-____
+| In hearing an audible object via the auditory sense
+| _sotena saddaṃ sutvā_
 
-____
-In hearing an audible object via the auditory sense
+| In smelling a smellable object via the olfactory sense
+| _ghānena gandhaṃ ghāyitvā_
 
-_sotena saddaṃ sutvā_
-____
+| In tasting a tasteable object via the gustatory sense
+| _jivhāya rasaṃ sāyitvā_
 
-____
-In smelling a smellable object via the olfactory sense
+| In feeling a tangible object via the tactile sense
+| _kāyena phoṭṭhabbaṃ phusitvā_
 
-_ghānena gandhaṃ ghāyitvā_
-____
-
-____
-In tasting a tasteable object via the gustatory sense
-
-_jivhāya rasaṃ sāyitvā_
-____
-
-____
-In feeling a tangible object via the tactile sense
-
-_kāyena phoṭṭhabbaṃ phusitvā_
-____
-
-[quote, D.3.250]
-____
-In knowing a mentally known object via the mental sense
-
-_manasā dhammaṃ viññāya._
-____
+| In knowing a mentally known object via the mental sense
+| _manasā dhammaṃ viññāya._
+|===
 
 ==== Alternative spellings
 
 In some cases there are alternative Pāli spellings, as follows:
 
+[quote, S.4.75; Th.v.802; Th.v.814]
 ____
 in seeing a visible object (no alternative)
 
 _rūpaṃ disvā_
-____
 
-____
 in hearing an audible object (no alternative)
 
 _saddaṃ sutvā_
-____
 
-____
 in smelling a smellable object (three alternatives)
 
 _gandhaṃ ghāyitvā; gandhaṃ ghatvā; gandhaṃ ghātvā_
-____
 
-____
 in tasting a tasteable object (two alternatives)
 
 _rasaṃ sāyitvā; rasaṃ bhotvā_
-____
 
-[quote, =when touched by a tangible object]
-____
-in feeling a tangible object (two alternatives)
+- in feeling a tangible object (two alternatives)
+- when touched by a tangible object
 
 _phoṭṭhabbaṃ phusitvā; phassaṃ phussa_
-____
 
-[quote, S.4.75; Th.v.802; Th.v.814]
-____
 in knowing a mentally known object (two alternatives)
 
 _dhammaṃ viññāya; dhammaṃ ñatvā._
@@ -340,17 +314,13 @@ accordingly:
 Two examples where these renderings are appropriate:
 
 1. The ignorant Everyman is
-
++
 - struck in the eye by pleasing and displeasing sights;
-
 - struck in the ear by pleasing and displeasing sounds;
-
 - struck in the nose by pleasing and displeasing odours;
-
 - struck on the tongue by pleasing and displeasing flavours;
-
 - struck on the body by pleasing and displeasing physical sensations;
-
++
 [quote, S.4.201]
 ____
 struck in the mind by pleasing and displeasing mental phenomena.
@@ -488,6 +458,7 @@ cakkhuṃ
 vision
 ====
 
+[quote, D.1.82]
 ____
 With purified divine vision surpassing that of men, he sees beings passing away 
 and being reborn, inferior and superior, well-favoured and ill-favoured, 
@@ -495,10 +466,7 @@ fortunate and unfortunate,
 
 _dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne 
 upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate_
-____
 
-[quote, D.1.82]
-____
 ... and he understands how beings fare according to their deeds.
 
 _yathākammūpage satte pajānāti._
@@ -511,6 +479,7 @@ cakkhuṃ
 the visual sense
 ====
 
+[quote, M.3.32]
 ____
 There are these six senses and their objects rightly explained by the Blessed 
 One who knows and sees [the nature of reality], the Arahant, the Perfectly 
@@ -518,40 +487,27 @@ Enlightened One. Which six?
 
 _cha kho panimāni āvuso ajjhattikabāhirāni āyatanāni tena bhagavatā 
 jānatā passatā arahatā sammāsambuddhena sammadakkhātāni. Katamāni cha:_
-____
 
-____
 the visual sense and visible objects
 
 _cakkhuṃ ceva rūpā ca_
-____
 
-____
 the auditory sense and audible objects
 
 _sotañca saddā ca_
-____
 
-____
 the olfactory sense and smellable objects
 
 _ghānañca ghandhā ca_
-____
 
-____
 the gustatory sense and tasteable objects
 
 _jivhā ca rasā ca_
-____
 
-____
 the tactile sense and tangible objects
 
 _kāyo ca phoṭṭhabbā ca_
-____
 
-[quote, M.3.32]
-____
 the mental sense and mentally known objects
 
 _mano ca dhammā ca._
@@ -587,10 +543,13 @@ ____
 senses
 ====
 
-• There are just six senses, affected through one or other of which the fool 
-experiences pleasure and pain. +
-☸ _saḷevāyatanāni yehi puṭṭho bālo sukhadukkhaṃ 
-paṭisaṃvediyati etesaṃ vā_ aññatarena (S.2.23-24).
+[quote, S.2.23-24]
+____
+There are just six senses, affected through one or other of which the fool 
+experiences pleasure and pain.
+
+_saḷevāyatanāni yehi puṭṭho bālo sukhadukkhaṃ paṭisaṃvediyati etesaṃ vā aññatarena._
+____
 
 .Illustration
 ====
@@ -599,14 +558,12 @@ saḷāyatana
 six senses
 ====
 
+[quote, M.1.52]
 ____
 With the origination of the six senses comes the origination of sensation
 
 _saḷāyatanasamudayā phassasamudayo_
-____
 
-[quote, M.1.52]
-____
 With the ending of the six senses comes the ending of sensation
 
 _saḷāyatananirodhā phassanirodho._
@@ -637,13 +594,12 @@ ____
 senses
 ====
 
+[quote, S.4.77]
 ____
 What are the six mastered senses?
 
 _Katamāni ca bhikkhave cha abhibhāyatanāni_
-____
 
-____
 In this regard, when a bhikkhu sees a visible object via the visual sense, and 
 there does not arise in him unvirtuous, spiritually unwholesome memories and 
 thoughts conducive to psychological bondage, the bhikkhu should understand 
@@ -653,36 +609,25 @@ by the Blessed One.
 _Idha bhikkhave bhikkhuno cakkhunā rūpaṃ disvā nūppajjanti pāpakā 
 akusalā sarasaṅkappā saṃyojanīyā. Veditabbametaṃ bhikkhave bhikkhunā 
 abhibhūtametaṃ āyatanaṃ abhibhāyatanaṃ hetaṃ vuttaṃ bhagavatā ti._
-____
 
-The sutta continues
+(The sutta continues...)
 
-____
 In hearing an audible object via the auditory sense...
 
 _Sotena saddaṃ sutvā_
-____
 
-____
 In smelling a smellable object via the olfactory sense...
 
 _Ghānena gandhaṃ ghāyitvā_
-____
 
-____
 In tasting a tasteable object via the gustatory sense...
 
 _Jivhāya rasaṃ sāyitvā_
-____
 
-____
 In touching a tangible object via the tactile sense...
 
 _Kāyena phoṭṭhabbaṃ phusitvā_
-____
 
-[quote, S.4.77]
-____
 In knowing a mentally known object via the mental sense...
 
 _Manasā dhammaṃ viññāya._
