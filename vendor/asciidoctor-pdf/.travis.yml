@@ -1,0 +1,24 @@
+sudo: false
+git:
+  # use depth 2 just in case two refs get pushed at once (like a tag)
+  depth: 2
+language: ruby
+cache: bundler
+bundler_args: --path=.bundle/gems
+rvm:
+- &release_ruby 2.4.1
+- 2.1.10
+- 2.0.0
+- 1.9.3
+before_install:
+- gem update bundler
+- gem cleanup bundler
+script: bundle exec gem which prawn
+deploy:
+  provider: rubygems
+  on:
+    tags: true
+    repo: asciidoctor/asciidoctor-pdf
+    rvm: *release_ruby
+  api_key:
+    secure: bzAbFi7YT7bb/5gAePjw11Ghzbh+tOqMlL1Xn+o5pyseSNRDB5tDcocL0fbAcHkSBzaC/36m2apvdt0xmNYCmRLJyZtCS6lQtzW5j9hUXfCDnf8HmX0o785TtlUwk6qNqwd9v0GZGK58hts44K3mHtK/we9+5ucp3EhmP8l4MWE=
