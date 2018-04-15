@@ -26,6 +26,9 @@ epub-validate:
 mobi:
 	./helpers/generate_mobi.sh $(NAME)
 
+pdf:
+	./vendor/asciidoctor-pdf/bin/asciidoctor-pdf -D output -b pdf -o $(NAME)-custom.pdf main.adoc
+
 preview:
 	latexmk -pvc $(FILE).tex
 
