@@ -1,3 +1,4 @@
+[[introduction]]
 = Introduction
 
 == Glossary: methodology
@@ -300,3 +301,4 @@ Education Association, 1997.
 
 Venerable Varado was ordained in 1988 as a bhikkhu in Chithurst Buddhist 
 Monastery, England, by Venerable Ajahn Sumedho.
+
