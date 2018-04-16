@@ -1,0 +1,730 @@
+= Illustrated Glossary of Pāli Terms
+:booktitle: {doctitle}
+:description: Book Subtitle
+:author: Ajahn Varado
+:creator: {author}
+:version: v1.0
+:revdate: 2018-04-11
+:doctype: book
+:lang: en
+:pubs-logo: profound-pubs.jpg
+:publisher-name: Profound Publications
+:publisher-link-name: profound-labs.github.io
+:publisher-link-url: https://profound-labs.github.io/
+:source: https://profound-labs.github.io/
+//:keywords: subject, topic
+:copyright: CC-BY-NC-ND 4.0
+:isbn: 000-0-00000-000-0
+:identifier: isbn:{isbn}
+:imagesdir: assets/photos/92dpi-ebook-sRGB
+:includes: manuscript/asciidoc
+:terms: manuscript/asciidoc/terms
+:front-cover-image: image:desktop-cover.png[Front Cover,800,1200]
+:toc: left
+:toc-title: Contents
+:toclevels: 2
+
+include::{includes}/introduction.adoc[]
+
+[[terms-a]]
+= A
+
+include::{terms}/Agārasmā anagāriyaṃ pabbajito.adoc[]
+
+include::{terms}/Acakkhussa.adoc[]
+
+include::{terms}/Ajjhāyaka.adoc[]
+
+include::{terms}/Ajjhupekkhati.adoc[]
+
+include::{terms}/Ajjhosāna.adoc[]
+
+include::{terms}/Aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti.adoc[]
+
+include::{terms}/Aññā.adoc[]
+
+include::{terms}/Aññāya.adoc[]
+
+include::{terms}/Aṇḍabhūta.adoc[]
+
+include::{terms}/Aṭṭhikatvā.adoc[]
+
+include::{terms}/Atandita.adoc[]
+
+include::{terms}/Atammayo, No Sīlamayo, Mayo.adoc[]
+
+include::{terms}/Atimaññati.adoc[]
+
+include::{terms}/Attaniya.adoc[]
+
+include::{terms}/Attabhāva.adoc[]
+
+include::{terms}/Attā, Anattā.adoc[]
+
+include::{terms}/Attha.adoc[]
+
+include::{terms}/Atthaṅgama.adoc[]
+
+include::{terms}/Adhiṭṭhāna, Adhiṭṭhāti.adoc[]
+
+include::{terms}/Adhimuccati.adoc[]
+
+include::{terms}/Anaññaposin.adoc[]
+
+include::{terms}/Anaṇa.adoc[]
+
+include::{terms}/Anamatagga.adoc[]
+
+include::{terms}/Anālaya.adoc[]
+
+include::{terms}/Anicca, Nicca.adoc[]
+
+include::{terms}/Anīgha.adoc[]
+
+include::{terms}/Anuneti.adoc[]
+
+include::{terms}/Anumodati, Abbhanumodati.adoc[]
+
+include::{terms}/Anusaya.adoc[]
+
+include::{terms}/Antagū.adoc[]
+
+include::{terms}/Anvāssavati, Anussavati.adoc[]
+
+include::{terms}/Apekkhā.adoc[]
+
+include::{terms}/Appamatta, Appamāda.adoc[]
+
+include::{terms}/Abhijānāti, Parijānāti.adoc[]
+
+include::{terms}/Abhijjhā.adoc[]
+
+include::{terms}/Abhinandati.adoc[]
+
+include::{terms}/Abhinibbatti.adoc[]
+
+include::{terms}/Abhibhū.adoc[]
+
+include::{terms}/Abhivadati.adoc[]
+
+include::{terms}/Amatadhātu.adoc[]
+
+include::{terms}/Avassuta.adoc[]
+
+include::{terms}/Avijjā.adoc[]
+
+include::{terms}/Avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ.adoc[]
+
+include::{terms}/Aveccappasāda.adoc[]
+
+include::{terms}/Asmi.adoc[]
+
+include::{terms}/Ahaṅkāramamaṅkāramānānusayā.adoc[]
+
+[[terms-aa]]
+= Ā
+
+include::{terms}/Ākappa.adoc[]
+
+include::{terms}/Ākiñcañña, Kiñcana.adoc[]
+
+include::{terms}/Āghāta.adoc[]
+
+include::{terms}/Ājānāti.adoc[]
+
+include::{terms}/Ātāpin, Ātappa.adoc[]
+
+include::{terms}/Ādiccabandhu.adoc[]
+
+include::{terms}/Ādīnava.adoc[]
+
+include::{terms}/Āyatana.adoc[]
+
+include::{terms}/Ārambha, Sārambha, Samārambha.adoc[]
+
+include::{terms}/Ārammaṇa.adoc[]
+
+include::{terms}/Āvila.adoc[]
+
+include::{terms}/Āsava.adoc[]
+
+include::{terms}/Āsā.adoc[]
+
+include::{terms}/Āhāra.adoc[]
+
+[[terms-i]]
+= I
+
+include::{terms}/Itibhavābhava.adoc[]
+
+include::{terms}/Imaṃ kāyaṃ.adoc[]
+
+[[terms-u]]
+= U
+
+include::{terms}/Uju, Ujju.adoc[]
+
+include::{terms}/Ujjhāyati khīyati vipāceti.adoc[]
+
+include::{terms}/Uṇṇata.adoc[]
+
+include::{terms}/Uddhacca, Uddhata.adoc[]
+
+include::{terms}/Unnaḷā.adoc[]
+
+include::{terms}/Upadduta, Upaddava.adoc[]
+
+include::{terms}/Upadhi.adoc[]
+
+include::{terms}/Upādānā, Upādiyati.adoc[]
+
+include::{terms}/Upāyāsa, Āyāsa.adoc[]
+
+include::{terms}/Upekkhā.adoc[]
+
+include::{terms}/Upeti, Upaya.adoc[]
+
+include::{terms}/Ubhatobhāgavimutto, Paññāvimutto, Paññāvimuttin, Cetovimuttin.adoc[]
+
+[[terms-e]]
+= E
+
+include::{terms}/Ekamantaṃ.adoc[]
+
+include::{terms}/Eko care khaggavisāṇakappo.adoc[]
+
+include::{terms}/Ejā.adoc[]
+
+[[terms-o]]
+= O
+
+include::{terms}/Ogha.adoc[]
+
+include::{terms}/Opanayika.adoc[]
+
+include::{terms}/Oḷārika.adoc[]
+
+[[terms-k]]
+= K
+
+include::{terms}/Kaṇha, Sukka.adoc[]
+
+include::{terms}/Kappa.adoc[]
+
+include::{terms}/Kappaṃ n’eti.adoc[]
+
+include::{terms}/Kamma.adoc[]
+
+include::{terms}/Karuṇā, Anuddaya, Anukampa, Anukampati.adoc[]
+
+include::{terms}/Kalyāṇa.adoc[]
+
+include::{terms}/Kāma.adoc[]
+
+include::{terms}/Kāye kāyānupassī viharati.adoc[]
+
+include::{terms}/Kittāvatā, Ettāvatā.adoc[]
+
+include::{terms}/Kukkucca, Vippaṭisāra.adoc[]
+
+include::{terms}/Kulaputta.adoc[]
+
+include::{terms}/Kusala, Akusala.adoc[]
+
+include::{terms}/Kevalin.adoc[]
+
+include::{terms}/Kovida.adoc[]
+
+include::{terms}/Kvaci.adoc[]
+
+[[terms-kh]]
+= KH
+
+include::{terms}/Khaya.adoc[]
+
+include::{terms}/Khila.adoc[]
+
+include::{terms}/Khema.adoc[]
+
+[[terms-g]]
+= G
+
+include::{terms}/Gaṇḍa.adoc[]
+
+include::{terms}/Gilānapaccayabhesajjaparikkhāra.adoc[]
+
+include::{terms}/Guṇa.adoc[]
+
+include::{terms}/Gutta.adoc[]
+
+include::{terms}/Gocara.adoc[]
+
+[[terms-c]]
+= C
+
+include::{terms}/Capala.adoc[]
+
+include::{terms}/Camma.adoc[]
+
+include::{terms}/Citta.adoc[]
+
+include::{terms}/Cittaṃ pariyādāya tiṭṭhati.adoc[]
+
+include::{terms}/Cetanā, Ceteti.adoc[]
+
+include::{terms}/Cetovimutti, Paññāvimutti.adoc[]
+
+[[terms-ch]]
+= CH
+
+include::{terms}/Chanda.adoc[]
+
+[[terms-j]]
+= J
+
+include::{terms}/Jahāti orapāraṃ.adoc[]
+
+include::{terms}/Jāneyyāti.adoc[]
+
+include::{terms}/Jāla, Jālin.adoc[]
+
+[[terms-jh]]
+= JH
+
+include::{terms}/Jhāyati, Jhāna.adoc[]
+
+[[terms-ny]]
+= Ñ
+
+include::{terms}/Ñatvā.adoc[]
+
+include::{terms}/Ñāṇa.adoc[]
+
+include::{terms}/Ñāya.adoc[]
+
+[[terms-ṭh]]
+= ṬH
+
+include::{terms}/Ṭhāna.adoc[]
+
+[[terms-t]]
+= T
+
+include::{terms}/Taṃ kutettha labbhā ti.adoc[]
+
+include::{terms}/Taṇhā.adoc[]
+
+include::{terms}/Tathāgata.adoc[]
+
+include::{terms}/Tatheva.adoc[]
+
+include::{terms}/Tarati.adoc[]
+
+include::{terms}/Tādin, Tādisa.adoc[]
+
+include::{terms}/Tevijja, Vijjā.adoc[]
+
+[[terms-d]]
+= D
+
+include::{terms}/Daratha, Dara.adoc[]
+
+include::{terms}/Dassana.adoc[]
+
+include::{terms}/Diṭṭhi.adoc[]
+
+include::{terms}/Diṭṭhe dhamme, Sandiṭṭhika.adoc[]
+
+include::{terms}/Dukkha.adoc[]
+
+include::{terms}/Domanassa.adoc[]
+
+include::{terms}/Dosa.adoc[]
+
+include::{terms}/Dve Ante, Majjhimā Paṭipadā, Majjhena.adoc[]
+
+[[terms-dh]]
+= DH
+
+include::{terms}/Dhamma, Dhammin.adoc[]
+
+include::{terms}/Dhātu.adoc[]
+
+[[terms-n]]
+= N
+
+include::{terms}/Na ca maṃ dhammādhikaraṇaṃ vihesesi.adoc[]
+
+include::{terms}/Nandi, Nandati.adoc[]
+
+include::{terms}/Nahātaka.adoc[]
+
+include::{terms}/Nāccasārī na paccasārī.adoc[]
+
+include::{terms}/Nāmarūpa.adoc[]
+
+include::{terms}/Nikanti.adoc[]
+
+include::{terms}/Niketa.adoc[]
+
+include::{terms}/Nicchāta.adoc[]
+
+include::{terms}/Nidāna.adoc[]
+
+include::{terms}/Nindā.adoc[]
+
+include::{terms}/Nipaka, Nepakka.adoc[]
+
+include::{terms}/Nibbāna, Nibbuta, Nibbuti.adoc[]
+
+include::{terms}/Nibbidā, Nibbindati.adoc[]
+
+include::{terms}/Nimitta.adoc[]
+
+include::{terms}/Niyāma.adoc[]
+
+include::{terms}/Niyyāna.adoc[]
+
+include::{terms}/Nirodha.adoc[]
+
+include::{terms}/Nivesana.adoc[]
+
+include::{terms}/Nissaya, Nissāya, Nissita.adoc[]
+
+include::{terms}/Nekkhamma.adoc[]
+
+include::{terms}/No c’assa no ca me siyā.adoc[]
+
+[[terms-p]]
+= P
+
+include::{terms}/Paccaya.adoc[]
+
+include::{terms}/Pacceti.adoc[]
+
+include::{terms}/Pacchāpuresaññī.adoc[]
+
+include::{terms}/Pajānāti, Paññā.adoc[]
+
+include::{terms}/Paññuttara.adoc[]
+
+include::{terms}/Paṭigha.adoc[]
+
+include::{terms}/Paṭicca.adoc[]
+
+include::{terms}/Paṭinissaggānupassī assasissāmī ti sikkhati.adoc[]
+
+include::{terms}/Paṭipadā, Paṭipajjati, Paṭipanna.adoc[]
+
+include::{terms}/Paṭibhāna.adoc[]
+
+include::{terms}/Paṭisaṃyutta.adoc[]
+
+include::{terms}/Paṭisallāna.adoc[]
+
+include::{terms}/Paṭhavī, Āpo, Tejo, Vāyo.adoc[]
+
+include::{terms}/Patilīna.adoc[]
+
+include::{terms}/Pattipatta.adoc[]
+
+include::{terms}/Padussati.adoc[]
+
+include::{terms}/Papañca.adoc[]
+
+include::{terms}/Parakkama.adoc[]
+
+include::{terms}/Parājita.adoc[]
+
+include::{terms}/Pariciṇṇo mayā satthā.adoc[]
+
+include::{terms}/Paritassati.adoc[]
+
+include::{terms}/Paribbajati.adoc[]
+
+include::{terms}/Parimukhaṃ satiṃ upaṭṭhapetvā.adoc[]
+
+include::{terms}/Pariyāya.adoc[]
+
+include::{terms}/Pariyuṭṭhāna, Pariyuṭṭhita.adoc[]
+
+include::{terms}/Pariḷāha.adoc[]
+
+include::{terms}/Paviveka.adoc[]
+
+include::{terms}/Pasīdati, Pasāda, Pasanna.adoc[]
+
+include::{terms}/Passati, Vipassati.adoc[]
+
+include::{terms}/Pahitatta.adoc[]
+
+include::{terms}/Pāpaka, Pāpa.adoc[]
+
+include::{terms}/Pāragata, Pāragū.adoc[]
+
+include::{terms}/Pārāyana, Parāyaṇa.adoc[]
+
+include::{terms}/Pāsādika.adoc[]
+
+include::{terms}/Piya.adoc[]
+
+include::{terms}/Puthujjana.adoc[]
+
+include::{terms}/Purakkhata.adoc[]
+
+include::{terms}/Pūtimutta.adoc[]
+
+include::{terms}/Pema.adoc[]
+
+[[terms-ph]]
+= PH
+
+include::{terms}/Phandana.adoc[]
+
+include::{terms}/Phassa.adoc[]
+
+[[terms-b]]
+= B
+
+include::{terms}/Baddha.adoc[]
+
+include::{terms}/Bandhana.adoc[]
+
+include::{terms}/Brahmacariya.adoc[]
+
+include::{terms}/Brāhmaṇa.adoc[]
+
+[[terms-bh]]
+= BH
+
+include::{terms}/Bhava, Vibhava.adoc[]
+
+include::{terms}/Bhavābhava.adoc[]
+
+include::{terms}/Bhāra.adoc[]
+
+include::{terms}/Bhūta.adoc[]
+
+[[terms-m]]
+= M
+
+include::{terms}/Manosañcetanāhāro.adoc[]
+
+include::{terms}/Maññati.adoc[]
+
+include::{terms}/Mathita.adoc[]
+
+include::{terms}/Mada.adoc[]
+
+include::{terms}/Manasikāra.adoc[]
+
+include::{terms}/Mantabhāṇin.adoc[]
+
+include::{terms}/Mama.adoc[]
+
+include::{terms}/Mā anussavena.adoc[]
+
+include::{terms}/Māna.adoc[]
+
+include::{terms}/Middha.adoc[]
+
+include::{terms}/Mutta, Vippamutta.adoc[]
+
+include::{terms}/Muditā.adoc[]
+
+include::{terms}/Mūla.adoc[]
+
+include::{terms}/Mūlakā.adoc[]
+
+include::{terms}/Mettā.adoc[]
+
+include::{terms}/Moghapurisa.adoc[]
+
+include::{terms}/Moha.adoc[]
+
+[[terms-y]]
+= Y
+
+include::{terms}/Yathābhūta.adoc[]
+
+include::{terms}/Yamāmase.adoc[]
+
+include::{terms}/Yasa.adoc[]
+
+include::{terms}/Yoga.adoc[]
+
+include::{terms}/Yogakkhema.adoc[]
+
+include::{terms}/Yogo karaṇīyo.adoc[]
+
+include::{terms}/Yoniso.adoc[]
+
+[[terms-r]]
+= R
+
+include::{terms}/Rakkhati.adoc[]
+
+include::{terms}/Rati, Arati.adoc[]
+
+include::{terms}/Rāga.adoc[]
+
+include::{terms}/Rūpa.adoc[]
+
+[[terms-l]]
+= L
+
+include::{terms}/Limpati.adoc[]
+
+include::{terms}/Loka.adoc[]
+
+[[terms-v]]
+= V
+
+include::{terms}/Va jhayati.adoc[]
+
+include::{terms}/Vadhati, Vadha.adoc[]
+
+include::{terms}/Vanatha, Vana.adoc[]
+
+include::{terms}/Vavakaṭṭha, Vūpakaṭṭha.adoc[]
+
+include::{terms}/Vasala.adoc[]
+
+include::{terms}/Vicakkhaṇa.adoc[]
+
+include::{terms}/Vicikicchā.adoc[]
+
+include::{terms}/Vijānata.adoc[]
+
+include::{terms}/Viññāṇa.adoc[]
+
+include::{terms}/Viññāṇaṃ anidassanaṃ anantaṃ sabbato pabhaṃ.adoc[]
+
+include::{terms}/Vinaya, Vineti.adoc[]
+
+include::{terms}/Vinicchaya.adoc[]
+
+include::{terms}/Vipāka.adoc[]
+
+include::{terms}/Vippasannāni indriyāni, Santindriyāni.adoc[]
+
+include::{terms}/Vimutta, Vimutti.adoc[]
+
+include::{terms}/Vimuttiñāṇadassana.adoc[]
+
+include::{terms}/Vimokkha.adoc[]
+
+include::{terms}/Virajjati, Viratta, Virājetvā.adoc[]
+
+include::{terms}/Virāga.adoc[]
+
+include::{terms}/Viriya.adoc[]
+
+include::{terms}/Viruddha, Virodha.adoc[]
+
+include::{terms}/Vivaṭṭacchadda.adoc[]
+
+include::{terms}/Viveka.adoc[]
+
+include::{terms}/Vihaññati.adoc[]
+
+include::{terms}/Vihesā, Vihiṃsā.adoc[]
+
+include::{terms}/Veda, Vedagū.adoc[]
+
+include::{terms}/Vedanā, Vedayita.adoc[]
+
+include::{terms}/Vera.adoc[]
+
+include::{terms}/Vossagga.adoc[]
+
+include::{terms}/Vyāpajjati.adoc[]
+
+include::{terms}/Vyāpajjha, Vyābajjhā.adoc[]
+
+include::{terms}/Vyāpāda, Vyāpanna.adoc[]
+
+include::{terms}/Vyābādha.adoc[]
+
+[[terms-s]]
+= S
+
+include::{terms}/Saṃyutta.adoc[]
+
+include::{terms}/Saṃyoga.adoc[]
+
+include::{terms}/Saṃyojana.adoc[]
+
+include::{terms}/Saṃvara, Saṃvuta.adoc[]
+
+include::{terms}/Saṃvega, Saṃvejeti.adoc[]
+
+include::{terms}/Saṃsagga, Saṃsaṭṭha.adoc[]
+
+include::{terms}/Saṃsāra.adoc[]
+
+include::{terms}/Sakyaputtiya.adoc[]
+
+include::{terms}/Saṅkappa.adoc[]
+
+include::{terms}/Saṅkhata.adoc[]
+
+include::{terms}/Saṅkhā.adoc[]
+
+include::{terms}/Saṅkhāra.adoc[]
+
+include::{terms}/Saṅga, Satta.adoc[]
+
+include::{terms}/Saṅgahavatthūni.adoc[]
+
+include::{terms}/Saṅgha.adoc[]
+
+include::{terms}/Saññā, Sañjānāti.adoc[]
+
+include::{terms}/Satipaṭṭhānā.adoc[]
+
+include::{terms}/Saddhā.adoc[]
+
+include::{terms}/Santusita, Santuṭṭha.adoc[]
+
+include::{terms}/Sappurisa.adoc[]
+
+include::{terms}/Sabbe dhammā nālaṃ abhinivesāyā.adoc[]
+
+include::{terms}/Samādhi.adoc[]
+
+include::{terms}/Samāhita.adoc[]
+
+include::{terms}/Samudaya.adoc[]
+
+include::{terms}/Sampanna.adoc[]
+
+include::{terms}/Sambhava.adoc[]
+
+include::{terms}/Saḷāyatana.adoc[]
+
+include::{terms}/Sāvajja, Anavajja.adoc[]
+
+include::{terms}/Sāsana.adoc[]
+
+include::{terms}/Sītibhūta.adoc[]
+
+include::{terms}/Sīlabbata.adoc[]
+
+include::{terms}/Suñña, Suññatā.adoc[]
+
+include::{terms}/Suññāgāra.adoc[]
+
+include::{terms}/Subha.adoc[]
+
+include::{terms}/Sevati.adoc[]
+
+include::{terms}/Sottiya.adoc[]
+
+[[terms-h]]
+= H
+
+include::{terms}/Hetu.adoc[]
+
+include::{includes}/copyright.adoc[]
+

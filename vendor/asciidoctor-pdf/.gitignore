@@ -1,0 +1,8 @@
+*.pdfmarks
+/_*/
+/Gemfile.lock
+/pkg/
+/.bundle/
+/.ruby-gemset
+/.ruby-version
+/.idea/

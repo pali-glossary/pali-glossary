@@ -1,5 +1,5 @@
 FILE=main
-NAME=prophecy
+NAME=glossary
 
 LATEX=lualatex
 BIBTEX=bibtex
@@ -15,7 +15,7 @@ document:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex
 
 html:
-	asciidoctor -D output stillness-flowing.adoc
+	asciidoctor -D output -b html5 -o $(NAME).html main.adoc
 
 epub:
 	./helpers/generate_epub.sh $(NAME)
@@ -25,6 +25,9 @@ epub-validate:
 
 mobi:
 	./helpers/generate_mobi.sh $(NAME)
+
+pdf:
+	./vendor/asciidoctor-pdf/bin/asciidoctor-pdf -D output -b pdf -o $(NAME)-custom.pdf main.adoc
 
 preview:
 	latexmk -pvc $(FILE).tex
