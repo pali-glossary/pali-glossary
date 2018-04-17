@@ -1,0 +1,32 @@
+@import "spectral-regular-woff-base64";
+@import "spectral-italic-woff-base64";
+@import "spectral-bold-woff-base64";
+@import "spectral-bolditalic-woff-base64";
+
+@font-face {
+    font-family: 'Spectral';
+    font-style: normal;
+    font-weight: normal;
+    src: url("#{$spectral-regular-woff-base64}") format('woff');
+}
+
+@font-face {
+  font-family: 'Spectral';
+  font-style: italic;
+  font-weight: normal;
+  src: url("#{$spectral-italic-woff-base64}") format('woff');
+}
+
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: bold;
+  src: url("#{$spectral-bold-woff-base64}") format('woff');
+}
+
+@font-face {
+    font-family: 'Spectral';
+    font-style: italic;
+    font-weight: bold;
+    src: url("#{$spectral-bolditalic-woff-base64}") format('woff');
+}
