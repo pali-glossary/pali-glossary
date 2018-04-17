@@ -28,9 +28,9 @@
 :listing-caption!:
 :stylesheet: assets/stylesheets/glossary.css
 
-include::{includes}/introduction.adoc[]
+//include::{includes}/introduction.adoc[]
 
-include::{includes}/glossary.adoc[]
+include::{includes}/glossary-sample.adoc[]
 
-include::{includes}/copyright.adoc[]
+//include::{includes}/copyright.adoc[]
 
