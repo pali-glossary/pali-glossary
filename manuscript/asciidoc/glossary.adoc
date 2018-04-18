@@ -1990,7 +1990,7 @@ qualities in all originated phenomena.
 
 ===== Atammayo and egotistical thought: Sappurisa Sutta
 
-The _Sappurisa Sutta_ (M.3.42) says when the common person (a__sappuriso__)
+The _Sappurisa Sutta_ (M.3.42) says when the common person (_asappuriso_)
 gains first jhāna, he thinks 'I am an attainer of the first jhāna; these
 other bhikkhus are not.' But when a spiritually outstanding person
 (_sappuriso_) gains jhāna, he thinks '_atammayatā_ even concerning the
@@ -2007,7 +2007,7 @@ other than that.'
 
 But we have shown in this Glossary that _maññati_ is not just 'to think,' but
 'to think of in personal terms.' Even the passage in hand already suggests
-this, where the thoughts of the a__sappuriso__, dominated by the word _ahaṃ_
+this, where the thoughts of the _asappuriso_, dominated by the word _ahaṃ_
 are so obviously egotistical.
 
 Therefore, in context, the words mean:
@@ -2070,7 +2070,7 @@ atammayataṃ
 the perception that "It is void of personal qualities"
 ====
 
-When the common person (a__sappuriso__) gains first jhāna, he thinks 'I am an
+When the common person (_asappuriso_) gains first jhāna, he thinks 'I am an
 attainer of the first jhāna; these other bhikkhus are not,' thereby glorifying
 himself and disparaging others (_attānukkaṃseti paraṃ vambheti_). When a
 spiritually outstanding person (_sappuriso_) gains jhāna, he thinks:
@@ -2189,7 +2189,7 @@ ____
 Venerable Vaṅgīsa despised other well-behaved bhikkhus on account of his own
 impromptu reflectiveness
 
-__āyasmā vaṅgīso attano paṭibhānena aññe pesale bhikkhū
+_āyasmā vaṅgīso attano paṭibhānena aññe pesale bhikkhū
 atimaññati._
 ____
 
@@ -4130,7 +4130,7 @@ solution. We render it in over thirty ways.
 _Attha_ has two different roots, _artha_ and _asta_.
 
 1. _Asta/attha_ occurs as a prefix in terms such as _atthaṃ paleti,
-abbhatthaṃ gacchanti_ (=__abhi+atthaṃ gacchanti__) and _atthaṅgamo_, all
+abbhatthaṃ gacchanti_ (= _abhi+atthaṃ gacchanti_) and _atthaṅgamo_, all
 of which can be rendered as 'vanish' or 'vanishing.' But these are covered
 under _Atthaṅgama_, not here.
 
@@ -5624,7 +5624,7 @@ _Attha_ is two words with different roots, _artha_ and _asta_. The former
 (_artha/attha_) is covered in the Glossary under _Attha_. The latter
 (_asta/attha_) is examined here. It occurs in three terms:
 
-1. _abbhatthaṃ gacchanti_ (=__abhi+atthaṃ gacchanti__)
+1. _abbhatthaṃ gacchanti_ (= _abhi+atthaṃ gacchanti_)
 
 2. _atthaṃ paleti_
 
@@ -6741,7 +6741,7 @@ Context: Bhikkhus walking on almsround for selfish reasons.
 ===== Etymology: aṇa and iṇa
 
 _Aṇa_ occurs only as _anaṇa_. Its synonym is _iṇa_. _Sāṇo_ is
-__sa+iṇo__='not free of karmic debt.'
+_sa+iṇo_ = 'not free of karmic debt.'
 
 ===== Karmic debt
 
@@ -6865,7 +6865,7 @@ _Sāṇo_ is _sa+iṇo._
 
 _Anamatagga_ has long been a source of controversy. The difficulty of the word
 is acknowledged by PED when it says: 'The meaning can best be seen, not from
-the derivation (which is uncertain), but from the examples quoted__.'__
+the derivation (which is uncertain), but from the examples quoted.'
 
 ===== Translators' renderings
 
@@ -7236,7 +7236,7 @@ ____
 For beings who take pleasure and delight in clinging, finding satisfaction in
 clinging
 
-__ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya._
+_ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya._
 ____
 
 
@@ -7252,7 +7252,7 @@ Beings take pleasure and delight in clinging, find satisfaction in clinging.
 But they really listen to the teaching of letting go taught to them by the
 Perfect One, they lend an ear, they apply their minds to understand [it].
 
-__ālayārāmā bhikkhave pajā ālayaratā ālayasammuditā sā tathāgatena
+_ālayārāmā bhikkhave pajā ālayaratā ālayasammuditā sā tathāgatena
 anālaye dhamme desiyamāne sussūsati sotaṃ odahati aññācittaṃ
 upaṭṭhapeti._
 ____
@@ -7428,7 +7428,7 @@ ____
 ____
 a changeability while persisting is discernable
 
-__ṭhitassa aññathattaṃ paññāyati._
+_ṭhitassa aññathattaṃ paññāyati._
 ____
 
 The idea of 'changeability while persisting' again negates any possibility of
@@ -9167,7 +9167,7 @@ _Antagū_ means 'one who has reached the end (of something),' and is therefore
 usually qualified. For example: 'the end of the spiritual path'
 (_paṭipadantaguṃ_) or 'the end of suffering' (_dukkhantagunā_), and so on.
 
-===== Lokantagū__:__ reached the end of the world [of phenomena]
+===== Lokantagū: reached the end of the world [of phenomena]
 
 _Lokantagū_ means 'one who has reached the end of the world.' _Loka_ is dealt
 with in detail elsewhere in the Glossary, but in conclusion we take 'world' as
@@ -11331,7 +11331,7 @@ ____
 A man who has long been living abroad, who returns safely from afar, his
 relatives, friends, and comrades applaud his return.
 
-__Ñātimittā suhajjā ca abhinandanti āgataṃ._
+_Ñātimittā suhajjā ca abhinandanti āgataṃ._
 ____
 
 
@@ -12021,7 +12021,7 @@ Once, when bhikkhus were noisy the Buddha told them 'Go I dismiss you. You
 should not live with me.' Later someone asked:
 
 ____
-__'__Bhante, may the Blessed One take delight in the community of bhikkhus.
+'Bhante, may the Blessed One take delight in the community of bhikkhus.
 
 _abhinandatu bhante bhagavā bhikkhusaṅghaṃ_
 ____
@@ -13295,7 +13295,7 @@ having penetrated.'
 _Avecca_ is linked in the scriptures to unshakability, for example in this
 verse:
 
-[quote, Sn.__v.22__9]
+[quote, Sn.v.229]
 ____
 Like a locking-post firmly embedded in the ground that is unshakeable by the
 winds of the four quarters, I declare, is the [quality of a] spiritually
@@ -15903,7 +15903,7 @@ vigorously applied [to the practice]
 [quote, S.1.13]
 ____
 A bhikkhu who is mindful and vigorously applied [to the practice] can
-disentangle this tangle__.
+disentangle this tangle.
 
 _Ātāpī nipako bhikkhu so imaṃ vijaṭaye jaṭanti._
 ____
@@ -36875,7 +36875,7 @@ ____
 Kvaci means 'anywhere' (PED), but it is commonly paired with another locative
 adverb so it becomes redundant. For instance, 'all directions anywhere':
 
-[quote, Ud.__4__7]
+[quote, Ud.47]
 ____
 On traversing all directions with the mind one finds no one anywhere more
 beloved oneself.
@@ -38187,9 +38187,9 @@ Also _antaguṇaṃ_ (mesentary), is part of this group.
 
 
 ====
-guṇaṃ__
+guṇaṃ
 
-__ times
+times
 ====
 
 [quote, D.3.13]
@@ -38203,9 +38203,9 @@ ____
 
 
 ====
-guṇaṃ__
+guṇaṃ
 
-__ times
+times
 ====
 
 [quote, D.3.187]
@@ -92101,9 +92101,9 @@ ____
 
 
 ====
-yase__
+yase
 
-__ prestige
+prestige
 ====
 
 [quote, Th.v.664-5]
@@ -92119,9 +92119,9 @@ ____
 
 
 ====
-yaso__
+yaso
 
-__ prestige
+prestige
 ====
 
 ____
@@ -92139,9 +92139,9 @@ Praise arises... Pleasure arises... Pain arises... (S.5.158).
 
 
 ====
-_yaso
+yaso
 
-_ prestige
+prestige
 ====
 
 ____
@@ -92161,9 +92161,9 @@ ____
 
 
 ====
-yasaṃ__
+yasaṃ
 
-__ prestige
+prestige
 ====
 
 [quote, D.3.192]
@@ -106831,7 +106831,7 @@ If _vivaṭṭacchadda_ means 'completely renounced the round of rebirth,' then
 it is comparable to _chinnaṃ vaṭṭaṃ_, 'the round of rebirth destroyed'
 in this passage:
 
-[quote, Ud.__7__5]
+[quote, Ud.75]
 ____
 He has destroyed the round of rebirth, abandoned longing. The dried-up stream
 no longer flows. The round of rebirth, destroyed, no longer continues. This is
@@ -113287,7 +113287,7 @@ _vaṭṭa_ is linked to _vattati_ which means 'to move, go on, proceed; to
 happen, take place, to be; to be in existence; to fare, to do' (PED). Thus
 _vaṭṭaṃ,_ too, is rendered here as 'round' not 'cycle':
 
-[quote, Ud.__7__5]
+[quote, Ud.75]
 ____
 He has destroyed the round of rebirth, abandoned longing. The dried-up stream
 no longer flows. The round of rebirth, destroyed, no longer continues. This is
@@ -114551,7 +114551,7 @@ saṅkhā
 conception
 ====
 
-[quote, D.__2.27__7]
+[quote, D.2.277]
 ____
 Lord of the Devas, the basis, origin, object of genesis and production, of
 thought is entrenched perception and conception. When there is entrenched
@@ -119969,7 +119969,7 @@ sappurisaṃ
 spiritually outstanding person
 ====
 
-[quote, Sn.__v.22__9]
+[quote, Sn.v.229]
 ____
 'Like a locking-post firmly embedded in the ground that is unshakeable by the
 winds of the four quarters, I declare, is the [quality of a] spiritually
@@ -120827,7 +120827,7 @@ Comment:
 
 - Horner: 'it is impossible for them, because of me or because of anyone else.'
 
-_• karaṇā_: 'by means of, through, by (=__hetu__ or _nissāya_)' (PED).
+_• karaṇā_: 'by means of, through, by (=_hetu_ or _nissāya_)' (PED).
 
 === Samādhi
 
@@ -121661,7 +121661,7 @@ While this discourse was being propounded, the uncorrupted, stainless vision of
 the nature of reality arose within Venerable Koṇḍañña that whatever is of
 an originated nature is destined to cease.
 
-__āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
+_āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
 yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman ti._
 ____
 
@@ -121754,7 +121754,7 @@ ____
 A bronze cup of a beverage having an excellent colour, aroma, and flavour, but
 mixed with poison.
 
-__āpānīyakaṃso vaṇṇasampanno gandhasampanno rasasampanno so ca kho
+_āpānīyakaṃso vaṇṇasampanno gandhasampanno rasasampanno so ca kho
 visena saṃsaṭṭho._
 ____
 
@@ -123032,7 +123032,7 @@ While this discourse was being propounded, the uncorrupted, stainless vision of
 the nature of reality arose within Venerable Koṇḍañña that whatever is of
 an originated nature is destined to cease.
 
-__āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
+_āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
 yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman ti._
 ____
 
@@ -123465,7 +123465,7 @@ ____
 
 - _sāsana_: training system
 
-- _sāsana_: call, advice, explanation, or teaching (=__anusāsana__, in verse)
+- _sāsana_: call, advice, explanation, or teaching (= _anusāsana_, in verse)
 
 ==== Introduction
 
@@ -123866,7 +123866,7 @@ the quality of the _āsavas_.
 ____
 Vexatious and anguishing perceptually obscuring states
 
-__āsavā vighātapariḷāhā._
+_āsavā vighātapariḷāhā._
 ____
 
 ===== Conclusion
