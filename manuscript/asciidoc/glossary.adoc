@@ -32041,24 +32041,21 @@ ____
 In relation to friendship, _kalyāṇa_ is linked to the influence people have
 over others, and can again be rendered 'virtuous.'
 
+[quote, S.1.88-9]
 ____
 This is the entire religious life, Ānanda, namely, virtuous friendship,
 virtuous companionship, virtuous comradeship.
 
 _sakalameva hidaṃ ānanda brahmacariyaṃ yadidaṃ kalyāṇamittatā
 kalyāṇasahāyatā kalyāṇasampavaṅkatā_
-____
 
-[quote, S.1.88-9]
-____
 (...) When a bhikkhu has a virtuous friend, a virtuous companion, a virtuous
 comrade, it is to be expected that he will develop and cultivate the noble
 eightfold path.
 
 _kalyāṇamittassetaṃ ānanda bhikkhuno pāṭikaṅkhaṃ
 kalyāṇasahāyassa kalyāṇasampavaṅkassa ariyaṃ aṭṭhaṅgikaṃ
-maggaṃ bhāvessati ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissatī
-ti._
+maggaṃ bhāvessati ariyaṃ aṭṭhaṅgikaṃ maggaṃ bahulīkarissatī ti._
 ____
 
 ==== Illustrations
@@ -32115,28 +32112,26 @@ ____
 
 ====
 virtuous
+====
 
-• And what is virtuous friendship? +
+[quote, A.4.282]
+____
+And what is virtuous friendship?
+
 _Katamā ca vyagghapajja kalyāṇamittatā:_
 
-____
-In whatever village or town the noble young man lives
-
+In whatever village or town the noble young man lives,
 he consorts with and converses with householders and their sons, old and young
 alike matured in virtue, and emulates their perfection in faith, virtue,
 generosity, and wisdom.
-====
 
 _idha vyagghapajja kulaputto yasmiṃ gāme vā nigame vā paṭivasati tattha
 ye te honti gahapati vā gahapatiputto vā daharā vā vuddhasīlino vuddhā
 vā vuddhasīlā saddhāsampannā sīlasampannā cāgasampannā
 paññāsampannā tehi saddhiṃ santiṭṭhati sallapati sākacchaṃ
 samāpajjati._
-____
 
-[quote, A.4.282]
-____
-Insofar as this happens, this is called virtuous friendship._
+Insofar as this happens, this is called virtuous friendship.
 
 _Yathā rūpānaṃ saddhāsampannānaṃ saddhāsampadaṃ anusikkhati
 yathārūpānaṃ sīlasampannānaṃ sīlasampadaṃ anusikkhati
@@ -32277,7 +32272,7 @@ meritorious
 ____
 It is this [absolute] Selfhood of mine that speaks and experiences here and
 there the karmic consequences of meritorious and demeritorious deeds; and this
-&#8203;[absolute] Selfhood of mine is everlasting, enduring, eternal, of an
+[absolute] Selfhood of mine is everlasting, enduring, eternal, of an
 unchangeable nature, and will endure like unto eternity itself._
 
 _yo me ayaṃ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṃ
@@ -35228,7 +35223,7 @@ ____
 a spiritual obstruction, a spiritual hindrance, a spiritual defilement, a
 weakener of penetrative discernment.
 
-__āvaraṇā nīvaraṇā cetaso upakkilesā paññāya dubbalīkaraṇā._
+_āvaraṇā nīvaraṇā cetaso upakkilesā paññāya dubbalīkaraṇā._
 ____
 
 ===== Essence of kusala: four bases of mindfulness
