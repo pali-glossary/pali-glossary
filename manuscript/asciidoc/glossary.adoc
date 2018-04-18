@@ -3033,12 +3033,9 @@ ____
 
 ====
 personal disposition
-
-[quote
-
-A.3.411]
 ====
 
+[quote, A.3.411]
 ____
 In one yearning for sensuous pleasure a corresponding personal disposition is
 manifested, either meritorious or demeritorious.
@@ -3050,12 +3047,9 @@ ____
 
 ====
 personal disposition
-
-[quote
-
-A.3.411]
 ====
 
+[quote, A.3.411]
 ____
 In one experiencing [a sense impression] a corresponding personal disposition
 is manifested, either meritorious or demeritorious.
@@ -3067,12 +3061,9 @@ ____
 
 ====
 personal disposition
-
-[quote
-
-A.3.414]
 ====
 
+[quote, A.3.414]
 ____
 In one who has acquiesced in uninsightfulness into reality a corresponding
 personal disposition is manifested (_tajjaṃ tajjaṃ attabhāvaṃ
@@ -6688,12 +6679,9 @@ patron, and has many admirable qualities. Even the devas envy such a bhikkhu.
 
 ====
 not supported by a patron
-
-[quote
-
-S.1.141]
 ====
 
+[quote, S.1.141]
 ____
 This bhikkhu Brahmadeva, madam, free of attachment has surpassed the devas.
 Liberated from the perception of existence, not supported by a patron, this
@@ -6708,12 +6696,9 @@ Context: Venerable Brahmadeva walking on uninterrupted almsround in Sāvatthī.
 
 ====
 not supported by a patron
-
-[quote
-
-Ud.4]
 ====
 
+[quote, Ud.4]
 ____
 One who is not supported by a patron, not well-known, inwardly tamed,
 established in excellent qualities, whose _āsavas_ are destroyed, and who is
@@ -6729,12 +6714,9 @@ poor district of Rājagaha.
 
 ====
 not supported by a patron
-
-[quote
-
-Ud.31]
 ====
 
+[quote, Ud.31]
 ____
 The devas envy the bhikkhu who collects his food on almsround, who is
 self-reliant, not supported by a patron, but not if it is based on desire for
@@ -7496,12 +7478,9 @@ ____
 
 ====
 aniccaṃ unlasting
-
-[quote
-
-S.3.76]
 ====
 
+[quote, S.3.76]
 ____
 You should abandon fondness for what is unlasting.
 
@@ -9413,12 +9392,9 @@ ____
 
 ====
 anvāssaveyyuṃ pursue
-
-[quote
-
-S.4.178]
 ====
 
+[quote, S.4.178]
 ____
 If you abide with the faculty of sight unrestrained [from attraction and
 repulsion, through mindfulness], greed, dejection, and unvirtuous, spiritually
@@ -10721,12 +10697,9 @@ ____
 
 ====
 abhijānaṃ fully understanding; parijānaṃ profoundly understanding
-
-[quote
-
-S.4.89]
 ====
 
+[quote, S.4.89]
 ____
 Bhikkhus, one who has not fully and profoundly understood the visual sense and
 discarded and abandoned it, is incapable of destroying suffering
@@ -12070,12 +12043,9 @@ ____
 
 ====
 abhivadiṃ welcome
-
-[quote
-
-M.1.330]
 ====
 
+[quote, M.1.330]
 ____
 Seeing the danger of individual existence when searching for either [states of]
 individual existence or the cessation of [states of] individual existence, I
@@ -12801,13 +12771,12 @@ ____
 
 
 ====
-avijjaṃ uninsightfulness into reality
+avijjaṃ
 
-[quote
-
-S.3.155]
+uninsightfulness into reality
 ====
 
+[quote, S.3.155]
 ____
 When the perception of the unlastingness [of the five aggregates] is developed
 and cultivated, it destroys all uninsightfulness into reality
@@ -16173,12 +16142,9 @@ Dūrato'va namassanti._
 
 ====
 the enlightened kinsman of the Sun clan
-
-[quote
-
-Sn.v.1128]
 ====
 
+[quote, Sn.v.1128]
 ____
 They, well-satisfied by the Seer, the enlightened kinsman of the Sun clan,
 lived the religious life under the one of excellent wisdom.
@@ -16190,12 +16156,9 @@ ____
 
 ====
 the enlightened kinsman of the Sun clan
-
-[quote
-
-Th.v.157]
 ====
 
+[quote, Th.v.157]
 ____
 With [the assistance of] the enlightened kinsman of the Sun clan, who is
 proficient in methods of teaching, having applied myself properly [to the
@@ -23360,13 +23323,12 @@ ____
 
 
 ====
-upadhiṃ (the phenomenon of) attachment
+upadhiṃ
 
-[quote
-
-S.1.117]
+(the phenomenon of) attachment
 ====
 
+[quote, S.1.117]
 ____
 Knowing attachment in the world [of phenomena] as bondage [to individual
 existence], a person should train for its elimination.
@@ -25811,12 +25773,9 @@ ____
 
 ====
 na upeti saṅkhaṃ is beyond the limits of conception
-
-[quote
-
-Sn.v.1074]
 ====
 
+[quote, Sn.v.1074]
 ____
 Just as a flame tossed about by the force of the wind vanishes, and is beyond
 the limits of conception, so a sage liberated from denomination-and-body
@@ -28381,12 +28340,9 @@ apāyaṃ duggatiṃ vinipātaṃ nirayaṃ upapajjati_ (A.2.85).
 
 ====
 flood [of suffering]
-
-[quote
-
-S.1.142]
 ====
 
+[quote, S.1.142]
 ____
 Seeing a sage who had crossed the flood [of suffering], the lady made merit
 leading to future happiness.
@@ -32110,12 +32066,9 @@ ____
 
 ====
 virtuous
-
-[quote
-
-A.5.136]
 ====
 
+[quote, A.5.136]
 ____
 Unvirtuous friendship is an obstacle to virtuous practices.
 
@@ -32132,12 +32085,9 @@ ____
 
 ====
 virtuous
-
-[quote
-
-S.1.83]
 ====
 
+[quote, S.1.83]
 ____
 King Ajātasattu of Magadha has unvirtuous friends, unvirtuous companions,
 unvirtuous comrades. King Pasenadi of Kosala has virtuous friends, virtuous
@@ -32151,12 +32101,9 @@ ____
 
 ====
 virtuous
-
-[quote
-
-S.1.88]
 ====
 
+[quote, S.1.88]
 ____
 By relying upon me as a virtuous friend, Ānanda, beings subject to birth are
 freed from birth.
@@ -32201,12 +32148,9 @@ ____
 
 ====
 virtuous
-
-[quote
-
-A.2.36]
 ====
 
+[quote, A.2.36]
 ____
 By him are many folk established in the noble practice, namely in the aggregate
 of practices that are virtuous and spiritually wholesome.
@@ -32218,12 +32162,9 @@ ____
 
 ====
 virtuous
-
-[quote
-
-Vin.1.77-8]
 ====
 
+[quote, Vin.1.77-8]
 ____
 'Consent that I may go forth from the household life into the ascetic life.'
 Then the parents of those boys consented, thinking, 'All these boys have the
@@ -32236,12 +32177,9 @@ ____
 
 ====
 virtuous
-
-[quote
-
-S.5.396-7]
 ====
 
+[quote, S.5.396-7]
 ____
 Whatever there is in my family that is suitable for giving, all that I share
 unreservedly with those who are virtuous and of a virtuous moral nature
@@ -32252,63 +32190,45 @@ ____
 
 ====
 virtuousness
+====
 
+[quote, A.2.222]
 ____
 What is virtuous?
 
 _Katamo ca bhikkhave kalyāṇo_
-____
 
-In this regard
+In this regard, some person refrains from:
 
-some person refrains from:
-====
-
-____
 killing
 
 _pāṇātipātā paṭivirato hoti_
-____
 
-____
 stealing
 
 _adinnādānā paṭivirato hoti_
-____
 
-____
 committing adultery
 
 _kāmesu micchācārā paṭivirato hoti_
-____
 
-____
 lying
 
 _musāvādā paṭivirato hoti_
-____
 
-____
 speaking maliciously, harshly or frivolous chatter
 
 _Pisuṇāvācā paṭivirato hoti. Pharusāvācā paṭivirato hoti.
 samphappalāpā paṭivirato hoti_
-____
 
-____
 he is not greedy
 
 _anabhijjhālu hoti_
-____
 
-____
 he is benevolent
 
 _avyāpannacitto hoti_
-____
 
-[quote, A.2.222]
-____
 is of right perception [of reality]
 
 _sammādiṭṭhiko hoti._
@@ -32351,12 +32271,9 @@ samādapeti._
 
 ====
 meritorious
-
-[quote
-
-M.1.8]
 ====
 
+[quote, M.1.8]
 ____
 It is this [absolute] Selfhood of mine that speaks and experiences here and
 there the karmic consequences of meritorious and demeritorious deeds; and this
@@ -32371,12 +32288,9 @@ ____
 
 ====
 meritorious
-
-[quote
-
-S.1.93]
 ====
 
+[quote, S.1.93]
 ____
 Therefore one should do what is meritorious as a collection for a future life.
 Meritorious deeds are the support for living beings [when they arise] in the
@@ -32389,12 +32303,9 @@ ____
 
 ====
 good
-
-[quote
-
-Vin.1.117]
 ====
 
+[quote, Vin.1.117]
 ____
 'These ascetic disciples of the Sakyans' Son do not even know the calculation
 of the half months, so how could they know anything else that is good?'
@@ -32406,21 +32317,16 @@ ____
 
 ====
 good
+====
 
+[quote, A.3.109]
 ____
 In the future there will be bhikkhus who desire good almsfood. They will give
 up going on almsround;.
 
 _piṇḍapāte kalyāṇakāmā. Te piṇḍapāte kalyāṇakāmā samānā
 riñcissanti piṇḍapātikattaṃ_
-____
 
-[quote
-
-A.3.109]
-====
-
-____
 In the future there will be bhikkhus who desire good abodes. They will give up
 dwelling at the root of a tree, and secluded abodes in forests and quiet groves;
 
@@ -32432,12 +32338,9 @@ ____
 
 ====
 good
-
-[quote
-
-S.2.154]
 ====
 
+[quote, S.2.154]
 ____
 Those of an inferior disposition come together and unite with those of an
 inferior disposition; those of a good disposition come together and unite with
@@ -32450,12 +32353,9 @@ ____
 
 ====
 good
-
-[quote
-
-D.3.258]
 ====
 
+[quote, D.3.258]
 ____
 He gives with the thought, 'I will get a good reputation'
 
@@ -32465,12 +32365,9 @@ ____
 
 ====
 good
-
-[quote
-
-Sn.v.551]
 ====
 
+[quote, Sn.v.551]
 ____
 A bhikkhu with golden skin is good to look at
 
@@ -32480,12 +32377,9 @@ ____
 
 ====
 good
-
-[quote
-
-A.4.298]
 ====
 
+[quote, A.4.298]
 ____
 He is not a good speaker with a good delivery.
 
@@ -32495,12 +32389,9 @@ ____
 
 ====
 good
-
-[quote
-
-Vin.2.77]
 ====
 
+[quote, Vin.2.77]
 ____
 A householder who offered good food gave the community of bhikkhus a continuous
 food supply of meals consisting of four ingredients.
@@ -32511,19 +32402,17 @@ ____
 
 ====
 good
+====
 
+[quote, Vin.3.216]
 ____
-A layperson might establish a robe fund for a bhikkhu who is not a relative
-
+A layperson might establish a robe fund for a bhikkhu who is not a relative,
 thinking: 'Having purchased robe material with this fund, I will clothe the
 bhikkhu so and so.' If the bhikkhu, uninvited, approaches the layperson with a
 suggestion regarding the robe out of a desire for something good, saying:
-====
 
 _kalyāṇakamyataṃ upādāya_
-____
 
-____
 'It would be good indeed, your reverence, if you clothed me in this or that
 type of robe purchased with the robe fund,' it is an offence of nissaggiya
 pācittiya.
@@ -32531,10 +32420,7 @@ pācittiya.
 _sādhu vata maṃ āyasmā iminā cīvaracetāpantena evarūpaṃ vā
 evarūpaṃ vā cīvaraṃ cetāpetvā acchādehīti kalyāṇakamyataṃ
 upādāya nissaggiyaṃ pācittiyan ti_
-____
 
-[quote, Vin.3.216]
-____
 'Desire for something good' means wanting what is good quality, wanting what is
 expensive.
 
@@ -32544,12 +32430,9 @@ ____
 
 ====
 virtuous; good
-
-[quote
-
-A.1.126-7]
 ====
 
+[quote, A.1.126-7]
 ____
 Nonetheless, one gains a good reputation for having virtuous friends,
 companions, and comrades.
@@ -32561,12 +32444,9 @@ ____
 
 ====
 good; excellent
-
-[quote
-
-A.3.58]
 ====
 
+[quote, A.3.58]
 ____
 He is wise, capable, intelligent, very learned, a brilliant speaker, of
 excellent intuitive insight, mature, and truly an arahant.
@@ -32578,12 +32458,9 @@ ____
 
 ====
 excellent
-
-[quote
-
-Vin.2.96]
 ====
 
+[quote, Vin.2.96]
 ____
 Those teachings which are excellent in the beginning, the middle, and the end.
 
@@ -32593,37 +32470,31 @@ ____
 
 ====
 excellent
-
-[quote
-
-S.5.374]
 ====
 
+[quote, S.5.374]
 ____
 I would not say anything about Mahānāma the Sakyan except what is excellent
 and good.
 
-_mahānāma sakkaṃ na kiñci vadāmi aññatra kalyāṇā aññatra kusalā
-ti._
+_mahānāma sakkaṃ na kiñci vadāmi aññatra kalyāṇā aññatra kusalā ti._
 ____
 
 
 ====
 excellent
+====
 
+[quote, It.97]
 ____
-A bhikkhu who is of excellent virtue
-
+A bhikkhu who is of excellent virtue,
 who has excellent practices, and excellent discernment is called one who is
 fully accomplished in this teaching and training system, one who has fulfilled
-&#8203;[the religious life], the unexcelled person
-====
+[the religious life], the unexcelled person
 
 _Kalyāṇasīlo bhikkhave bhikkhu kalyāṇadhammo kalyāṇapañño imasmiṃ
 dhammavinaye kevalī vusitavā uttamapuriso ti vuccati._
-____
 
-____
 In what way is a bhikkhu of excellent virtue? In this regard a bhikkhu is
 virtuous, abides restrained [in conduct] within the constraints of the rules of
 discipline. He is perfect in conduct and sphere of personal application, seeing
@@ -32633,19 +32504,14 @@ of the training.
 _Kathañca bhikkhave bhikkhū kalyāṇasīlo hoti? Idha bhikkhave bhikkhū
 sīlavā hoti pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno
 aṇumattesu vajjesu bhayadassāvī samādāya sikkhati sikkhāpadesu._
-____
 
-____
 In what way is a bhikkhu of excellent practices? In this regard a bhikkhu
 abides given to developing the seven groups of factors conducive to
 enlightenment.
 
 _Kalyāṇadhammo ca kathaṃ hoti? Idha bhikkhave bhikkhu sattannaṃ
 bodhipakkhiyānaṃ dhammānaṃ bhāvanānuyogamanuyutto viharati._
-____
 
-[quote, It.97]
-____
 In what way is a bhikkhu of excellent discernment? In this regard a bhikkhu
 through the destruction of perceptually obscuring states, in this very lifetime
 enters upon and abides in the liberation [from attachment through inward calm]
@@ -47754,13 +47620,12 @@ ____
 
 
 ====
-tareyyaṃ cross
+tareyyaṃ
 
-[quote
-
-Sn.v.1069]
+cross
 ====
 
+[quote, Sn.v.1069]
 ____
 I might cross this [wretched] flood [of suffering]
 
@@ -59399,20 +59264,18 @@ ____
 
 
 ====
-nipakaṃ mindful
+nipakaṃ
 
-[quote
-
-Sn.v.45; M.3.154; Dh.v.328; Vin.1.350]
+mindful
 ====
 
+[quote, "Sn.v.45, M.3.154, Dh.v.328, Vin.1.350"]
 ____
 If one should find a mindful companion, a wise comrade of good disposition,
 then, overcoming all adversities, pleased and mindful, one should live the
 religious life with him.
 
-_Sace labhetha nipakaṃ sahāyaṃ saddhiṃ caraṃ sādhuvihāriṃ
-dhīraṃ +
+_Sace labhetha nipakaṃ sahāyaṃ saddhiṃ caraṃ sādhuvihāriṃ dhīraṃ +
 Abhibhuyya sabbāni parissayāni careyya tenattamano satimā._
 ____
 
@@ -70975,58 +70838,43 @@ ____
 
 
 ====
-āpaṃ liquidness
+āpaṃ
 
-A bhikkhu who is a disciple in training (_sekho_)
-
-____
-fully understands liquidness to be liquidness
-
-__āpaṃ āpato abhijānāti_
-____
-
-____
-Fully understanding liquidness to be liquidness
-
-__āpaṃ āpato abhiññāya_
-____
-
-____
-may he not think of liquidness in personal terms
-
-__āpaṃ mā maññi_
-____
-
-____
-may he not think 'I am part of liquidness'
-
-__āpasmiṃ mā maññi_
-____
-
-____
-may he not think 'I am separate from liquidness'
-
-__āpato mā maññi_
-____
-
-____
-may he not think that liquidness is "[in reality] mine"
-
-__āpaṃ me ti mā maññi_
-____
-
-____
-may he not take delight in liquidness
-
-__āpaṃ mābhinandi_
-____
-
-[quote
-
-M.1.4]
+liquidness
 ====
 
+[quote, M.1.4]
 ____
+A bhikkhu who is a disciple in training (_sekho_)
+
+fully understands liquidness to be liquidness
+
+_āpaṃ āpato abhijānāti_
+
+Fully understanding liquidness to be liquidness
+
+_āpaṃ āpato abhiññāya_
+
+may he not think of liquidness in personal terms
+
+_āpaṃ mā maññi_
+
+may he not think 'I am part of liquidness'
+
+_āpasmiṃ mā maññi_
+
+may he not think 'I am separate from liquidness'
+
+_āpato mā maññi_
+
+may he not think that liquidness is "[in reality] mine"
+
+_āpaṃ me ti mā maññi_
+
+may he not take delight in liquidness
+
+_āpaṃ mābhinandi_
+
 For what reason? So that he may profoundly understand it, I declare
 
 _Pariññeyyaṃ tassā ti vadāmi._
@@ -71098,58 +70946,43 @@ ____
 
 
 ====
-tejaṃ warmth
+tejaṃ
 
+warmth
+====
+
+[quote, M.1.4]
+____
 A bhikkhu who is a disciple in training (_sekho_)
 
-____
 knows warmth as warmth
 
 _tejaṃ tejato abhijānāti_
-____
 
-____
 Knowing warmth as warmth
 
 _tejaṃ tejato abhiññāya_
-____
 
-____
 may he not think of warmth in personal terms
 
 _tejaṃ mā maññi_
-____
 
-____
 may he not think 'I am part of warmth'
 
 _tejasmiṃ mā maññi_
-____
 
-____
 may he not think 'I am separate from warmth'
 
 _tejato mā maññi_
-____
 
-____
 may he not think that warmth is "[in reality] mine"
 
 _tejaṃ me ti mā maññi_
-____
 
-____
 may he not take delight in warmth
 
 _tejaṃ mābhinandi_
-____
 
-[quote
-
-M.1.4]
-====
-
-____
 For what reason? So that he may profoundly understand it, I declare
 
 _Pariññeyyaṃ tassā ti vadāmi._
@@ -78785,13 +78618,12 @@ ____
 
 
 ====
-pāraguṃ gone beyond
+pāraguṃ
 
-[quote
-
-It.40]
+gone beyond
 ====
 
+[quote, It.40]
 ____
 With self-centredness abandoned, he has gone beyond old age, I declare.
 
@@ -78800,13 +78632,12 @@ ____
 
 
 ====
-pāraguṃ gone beyond
+pāraguṃ
 
-[quote
-
-It.40-1]
+gone beyond
 ====
 
+[quote, It.40-1]
 ____
 Be those who have gone beyond birth and death.
 
@@ -79734,12 +79565,9 @@ About the author of the play, nothing is known.
 
 ====
 Everyman
-
-[quote
-
-S.4.207]
 ====
 
+[quote, S.4.207]
 ____
 When the ignorant Everyman is affected by unpleasant bodily sense impression,
 he grieves, suffers, and laments, weeps beating his chest, and falls into
@@ -79755,12 +79583,9 @@ ____
 
 ====
 Everyman
-
-[quote
-
-M.1.8]
 ====
 
+[quote, M.1.8]
 ____
 The ignorant Everyman is not freed from birth, old age, and death, from grief,
 lamentation, physical pain, psychological pain, and vexation. He is not freed,
@@ -79773,39 +79598,39 @@ ____
 
 ====
 Everyman
-
-• Engaged in sensuous quests
-
-the ignorant Everyman conducts himself wrongly in three ways: by body, speech,
-and mind. +
 ====
 
+[quote, S.2.152]
+____
+Engaged in sensuous quests, the ignorant Everyman conducts himself wrongly in
+three ways: by body, speech, and mind.
+
 _Kāmapariyesanaṃ bhikkhave pariyesamāno assutavā puthujjano tīhi
-ṭhānehi micchā paṭipajjati: kāyena vācāya manasā_ (S.2.152).
+ṭhānehi micchā paṭipajjati: kāyena vācāya manasā._
+____
 
 
 ====
 Everyman
-
-• The ignorant Everyman has no faith in the Buddha. When he considers within
-himself that lack of faith in the Buddha
-
-there is fright, trepidation, and fear of death and the future life. +
 ====
+
+[quote, S.5.386]
+____
+The ignorant Everyman has no faith in the Buddha. When he considers within
+himself that lack of faith in the Buddha, there is fright, trepidation, and fear
+of death and the future life.
 
 _assutavā puthujjano buddhe appasādena samannāgato hoti. Tañca panassa
 buddhe appasādaṃ attani samanupassato hoti uttāso hoti chambhitattaṃ hoti
-samparāyikaṃ maraṇabhayaṃ_ (S.5.386).
+samparāyikaṃ maraṇabhayaṃ._
+____
 
 
 ====
 Everyman
-
-[quote
-
-S.4.286-7]
 ====
 
+[quote, S.4.286-7]
 ____
 The ignorant Everyman, who has no regard for the Noble Ones or for spiritually
 outstanding people, and who is ignorant of and uninstructed in their teaching,
@@ -79819,12 +79644,9 @@ ____
 
 ====
 Everyman
-
-[quote
-
-S.3.139-40]
 ====
 
+[quote, S.3.139-40]
 ____
 When [bodily form] has been explained, taught, proclaimed, established,
 disclosed, analysed, and elucidated by the Perfect One, whoever does not know
@@ -79840,12 +79662,9 @@ ____
 
 ====
 Everyman
-
-[quote
-
-S.4.196]
 ====
 
+[quote, S.4.196]
 ____
 The ignorant Everyman does not restrain the six senses [from attraction and
 repulsion, through mindfulness]; he indulges himself as much as he likes in the
@@ -79858,12 +79677,9 @@ ____
 
 ====
 common man
-
-[quote
-
-Vin.1.10]
 ====
 
+[quote, Vin.1.10]
 ____
 The pursuit of sensuous pleasures, which is low, vulgar, the way of the common
 man, ignoble, and unconducive to spiritual well-being.
@@ -79875,12 +79691,9 @@ ____
 
 ====
 common man
-
-[quote
-
-S.3.109]
 ====
 
+[quote, S.3.109]
 ____
 'The man ignorant of the path' represents the common man.
 
@@ -79890,12 +79703,9 @@ ____
 
 ====
 common man
-
-[quote
-
-S.3.225]
 ====
 
+[quote, S.3.225]
 ____
 One who has faith in [the significance of] these teachings and is intent on
 them is called a 'faith follower,' one who has entered the way of rightness
@@ -79910,12 +79720,9 @@ ____
 
 ====
 common man
-
-[quote
-
-Sn.v.820]
 ====
 
+[quote, Sn.v.820]
 ____
 Whoever formerly fared alone who then pursues sexual intercourse, in the world
 is called a 'lurching vehicle,' 'contemptible,' a 'common man.'
@@ -79927,12 +79734,9 @@ ____
 
 ====
 common man
-
-[quote
-
-M.3.114]
 ====
 
+[quote, M.3.114]
 ____
 I will not think those kinds of thought which are low, vulgar, the way of the
 common man, ignoble, and unconducive to spiritual well-being.
@@ -108176,12 +107980,9 @@ ____
 
 ====
 maliciousness
-
-[quote
-
-D.3.248]
 ====
 
+[quote, D.3.248]
 ____
 For this is the liberation from maliciousness, namely the liberation [from
 perceptually obscuring states] through [unlimited, all-encompassing] compassion.
@@ -113857,13 +113658,12 @@ ____
 
 
 ====
-sakyaputtiyo: disciple of the Sakyans' Son
+sakyaputtiyo
 
-[quote
-
-Vin.1.96]
+disciple of the Sakyans' Son
 ====
 
+[quote, Vin.1.96]
 ____
 That bhikkhu who indulges in sexual intercourse becomes not an ascetic, not a
 disciple of the Sakyans' Son.
@@ -121979,13 +121779,12 @@ ____
 
 
 ====
-sampannaṃ excellent
+sampannaṃ
 
-[quote
-
-Vin.2.196]
+excellent
 ====
 
+[quote, Vin.2.196]
 ____
 Who does not like what is excellent? Who does not like what is delicious?
 
