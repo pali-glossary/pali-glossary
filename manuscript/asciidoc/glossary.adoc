@@ -390,7 +390,7 @@ Suppose that we were to passively observe the fourth herd of deer?
 
 _Yannūna mayaṃ catutthe migajāte ajjhupekkheyyāmā'ti_
 
-... So the deer-catcher and his companions passively observed the fourth herd of deer.
+(...) So the deer-catcher and his companions passively observed the fourth herd of deer.
 
 _ajjhupekkhiṃsu kho bhikkhave nevāpiko ca nevāpikaparisā ca catutthe migajāte._
 ____
@@ -420,7 +420,7 @@ being harassed?
 
 _atthi nāma ānanda theraṃ bhikkhuṃ vihesiyamānaṃ ajjhupekkhissatha_
 
-... Truly, Ānanda, compassion does not develop in allowing an elder bhikkhu to
+(...) Truly, Ānanda, compassion does not develop in allowing an elder bhikkhu to
 be harassed'
 
 _Na hi nāma ānanda kāruññampi bhavissati theramhi bhikkhumhi vihesiyamānamhī ti._
@@ -794,7 +794,7 @@ kathessāmiti)._
 ____
 
 ____
-... That is to say: talk of kings, thieves, great ministers, armies, dangers,
+(...) That is to say: talk of kings, thieves, great ministers, armies, dangers,
 battles, food, drink, clothes, beds, garlands, scents, relations, vehicles,
 villages, market towns, towns, the country, women, valiant men, streets, wells,
 departed spirits, tittle-tattle, legends about the world, legends about the
@@ -810,7 +810,7 @@ kathessāmiti._
 ____
 
 ____
-... But, Ānanda, in regard to that talk which is helpful for erasing
+(...) But, Ānanda, in regard to that talk which is helpful for erasing
 defilements, which helps free the mind from the five hindrances, and which
 leads to complete disillusionment [with originated phenomena], to
 non-attachment [to originated phenomena], to the ending [of originated
@@ -824,7 +824,7 @@ ____
 
 [quote, M.3.113]
 ____
-... That is to say: talk about fewness of needs, talk about contentment, talk
+(...) That is to say: talk about fewness of needs, talk about contentment, talk
 about physical seclusion, talk about remaining aloof [from householders and
 ascetics alike], talk about the exertion of energy, talk about moral habit,
 talk about inward collectedness, talk about penetrative discernment, talk about
@@ -1001,7 +1001,7 @@ ____
 
 [quote, M.1.235]
 ____
-... In this regard, having seen any kind of bodily form... advertence according
+(...) In this regard, having seen any kind of bodily form... advertence according
 to reality (_yathābhūtaṃ_) with perfect penetrative discernment as "not [in
 reality] mine," "not [in reality] what I am," "not my [absolute] Selfhood," a
 bhikkhu is liberated [from perceptually obscuring states] through being without
@@ -2083,7 +2083,7 @@ _paṭhamajjhānasamāpattiyāpi kho atammayatā vuttā bhagavatā_
 ____
 
 ____
-... Whatsoever one thinks of in personal terms, it is different than [how one
+(...) Whatsoever one thinks of in personal terms, it is different than [how one
 thinks of it].'
 
 _yena yena hi maññanti tato taṃ hoti aññathā'ti_
@@ -2091,7 +2091,7 @@ ____
 
 [quote, M.3.42-3]
 ____
-... Therefore having prioritised the perception that "It is void of personal
+(...) Therefore having prioritised the perception that "It is void of personal
 qualities," he neither glorifies himself nor disparages others concerning the
 attainment of first jhāna. This is the character of a spiritually outstanding
 person.
@@ -2444,7 +2444,7 @@ _attani ca bhikkhave attaniye ca saccato thetato anupalabbhamāne_
 ____
 
 ____
-... then this view: 'The world [of phenomena] is my [absolute] Selfhood. Having
+(...) then this view: 'The world [of phenomena] is my [absolute] Selfhood. Having
 passed on, that I will be -- everlasting, enduring, eternal, of an unchangeable
 nature; I will endure like unto eternity itself':
 
@@ -2454,7 +2454,7 @@ ____
 
 [quote, M.1.138]
 ____
-... is it not an utterly and completely foolish teaching?
+(...) is it not an utterly and completely foolish teaching?
 
 _nanāya bhikkhave kevalo paripūro bāladhammo ti?._
 ____
@@ -3259,11 +3259,11 @@ _ussahitvā tuleti_
 +
 [quote, M.1.480]
 ____
-... Having scrutinised [it], he strives [to practise it].
+(...) Having scrutinised [it], he strives [to practise it].
 
 _tulayitvā padahati_
 
-... Being resolutely applied [to the practice] he realises with his very being
+(...) Being resolutely applied [to the practice] he realises with his very being
 the supreme truth, and he sees [the nature of reality] having penetrated it
 with discernment.
 
@@ -5696,7 +5696,7 @@ ____
 
 [quote, Sn.v.1076]
 ____
-... That no longer exists in relation to which one might speak of him;
+(...) That no longer exists in relation to which one might speak of him;
 
 _Yena naṃ vajjuṃ taṃ tassa natthi._
 ____
@@ -6532,7 +6532,7 @@ ____
 
 [quote, S.1.61]
 ____
-... But now, like headmen in a village, they make themselves difficult to
+(...) But now, like headmen in a village, they make themselves difficult to
 support. They eat and eat, and then lie down, infatuated with other people's
 homes.
 
@@ -6583,7 +6583,7 @@ detha posetun ti_
 ____
 
 ____
-... The men took the boy to Prince Abhaya's women's quarters and gave him to
+(...) The men took the boy to Prince Abhaya's women's quarters and gave him to
 nurses saying, 'Take care of him' (_posethā_)_
 
 _taṃ dārakaṃ abhayassa rājakumārassa antepuraṃ netvā dhātīnaṃ
@@ -6591,13 +6591,13 @@ adaṃsu posethā ti._
 ____
 
 ____
-... Because it was said of him 'He's alive,' they named him Jīvaka._
+(...) Because it was said of him 'He's alive,' they named him Jīvaka._
 
 _Tassa jīvatī ti jīvako ti nāmaṃ akaṃsu_
 ____
 
 ____
-... Because the Prince had him taken care of (_posāpito_), they called him
+(...) Because the Prince had him taken care of (_posāpito_), they called him
 Komārabhacca._
 
 _Kumārena posāpito ti komārabhacco ti nāmaṃ akaṃsu_
@@ -6834,7 +6834,7 @@ ____
 
 [quote, A.3.411]
 ____
-... In one yearning for sensuous pleasure a corresponding personal disposition
+(...) In one yearning for sensuous pleasure a corresponding personal disposition
 is manifested, either meritorious or demeritorious.
 
 _yaṃ kho bhikkhave kāmayamāno tajjaṃ tajjaṃ attabhāvaṃ
@@ -7785,7 +7785,7 @@ ____
 
 [quote, S.4.292]
 ____
-... The arahant has abandoned them, chopped them down at the root, completely
+(...) The arahant has abandoned them, chopped them down at the root, completely
 and irreversibly destroyed them, so they will never arise again in future,
 therefore the arahant is called 'one who is rid of spiritual defilement'_
 
@@ -8486,7 +8486,7 @@ Rājā mukhaṃ manussānaṃ nadinaṃ sāgaro mukhaṃ._
 ____
 
 ____
-... The moon is the chief light amongst the constellations. The sun is the
+(...) The moon is the chief light amongst the constellations. The sun is the
 chief of luminary bodies. For those who make offerings, seeking merit, the
 community of bhikkhus, is the chief [recipient].
 
@@ -8535,7 +8535,7 @@ agreeable.'
 
 [quote, A.3.50]
 ____
-... When the Blessed One had thanked the householder Ugga with these words of
+(...) When the Blessed One had thanked the householder Ugga with these words of
 appreciation he rose from his seat and departed.
 
 _uggaṃ gahapatiṃ vesālikaṃ iminā anumodanīyena anumoditvā
@@ -8611,7 +8611,7 @@ am," "not my [absolute] Selfhood"'
 _sabbaṃ rūpaṃ... sabbaṃ viññāṇaṃ n'etaṃ mama n'eso'hamasmi na
 me so attā ti._
 
-... Thus knowing, thus seeing, in regard to this [wretched human] body together
+(...) Thus knowing, thus seeing, in regard to this [wretched human] body together
 with its advertence and all external phenomena, the mind is rid of the
 illusions of personal identity and personal ownership and self-centredness, it
 has transcended the modes [of self-centredness], and is peaceful and liberated
@@ -8824,13 +8824,13 @@ _yatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti_
 ____
 
 ____
-... if there is found nothing there to be delighted in, welcomed, or clung to
+(...) if there is found nothing there to be delighted in, welcomed, or clung to
 
 _ettha ce natthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ_
 ____
 
 ____
-... this is the end of the proclivity to attachment
+(...) this is the end of the proclivity to attachment
 
 _esevanto rāgānusayānaṃ_
 ____
@@ -9291,7 +9291,7 @@ reached the end of suffering
 
 [quote, A.1.215]
 ____
-... proclaimed by the Buddha who has reached the end of suffering.
+(...) proclaimed by the Buddha who has reached the end of suffering.
 
 _Buddhena dukkhantagunā pakāsitaṃ._
 ____
@@ -10601,7 +10601,7 @@ ____
 
 [quote, M.1.4]
 ____
-... For what reason? So that he may profoundly understand it, I declare
+(...) For what reason? So that he may profoundly understand it, I declare
 
 _Pariññeyyaṃ tassā ti vadāmi._
 ____
@@ -10623,7 +10623,7 @@ _paṭhaviṃ paṭhavito abhiññāya_
 • he does not think of solidness in personal terms +
 _paṭhaviṃ na maññati_
 
-...
+(...)
 
 • For what reason? He profoundly understands it, I declare +
 _Taṃ kissa hetu? Pariññātaṃ tassā ti vadāmi_ (M.1.4).
@@ -11173,7 +11173,7 @@ ____
 
 [quote, M.3.195-6]
 ____
-... One directs one's mind to acquire what has not yet been acquired, thinking,
+(...) One directs one's mind to acquire what has not yet been acquired, thinking,
 'May the visual sense and visible objects be thus in the future.' In directing
 one's mind thus, one longs for it. In doing so one longs for the future.
 
@@ -11416,7 +11416,7 @@ But he should be asked a question. If he answers correctly, then:
 
 [quote, M.3.29-30]
 ____
-... expressing one's approval, one may applaud and acclaim that bhikkhu's words
+(...) expressing one's approval, one may applaud and acclaim that bhikkhu's words
 
 _tassa bhikkhave bhikkhuno sādhū ti bhāsitaṃ abhinanditabbaṃ
 anumoditabbaṃ._
@@ -12179,39 +12179,39 @@ cetosamādhī ti_
 ____
 
 ____
-... Then, friends, it occurred to me:
+(...) Then, friends, it occurred to me:
 
 _Tassa mayhaṃ āvuso etadahosi_
 ____
 
 ____
-... In this regard a bhikkhu, by not focusing upon any abiding phenomenon,
+(...) In this regard a bhikkhu, by not focusing upon any abiding phenomenon,
 
 _Idha bhikkhu sabbanimittānaṃ amanasikārā_
 ____
 
 ____
-... enters and abides in the inward collectedness that is focused upon the
+(...) enters and abides in the inward collectedness that is focused upon the
 unabiding [phenomena].
 
 _animittaṃ cetosamādhiṃ upasampajja viharati_
 ____
 
 ____
-... This is called the inward collectedness that is focused upon the unabiding
+(...) This is called the inward collectedness that is focused upon the unabiding
 &#8203;[phenomena].
 
 _ayaṃ vuccati animitto cetosamādhī ti._
 ____
 
 ____
-... Then, friends, by not focusing upon any abiding phenomenon,
+(...) Then, friends, by not focusing upon any abiding phenomenon,
 
 _So khvāhaṃ āvuso sabbanimittānaṃ amanasikārā_
 ____
 
 ____
-... I entered and dwelt in inward collectedness that is focused upon the
+(...) I entered and dwelt in inward collectedness that is focused upon the
 unabiding [phenomena].
 
 _animittaṃ cetosamādhiṃ upasampajja viharāmi_
@@ -12219,7 +12219,7 @@ ____
 
 [quote, S.4.263-269]
 ____
-... While I abided therein my mind pursued phantasms.
+(...) While I abided therein my mind pursued phantasms.
 
 _tassa mayhaṃ āvuso iminā vihārena viharato nimittānusārī viññānam
 hoti._
@@ -12962,21 +12962,21 @@ _sabbe dhammā nālaṃ abhinivesāyā ti._
 ____
 
 ____
-... When a bhikkhu has heard that all things are unsuited to stubborn
+(...) When a bhikkhu has heard that all things are unsuited to stubborn
 attachment he fully understands the whole teaching,
 
 _so sabbaṃ dhammaṃ abhijānāti_
 ____
 
 ____
-... Through fully understanding the whole teaching, he profoundly understands
+(...) Through fully understanding the whole teaching, he profoundly understands
 the whole teaching.
 
 _sabbaṃ dhammaṃ parijānāti_
 ____
 
 ____
-... Through profoundly understanding the whole teaching, he perceives all
+(...) Through profoundly understanding the whole teaching, he perceives all
 phenomena differently.
 
 _sabbanimittāni aññato passati_
@@ -12984,7 +12984,7 @@ ____
 
 [quote, S.4.49-50]
 ____
-... When, bhikkhu, a bhikkhu knows and sees thus, uninsightfulness into reality
+(...) When, bhikkhu, a bhikkhu knows and sees thus, uninsightfulness into reality
 is abandoned by him and insightfulness into reality arises."
 
 _evaṃ kho bhikkhu jānato evaṃ passato bhikkhuno avijjā pahīyati vijjā
@@ -13384,7 +13384,7 @@ ____
 
 [quote, M.1.320]
 ____
-... Bhikkhus, when one's faith in the [perfection of the] Perfect One's
+(...) Bhikkhus, when one's faith in the [perfection of the] Perfect One's
 &#8203;[transcendent insight] is settled, rooted, and established, and described in
 these terms, words, and phrases, then one's faith is said to be supported by
 reasons, rooted in vision [of things according to reality], and firm. It is not
@@ -14538,7 +14538,7 @@ ____
 
 [quote, Thī.v.341]
 ____
-... Having junked gold and silver, to take them back again.
+(...) Having junked gold and silver, to take them back again.
 
 _Yo jātarūpaṃ rajataṃ chaḍḍetvā puna-r-āgahe._
 ____
@@ -14645,7 +14645,7 @@ ____
 
 [quote, Sn.v.645]
 ____
-... Who is liberated from the perception of existence, free of grasping, he is
+(...) Who is liberated from the perception of existence, free of grasping, he is
 what I call a Brahman.
 
 _Akiñcanaṃ anādānaṃ tamahaṃ brūmi brāhmaṇaṃ._
@@ -14862,20 +14862,20 @@ _tayo kiñcanā_
 ____
 
 ____
-... attachment is attachment to the perception of existence,
+(...) attachment is attachment to the perception of existence,
 
 _rāgo kiñcanaṃ_
 ____
 
 ____
-.... hatred is attachment to the perception of existence,
+(...) hatred is attachment to the perception of existence,
 
 _doso kiñcanaṃ_
 ____
 
 [quote, D.3.217]
 ____
-... undiscernment of reality is attachment to the perception of existence
+(...) undiscernment of reality is attachment to the perception of existence
 
 _moho kiñcanaṃ._
 ____
@@ -14969,14 +14969,14 @@ _Mohasambandhano loko bhabbarūpo va dissati_
 ____
 
 ____
-... For the fool tethered by attachment and blanketed in darkness
+(...) For the fool tethered by attachment and blanketed in darkness
 
 _Upadhisambandhano bālo tamasā parivārito_
 ____
 
 [quote, Ud.79]
 ____
-... it indeed seems eternal, but for one who sees [the nature of reality],
+(...) it indeed seems eternal, but for one who sees [the nature of reality],
 there is [nowhere] anything at all.
 
 _Sassato-r-iva khāyati passato natthi kiñcanaṃ ti._
@@ -15673,7 +15673,7 @@ anatthāya saṃvatteyyunti na ātappaṃ karoti_
 
 [quote, S.2.195-6]
 ____
-... In this way he is someone not vigorously applied [to the practice].
+(...) In this way he is someone not vigorously applied [to the practice].
 
 _Evaṃ kho āvuso anātāpī hoti._
 ____
@@ -17025,7 +17025,7 @@ sense ceases and perception of visible objects passes away.
 _se āyatane veditabbe yattha cakkhuñca nirujjhati rūpasaññā ca virajjati_
 ____
 
-...
+(...)
 
 ____
 That supreme state of deliverance should be known where the mental sense ceases
@@ -17111,7 +17111,7 @@ suvaṇṇadubbaṇṇāni tāni abhibhuyya jānāmi passāmī ti
 evaṃsaññī hoti. Idaṃ paṭhamaṃ abhibhāyatanaṃ_
 ____
 
-...
+(...)
 
 ____
 Being in an immaterial state of awareness, one sees shapes that are of a white
@@ -17198,7 +17198,7 @@ _paṭhavīkasiṇameko sañjānāti uddhaṃ adho tiriyaṃ advayaṃ
 appamāṇaṃ_
 ____
 
-...
+(...)
 
 ____
 One individual perceives the kasiṇa of mental consciousness extending above,
@@ -17420,7 +17420,7 @@ Or they proclaim a view concerning the highest pleasure in this lifetime.
 _Diṭṭhadhammanibbānaṃ vā paneke abhivadanti._
 ____
 
-...
+(...)
 
 [quote, M.2.233]
 ____
@@ -17867,7 +17867,7 @@ hoti viññāṇassa ṭhitiyā_
 ____
 
 ____
-... When there is the basis, there is the establishment of one's stream of
+(...) When there is the basis, there is the establishment of one's stream of
 sense consciousness.
 
 _Yañca ārammaṇe sati patiṭṭhā viññāṇassa hoti._
@@ -17875,7 +17875,7 @@ ____
 
 [quote, S.2.65]
 ____
-... When one's stream of sense consciousness is established and has
+(...) When one's stream of sense consciousness is established and has
 &#8203;[egoistically] matured, renewed states of individual existence and rebirth
 occur in the future.
 
@@ -18870,20 +18870,20 @@ And what are the issues that should not be contemplated that he contemplates?
 
 _Katame ca bhikkhave dhammā na manasikaraṇīyā ye dhamme manasikaroti?_
 
-... Whatever issues that, when he contemplates them:
+(...) Whatever issues that, when he contemplates them:
 
-... unarisen perceptual obscuration due to pursuing sensuous pleasure arises,
+(...) unarisen perceptual obscuration due to pursuing sensuous pleasure arises,
 and arisen perceptual obscuration due to pursuing sensuous pleasure increases
 
 _anuppanno vā kāmāsavo uppajjati uppanno vā kāmāsavo pavaḍḍhati_
 
-... unarisen perceptual obscuration due to pursuing individual existence
+(...) unarisen perceptual obscuration due to pursuing individual existence
 arises, and arisen perceptual obscuration due to pursuing individual existence
 increases
 
 _anuppanno vā bhavāsavo uppajjati uppanno vā bhavāsavo pavaḍḍhati_
 
-... unarisen perceptual obscuration due to uninsightfulness into reality
+(...) unarisen perceptual obscuration due to uninsightfulness into reality
 arises, and arisen perceptual obscuration due to uninsightfulness into reality
 increases.
 
@@ -19201,20 +19201,20 @@ _rūpaṃ attato samanupassati_
 ____
 
 ____
-... That considering is an originated phenomenon
+(...) That considering is an originated phenomenon
 
 _yā kho pana sā bhikkhave samanupassanā saṅkhāro so_
 ____
 
 ____
-... What is the basis, origin, object of genesis and production of that
+(...) What is the basis, origin, object of genesis and production of that
 originated phenomenon?
 
 _So pana saṅkhāro kinnidāno kiṃsamudayo kiñjātiko kimpabhavoti_
 ____
 
 ____
-... When the ignorant Everyman is affected by sense impression born of
+(...) When the ignorant Everyman is affected by sense impression born of
 sensation and uninsightfulness into reality, craving arises.
 
 _avijjāsamphassajena bhikkhave vedayitena phuṭṭhassa assutavato
@@ -19222,13 +19222,13 @@ puthujjanassa uppannā taṇhā_
 ____
 
 ____
-... That originated phenomenon is born from that
+(...) That originated phenomenon is born from that
 
 _tatojo so saṅkhāro_
 ____
 
 ____
-... That originated phenomenon, that craving, that sense impression, that
+(...) That originated phenomenon, that craving, that sense impression, that
 sensation, that uninsightfulness into reality is unlasting, originated,
 dependently arisen.
 
@@ -19238,7 +19238,7 @@ ____
 
 [quote, S.3.96]
 ____
-... When one knows and sees this, there is the immediate destruction of
+(...) When one knows and sees this, there is the immediate destruction of
 perceptually obscuring states
 
 _anantarā āsavānaṃ khayo hoti._
@@ -19494,7 +19494,7 @@ sensuous thought. He abandons it, dispels it, puts an end to it, eradicates it.
 _Idha bhikkhave bhikkhu paṭisaṅkhā yoniso uppannaṃ kāmavitakkaṃ
 nādhivāseti pajahati vinodeti vyantīkaroti. Anabhāvaṃ gameti._
 
-... The vexatious and anguishing _āsavas_ that would arise if he were not to
+(...) The vexatious and anguishing _āsavas_ that would arise if he were not to
 dispel these things do not arise for him when he dispels them.
 
 _Yaṃ hissa bhikkhave avinodayato uppajjeyyuṃ āsavā vighātapariḷāhā.
@@ -19602,7 +19602,7 @@ _Katamā ca bhikkhave āsavānaṃ vemattatā_
 
 [quote, A.3.414]
 ____
-... There are perceptually obscuring states leading to hell, to the animal
+(...) There are perceptually obscuring states leading to hell, to the animal
 realm, to the realm of ghosts, to the human realm, and to the heavenly realms.
 
 _atthi bhikkhave āsavā nirayagāminiyā... tiracchānayonigāminiyā...
@@ -22224,7 +22224,7 @@ mānasmiṃ._
 ____
 
 ____
-... 'When you say "My unflagging energy is aroused, unmuddled mindfulness is
+(...) 'When you say "My unflagging energy is aroused, unmuddled mindfulness is
 established, my body is tranquil and peaceful, my mind is collected and
 concentrated," that is your vanity (_uddhacca_).
 
@@ -22235,7 +22235,7 @@ ____
 
 [quote, A.1.282]
 ____
-... 'When you say "But for all that my mind is not liberated from perceptually
+(...) 'When you say "But for all that my mind is not liberated from perceptually
 obscuring states through being without grasping," that is your fretting
 (_kukkucca_).
 
@@ -22282,14 +22282,14 @@ _Itissa alābhena maṅkubhāvo_
 ____
 
 ____
-... Being embarrassed, he becomes agitated
+(...) Being embarrassed, he becomes agitated
 
 _maṅkubhūtassa uddhaccaṃ_
 ____
 
 [quote, A.4.87]
 ____
-... Being agitated, his sense faculties are unrestrained [from attraction and
+(...) Being agitated, his sense faculties are unrestrained [from attraction and
 repulsion, through mindfulness]
 
 _uddhatassa asaṃvaro._
@@ -22358,7 +22358,7 @@ Gabbhavokkantito dukkhaṃ nirayesu mahabbhayaṃ._
 ____
 
 ____
-... Recognising this danger, I was filled with an earnest attitude [to the
+(...) Recognising this danger, I was filled with an earnest attitude [to the
 practice].
 
 _Etamādīnavaṃ ñatvā saṃvegaṃ alabhiṃ tadā_
@@ -22366,7 +22366,7 @@ ____
 
 [quote, Th.v.790-1]
 ____
-... I was quickened then peaceful. I have accomplished the destruction of
+(...) I was quickened then peaceful. I have accomplished the destruction of
 perceptually obscuring states.
 
 _Sohaṃ viddho tadā santo sampatto āsavakkhayaṃ._
@@ -22865,7 +22865,7 @@ age and death]?_
 
 _Sabbaṃ bhikkhave upaddutaṃ. Kiñca bhikkhave sabbaṃ upaddutaṃ_
 
-... The visual sense is ravaged, visible objects are ravaged, advertence to the
+(...) The visual sense is ravaged, visible objects are ravaged, advertence to the
 visual field is ravaged, visual sensation is ravaged, whatever sense impression
 that arises due to visual sensation -- whether pleasant, unpleasant, or neutral
 -- that too is ravaged [by old age and death].
@@ -22898,11 +22898,11 @@ All is conquered. What is the all that is conquered?_
 
 _Sabbaṃ bhikkhave addhabhūtaṃ. Kiñca bhikkhave sabbaṃ addhabhūtaṃ?_
 
-... The visual sense is conquered, visible objects are conquered, etc. .
+(...) The visual sense is conquered, visible objects are conquered, etc. .
 
 _Cakkhuṃ bhikkhave addhabhūtaṃ rūpā addhabhūtā_
 
-... Conquered by what? Conquered by birth, old age, and death; by grief,
+(...) Conquered by what? Conquered by birth, old age, and death; by grief,
 lamentation, physical pain, psychological pain, and vexation, I declare.
 
 _Kena addhabhūtaṃ: addhabhūtaṃ jātiyā jarāmaraṇena sokehi paridevehi
@@ -22997,7 +22997,7 @@ People were oppressed by the begging, oppressed by the hinting,
 _Manussā upaddutā yācanāya upaddutā viññattiyā_
 ____
 
-... So when they saw bhikkhus they were perturbed, then alarmed, and then ran
+(...) So when they saw bhikkhus they were perturbed, then alarmed, and then ran
 away... and when they saw cows they ran away, imagining them to be bhikkhus
 (Vin.3.144).
 
@@ -23793,7 +23793,7 @@ seyyathā pi vaccha aghi saupādāno jalati no anupādāno:_
 
 [quote, S.4.399-400]
 ____
-... On that occasion craving is the fuel
+(...) On that occasion craving is the fuel
 
 _Taṇhāhissa vaccha tasmiṃ samaye upādānaṃ hotī ti._
 ____
@@ -24536,20 +24536,20 @@ _cakkhunā rūpaṃ disvā_
 ____
 
 ____
-... one ponders a visible object which is the basis for joy
+(...) one ponders a visible object which is the basis for joy
 
 _somanassaṭṭhāniyaṃ rūpaṃ upavicarati_
 ____
 
 ____
-... one ponders a visible object which is the basis for dejection,
+(...) one ponders a visible object which is the basis for dejection,
 
 _domanassaṭṭhāniyaṃ rūpaṃ upavicarati_
 ____
 
 [quote, M.3.217]
 ____
-... one ponders a visible object which is the basis for a neutral attitude.
+(...) one ponders a visible object which is the basis for a neutral attitude.
 
 _upekkhaṭṭhāniyaṃ rūpaṃ upavicarati._
 ____
@@ -24565,7 +24565,7 @@ _upekkhā nānattā nānattasitā_
 ____
 
 ____
-... There is a neutral attitude associated with visible objects, audible
+(...) There is a neutral attitude associated with visible objects, audible
 objects... mentally known objects.
 
 _atthi bhikkhave upekkhā rūpesu atthi saddesu atthi gandhesu atthi rasesu
@@ -24573,14 +24573,14 @@ atthi phoṭṭhabbesu._
 ____
 
 ____
-... What is the neutral attitude that is undiversified, associated with
+(...) What is the neutral attitude that is undiversified, associated with
 undiversity?
 
 _upekkhā ekattā ekattasitā_
 ____
 
 ____
-... There is a neutral attitude associated with the state of awareness of
+(...) There is a neutral attitude associated with the state of awareness of
 boundless space, associated with the state of awareness of boundless mental
 consciousness, associated with the state of awareness of nonexistence,
 associated with the state of awareness neither having nor lacking perception.
@@ -24591,7 +24591,7 @@ nevasaññānāsaññāyatananissitā_
 ____
 
 ____
-... In this regard, with the help of and by means of the neutral attitude that
+(...) In this regard, with the help of and by means of the neutral attitude that
 is undiversified, associated with undiversity, abandon and transcend the
 neutral attitude that is diversified, associated with diversity
 
@@ -24602,7 +24602,7 @@ ____
 
 [quote, M.3.220]
 ____
-... With the help of and by means of the perception that "It is void of
+(...) With the help of and by means of the perception that "It is void of
 personal qualities" abandon and transcend the neutral attitude that is
 undiversified, associated with undiversity.
 
@@ -24717,7 +24717,7 @@ _kāyaviññeyyā phoṭṭhabbā_
 ____
 
 ____
-... that are likeable, loveable, pleasing, agreeable, connected with sensuous
+(...) that are likeable, loveable, pleasing, agreeable, connected with sensuous
 pleasure, and charming
 
 _iṭṭhā kantā manāpā piyarūpā kāmūpasaṃhitā rajanīyā_
@@ -24725,7 +24725,7 @@ ____
 
 [quote, S.4.237]
 ____
-... The neutral attitude that arises on account of the five varieties of
+(...) The neutral attitude that arises on account of the five varieties of
 sensuous pleasure is called the worldly neutral attitude.
 
 _Yā kho bhikkhave ime pañcakāmaguṇe paṭicca uppajjati upekkhā ayaṃ
@@ -26049,20 +26049,20 @@ himavantaṃ pabbatarājānaṃ upanidhāya_
 ____
 
 ____
-... the difference is beyond reckoning
+(...) the difference is beyond reckoning
 
 _saṅkhampi na upeti_
 ____
 
 ____
-... it is not even a fraction
+(...) it is not even a fraction
 
 _kalabhāgampi na upeti_
 ____
 
 [quote, M.3.166]
 ____
-... it is beyond comparison
+(...) it is beyond comparison
 
 _upanidhimpi na upetī ti._
 ____
@@ -26163,7 +26163,7 @@ awareness]?
 
 _Katamo ca bhikkhave puggalo ubhatobhāgavimutto_
 
-... In this regard, some person abides touching with his very being those
+(...) In this regard, some person abides touching with his very being those
 immaterial states of awareness, those peaceful states of refined awareness that
 transcend the refined material states of awareness, and by seeing [reality]
 with penetrative discernment, his perceptually obscuring states are destroyed.
@@ -26185,7 +26185,7 @@ through penetrative discernment?
 
 _Katamo ca bhikkhave puggalo paññāvimutto_
 
-... In this regard, some person does not abide touching with his very being
+(...) In this regard, some person does not abide touching with his very being
 those immaterial states of awareness, those peaceful states of refined
 awareness that transcend the refined material states of awareness, but by
 seeing [reality] with penetrative discernment, his perceptually obscuring
@@ -27787,7 +27787,7 @@ abhisaṅkharoti puññopagaṃ hoti viññāṇaṃ._
 ____
 
 ____
-... If he undertakes a karmically consequential deed that is demeritorious, his
+(...) If he undertakes a karmically consequential deed that is demeritorious, his
 stream of sense consciousness is furnished with demerit;
 
 _Apuññaṃ ce saṅkhāraṃ abhisaṅkharoti apuññopagaṃ hoti
@@ -27795,7 +27795,7 @@ viññāṇaṃ._
 ____
 
 ____
-... If he undertakes a karmically consequential deed that is karmically
+(...) If he undertakes a karmically consequential deed that is karmically
 neutral, his stream of sense consciousness is furnished with what is karmically
 neutral.
 
@@ -27805,7 +27805,7 @@ ____
 
 [quote, S.2.82]
 ____
-... When a bhikkhu has abandoned uninsightfulness into reality (_avijjā_) and
+(...) When a bhikkhu has abandoned uninsightfulness into reality (_avijjā_) and
 aroused insightfulness into reality (_vijjā_), then, with the fading away of
 uninsightfulness into reality and the arising of insightfulness into reality,
 he does not undertake a karmically consequential deed that is meritorious,
@@ -28264,7 +28264,7 @@ ____
 
 [quote, S.3.93; It.89]
 ____
-... Perhaps an ending of this whole mass of suffering might be discerned!'
+(...) Perhaps an ending of this whole mass of suffering might be discerned!'
 
 _appeva nāma imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethā ti._
 ____
@@ -29196,7 +29196,7 @@ _pubbenivāsānussatiñāṇāya cittaṃ abhininnāmesiṃ._
 ____
 
 ____
-... I recalled my manifold former lives with their aspects and particulars.
+(...) I recalled my manifold former lives with their aspects and particulars.
 
 _Iti sākāraṃ sauddesaṃ anekavihitaṃ pubbenivāsaṃ anussarāmi._
 ____
@@ -29215,7 +29215,7 @@ _sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmesiṃ._
 ____
 
 ____
-... Thus with purified divine vision surpassing that of men, I saw beings
+(...) Thus with purified divine vision surpassing that of men, I saw beings
 passing away and being reborn, inferior and superior, well-favoured and
 ill-favoured, fortunate and unfortunate, and discerned how beings fare
 according to their deeds.
@@ -30251,32 +30251,32 @@ operation of the karmic mechanism':
 - Thus Ānanda,
 
 ____
-... the [field of] operation of the karmic mechanism is the field.
+(...) the [field of] operation of the karmic mechanism is the field.
 
 _kammaṃ khettaṃ_
 ____
 
 ____
-...the stream of sense consciousness, the seed.
+(...) the stream of sense consciousness, the seed.
 
 _viññāṇaṃ bījaṃ_
 ____
 
 ____
-... craving, the moisture.
+(...) craving, the moisture.
 
 _taṇhā sneho._
 ____
 
 ____
-... For beings [obstructed by] uninsightfulness into reality, and [tethered to
+(...) For beings [obstructed by] uninsightfulness into reality, and [tethered to
 individual existence] by craving.
 
 _avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ_
 ____
 
 ____
-... the stream of sense consciousness is established in the low plane of
+(...) the stream of sense consciousness is established in the low plane of
 existence.
 
 _hīnāya dhātuyā viññāṇaṃ patiṭṭhitaṃ_
@@ -30284,7 +30284,7 @@ ____
 
 [quote, A.1.223-4]
 ____
-... In this way renewed states of individual existence and rebirth occur in the
+(...) In this way renewed states of individual existence and rebirth occur in the
 future.
 
 _evaṃ āyatiṃ punabbhavābhinibbatti hoti._
@@ -31431,7 +31431,7 @@ ____
 
 [quote, A.3.194]
 ____
-... Truly, Ānanda, compassion does not develop in allowing an elder bhikkhu to
+(...) Truly, Ānanda, compassion does not develop in allowing an elder bhikkhu to
 be harassed'
 
 _Na hi nāma ānanda kāruññampi bhavissati theramhi bhikkhumhi
@@ -32095,7 +32095,7 @@ ____
 
 [quote, S.1.88-9]
 ____
-... When a bhikkhu has a virtuous friend, a virtuous companion, a virtuous
+(...) When a bhikkhu has a virtuous friend, a virtuous companion, a virtuous
 comrade, it is to be expected that he will develop and cultivate the noble
 eightfold path.
 
@@ -33634,7 +33634,7 @@ ____
 
 [quote, D.1.36]
 ____
-... But whensoever the [absolute] Selfhood, secluded from sensuous pleasures
+(...) But whensoever the [absolute] Selfhood, secluded from sensuous pleasures
 and spiritually unwholesome factors, enters and abides in first jhāna, which
 is accompanied by thinking and pondering, and rapture and physical pleasure
 born of seclusion [from sensuous pleasures and spiritually unwholesome
@@ -33794,7 +33794,7 @@ ____
 
 [quote, M.1.14]
 ____
-... In this way the disciples of a teacher who lives secludedly do not likewise
+(...) In this way the disciples of a teacher who lives secludedly do not likewise
 train themselves in seclusion [from sensuous pleasures and spiritually
 unwholesome factors].
 
@@ -34092,7 +34092,7 @@ _Idhāvuso bhikkhu anuppannā me pāpakā akusalā dhammā uppajjamānā
 anatthāya saṃvatteyyunti na ātappaṃ karoti_
 
 ____
-... In this way he is someone not vigorously applied [to the practice].
+(...) In this way he is someone not vigorously applied [to the practice].
 
 _Evaṃ kho āvuso anātāpī hoti._
 ____
@@ -34272,7 +34272,7 @@ nibbindati._
 ____
 
 ____
-... Being disillusioned [with originated phenomena], one is unattached [to
+(...) Being disillusioned [with originated phenomena], one is unattached [to
 originated phenomena]. Being unattached [to originated phenomena] one is
 liberated [from perceptually obscuring states].
 
@@ -34281,7 +34281,7 @@ ____
 
 [quote, S.4.140]
 ____
-... On these grounds one is perfect [in the development of] the [six] sense
+(...) On these grounds one is perfect [in the development of] the [six] sense
 faculties._
 
 _ettāvatā kho bhikkhu indriyasampanno hotī ti._
@@ -34306,7 +34306,7 @@ On what grounds is there individual existence?
 _kittāvatā nu kho bhante bhavo hotī ti?_
 ____
 
-...
+(...)
 
 ____
 -- For beings [obstructed by] uninsightfulness into reality, and [tethered to
@@ -34318,7 +34318,7 @@ dhātuyā viññāṇaṃ patiṭṭhitaṃ_
 ____
 
 ____
-... In this way renewed states of individual existence and rebirth occur in the
+(...) In this way renewed states of individual existence and rebirth occur in the
 future
 
 _evaṃ āyatiṃ punabbhavābhinibbatti hoti._
@@ -38787,7 +38787,7 @@ appiyarūpe rūpe vyāpajjati_
 ____
 
 ____
-... He abides without having established mindfulness of the body, with a small
+(...) He abides without having established mindfulness of the body, with a small
 mind, and he does not discern according to reality, with the liberation [from
 attachment through inward calm] and the liberation [from uninsightfulness]
 through penetrative discernment, where those unvirtuous, spiritually
@@ -38800,7 +38800,7 @@ ____
 
 [quote, S.4.120]
 ____
-... It is in such a way, brahman, that one has sense portals unguarded [by
+(...) It is in such a way, brahman, that one has sense portals unguarded [by
 mindfulness]
 
 _Evaṃ kho brāhmaṇa aguttadvāro hotī ti._
@@ -41027,7 +41027,7 @@ ____
 
 [quote, M.1.391]
 ____
-... is called conduct that is neither-dark-nor-bright with
+(...) is called conduct that is neither-dark-nor-bright with
 neither-dark-nor-bright karmic consequences that leads to the destruction of
 karmically consequential conduct.
 
@@ -45168,7 +45168,7 @@ ____
 
 [quote, D.1.183-4]
 ____
-... And for him the previous subtle but true perception (_saññā_) of the
+(...) And for him the previous subtle but true perception (_saññā_) of the
 state of awareness of boundless space ceases. And at that time there is a
 subtle but true perception (_saññā_) of the state of awareness of boundless
 mental consciousness. He is one with a subtle but true perception of the state
@@ -45178,7 +45178,7 @@ _Tassa yā purimā ākāsānañcāyatanasukhumasaccasaññā sā nirujjhati.
 Viññāṇañcāyatanasukhumasaccasaññā tasmiṃ samaye hoti.
 Viññāṇañcāyatanasukhumasaccasaññī yeva tasmiṃ samaye hoti._
 
-... In this way one state of refined awareness (_saññā_) arises through
+(...) In this way one state of refined awareness (_saññā_) arises through
 the training, and one state of refined awareness (_saññā_) ceases through
 the training.
 
@@ -45275,7 +45275,7 @@ ____
 
 [quote, A.2.36]
 ____
-... By him are many folk established in the noble practice, namely in the
+(...) By him are many folk established in the noble practice, namely in the
 aggregate of practices that are virtuous and spiritually wholesome.
 
 _bahu'ssa janatā ariye ñāye patiṭṭhāpitā yadidaṃ kalyāṇadhammatā
@@ -45393,7 +45393,7 @@ _Yo kho cunda evarūpaṃ sāvakaṃ evaṃ vadeyya addhāyasmā
 ____
 
 ____
-... the one who praises, the person who was praised, and the one who, on
+(...) the one who praises, the person who was praised, and the one who, on
 hearing such praise, should make still greater efforts, would all beget much
 merit. Why?
 
@@ -45403,7 +45403,7 @@ ____
 
 [quote, D.3.121]
 ____
-... Because the teaching and discipline are well explained, well expounded, and
+(...) Because the teaching and discipline are well explained, well expounded, and
 lead to deliverance [from suffering], and to inward peace._
 
 _Evaṃ hetaṃ cunda hoti svākkhāte dhammavinaye suppavedite niyyānike
@@ -45496,7 +45496,7 @@ ____
 _tvaṃ samma medakathālike mamaṃ rakkha. Ahaṃ tvaṃ rakkhikissāmi._
 ____
 
-... Thus safeguarding one another (_aññamaññaguttā_), protecting one
+(...) Thus safeguarding one another (_aññamaññaguttā_), protecting one
 another (_aññamaññarakkhitā_), we'll exhibit our skills, collect our fee,
 and get safely off the bamboo pole.'
 
@@ -45510,7 +45510,7 @@ _na kho nāmenaṃ ācariya evaṃ bhavissati tvaṃ ācariya attānaṃ rakkha
 ahaṃ attānaṃ rakkhissāmi_
 ____
 
-... Thus, each safeguarding ourselves (_attaguttā_), and protecting ourselves
+(...) Thus, each safeguarding ourselves (_attaguttā_), and protecting ourselves
 (_attarakkhitā_), we'll exhibit our skills, collect our fee, and get safely
 off the bamboo pole.'
 
@@ -48168,13 +48168,13 @@ assādañca ādīnavañca nissaraṇañca yathābhūtaṃ nappajānāti._
 ____
 
 ____
-...This is called uninsightfulness into reality
+(...) This is called uninsightfulness into reality
 
 _ayaṃ vuccatāvuso avijjā_
 ____
 
 ____
-... The learned noble disciple discerns these matters according to reality
+(...) The learned noble disciple discerns these matters according to reality
 
 _sutavā ariyasāvako rūpassa... viññāṇassa assādañca ādīnavañca
 nissaraṇañca yathābhūtaṃ pajānāti_
@@ -48182,7 +48182,7 @@ ____
 
 [quote, S.3.173-4]
 ____
-... This is called insightfulness into reality
+(...) This is called insightfulness into reality
 
 _Ayaṃ vuccatāvuso vijjā._
 ____
@@ -48227,7 +48227,7 @@ kappenti seyyathīdaṃ_
 ____
 
 ____
-... Determining lucky and unlucky gems, garments, staffs, swords, spears,
+(...) Determining lucky and unlucky gems, garments, staffs, swords, spears,
 arrows, bows, sticks...
 
 _maṇilakkhaṇaṃ vatthalakkhaṇaṃ daṇḍalakkhaṇaṃ
@@ -48237,7 +48237,7 @@ ____
 
 [quote, D.1.9]
 ____
-... The ascetic Gotama refrains from these kinds of base arts and wrong means
+(...) The ascetic Gotama refrains from these kinds of base arts and wrong means
 of livelihood.
 
 _iti evarūpāya tiracchānavijjāya micchājīvā paṭivirato samaṇo gotamo
@@ -48314,7 +48314,7 @@ _pubbenivāsānussatiñāṇāya cittaṃ abhininnāmesiṃ._
 ____
 
 ____
-... I recalled my manifold former lives with their aspects and particulars.
+(...) I recalled my manifold former lives with their aspects and particulars.
 This was the first final knowledge attained by me in the first watch of the
 night;
 
@@ -48336,7 +48336,7 @@ _sattānaṃ cutūpapātañāṇāya cittaṃ abhininnāmesiṃ._
 ____
 
 ____
-... Thus with purified divine vision surpassing that of men, I saw beings
+(...) Thus with purified divine vision surpassing that of men, I saw beings
 passing away and being reborn, inferior and superior, well-favoured and
 ill-favoured, fortunate and unfortunate, and discerned how beings fare
 according to their deeds.
@@ -48368,7 +48368,7 @@ __āsavānaṃ khayañāṇāya cittaṃ abhininnāmesiṃ._
 ____
 
 ____
-... thus knowing, thus seeing, my mind was freed from the three perceptually
+(...) thus knowing, thus seeing, my mind was freed from the three perceptually
 obscuring states.
 
 _Tassa me evaṃ jānato evaṃ passato kāmāsavā pi cittaṃ vimuccittha.
@@ -48921,7 +48921,7 @@ ____
 
 [quote, M.3.71]
 ____
-... [The view that] 'There is no merit in giving, donating and offering; no
+(...) [The view that] 'There is no merit in giving, donating and offering; no
 fruit or result of good or bad deeds; no this world; no hereafter; no duties to
 parents; no spontaneously arisen beings; no ascetics or Brahmanists who,
 conducting and applying themselves rightly in the world, proclaim this world
@@ -51254,7 +51254,7 @@ adukkhamasukhā vedanā_
 ____
 
 ____
-... These three types of sense impression are unlasting. Whatever is unlasting
+(...) These three types of sense impression are unlasting. Whatever is unlasting
 is existentially void. When this was understood, spiritually fettering delight
 in sense impression no longer remained present in me.' Being asked thus,
 bhante, I would answer in such a way."
@@ -52351,7 +52351,7 @@ cassa pavaḍḍhati._
 ____
 
 ____
-... One's physical and psychological sufferings, torments, and anguishes
+(...) One's physical and psychological sufferings, torments, and anguishes
 increase.
 
 _tassa kāyikāpi darathā pavaḍḍhanti cetasikāpi darathā pavaḍḍhanti
@@ -52362,7 +52362,7 @@ ____
 
 [quote, M.3.287]
 ____
-... One experiences physical and psychological unpleasantness
+(...) One experiences physical and psychological unpleasantness
 
 _so kāyadukkhampi cetodukkhampi paṭisaṃvedeti._
 ____
@@ -53954,7 +53954,7 @@ vambhenti paribhavanti omakkhiṃ karonti_
 ____
 
 ____
-... Bhante, there is unsureness, there is doubt in us concerning them. Which of
+(...) Bhante, there is unsureness, there is doubt in us concerning them. Which of
 these reverend ascetics and Brahmanists spoke the truth and which falsehood?"
 
 _Tesaṃ no bhante amhākaṃ hoteva kaṅkhā hoti vicikicchā. Ko su nāma
@@ -53970,38 +53970,38 @@ _Yadā tumhe kālāmā attanāva jāneyyātha_
 ____
 
 ____
-... These teachings (_dhammā_) are unwholesome;
+(...) These teachings (_dhammā_) are unwholesome;
 
 _ime dhammā akusalā_
 ____
 
 ____
-... these teachings (_dhammā_) are unvirtuous;
+(...) these teachings (_dhammā_) are unvirtuous;
 
 _ime dhammā sāvajjā_
 ____
 
 ____
-... these teachings (_dhammā_) are denounced by the wise;
+(...) these teachings (_dhammā_) are denounced by the wise;
 
 _ime dhammā viññugarahitā_
 ____
 
 ____
-... when followed and taken up
+(...) when followed and taken up
 
 _ime dhammā samattā samādinnā_
 ____
 
 ____
-... these teachings (_dhammā_) lead to harm and suffering
+(...) these teachings (_dhammā_) lead to harm and suffering
 
 _ahitāya dukkhāya saṃvattantīti_
 ____
 
 [quote, A.1.189]
 ____
-... you should abandon them.
+(...) you should abandon them.
 
 _atha tumhe kālāmā pajaheyyātha._
 ____
@@ -54114,19 +54114,19 @@ instructions as follows:
 [quote, S.5.324]
 ____
 He trains himself: I will breathe in... I will breathe out contemplating
-... unlastingness [in relation to certain objects of the systematic teachings]
+(...) unlastingness [in relation to certain objects of the systematic teachings]
 
 _Aniccānupassī assasissāmī ti... passasissāmī ti sikkhati_
 
-... passing away [in relation to certain objects of the systematic teachings]
+(...) passing away [in relation to certain objects of the systematic teachings]
 
 _virāgānupassī assasissāmī ti... passasissāmī ti sikkhati_
 
-... ending [in relation to certain objects of the systematic teachings]
+(...) ending [in relation to certain objects of the systematic teachings]
 
 _nirodhānupassī assasissāmī ti... passasissāmī ti sikkhati_
 
-... relinquishment [in relation to certain objects of the systematic teachings]
+(...) relinquishment [in relation to certain objects of the systematic teachings]
 
 _paṭinissaggānupassī assasissāmī ti... passasissāmī ti sikkhati._
 ____
@@ -56873,7 +56873,7 @@ ____
 
 [quote, M.3.62]
 ____
-... Through knowing and seeing these six phenomena [according to reality],
+(...) Through knowing and seeing these six phenomena [according to reality],
 Ānanda, a bhikkhu can be called knowledgeable about elements of existence
 
 _imā kho ānanda cha dhātuyo yato jānāti passati ettāvatā pi kho ānanda
@@ -56904,7 +56904,7 @@ ____
 
 [quote, M.3.62]
 ____
-... Through knowing and seeing these six phenomena [according to reality],
+(...) Through knowing and seeing these six phenomena [according to reality],
 Ānanda, a bhikkhu can be called knowledgeable about elements of existence
 
 _Imā kho ānanda cha dhātuyo yato jānāti passati._
@@ -58096,7 +58096,7 @@ ____
 
 [quote, S.1.39]
 ____
-... Denomination has conquered everything. Denomination is the most extensive
+(...) Denomination has conquered everything. Denomination is the most extensive
 thing. Denomination is the one thing that has everything under its control._
 
 _nāmaṃ sabbaṃ addhabhavi nāmā bhiyyo na vijjati +
@@ -60372,7 +60372,7 @@ ____
 
 [quote, Th.v.410]
 ____
-... Whereupon my mind was liberated [from perceptually obscuring states].
+(...) Whereupon my mind was liberated [from perceptually obscuring states].
 
 _tato cittaṃ vimucci._
 ____
@@ -60393,20 +60393,20 @@ _Rūpaṃ bhikkhave aniccaṃ... viññāṇaṃ aniccaṃ_
 ____
 
 ____
-... Bodily form... advertence is void of personal qualities
+(...) Bodily form... advertence is void of personal qualities
 
 _Rūpaṃ bhikkhave anattā... viññāṇaṃ anattā_
 ____
 
 ____
-... All originated phenomena (_saṅkhārā_) are unlasting;
+(...) All originated phenomena (_saṅkhārā_) are unlasting;
 
 _sabbe saṅkhārā aniccā_
 ____
 
 [quote, M.1.228]
 ____
-... All things (_dhammā_) are void of personal qualities
+(...) All things (_dhammā_) are void of personal qualities
 
 _sabbe dhammā anattā ti._
 ____
@@ -60439,7 +60439,7 @@ ____
 
 [quote, A.5.3]
 ____
-... It is quite natural that one who knows and sees things according to
+(...) It is quite natural that one who knows and sees things according to
 reality, is disillusioned [with originated phenomena] and unattached [to
 originated phenomena].'
 
@@ -60783,20 +60783,20 @@ _cakkhunā rūpaṃ disvā_
 ____
 
 ____
-... and his mind pursues the phantasm of the visible object,
+(...) and his mind pursues the phantasm of the visible object,
 
 _rūpanimittānusāri viññāṇaṃ hoti_
 ____
 
 ____
-... is tied to the sweetness of the phantasm of the visible object,
+(...) is tied to the sweetness of the phantasm of the visible object,
 
 _rūpanimittassādagathitaṃ_
 ____
 
 [quote, M.3.225]
 ____
-... then his mind is called 'distracted and scattered externally'
+(...) then his mind is called 'distracted and scattered externally'
 
 _bahiddhā viññāṇaṃ vikkhittaṃ visaṭanti vuccati._
 ____
@@ -60841,7 +60841,7 @@ ____
 
 [quote, A.3.292]
 ____
-... For this is the liberation from all abiding phenomena, namely the
+(...) For this is the liberation from all abiding phenomena, namely the
 liberation [from perceptually obscuring states] by focusing upon the unabiding
 &#8203;[phenomenon]._
 
@@ -60913,7 +60913,7 @@ _Idhānanda bhikkhu evaṃ manasikaroti: etaṃ santaṃ etaṃ paṇītaṃ
 yadidaṃ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo
 virāgo nirodho nibbānan ti_
 
-... In this way his winning of inward collectedness is such that though he does
+(...) In this way his winning of inward collectedness is such that though he does
 not contemplate the visual sense or visible object... nor what is seen, heard,
 sensed, cognised, attained, sought after, thought out by mind, all that he does
 not contemplate, but yet he still contemplates.
@@ -60935,7 +60935,7 @@ phenomena]?
 
 _virāgasaññā_
 
-... In this regard, Ānanda, a bhikkhu... contemplates thus: This is peaceful,
+(...) In this regard, Ānanda, a bhikkhu... contemplates thus: This is peaceful,
 this is sublime, namely: the quelling of all originated phenomena, the
 relinquishment of the whole phenomenon of attachment, the destruction of
 craving, the passing away [of originated phenomena], the Untroubled.
@@ -60947,7 +60947,7 @@ What is the perception of the ending [of originated phenomena]?
 
 _nirodhasaññā_
 
-... In this regard, Ānanda, a bhikkhu... contemplates: This is peaceful, this
+(...) In this regard, Ānanda, a bhikkhu... contemplates: This is peaceful, this
 is sublime, namely: the quelling of all originated phenomena, the
 relinquishment of the whole phenomenon of attachment, the destruction of
 craving, the ending [of originated phenomena], the Untroubled.
@@ -60978,7 +60978,7 @@ nibbānanti._
 ____
 
 ____
-... In this way his winning of inward collectedness would be such that
+(...) In this way his winning of inward collectedness would be such that
 regarding this [wretched human] body together with its advertence he would have
 no illusions of personal identity or personal ownership, and no proclivity to
 self-centredness. Likewise in all external phenomena he would have no illusions
@@ -60992,7 +60992,7 @@ ____
 
 [quote, A.1.133]
 ____
-... He would so enter and abide in the liberation [from attachment through
+(...) He would so enter and abide in the liberation [from attachment through
 inward calm] and the liberation [from uninsightfulness] through penetrative
 discernment, that he would have no illusions of personal identity or personal
 ownership, and no proclivity to self-centredness.
@@ -62248,19 +62248,19 @@ _mayā anupubbasaṅkhārānaṃ nirodho akkhāto_
 ____
 
 ____
-... For one who attains first jhāna, speech is ended.
+(...) For one who attains first jhāna, speech is ended.
 
 _paṭhamaṃ jhānaṃ samāpannassa vācā niruddhā hoti_
 ____
 
 ____
-... For one who attains second jhāna, thinking and pondering are ended...
+(...) For one who attains second jhāna, thinking and pondering are ended...
 
 _dutiyaṃ jhānaṃ samāpannassa vitakkavicārā niruddhā honti..._
 ____
 
 ____
-... For one who attains the ending of perception and sense impression,
+(...) For one who attains the ending of perception and sense impression,
 perception and sense impression are ended.
 
 _saññāvedayitanirodhaṃ samāpannassa saññā ca vedanā ca niruddhā
@@ -62269,7 +62269,7 @@ ____
 
 [quote, _Rahogata Sutta,_ S.4.217]
 ____
-... For a bhikkhu whose _āsavas_ are destroyed, attachment, hatred, and
+(...) For a bhikkhu whose _āsavas_ are destroyed, attachment, hatred, and
 undiscernment of reality are ended.
 
 _Khīṇāsavassa bhikkhuno rāgo niruddho hoti doso niruddho hoti moho
@@ -64121,7 +64121,7 @@ with the help of
 ====
 
 ____
-... In this regard, with the help of and by means of the neutral attitude that
+(...) In this regard, with the help of and by means of the neutral attitude that
 is undiversified, associated with undiversity, abandon and transcend the
 neutral attitude that is diversified, associated with diversity
 
@@ -64132,7 +64132,7 @@ ____
 
 [quote, M.3.220]
 ____
-... With the help of and by means of the perception that "It is void of
+(...) With the help of and by means of the perception that "It is void of
 personal qualities" abandon and transcend the neutral attitude that is
 undiversified, associated with undiversity.
 
@@ -68247,14 +68247,14 @@ _Nappajānāti nappajānātī ti kho āvuso tasmā duppañño ti vuccati._
 ____
 
 ____
-... What does he not discern?_
+(...) What does he not discern?_
 
 _Kiñca nappajānāti?_
 ____
 
 [quote, M.1.292]
 ____
-... He does not discern 'This is suffering... This is the origin of
+(...) He does not discern 'This is suffering... This is the origin of
 suffering... This is the ending of suffering... This is the practice leading to
 the ending of suffering...
 
@@ -68280,14 +68280,14 @@ discernment' is said +
 _Pajānāti pajānātī ti kho āvuso tasmā paññavāti vuccati._
 
 ____
-... What does he discern?_
+(...) What does he discern?_
 
 _Kiñca pajānāti?_
 ____
 
 [quote, M.1.292]
 ____
-... He discerns 'This is suffering... This is the origin of suffering... This
+(...) He discerns 'This is suffering... This is the origin of suffering... This
 is the ending of suffering... This is the practice leading to the ending of
 suffering...
 
@@ -70847,50 +70847,50 @@ solidness
 A bhikkhu who is a disciple in training (_sekho_)
 
 ____
-... fully understands solidness to be solidness
+(...) fully understands solidness to be solidness
 
 _sopi paṭhaviṃ paṭhavito abhijānāti_
 ____
 
 ____
-... Fully understanding solidness to be solidness
+(...) Fully understanding solidness to be solidness
 
 _paṭhaviṃ paṭhavito abhiññāya_
 ____
 
 ____
-... may he not think of solidness in personal terms
+(...) may he not think of solidness in personal terms
 
 _paṭhaviṃ mā maññi_
 ____
 
 ____
-... may he not think 'I am part of solidness'
+(...) may he not think 'I am part of solidness'
 
 _paṭhaviyā mā maññi_
 ____
 
 ____
-... may he not think 'I am separate from solidness'
+(...) may he not think 'I am separate from solidness'
 
 _paṭhavito mā maññi_
 ____
 
 ____
-... may he not think that solidness is "[in reality] mine"
+(...) may he not think that solidness is "[in reality] mine"
 
 _paṭhaviṃ me ti mā maññi_
 ____
 
 ____
-... may he not take delight in solidness
+(...) may he not take delight in solidness
 
 _paṭhaviṃ mābhinandi_
 ____
 
 [quote, M.1.4]
 ____
-... For what reason? So that he may profoundly understand it, I declare
+(...) For what reason? So that he may profoundly understand it, I declare
 
 _Pariññeyyaṃ tassā ti vadāmi._
 ____
@@ -71328,7 +71328,7 @@ ____
 
 [quote, A.2.41]
 ____
-... In this regard, self-centredness is abandoned in a bhikkhu._
+(...) In this regard, self-centredness is abandoned in a bhikkhu._
 
 _Idha bhikkhave bhikkhuno asmimāno pahīṇo hoti._
 ____
@@ -73411,7 +73411,7 @@ ____
 
 [quote, S.5.331]
 ____
-... Whenever, Ānanda, unmuddled mindfulness is established in a bhikkhu
+(...) Whenever, Ānanda, unmuddled mindfulness is established in a bhikkhu
 (_bhikkhuno_), on that occasion the enlightenment factor of mindfulness is
 aroused in the bhikkhu (_bhikkhuno_).
 
@@ -73493,7 +73493,7 @@ his body erect, having established mindfulness within himself,
 _So pāde pakkhāletvā nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ
 paṇidhāya parimukhaṃ satiṃ upaṭṭhapetvā._
 
-... He sits reflecting on his own welfare, on the welfare of others and on
+(...) He sits reflecting on his own welfare, on the welfare of others and on
 the welfare of both, indeed on the welfare of the whole world.
 
 _Attahitaṃ parahitaṃ ubhayahitaṃ sabbalokahitameva so bhavaṃ gotamo
@@ -74616,7 +74616,7 @@ ____
 
 [quote, Thī.v.33-4]
 ____
-... As I abide in this way, all my attachment is abolished. My [sensuous]
+(...) As I abide in this way, all my attachment is abolished. My [sensuous]
 passion is annihilated. I am freed from inward distress. I have realised the
 Untroubled._
 
@@ -74989,7 +74989,7 @@ enjoyment of company. So it was said. And in reference to what was it said?
 _Pavivittassāyaṃ bhikkhave dhammo nāyaṃ dhammo saṅgaṇikārāmassā'
 ti iti kho panetaṃ vuttaṃ kiñcetaṃ paṭicca vuttaṃ_
 
-... In this regard, the bhikkhu living secludedly may be visited by bhikkhus,
+(...) In this regard, the bhikkhu living secludedly may be visited by bhikkhus,
 bhikkhunīs, laymen, laywomen, kings and kings' ministers, and non-Buddhist
 ascetics and their disciples.
 
@@ -74997,7 +74997,7 @@ _idha bhikkhave bhikkhuno pavivittassa viharato bhavanti upasaṅkamitāro
 bhikkhū bhikkhūniyo upāsakā upāsikāyo rājāno rājamahāmattā titthiyā
 titthiyasāvakā._
 
-... In that case, the bhikkhu, mentally inclining, verging, and drifting
+(...) In that case, the bhikkhu, mentally inclining, verging, and drifting
 towards seclusion [from sensuous pleasures and spiritually unwholesome
 factors], psychologically withdrawn [from sensuous pleasures and spiritually
 unwholesome factors], taking delight in the practice of unsensuousness, is one
@@ -77432,14 +77432,14 @@ _ussahitvā tuleti_
 ____
 
 ____
-... Having scrutinised [it], he strives [to practise it].
+(...) Having scrutinised [it], he strives [to practise it].
 
 _tulayitvā padahati_
 ____
 
 [quote, M.1.480]
 ____
-... Being resolutely applied [to the practice] he realises with his very being
+(...) Being resolutely applied [to the practice] he realises with his very being
 the supreme truth, and he sees [the nature of reality] having penetrated it
 with discernment.
 
@@ -80737,7 +80737,7 @@ ____
 
 [quote, D.3.183]
 ____
-... one is exposed to many unpleasant things.
+(...) one is exposed to many unpleasant things.
 
 _bahūnañca dukkhadhammānaṃ purakkhato hoti._
 ____
@@ -82564,7 +82564,7 @@ ____
 
 [quote, D.1.73]
 ____
-... But when the five hindrances are abandoned, a bhikkhu sees himself as...
+(...) But when the five hindrances are abandoned, a bhikkhu sees himself as...
 released from imprisonment.
 
 _Seyyathā pi mahārāja... yathā bandhanā mokkhaṃ... ime pañca
@@ -82583,7 +82583,7 @@ ____
 
 [quote, S.1.77]
 ____
-... Passionate attachment to jewellery and earrings, and affection for children
+(...) Passionate attachment to jewellery and earrings, and affection for children
 and wives, are the strong bonds, say the wise.
 
 _Sārattarattā maṇikuṇḍalesu +
@@ -87325,7 +87325,7 @@ _Pañcime bhikkhave ādīnavā bahubhāṇiyasmiṃ puggale. Katame pañca._
 ____
 
 ____
-... He speaks falsely, maliciously, harshly, and frivolously; and with the
+(...) He speaks falsely, maliciously, harshly, and frivolously; and with the
 demise of the body at death, he is reborn in the plane of sub-human existence,
 in the plane of misery, in the plane of damnation, or in hell.
 
@@ -87335,7 +87335,7 @@ nirayaṃ uppajjati._
 ____
 
 ____
-... Bhikkhus, there are these five advantages for a person whose speech is
+(...) Bhikkhus, there are these five advantages for a person whose speech is
 pithy. Which five?
 
 _Pañcime bhikkhave ānisaṃsā mantabhāṇismiṃ puggale. Katame pañca:_
@@ -87343,7 +87343,7 @@ ____
 
 [quote, A.3.254]
 ____
-... He does not speak falsely, maliciously, harshly, or frivolously; and with
+(...) He does not speak falsely, maliciously, harshly, or frivolously; and with
 the demise of the body at death, he is reborn in the realm of happiness, in the
 heavenly worlds.
 
@@ -87817,7 +87817,7 @@ they despise, revile, and pull to pieces.
 _Te sakaṃyeva vādaṃ dīpenti jotenti parappavādaṃ pana khuṃsenti
 vambhenti paribhavanti omakkhiṃ karonti_
 
-... Bhante, there is unsureness, there is doubt in us concerning them. Which of
+(...) Bhante, there is unsureness, there is doubt in us concerning them. Which of
 these reverend ascetics and Brahmanists spoke the truth and which falsehood?"
 
 _Tesaṃ no bhante amhākaṃ hoteva kaṅkhā hoti vicikicchā. Ko su nāma
@@ -87832,27 +87832,27 @@ ____
 
 _Yadā tumhe kālāmā attanāva jāneyyātha_
 
-... These teachings (_dhammā_) are unwholesome;
+(...) These teachings (_dhammā_) are unwholesome;
 
 _ime dhammā akusalā_
 
-... these teachings are blameworthy;
+(...) these teachings are blameworthy;
 
 _ime dhammā sāvajjā_
 
-... these teachings are denounced by the wise;
+(...) these teachings are denounced by the wise;
 
 _ime dhammā viññugarahitā_
 
-... when followed and taken up
+(...) when followed and taken up
 
 _ime dhammā samattā samādinnā_
 
-... these teachings lead to harm and suffering,"
+(...) these teachings lead to harm and suffering,"
 
 _ahitāya dukkhāya saṃvattantīti_
 
-... you should abandon them.
+(...) you should abandon them.
 
 _atha tumhe kālāmā pajaheyyātha._
 ____
@@ -87982,14 +87982,14 @@ anaññasaraṇo:_
 
 [quote, S.5.154]
 ____
-... In this regard a bhikkhu abides contemplating the nature of the body,
+(...) In this regard a bhikkhu abides contemplating the nature of the body,
 vigorously, fully consciously, and mindfully, having eliminated greed and
 dejection in regard to the world [of phenomena].
 
 _idhānanda bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā
 vineyya loke abhijjhādomanassaṃ._
 
-... He abides contemplating the nature of sense impressions... the nature of
+(...) He abides contemplating the nature of sense impressions... the nature of
 the mind... the nature of certain objects of the systematic teachings
 
 _Vedanāsu vedanānupassī viharati ātāpī sampajāno satimā vineyya loke
@@ -87997,14 +87997,14 @@ abhijjhādomanassaṃ. Citte cittānupassī viharati ātāpī sampajāno
 satimā vineyya loke abhijjhādomanassaṃ. Dhammesu dhammānupassī viharati
 ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṃ._
 
-... Thus a bhikkhu abides spiritually self-reliant, with himself as his refuge,
+(...) Thus a bhikkhu abides spiritually self-reliant, with himself as his refuge,
 with no other refuge, relying completely on the teaching, with the teaching as
 his refuge, with no other refuge.
 
 _Evaṃ kho ānanda bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo
 dhammadīpo dhammasaraṇo anaññasaraṇo_
 
-... Those bhikkhus, either now or after my passing, who abide spiritually
+(...) Those bhikkhus, either now or after my passing, who abide spiritually
 self-reliant, with themselves as their refuge, with no other refuge; relying
 completely on the teaching, with the teaching as their refuge, with no other
 refuge; it is these bhikkhus, Ānanda, who will be for me foremost amongst
@@ -89540,7 +89540,7 @@ ____
 
 [quote, M.1.129]
 ____
-... In this regard, you should train yourselves thus: 'Neither shall our minds
+(...) In this regard, you should train yourselves thus: 'Neither shall our minds
 be worsened by this, nor shall we utter unvirtuous words, but we shall abide
 tenderly concerned for their welfare, with a mind of [unlimited,
 all-encompassing] goodwill, without inner hatred.'_
@@ -89687,7 +89687,7 @@ killing is spiritually unwholesome
 _pāṇātipāto akusalaṃ_
 ____
 
-...
+(...)
 
 And what is the origin of what is spiritually unwholesome (_akusalamūlaṃ_)?
 
@@ -89714,7 +89714,7 @@ And what is spiritually wholesome (_kusalaṃ_)?
 Refraining from killing is spiritually wholesome _pāṇātipātā veramaṇī
 kusalaṃ_
 
-...
+(...)
 
 And what is the origin of what is spiritually wholesome (_kusalamūlaṃ_)?
 
@@ -90270,7 +90270,7 @@ ____
 
 [quote, M.1.129]
 ____
-... In this regard, you should train yourselves thus: 'Neither shall our minds
+(...) In this regard, you should train yourselves thus: 'Neither shall our minds
 be worsened by this, nor shall we utter unvirtuous words, but we shall abide
 tenderly concerned for their welfare, with a mind of [unlimited,
 all-encompassing] goodwill, without inner hatred.'_
@@ -90288,7 +90288,7 @@ himself,' as follows:
 
 [quote, Bodhi, M.1.38]
 ____
-... everywhere, and to all as to himself, he abides pervading the
+(...) everywhere, and to all as to himself, he abides pervading the
 all-encompassing world with a mind imbued with loving-kindness
 
 _sabbadhi sabbatthatāya sabbāvantaṃ lokaṃ mettāsahagatena cetasā...
@@ -91997,7 +91997,7 @@ world is called a 'lurching vehicle,' 'contemptible,' a 'common man.'
 
 [quote, Sn.v.816-7]
 ____
-... His earlier prestige and reputation is lost.
+(...) His earlier prestige and reputation is lost.
 
 _Yaso kitti ca yā pubbe hāyate vāpi tassa sā._
 ____
@@ -92335,7 +92335,7 @@ paṭisañcikkhati; uppanto kho me ayaṃ lābho so ca kho anicco dukkho
 vipariṇāmadhammoti yathābhūtaṃ pajānāti_
 ____
 
-... Loss arises... Prestige arises... Imprestige arises... Criticism arises...
+(...) Loss arises... Prestige arises... Imprestige arises... Criticism arises...
 Praise arises... Pleasure arises... Pain arises... (S.5.158).
 
 
@@ -92472,7 +92472,7 @@ ____
 
 [quote, Vin.4.216]
 ____
-... How can I, noble ladies, speak to others of my own blameworthiness, my own
+(...) How can I, noble ladies, speak to others of my own blameworthiness, my own
 disgrace, my own ingloriousness, my own loss?
 
 _kyāhaṃ ayye attano avaṇṇaṃ attano akittiṃ attano ayasaṃ attano
@@ -93960,7 +93960,7 @@ ____
 
 [quote, A.1.261]
 ____
-... It is like when a hut is poorly thatched, the hut, the rafters, and the
+(...) It is like when a hut is poorly thatched, the hut, the rafters, and the
 walls are unprotected._
 
 _Seyyathā pi gahapati kūṭāgāre ducchanne kūṭampi arakkhitaṃ hoti.
@@ -94561,7 +94561,7 @@ ____
 
 [quote, Sn.v.271-2]
 ____
-... They are born from love. They arise within oneself like the shoots from the
+(...) They are born from love. They arise within oneself like the shoots from the
 trunk of a banyan tree.
 
 _Snehajā attasambhūtā nigrodhasseva khandhajā._
@@ -94759,7 +94759,7 @@ ____
 
 [quote, A.5.111]
 ____
-... In this regard, Ānanda, for whatever in the world [of phenomena] there is
+(...) In this regard, Ānanda, for whatever in the world [of phenomena] there is
 clinging, grasping, obstinate adherence, stubborn attachment, and
 identification, a bhikkhu abides abandoning, not grasping.
 
@@ -96190,14 +96190,14 @@ viharati._
 ____
 
 ____
-... But some people say that he is nonetheless included in the world [of
+(...) But some people say that he is nonetheless included in the world [of
 phenomena], that he is nonetheless unliberated from the world [of phenomena]_
 
 _Tamaññe evamāhaṃsu ayampi lokapariyāpanno ayampi anissaṭo lokamhā ti._
 ____
 
 ____
-... I, too, say that he is nonetheless included in the world [of phenomena],
+(...) I, too, say that he is nonetheless included in the world [of phenomena],
 that he is nonetheless unliberated from the world [of phenomena]'_
 
 _Ahampi brāhmaṇā evaṃ vadāmi ayampi lokapariyāpanno ayampi anissaṭo
@@ -96636,7 +96636,7 @@ ____
 
 [quote, A.2.188]
 ____
-... namely: acquisition and loss, imprestige and prestige, criticism and
+(...) namely: acquisition and loss, imprestige and prestige, criticism and
 praise, pleasure and pain.
 
 _lābho ca alābho ca ayaso ca yaso ca nindā ca pasaṃsā ca sukhañca
@@ -96846,13 +96846,13 @@ _Ayaṃ vuccati brāhmaṇā bhikkhu _
 ____
 
 ____
-... having arrived at the end of the world [of sensuous pleasure]_
+(...) having arrived at the end of the world [of sensuous pleasure]_
 
 _lokassa antaṃ āgamma_
 ____
 
 ____
-... abides at the end of the world [of sensuous pleasure]_
+(...) abides at the end of the world [of sensuous pleasure]_
 
 _lokassa ante viharati._
 ____
@@ -96872,7 +96872,7 @@ _Ahampi brāhmaṇā evaṃ vadāmi ayampi lokapariyāpanno ayampi anissaṭo
 lokamhā ti._
 ____
 
-...
+(...)
 
 ____
 Then again the bhikkhu, by completely transcending the state of awareness
@@ -96892,20 +96892,20 @@ _Ayaṃ vuccati brāhmaṇā bhikkhu_
 ____
 
 ____
-... having arrived at the end of the world [of sensuous pleasure],
+(...) having arrived at the end of the world [of sensuous pleasure],
 
 _lokassa antaṃ āgamma_
 ____
 
 ____
-... abides at the end of the world [of sensuous pleasure],
+(...) abides at the end of the world [of sensuous pleasure],
 
 _lokassa ante viharati_
 ____
 
 [quote, A.4.431]
 ____
-... one who has overcome attachment to the world [of phenomena].
+(...) one who has overcome attachment to the world [of phenomena].
 
 _tiṇṇo loke visattikan ti._
 ____
@@ -97104,7 +97104,7 @@ patteyyanti vadāmī ti._
 ____
 
 ____
-... However, friend, I declare that without having reached the end of the world
+(...) However, friend, I declare that without having reached the end of the world
 &#8203;[of phenomena] there is no putting an end to suffering.
 
 _na kho panāhaṃ āvuso appatvā lokassa antaṃ dukkhassa antakiriyaṃ
@@ -97112,7 +97112,7 @@ vadāmi_
 ____
 
 ____
-... It is, friend, in just this fathom-high carcass endowed with perception and
+(...) It is, friend, in just this fathom-high carcass endowed with perception and
 mind that I make known the world [of phenomena], the origination of the world
 &#8203;[of phenomena], the ending of the world [of phenomena], and the practice
 leading to the ending of the world [of phenomena].
@@ -97215,7 +97215,7 @@ ____
 
 [quote, S.4.54]
 ____
-... whatever sense impression that arises due to mental sensation -- whether
+(...) whatever sense impression that arises due to mental sensation -- whether
 pleasant, unpleasant, or neutral -- is void of an [absolute] Selfhood and of
 what could belong to an [absolute] Selfhood
 
@@ -97771,7 +97771,7 @@ ____
 
 [quote, A.3.6]
 ____
-... There would be some injury to the boy, I do not deny it. But, really, this
+(...) There would be some injury to the boy, I do not deny it. But, really, this
 is what should be done by the nurse wishing for the child's well-being, seeking
 its welfare, from tender concern, out of tender concern.
 
@@ -99562,7 +99562,7 @@ kaṅkhā siyā vimati._
 ____
 
 ____
-... And if I were to teach you about the origination and vanishing of suffering
+(...) And if I were to teach you about the origination and vanishing of suffering
 with reference to the future, saying, 'So it will be in the future,' unsureness
 about the [nature of reality in the] future might arise in you.
 
@@ -99572,7 +99572,7 @@ te siyā kaṅkhā siyā vimati._
 ____
 
 ____
-... Instead, headman, while I am sitting right here, and you are sitting right
+(...) Instead, headman, while I am sitting right here, and you are sitting right
 there, I will teach you about the origination and vanishing of suffering.
 Listen, pay careful attention, and I will speak.
 
@@ -99594,7 +99594,7 @@ pariyogāḷhena atītānāgate nayaṃ nehi_
 ____
 
 ____
-... Whatever suffering arose in the past, all of it stemmed from fondness, with
+(...) Whatever suffering arose in the past, all of it stemmed from fondness, with
 fondness as its basis; for fondness is the origin of suffering.
 
 _yaṃ kho kiñci atītamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjati
@@ -99603,7 +99603,7 @@ ____
 
 [quote, S.4.327]
 ____
-... Whatever suffering will arise in the future, all of it will stem from
+(...) Whatever suffering will arise in the future, all of it will stem from
 fondness, with fondness as its basis; for fondness is the origin of suffering.
 
 _yaṃ hi kiñci anāgatamaddhānaṃ dukkhaṃ uppajjamānaṃ uppajjissati
@@ -99969,7 +99969,7 @@ _yatonidānaṃ purisaṃ papañcasaññāsaṅkhā samudācaranti_
 ____
 
 ____
-... if there is found nothing there to be delighted in, welcomed, or clung to
+(...) if there is found nothing there to be delighted in, welcomed, or clung to
 
 _ettha ce natthi abhinanditabbaṃ abhivaditabbaṃ ajjhositabbaṃ_
 ____
@@ -100759,7 +100759,7 @@ existence
 
 _majjhimāya dhātuyā viññāṇaṃ patiṭṭhitaṃ_
 
-... the stream of sense consciousness is established in the high plane of
+(...) the stream of sense consciousness is established in the high plane of
 existence
 
 _paṇītāya dhātuyā viññāṇaṃ patiṭṭhitaṃ_
@@ -100802,7 +100802,7 @@ ____
 
 [quote, S.2.82]
 ____
-... When a bhikkhu has abandoned uninsightfulness into reality and aroused
+(...) When a bhikkhu has abandoned uninsightfulness into reality and aroused
 insightfulness into reality, then, with the fading away of uninsightfulness
 into reality and the arising of insightfulness into reality, he does not
 undertake a karmically consequential deed that is meritorious, demeritorious,
@@ -100830,7 +100830,7 @@ ____
 
 [quote, S.3.53]
 ____
-... When the stream of sense consciousness is unestablished, not [egoistically]
+(...) When the stream of sense consciousness is unestablished, not [egoistically]
 matured, without the performance of [karmically consequential deeds], it is
 liberated [from perceptually obscuring states].
 
@@ -100991,7 +100991,7 @@ me so attā ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ._
 ____
 
 ____
-... When one sees it thus according to reality with perfect penetrative
+(...) When one sees it thus according to reality with perfect penetrative
 discernment, one is disillusioned with the Solidness Phenomenon and one
 detaches the mind from the Solidness Phenomenon
 
@@ -100999,11 +100999,11 @@ _Evametaṃ yathābhūtaṃ sammappaññāya disvā paṭhavīdhātuyā
 nibbindati paṭhavīdhātuyā cittaṃ virājeti_
 ____
 
-... and similarly for the Liquidness Phenomenon, Warmth Phenomenon, Gaseousness
+(...) and similarly for the Liquidness Phenomenon, Warmth Phenomenon, Gaseousness
 Phenomenon, Space Element.
 
 ____
-... Then there remains only mental consciousness, purified and refined
+(...) Then there remains only mental consciousness, purified and refined
 
 _Athāparaṃ viññāṇaṃ yeva avasissati parisuddhaṃ pariyodātaṃ_
 ____
@@ -101138,14 +101138,14 @@ paṭhamaṃ jhānaṃ upasampajja viharitā. Siyā nu kho eso maggo
 bodhāyāti._
 
 ____
-... Following that memory came the insight
+(...) Following that memory came the insight
 
 _tassa mayhaṃ aggivessana satānusāriviññāṇaṃ ahosi_
 ____
 
 [quote, M.1.246]
 ____
-... 'This indeed is the way to enlightenment'
+(...) 'This indeed is the way to enlightenment'
 
 _esova maggo bodhāyā ti._
 ____
@@ -101497,7 +101497,7 @@ ____
 
 [quote, S.3.53]
 ____
-... When the stream of sense consciousness is unestablished, not [egoistically]
+(...) When the stream of sense consciousness is unestablished, not [egoistically]
 matured, without the performance of [karmically consequential deeds], it is
 liberated [from perceptually obscuring states].
 
@@ -102331,7 +102331,7 @@ ____
 
 [quote, Vin.2.286]
 ____
-... In this same way he questioned him about both divisions (i.e. both
+(...) In this same way he questioned him about both divisions (i.e. both
 Pātimokkhas, bhikkhus' and bhikkhunīs')
 
 _eteneva upāyena ubhato vibhaṅge pucchi._
@@ -103680,7 +103680,7 @@ ____
 
 [quote, S.5.158]
 ____
-... In this regard a bhikkhu abides contemplating the nature of the body,
+(...) In this regard a bhikkhu abides contemplating the nature of the body,
 vigorously, fully consciously, and mindfully, having eliminated greed and
 dejection in regard to the world [of phenomena]. As he abides contemplating the
 nature of the body his mind is unattached [to originated phenomena], it is
@@ -103790,7 +103790,7 @@ _Rūpadhātuyā... Viññāṇadhātuyā kho gahapati_
 ____
 
 ____
-... through the destruction, fading away, ending, giving up, and relinquishment
+(...) through the destruction, fading away, ending, giving up, and relinquishment
 of fondness, attachment, spiritually fettering delight, craving, clinging,
 grasping, obstinate adherence, stubborn attachment, and identification
 
@@ -103801,7 +103801,7 @@ ____
 
 [quote, S.3.13]
 ____
-... one's mind is said to be liberated [from perceptually obscuring states].
+(...) one's mind is said to be liberated [from perceptually obscuring states].
 
 _cittaṃ suvimuttan ti vuccati._
 ____
@@ -104479,13 +104479,13 @@ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati._
 ____
 
 ____
-... For him the mental imagery of previous sensuous pleasure ceases.
+(...) For him the mental imagery of previous sensuous pleasure ceases.
 
 _Tassa yā purimā kāmasaññā sā nirujjhati._
 ____
 
 ____
-... And at that time there is a subtle but true perception of the rapture and
+(...) And at that time there is a subtle but true perception of the rapture and
 physical pleasure born of seclusion [from sensuous pleasures and spiritually
 unwholesome factors]. He is one with a subtle but true perception of the
 rapture and physical pleasure born of seclusion [from sensuous pleasures and
@@ -104496,7 +104496,7 @@ Vivekajapītisukhasukhumasaccasaññī yeva tasmiṃ samaye hoti._
 ____
 
 ____
-... In this way one state of refined awareness arises through the training, and
+(...) In this way one state of refined awareness arises through the training, and
 one state of refined awareness ceases through the training. And that is the
 training, said the Blessed One...
 
@@ -104504,11 +104504,11 @@ _Evampi sikkhā ekā saññā uppajjati. Sikkhā ekā saññā nirujjhati.
 Ayaṃ sikkhā ti bhagavā avoca..._
 ____
 
-... and so on, through the jhānas, up to the state of awareness of boundless
+(...) and so on, through the jhānas, up to the state of awareness of boundless
 mental consciousness (_viññāṇañcāyatana_). Then the sutta continues:
 
 ____
-... Further, Poṭṭhapāda, by completely transcending the state of awareness
+(...) Further, Poṭṭhapāda, by completely transcending the state of awareness
 of boundless mental consciousness, he enters and abides in the state of
 awareness of nonexistence, where one perceives that there is [nowhere] anything
 at all, and the previous subtle but true perception of the state of awareness
@@ -104524,7 +104524,7 @@ Tassa yā purimā viññāṇañcāyatanasukhumasaccasaññā sā nirujjhati.
 ____
 
 ____
-... In this way one state of refined awareness arises through the training, and
+(...) In this way one state of refined awareness arises through the training, and
 one state of refined awareness ceases through the training. And that is the
 training, said the Blessed One.
 
@@ -104533,7 +104533,7 @@ Ayampi sikkhā ti bhagavā avoca._
 ____
 
 ____
-... Poṭṭhapāda, once the bhikkhu is possessed of that preliminary state of
+(...) Poṭṭhapāda, once the bhikkhu is possessed of that preliminary state of
 refined awareness, he proceeds from stage to stage till he reaches the highest
 state of refined awareness.
 
@@ -104542,7 +104542,7 @@ amutra anupubbena saññaggaṃ phusati._
 ____
 
 ____
-... He attains to the ending [of originated phenomena].
+(...) He attains to the ending [of originated phenomena].
 
 _So nirodhaṃ phusati._
 ____
@@ -104606,7 +104606,7 @@ _Ime kho āvuso pañcakāmaguṇā sambādho vutto bhagavatā._
 ____
 
 ____
-... In this regard a bhikkhu, secluded from sensuous pleasures and spiritually
+(...) In this regard a bhikkhu, secluded from sensuous pleasures and spiritually
 unwholesome factors, enters and abides in first jhāna, which is accompanied by
 thinking and pondering, and rapture and physical pleasure born of seclusion
 &#8203;[from sensuous pleasures and spiritually unwholesome factors].
@@ -104617,7 +104617,7 @@ viharati._
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104626,19 +104626,19 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The thinking and pondering that are unended is troublesome in this case._
+(...) The thinking and pondering that are unended is troublesome in this case._
 
 _Yadeva tattha vitakkavicārā aniruddhā honti ayamettha sambādho._
 ____
 
 ____
-... Again, in this regard, with the subsiding of thinking and pondering, and
+(...) Again, in this regard, with the subsiding of thinking and pondering, and
 &#8203;[the development of] internal serenity and concentration, a bhikkhu enters and
 abides in second jhāna which is without thinking and pondering, and is filled
 with rapture and physical pleasure born of inward collectedness.
@@ -104649,7 +104649,7 @@ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati._
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104658,19 +104658,19 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The rapture that is unended is troublesome in this case._
+(...) The rapture that is unended is troublesome in this case._
 
 _Yadeva tattha pīti aniruddhā hoti ayamettha sambādho._
 ____
 
 ____
-... Again, in this regard, with the fading away of rapture, a bhikkhu abides
+(...) Again, in this regard, with the fading away of rapture, a bhikkhu abides
 serene, mindful, and fully conscious, experiencing physical pleasure. He enters
 and abides in third jhāna in which the Noble Ones declare that he abides
 serene, mindful, and in physical pleasure._
@@ -104682,7 +104682,7 @@ viharati._
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104691,20 +104691,20 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The serenity with physical pleasure that is unended is troublesome in this
+(...) The serenity with physical pleasure that is unended is troublesome in this
 case._
 
 _Yadeva tattha upekkhāsukhaṃ aniruddhaṃ hoti ayamettha sambādho._
 ____
 
 ____
-... Again, in this regard, with the abandonment of physical pleasure and pain,
+(...) Again, in this regard, with the abandonment of physical pleasure and pain,
 and following the vanishing of psychological pleasure and pain, a bhikkhu
 enters and abides in fourth jhāna, which is free of pleasure and pain, and [is
 imbued with] purified detached awareness and mindfulness.
@@ -104715,7 +104715,7 @@ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati._
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104724,20 +104724,20 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The perception of the refined material states of awareness that is unended
+(...) The perception of the refined material states of awareness that is unended
 is troublesome in this case._
 
 _Yadeva tattha rūpasaññā aniruddhā hoti ayamettha sambādho._
 ____
 
 ____
-... Again, in this regard, by completely transcending refined material states
+(...) Again, in this regard, by completely transcending refined material states
 of awareness, with the vanishing of states of refined awareness involving
 physical sensation, not focusing upon states of refined awareness involving the
 external senses, a bhikkhu enters and abides in the state of awareness of
@@ -104749,7 +104749,7 @@ paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ananto
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104758,13 +104758,13 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The perception of the state of awareness of boundless space that is unended
+(...) The perception of the state of awareness of boundless space that is unended
 is troublesome in this case._
 
 _Yadeva tattha ākāsānañcāyatanasaññā aniruddhā hoti. Ayamettha
@@ -104772,7 +104772,7 @@ sambādho._
 ____
 
 ____
-... Again, in this regard, by completely transcending the state of awareness of
+(...) Again, in this regard, by completely transcending the state of awareness of
 boundless space, a bhikkhu enters and abides in the state of awareness of
 boundless mental consciousness, where one perceives that mental consciousness
 is boundless.
@@ -104782,7 +104782,7 @@ anantaṃ viññāṇan ti viññāṇañcāyatanaṃ upasampajja viharati._
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104791,13 +104791,13 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The perception of the state of awareness of boundless mental consciousness
+(...) The perception of the state of awareness of boundless mental consciousness
 that is unended is troublesome in this case._
 
 _Yadeva tattha viññāṇañcāyatanasaññā aniruddhā hoti. Ayamettha
@@ -104805,7 +104805,7 @@ sambādho._
 ____
 
 ____
-... Again, in this regard, by completely transcending the state of awareness of
+(...) Again, in this regard, by completely transcending the state of awareness of
 boundless mental consciousness, a bhikkhu enters and abides in the state of
 awareness of nonexistence, where one perceives that there is [nowhere] anything
 at all.
@@ -104815,7 +104815,7 @@ natthi kiñcīti ākiñcaññāyatanaṃ upasampajja viharati._
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104824,13 +104824,13 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The perception of the state of awareness of nonexistence that is unended is
+(...) The perception of the state of awareness of nonexistence that is unended is
 troublesome in this case._
 
 _Yadeva tattha ākiñcaññāyatanasaññā aniruddhā hoti ayamettha
@@ -104838,7 +104838,7 @@ sambādho._
 ____
 
 ____
-... Again, in this regard, By completely transcending the state of awareness of
+(...) Again, in this regard, By completely transcending the state of awareness of
 nonexistence, a bhikkhu enters and abides in the state of awareness neither
 having nor lacking perception.
 
@@ -104847,7 +104847,7 @@ nevasaññānāsaññāyatanaṃ upasampajja viharati._
 ____
 
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is qualified,
 because again there is something inwardly troublesome.
 
@@ -104856,13 +104856,13 @@ pariyāyena. Tattha'patthi sambādho._
 ____
 
 ____
-... What is troublesome in this case?_
+(...) What is troublesome in this case?_
 
 _Kiñca tattha sambādho?_
 ____
 
 ____
-... The perception of the state of awareness neither having nor lacking
+(...) The perception of the state of awareness neither having nor lacking
 perception that is unended is troublesome in this case._
 
 _Yadeva tattha nevasaññānāsaññāyatanasaññā aniruddhā hoti ayamettha
@@ -104870,7 +104870,7 @@ sambādho._
 ____
 
 ____
-... Again, in this regard, by completely transcending the state of awareness
+(...) Again, in this regard, by completely transcending the state of awareness
 neither having nor lacking perception, a bhikkhu enters and abides in the
 ending of perception and sense impression. And, by seeing [reality] with
 penetrative discernment, his perceptually obscuring states are destroyed
@@ -104882,7 +104882,7 @@ ____
 
 [quote, A.4.450-1]
 ____
-... It is in reference to this that a deliverance from what is inwardly
+(...) It is in reference to this that a deliverance from what is inwardly
 troublesome is spoken of by the Blessed One, in a way that is unqualified._
 
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
@@ -104969,7 +104969,7 @@ Nibbānadhātu anissitena tādinā_
 ____
 
 ____
-... One aspect is realisable in this lifetime, with residue, but with the
+(...) One aspect is realisable in this lifetime, with residue, but with the
 conduit to renewed states of individual existence destroyed;
 
 _Ekā hi dhātu idha diṭṭhadhammikā +
@@ -104978,7 +104978,7 @@ ____
 
 [quote, It.38-9]
 ____
-... The other, having no residue, is that wherein states of individual
+(...) The other, having no residue, is that wherein states of individual
 existence altogether cease.
 
 _Anupādisesā pana samparāyikā +
@@ -106428,7 +106428,7 @@ __āraddhaviriyo āraddhaviriyo ti bhante vuccati. Kittāvatā nu kho bhante
 ____
 
 ____
-... 'In this regard, Moggallāna, a bhikkhu abides energetically thus:
+(...) 'In this regard, Moggallāna, a bhikkhu abides energetically thus:
 "Willingly, let only skin, sinews, and bones remain, and let the flesh and
 blood dry up in my body, but I will not relax my energy so long as I have not
 attained what can be attained by manly strength, by manly energy, by manly
@@ -106442,7 +106442,7 @@ ____
 
 [quote, S.2.276]
 ____
-... In this way is one energetically applied [to the practice].
+(...) In this way is one energetically applied [to the practice].
 
 _Evaṃ kho moggallāna āraddhaviriyo hotī ti._
 ____
@@ -106542,7 +106542,7 @@ ____
 
 [quote, S.2.28]
 ____
-... 'Willingly, let only skin, sinews, and bones remain, and let the flesh and
+(...) 'Willingly, let only skin, sinews, and bones remain, and let the flesh and
 blood dry up in my body, but I will not relax my energy so long as I have not
 attained what can be attained by manly strength, by manly energy, by manly
 application [to the practice].'
@@ -108273,7 +108273,7 @@ _Kathañca bhikkhave bhikkhu vedagū hoti_
 ____
 
 ____
-... When he discerns according to reality the origination, vanishing,
+(...) When he discerns according to reality the origination, vanishing,
 sweetness, wretchedness, and deliverance in regards to the six senses
 
 _Yato kho bhikkhave bhikkhu channaṃ phassāyatanānaṃ samudayañca
@@ -108283,7 +108283,7 @@ ____
 
 [quote, S.4.83]
 ____
-... In this way a bhikkhu is blessed with profound knowledge
+(...) In this way a bhikkhu is blessed with profound knowledge
 
 _evaṃ kho bhikkhave bhikkhu vedagū hoti._
 ____
@@ -108299,7 +108299,7 @@ _Kathañca bhikkhave bhikkhu vedagū hoti?_
 ____
 
 ____
-... Unvirtuous, spiritually unwholesome factors that are defiling, and which
+(...) Unvirtuous, spiritually unwholesome factors that are defiling, and which
 lead to renewed states of individual existence, suffering, unpleasant karmic
 consequences, and future birth, old age, and death are completely understood by
 him.
@@ -108310,7 +108310,7 @@ ____
 
 [quote, M.1.280]
 ____
-... In this way a bhikkhu is blessed with profound knowledge.
+(...) In this way a bhikkhu is blessed with profound knowledge.
 
 _Evaṃ kho bhikkhave bhikkhu vedagū hoti._
 ____
@@ -109751,7 +109751,7 @@ ____
 
 [quote, A.4.246]
 ____
-... In doing so, he partakes of limitless freedom from fear, unfriendliness,
+(...) In doing so, he partakes of limitless freedom from fear, unfriendliness,
 and hostility.
 
 _Aparimāṇānaṃ sattānaṃ abhayaṃ datvā averaṃ datvā avyāpajjhaṃ
@@ -111210,14 +111210,14 @@ _Imassa kho bhikkhave puggalassa orambhāgiyāni saṃyojanāni pahīṇāni_
 ____
 
 ____
-... the ties to rebirth are abandoned
+(...) the ties to rebirth are abandoned
 
 _Upapattipaṭilābhiyāni saṃyojanāni pahīṇāni_
 ____
 
 [quote, A.2.134]
 ____
-... the ties to individual existence are abandoned
+(...) the ties to individual existence are abandoned
 
 _Bhavapaṭilābhiyāni saṃyojanāni pahīṇāni._
 ____
@@ -111684,7 +111684,7 @@ _Ko cāhāro indriyāsaṃvarassa?_
 +
 [quote, A.5.113]
 ____
-... Lack of mindfulness and full consciousness, one should reply.
+(...) Lack of mindfulness and full consciousness, one should reply.
 
 _Asatāsampajaññan tissa vacanīyaṃ._
 ____
@@ -111698,7 +111698,7 @@ _ko cāhāro indriyasaṃvarassa_
 +
 [quote, A.5.115]
 ____
-... Mindfulness and full consciousness, one should reply.
+(...) Mindfulness and full consciousness, one should reply.
 
 _satisampajaññantissa vacanīyaṃ._
 ____
@@ -111714,13 +111714,13 @@ and repulsion, through mindfulness]?
 
 _Kathañca bhikkhave saṃvaro hoti?_
 
-...There are visible objects known via the visual sense that are likeable,
+(...) There are visible objects known via the visual sense that are likeable,
 loveable, pleasing, agreeable, connected with sensuous pleasure, and charming.
 
 _Santi bhikkhave cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā
 kāmupasaṃhitā rajanīyā._
 
-... If a bhikkhu does not take delight in them, welcome them, persist in
+(...) If a bhikkhu does not take delight in them, welcome them, persist in
 cleaving to them, he should understand this thus: 'I am not falling away from
 spiritually wholesome factors. For this has been called not falling away by the
 Blessed One.
@@ -111729,7 +111729,7 @@ _Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati.
 Veditabbametaṃ bhikkhave bhikkhunā na parihāyāmi kusalehi dhammehi
 aparihānaṃ hetaṃ vuttaṃ bhagavatā ti._
 
-... In this way there is restraint [of the sense faculties] [from attraction
+(...) In this way there is restraint [of the sense faculties] [from attraction
 and repulsion, through mindfulness]
 
 _Evaṃ kho bhikkhave saṃvaro hotī ti._
@@ -112094,7 +112094,7 @@ ____
 
 [quote, S.4.199]
 ____
-... In this way there is unrestraint [of the sense faculties].
+(...) In this way there is unrestraint [of the sense faculties].
 
 _Evaṃ kho bhikkhave asaṃvaro hoti._
 ____
@@ -112253,7 +112253,7 @@ ____
 
 [quote, S.4.76]
 ____
-... In this way, there is unrestraint [of the sense faculties].
+(...) In this way, there is unrestraint [of the sense faculties].
 
 _Evaṃ kho bhikkhave asaṃvaro hoti._
 ____
@@ -112736,7 +112736,7 @@ Then you'll be truly happy, free of attachment.
 _tato sukhī hohisi vītarāgo_
 ____
 
-...
+(...)
 
 [quote, S.1.197]
 ____
@@ -113202,7 +113202,7 @@ udāhu visaṃsaṭṭhā_
 ____
 
 ____
-... Is it possible to separate them in order to describe them separately?
+(...) Is it possible to separate them in order to describe them separately?
 
 _labbhā ca panime dhammānaṃ vinibbhujitvā vinibbhujitvā nānākaraṇaṃ
 paññāpetunti?_
@@ -113218,14 +113218,14 @@ vinibbhujitvā nānākaraṇaṃ paññāpetuṃ_
 ____
 
 ____
-... For what one discerns, that one knows
+(...) For what one discerns, that one knows
 
 _Yañcāvuso pajānāti taṃ vijānāti._
 ____
 
 [quote, M.1.292-3]
 ____
-... What one knows, that one discerns
+(...) What one knows, that one discerns
 
 _Yaṃ vijānāti taṃ pajānāti._
 ____
@@ -114895,7 +114895,7 @@ ____
 
 [quote, M.1.488]
 ____
-... The Perfect One is liberated from being reckoned in terms of bodily form...
+(...) The Perfect One is liberated from being reckoned in terms of bodily form...
 advertence, Vaccha, he is profound, immeasurable, unfathomable like the ocean
 
 _Rūpasaṅkhāvimutto... Viññāṇasaṅkhāvimutto kho vaccha tathāgato
@@ -115870,7 +115870,7 @@ vepullāya bhāvanāya pāripūriyā..._
 ****
 
 ____
-... he stirs up eagerness, endeavours, applies energy, exerts his mind, and
+(...) he stirs up eagerness, endeavours, applies energy, exerts his mind, and
 strives.
 
 _chandaṃ janeti vāyamati viriyaṃ ārabhati cittaṃ paggaṇhāti
@@ -115879,7 +115879,7 @@ ____
 
 [quote, S.5.268]
 ____
-... These are called the efforts of inward striving.
+(...) These are called the efforts of inward striving.
 
 _ime vuccanti padhānasaṅkhārā._
 ____
@@ -116342,7 +116342,7 @@ ____
 
 [quote, D.3.270]
 ____
-... In this regard, with the abandonment of physical pleasure and pain, and
+(...) In this regard, with the abandonment of physical pleasure and pain, and
 following the vanishing of psychological pleasure and pain, a bhikkhu enters
 and abides in fourth jhāna, which is free of pleasure and pain, and [is imbued
 with] purified detached awareness and mindfulness.
@@ -116370,7 +116370,7 @@ vitakkavicārā aniruddhā honti_
 ____
 
 ____
-... A bhikkhu enters and abides in second jhāna. That, I declare, is within
+(...) A bhikkhu enters and abides in second jhāna. That, I declare, is within
 the unstable. What there is within the unstable? The rapture and physical
 pleasure that are unended.
 
@@ -116380,7 +116380,7 @@ aniruddhaṃ hoti._
 ____
 
 ____
-... He enters and abides in third jhāna... That, I declare, is within the
+(...) He enters and abides in third jhāna... That, I declare, is within the
 unstable. What there is within the unstable? The serenity with physical
 pleasure that is unended.
 
@@ -116391,7 +116391,7 @@ ____
 
 [quote, M.1.454-5]
 ____
-... With the abandonment of physical pleasure and pain, and following the
+(...) With the abandonment of physical pleasure and pain, and following the
 vanishing of psychological pleasure and pain, a bhikkhu enters and abides in
 fourth jhāna, which is free of pleasure and pain, and [is imbued with]
 purified detached awareness and mindfulness. Now that, I declare, is within the
@@ -116432,20 +116432,20 @@ Thus the _ānāpānasati_ formulae can be translated accordingly:
 - I will breathe in... I will breathe out:
 
 ____
-... experiencing the whole body
+(...) experiencing the whole body
 
 _sabbakāyapaṭisaṃvedī assasissāmī ti... passasissāmī ti sikkhati_
 ____
 
 ____
-... tranquillising bodily untranquillising factors
+(...) tranquillising bodily untranquillising factors
 
 _passambhayaṃ kāyasaṅkhāraṃ assasissāmī ti... passasissāmī ti
 sikkhati_
 ____
 
 ____
-... experiencing mental untranquillising factors
+(...) experiencing mental untranquillising factors
 
 _cittasaṅkhārapaṭisaṃvedī assasissāmī ti... passasissāmī ti
 sikkhati_
@@ -116453,7 +116453,7 @@ ____
 
 [quote, M.1.425]
 ____
-... tranquillising mental untranquillising factors
+(...) tranquillising mental untranquillising factors
 
 _passambhayaṃ cittasaṅkhāraṃ assasissāmī ti... passasissāmī ti
 sikkhati._
@@ -116557,7 +116557,7 @@ ____
 
 [quote, M.1.120]
 ____
-... It is just as if a man walking fast might ask himself why he is walking
+(...) It is just as if a man walking fast might ask himself why he is walking
 fast. Why not walk slowly? Then walking slowly, why not stand? Then standing,
 why not sit? Then sitting, why not lie down? In this way he would substitute
 for each more effortful posture one that was less effortful.
@@ -117194,7 +117194,7 @@ _Mahatī kho tyāyaṃ hatthaka parisā_
 ____
 
 ____
-... How did you win over this large following?
+(...) How did you win over this large following?
 
 _kathaṃ pana tvaṃ hatthaka imaṃ mahatiṃ parisaṃ saṅgaṇhāhī ti?_
 ____
@@ -117208,7 +117208,7 @@ imaṃ parisaṃ saṅgaṇhāmi._
 ____
 
 ____
-... When I know 'This one is to be won over by a gift, I win him over with a
+(...) When I know 'This one is to be won over by a gift, I win him over with a
 gift.'
 
 _Ahaṃ bhante yaṃ jānāmi ayaṃ dānena saṅgahetabbo ti taṃ dānena
@@ -117216,7 +117216,7 @@ saṅgaṇhāmi._
 ____
 
 ____
-... When I know 'This one is to be won over by agreeable speech, I win him over
+(...) When I know 'This one is to be won over by agreeable speech, I win him over
 with agreeable speech.'
 
 _Yaṃ jānāmi ayaṃ peyyavajjena saṅgahetabbo ti taṃ peyyavajjena
@@ -117224,7 +117224,7 @@ saṅgaṇhāmi_
 ____
 
 ____
-... When I know 'This one is to be won over by beneficial conduct, I win him
+(...) When I know 'This one is to be won over by beneficial conduct, I win him
 over with beneficial conduct.'
 
 _yaṃ jānāmi ayaṃ atthacariyāya saṅgahetabbo ti taṃ atthacariyāya
@@ -117233,7 +117233,7 @@ ____
 
 [quote, A.4.219]
 ____
-... When I know 'This one is to be won over by impartiality, I win him over
+(...) When I know 'This one is to be won over by impartiality, I win him over
 with impartiality.'
 
 _yaṃ jānāmi ayaṃ samānattatāya saṅgahetabbo ti taṃ samānattatāya
@@ -119697,14 +119697,14 @@ _Pūtimuttaṃ bhikkhave bhesajjānaṃ appañca sulabhañca tañca anavajjaṃ_
 ****
 
 ____
-... These four things are paltry, easily gotten, and blameless.
+(...) These four things are paltry, easily gotten, and blameless.
 
 _Imāni kho bhikkhave cattāri appāni ca sulabhāni ca tāni anavajjāni_
 ____
 
 [quote, A.2.27]
 ____
-... When a bhikkhu is content with what is paltry and easily gotten, this is
+(...) When a bhikkhu is content with what is paltry and easily gotten, this is
 one of the factors of asceticism, I declare.
 
 _Yato kho bhikkhave bhikkhu appena ca santuṭṭho hoti sulabhena ca.
@@ -120390,7 +120390,7 @@ When a bhikkhu has heard that all things are unsuited to stubborn attachment
 
 _sutaṃ hoti sabbe dhammā nālaṃ abhinivesāyā ti_
 
-... he fully understands the whole teaching,
+(...) he fully understands the whole teaching,
 
 _so sabbaṃ dhammaṃ abhijānāti._
 ____
@@ -122301,7 +122301,7 @@ nibbindati._
 ____
 
 ____
-... Being disillusioned [with originated phenomena], one is unattached [to
+(...) Being disillusioned [with originated phenomena], one is unattached [to
 originated phenomena]. Being unattached [to originated phenomena] one is
 liberated [from perceptually obscuring states].
 
@@ -122310,7 +122310,7 @@ ____
 
 [quote, S.4.140]
 ____
-... On these grounds one is perfect [in the development of] the [six] sense
+(...) On these grounds one is perfect [in the development of] the [six] sense
 faculties._
 
 _ettāvatā kho bhikkhu indriyasampanno hotī ti._
@@ -123290,7 +123290,7 @@ fortunate and unfortunate,
 _dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne
 upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate_
 
-... and he understands how beings fare according to their deeds.
+(...) and he understands how beings fare according to their deeds.
 
 _yathākammūpage satte pajānāti._
 ____
@@ -123553,20 +123553,20 @@ _Yadā tumhe kālāmā attanāva jāneyyātha_
 ____
 
 ____
-... "These teachings are unwholesome;
+(...) "These teachings are unwholesome;
 
 _ime dhammā akusalā_
 ____
 
 ____
-... these teachings are blameworthy;
+(...) these teachings are blameworthy;
 
 _ime dhammā sāvajjā_
 ____
 
 [quote, A.1.189]
 ____
-... you should abandon them.
+(...) you should abandon them.
 
 _atha tumhe kālāmā pajaheyyātha._
 ____
@@ -125983,7 +125983,7 @@ ____
 
 [quote, Th.v.1170-1]
 ____
-... And was a scholar [of the sacred texts], a master of the three Vedas, one
+(...) And was a scholar [of the sacred texts], a master of the three Vedas, one
 would not deserve a fraction of the respect that is due [to Venerable
 MahāKassapa].
 
@@ -126174,20 +126174,20 @@ ____
 Also:
 
 ____
-... with grounds
+(...) with grounds
 
 _sanimittā bhikkhave uppajjanti pāpakā akusalā dhammā no animittā_
 ____
 
 ____
-... with a source
+(...) with a source
 
 _sanidānā bhikkhave uppajjanti pāpakā akusalā dhammā no anidānā_
 ____
 
 [quote, A.1.82]
 ____
-... with necessary conditions
+(...) with necessary conditions
 
 _sappaccayā bhikkhave uppajjanti pāpakā akusalā dhammā no appaccayā._
 ____
@@ -126468,7 +126468,7 @@ ____
 
 [quote, Ud.1]
 ____
-... then all his unsureness [about the significance of the teaching]
+(...) then all his unsureness [about the significance of the teaching]
 disappears, for he discerns the conditioned nature of reality.
 
 _Athassa kaṅkhā vapayanti sabbā yato pajānāti sahetudhamman ti._
