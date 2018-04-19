@@ -4,7 +4,7 @@
 :author: Ajahn Varado
 :creator: {author}
 :version: v0.1
-:revdate: 2018-04-19
+:revdate: 2018-04-14
 :doctype: book
 :lang: en
 :pubs-logo: profound-pubs.jpg
@@ -28,9 +28,9 @@
 :listing-caption!:
 :stylesheet: assets/stylesheets/glossary.css
 
-include::{includes}/introduction.adoc[]
+//include::{includes}/introduction.adoc[]
 
-include::{includes}/glossary.adoc[]
+include::{includes}/glossary-sample.adoc[]
 
-include::{includes}/copyright.adoc[]
+//include::{includes}/copyright.adoc[]
 

@@ -1,0 +1,112 @@
+@import "fonts/spectral-embedded";
+@import "settings/glossary";
+@import "components/asciidoc";
+@import "components/awesome-icons";
+
+html, body {
+    font-size: 108%; // ~19px
+}
+
+// 90 - 100 character wide main column
+#header, #content, #footnotes, #footer {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 45em;
+}
+
+dt, th.tableblock, td.content, div.footnote {
+  // NOTE text-rendering is already set for p
+  text-rendering: optimizeLegibility;
+}
+
+// QUESTION should we tighten letter spacing of text in footnotes?
+h1, h2, p, td.content, span.alt {
+  letter-spacing: -0.01em;
+}
+
+p, td.content, div.footnote {
+  strong {
+    // NOTE needs to apply anywhere we have bold prose
+    letter-spacing: -0.005em;
+  }
+}
+
+p, blockquote, dt, td.content, span.alt {
+  font-size: 1.1rem;
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+// restore font size in sidebar block and regular table cells
+.sidebarblock p, .sidebarblock dt, .sidebarblock td.content, p.tableblock {
+  font-size: 1.1rem;
+}
+
+.sidebarblock,
+.exampleblock > .content {
+  padding: 0.5rem 1rem;
+  margin-top: 0.25em;
+  margin-bottom: 1.75em;
+  background: white;
+  border-color: $panel-border-color;
+  border-width: 0 0 0 3px;
+}
+
+.exampleblock > .content p {
+    margin-bottom: 0.2rem;
+}
+
+table.grid-all > thead > tr > .tableblock,
+table.grid-all > tbody > tr > .tableblock {
+    border: none;
+}
+
+.table.tableblock,
+th.tableblock,
+td.tableblock {
+    border: none;
+}
+
+table,
+table.frame-all
+{
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: solid 3px $panel-border-color;
+    padding-left: 1rem;
+    background: none;
+}
+
+table tr th, table tr td {
+    color: #000;
+    background-color: $body-bg;
+}
+
+.quoteblock {
+    margin: 0 3em 1.25em 3em;
+}
+
+.quoteblock blockquote,
+.quoteblock blockquote p {
+    font-size: 1.1rem;
+    font-style: normal;
+    text-align: left;
+    word-spacing: 0;
+    letter-spacing: 0;
+}
+
+#header .details {
+    display: block;
+    text-align: right;
+    border-bottom: none;
+    border-top: 1px solid $header-font-color;
+}
+
+h4, h5, h6 {
+    margin-top: 2em;
+}
+
+@import "components/print";
