@@ -5462,18 +5462,19 @@ atthaṅgamo
 vanishing
 ====
 
+[quote, S.5.184]
 ____
 Bhikkhus, I will teach you the [co-conditional] origination and
 [co-conditional] vanishing of the four bases of mindfulness. Please listen.
 
 _catunnaṃ bhikkhave satipaṭṭhānānaṃ samudayañca atthaṅgamañca
 desissāmi. Taṃ suṇātha._
-____
 
-• With the origination of food comes the origination of the body. With the
-ending of food comes the vanishing of the body. +
-_Āhārasamudayā kāyassa samudayo āhāranirodhā kāyassa atthaṅgamo_
-(S.5.184).
+With the origination of food comes the origination of the body. With the
+ending of food comes the vanishing of the body.
+
+_Āhārasamudayā kāyassa samudayo āhāranirodhā kāyassa atthaṅgamo._
+____
 
 === Adhiṭṭhāna; Adhiṭṭhāti
 
@@ -25288,8 +25289,12 @@ carāmi
 go
 ====
 
-• Seeing that the body subsists on food, I go searching +
-_Āhāraṭṭhitiko samussayo iti disvāna carāmi esanaṃ_ (Th.v.123).
+[quote, Th.v.123]
+____
+Seeing that the body subsists on food, I go searching
+
+_Āhāraṭṭhitiko samussayo iti disvāna carāmi esanaṃ._
+____
 
 ====
 carantu
@@ -51500,10 +51505,13 @@ dhamme
 teaching
 ====
 
-• A forest bhikkhu should endeavour [to study and master] advanced aspects of
-the teaching and discipline +
-_Āraññakenāvuso bhikkhunā abhidhamme abhivinaye yogo karaṇīyo_
-(M.1.472).
+[quote, M.1.472]
+____
+A forest bhikkhu should endeavour [to study and master] advanced aspects of
+the teaching and discipline
+
+_Āraññakenāvuso bhikkhunā abhidhamme abhivinaye yogo karaṇīyo._
+____
 
 ====
 ariyadhamma
@@ -57762,14 +57770,18 @@ niyyānikā
 lead to deliverance [from suffering]
 ====
 
-• But, Ānanda, in regard to those thoughts which are noble, and which lead
+[quote, M.3.113-4]
+____
+But, Ānanda, in regard to those thoughts which are noble, and which lead
 to deliverance [from suffering], and lead the one who practises them to the
 complete destruction of suffering, that is to say unsensuous thought,
 benevolent thought, compassionate thought, he thinks: 'I will think thoughts
-like these.' +
+like these.'
+
 _Ye ca kho ime ānanda vitakkā ariyā niyyānikā niyyanti takkarassa sammā
 dukkhakkhayāya. Seyyathīdaṃ nekkhamma vitakko avyāpādavitakko
-avihiṃsāvitakko iti evarūpe vitakke vitakkessāmī ti_ (M.3.113-4).
+avihiṃsāvitakko iti evarūpe vitakke vitakkessāmī ti._
+____
 
 ====
 niyyānikā
@@ -95293,10 +95305,13 @@ vinaya
 the discipline
 ====
 
-• A forest bhikkhu should endeavour [to study and master] advanced aspects of
-the teaching and discipline. +
-_Āraññakenāvuso bhikkhunā abhidhamme abhivinaye yogo karaṇīyo_
-(M.1.472).
+[quote, M.1.472]
+____
+A forest bhikkhu should endeavour [to study and master] advanced aspects of
+the teaching and discipline.
+
+_Āraññakenāvuso bhikkhunā abhidhamme abhivinaye yogo karaṇīyo._
+____
 
 ====
 vinaya
