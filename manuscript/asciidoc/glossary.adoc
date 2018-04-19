@@ -116545,18 +116545,16 @@ sevato
 assuming
 ====
 
+[quote, M.3.51]
 ____
 Assuming what attitude do spiritually unwholesome factors flourish and
 spiritually wholesome factors fade?
 
 _kathaṃrūpaṃ bhante saññāpaṭilābhaṃ sevato akusalā dhammā
 abhivaḍḍhanti kusalā dhammā parihāyanti_
-____
 
 In this regard, some person is
 
-[quote, M.3.51]
-____
 greedy and abides with a greedy attitude
 
 _idha bhante ekacco abhijjhālu hoti abhijjhāsahagatāya saññāya viharati_
