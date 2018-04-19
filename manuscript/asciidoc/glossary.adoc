@@ -197,7 +197,7 @@ acakkhusso
 unsightly
 ====
 
-[quote, Vin.2.137; A.3.250]
+[quote, "Vin.2.137, A.3.250"]
 ____
 Bhikkhus, there are five disadvantages in not chewing tooth-wood:
 
@@ -699,14 +699,14 @@ For her translation she chooses the first meaning, saying the Buddha 'speaks
 there as one intent only on inspiring them.' Bodhi, however, takes the second
 meaning and says:
 
-[quote, Bodhi, MLDB p.972]
+[quote, "Bodhi, MLDB p.972"]
 ____
 'He invariably talks to them in a way concerned with dismissing them'
 
 _aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
 ____
 
-[quote, Bodhi, NDB p.1164]
+[quote, "Bodhi, NDB p.1164"]
 ____
 'He gives them a talk invariably concerned with dismissing them'
 
@@ -1238,7 +1238,7 @@ and...':
 
 For example:
 
-[quote, PGPL, para 618]
+[quote, "PGPL, para 618"]
 ____
 He lifted it up, took it home, divided it into four parts and, practising
 almsgiving and other good deeds, went according to his deeds.
@@ -1449,7 +1449,7 @@ aṇḍabhūtāya
 enveloped [in uninsightfulness into reality]
 ====
 
-[quote, A.4.176; Vin.3.3]
+[quote, "A.4.176, Vin.3.3"]
 ____
 Amongst the manyfolk who are void of insight into reality (_avijjāgatāya
 pajāya_), enveloped and smothered [in uninsightfulness into reality]
@@ -2313,7 +2313,7 @@ that the aggregates are 'not yours.' Thus 'you' and 'yours' are interchangeable
 
 Horner's translation of M.1.138 reads:
 
-[quote, Horner, M.1.138]
+[quote, "Horner, M.1.138"]
 ____
 "If, monks, there were a Self, could it be said: 'It belongs to my self'?"
 
@@ -2322,7 +2322,7 @@ ____
 
 Bodhi's translation reads:
 
-[quote, Bodhi, M.1.138]
+[quote, "Bodhi, M.1.138"]
 ____
 "Bhikkhus, there being a self, would there be for me what belongs to a self?
 Or, there being what belongs to a self, would there be for me a self?"
@@ -3992,7 +3992,7 @@ The etymology of _atthavasaṃ_ is perplexing, but the dictionaries call it:
 
 Bodhi likewise says 'reason,' for example:
 
-[quote, Bodhi, A.1.98]
+[quote, "Bodhi, A.1.98"]
 ____
 Bhikkhus, it is for these two reasons that the Tathāgata has established the
 training rules for his disciples.
@@ -4003,7 +4003,7 @@ ____
 
 Horner prefers 'good purpose':
 
-[quote, Horner, Vin.2.202]
+[quote, "Horner, Vin.2.202"]
 ____
 For what good purpose should a monk live constantly overcoming gain?
 
@@ -4023,7 +4023,7 @@ _Atthavasi_ means:
 
 Bodhi says 'intent on the good':
 
-[quote, Bodhi, S.3.93]
+[quote, "Bodhi, S.3.93"]
 ____
 Clansmen intent on the good take up that way of life for a valid reason
 
@@ -4033,7 +4033,7 @@ ____
 
 Norman says 'pursuing my aim':
 
-[quote, Norman, Th.v.539]
+[quote, "Norman, Th.v.539"]
 ____
 Alone, pursuing my aim, I shall quickly enter the woods
 
@@ -4050,7 +4050,7 @@ anatthaṃ
 harm; atthaṃ, benefit
 ====
 
-[quote, A.5.150; D.3.263]
+[quote, "A.5.150, D.3.263"]
 ____
 Ten bases of resentment
 
@@ -4392,7 +4392,7 @@ anattha
 spiritual well-being
 ====
 
-[quote, Vin.1.10; S.4.331]
+[quote, "Vin.1.10, S.4.331"]
 ____
 There are, headman, these two unenlightening practices which should not be
 undertaken by one who has gone forth [into the ascetic life]:
@@ -4431,7 +4431,7 @@ atthavasaṃ
 good reason; atthavasikā, intent on [the development of] spiritual well-being
 ====
 
-[quote, S.3.93; It.89]
+[quote, "S.3.93, It.89"]
 ____
 Bhikkhus, this is the lowest form of livelihood, namely, gathering alms... And
 yet noble young men intent on [the development of their own] spiritual
@@ -4701,7 +4701,7 @@ attha
 meaning of the teaching
 ====
 
-[quote, Sn.v.177; S.1.33]
+[quote, "Sn.v.177, S.1.33"]
 ____
 One who sees the subtle meaning of the teaching
 
@@ -5814,7 +5814,7 @@ adhiṭṭhāya
 firmly established
 ====
 
-[quote, D.2.99; S.5.153]
+[quote, "D.2.99, S.5.153"]
 ____
 The Blessed One suppressed his illness with energy and lived on having firmly
 established the aspiration for further life.
@@ -5987,7 +5987,7 @@ adhimutto
 focused on
 ====
 
-[quote, M.2.13; A.4.307]
+[quote, "M.2.13, A.4.307"]
 ____
 One is focused exclusively on the Exquisite. This is the third state of refined
 awareness.
@@ -6509,14 +6509,14 @@ the derivation (which is uncertain), but from the examples quoted.'
 
 Translators render it in the following ways:
 
-[quote, Norman, Thī.v.496]
+[quote, "Norman, Thī.v.496"]
 ____
 'The journeying-on as being without beginning and end'
 
 _saṃsāraṃ anamataggato._
 ____
 
-[quote, Bodhi, S.5.441]
+[quote, "Bodhi, S.5.441"]
 ____
 'This _saṃsāra_ is without discoverable beginning'
 
@@ -7992,7 +7992,7 @@ Comment:
 
 We say the Buddha 'thanked' Keṇiya. What he said was:
 
-[quote, M.2.146; Sn.v.571-2; Vin.1.246]
+[quote, "M.2.146, Sn.v.571-2, Vin.1.246"]
 ____
 Fire veneration is the chief aspect of sacrifices. Sāvittī is the chief of
 Vedic hymns. A king is the chief of human beings. The sea is the chief of
@@ -8230,7 +8230,7 @@ Quote 2)
 
 Bodhi says:
 
-[quote, Bodhi, S.3.10]
+[quote, "Bodhi, S.3.10"]
 ____
 The desire, lust, delight, and craving, the engagement and clinging, the mental
 standpoints, adherences, and underlying tendencies regarding the form element:
@@ -11022,7 +11022,7 @@ _nirupadhiṃ sabbalokābhibhuṃ_ (Sn.v.642; Dh.v.418).
 
 Bhikkhu Bodhi recognises 'transcended':
 
-[quote, Bodhi, M.1.171]
+[quote, "Bodhi, M.1.171"]
 ____
 I am one who has transcended all, a knower of all, unsullied among all things,
 renouncing all, by craving's ceasing freed. Having known this all for myself,
@@ -11032,7 +11032,7 @@ _Sabbābhibhū sabbavidūhamasmi sabbesu dhammesu anupalitto +
 Sabbañjaho taṇhakkhaye vimutto sayaṃ abhiññāya kamuddiseyyaṃ._
 ____
 
-[quote, Bodhi, M.2.262]
+[quote, "Bodhi, M.2.262"]
 ____
 Suppose I were to abide with a mind abundant and exalted, having transcended
 the world and made a firm determination with the mind.
@@ -11978,7 +11978,7 @@ avijjā
 uninsightfulness into reality
 ====
 
-[quote, Sn.v.194; 199; 202; 206]
+[quote, "Sn.v.194, 199, 202, 206"]
 ____
 Camouflaged by skin, the body is not seen according to reality.
 
@@ -14027,7 +14027,7 @@ attached to the perception of existence; akiñcanaṃ liberated from the
 perception of existence
 ====
 
-[quote, Sn.v.620; Dh.v.396]
+[quote, "Sn.v.620, Dh.v.396"]
 ____
 I do not call one a Brahman due to one's birth from a particular womb, or due
 to having arisen from a particular mother.
@@ -15661,7 +15661,7 @@ ____
 disadvantage
 ====
 
-[quote, Vin.2.137; A.3.250]
+[quote, "Vin.2.137, A.3.250"]
 ____
 Bhikkhus, there are five disadvantages in not chewing tooth-wood:
 
@@ -18447,7 +18447,7 @@ ____
 perceptually obscuring states
 ====
 
-[quote, Th.v.98; S.4.76]
+[quote, "Th.v.98, S.4.76"]
 ____
 In seeing a visible object with mindfulness muddled, focusing on the agreeable
 aspect, one experiences it with a mind of attachment and persists in cleaving
@@ -21293,7 +21293,7 @@ unnaḷā
 frivolous
 ====
 
-[quote, A.2.26; It.113]
+[quote, "A.2.26, It.113"]
 ____
 Bhikkhus, those bhikkhus who are deceitful, puffed up, talkative, haughty,
 frivolous, inwardly uncollected, are not my bhikkhus.
@@ -21324,7 +21324,7 @@ unnaḷānaṃ
 frivolous
 ====
 
-[quote, Th.v.635; Dh.v.292]
+[quote, "Th.v.635, Dh.v.292"]
 ____
 What should be done is shunned. What should be avoided is done. Of those who
 are frivolous and negligently applied [to the practice] their perceptually
@@ -21386,7 +21386,7 @@ ____
 
 In the following quote we parenthesise '[by old age and death]':
 
-[quote, Ven. Tāḷapuṭa, Th.v.1133]
+[quote, "Ven. Tāḷapuṭa, Th.v.1133"]
 ____
 The mountains, oceans, rivers, and the earth; the four directions, the
 intermediate points, the nadir, and the zenith, are all unlasting. The three
@@ -21401,7 +21401,7 @@ We say 'ravaged [by old age and death]' based on a similar word combination in
 Th.v.1093 by the same Tāḷapuṭa, who said there that the body is unlasting
 and ravaged by old age and death (_maccujarāyupaddutaṃ_):
 
-[quote, Ven. Tāḷapuṭa, Th.v.1093]
+[quote, "Ven. Tāḷapuṭa, Th.v.1093"]
 ____
 When will I dwell alone in the woods, free of fear, seeing [according to
 reality] that this [wretched human] body is unlasting, a seat of punishment and
@@ -23596,7 +23596,7 @@ There are five noble psychic powers that are free of perceptually obscuring
 states and attachment (_iddhi yā anāsavā anupadhikā ariyā ti_). These are
 where a bhikkhu, if he wishes (_sace ākaṅkhati_) can abide:
 
-[quote, D.3.112-3; A.3.169-170]
+[quote, "D.3.112-3, A.3.169-170"]
 ____
 perceiving the unloathsomeness of what is loathsome
 
@@ -26370,7 +26370,7 @@ That 'flood' means 'flood of _dukkhakkhandha'_ is also evident in the
 association of _otiṇṇā_ and _tiṇṇā_. When young men take up the
 ascetic way of life, they do so with the thought:
 
-[quote, S.3.93; It.89]
+[quote, "S.3.93, It.89"]
 ____
 'I am overwhelmed by suffering, overcome by suffering.
 
@@ -26506,7 +26506,7 @@ oghatiṇṇo
 one who has crossed the flood [of suffering]
 ====
 
-[quote, Th.v.633; S.1.3]
+[quote, "Th.v.633, S.1.3"]
 ____
 The bhikkhu who has overcome the five bonds [to individual existence] is called
 one who has crossed the flood [of suffering].
@@ -29359,7 +29359,7 @@ COMMENT
 
 Parentheses in accordance with _Codanā Sutta_:
 
-[quote, D.3.236-7; A.3.196]
+[quote, "D.3.236-7, A.3.196"]
 ____
 If a bhikkhu is reproving, wanting to reprove another, he should do so having
 established five principles within himself.
@@ -33827,7 +33827,7 @@ the instrumental case suggested in Norman's rendering, which at Th.v.679 is
 'perfected in living the holy life.' Our solution is 'through living the
 religious life,' as follows:
 
-[quote, A.1.162; A.2.23]
+[quote, "A.1.162, A.2.23"]
 ____
 One who has abandoned birth and death is spiritually perfected through living
 the religious life.
@@ -33876,7 +33876,7 @@ kevalinaṃ
 spiritually perfected
 ====
 
-[quote, S.1.167; Sn.v.82]
+[quote, "S.1.167, Sn.v.82"]
 ____
 The one who is spiritually perfected, the great Seer, one whose _āsavas_ are
 destroyed, whose fretting has subsided.
@@ -34035,7 +34035,7 @@ kevalino
 fully accomplished
 ====
 
-[quote, Sn.v.595; M.2.196]
+[quote, "Sn.v.595, M.2.196"]
 ____
 We are fully accomplished in whatever [knowledge] is taught by masters of
 threefold Vedic knowledge. We are experts in linguistics and grammar. We match
@@ -34429,8 +34429,7 @@ I am not in any way anything "belonging to anyone"
 _nāhaṃ kvacani kassaci kiñcanatasmiṃ_
 ____
 
-[quote, M.2.263-4, A.1.206,
-A.2.176-7]
+[quote, "M.2.263-4, A.1.206, A.2.176-7"]
 ____
 ... And not in any way is there anywhere anything "belonging to me."
 
@@ -35264,7 +35263,7 @@ openings, draining pus onto the skin' (en.wiktionary.org).
 The five aggregates are like five carbuncles, presumably because of the chronic
 misery associated with them:
 
-[quote, M.1.435-7; A.4.422-6]
+[quote, "M.1.435-7, A.4.422-6"]
 ____
 Whatever phenomena are connected with the five aggregates, he sees those
 states... as an illness, as a carbuncle...
@@ -37380,7 +37379,7 @@ citto
 mind
 ====
 
-[quote, Th.v.98; S.4.76]
+[quote, "Th.v.98, S.4.76"]
 ____
 In seeing a visible object with mindfulness muddled, focusing on the agreeable
 aspect, one experiences it with a mind of attachment and persists in cleaving
@@ -39082,7 +39081,7 @@ chanda
 fondness
 ====
 
-[quote, A.4.401; D.2.58-9]
+[quote, "A.4.401, D.2.58-9"]
 ____
 Because of search, acquisition
 
@@ -39951,7 +39950,7 @@ bhogaṃ katvā cīvaraṃ nikkhipitabbaṃ_ (Vin.2.209).
 Translators of the _Uraga Sutta_ usually say that the bhikkhu 'abandons the
 near and far shore'. For example, Norman says:
 
-[quote, Norman, Sn.v.1]
+[quote, "Norman, Sn.v.1"]
 ____
 That bhikkhu... leaves this shore and the far shore as a snake leaves its old,
 worn-out skin.
@@ -40041,7 +40040,7 @@ kāmadhātu, pāraṃ rūpārūpadhātu_. This confirms our explanation.
 
 Norman translation says:
 
-[quote, Norman, Sn.v.1]
+[quote, "Norman, Sn.v.1"]
 ____
 That bhikkhu... leaves this shore and the far shore as a snake leaves its old,
 worn-out skin.
@@ -42008,14 +42007,14 @@ ____
 
 Bodhi incorporates the redundancy by using a comma:
 
-[quote, Bodhi, A.2.37]
+[quote, "Bodhi, A.2.37"]
 ____
 He revealed the Dhamma, the method, for the benefit of devas and humans
 
 _Hitaṃ devamanussānaṃ ñāyaṃ dhammaṃ pakāsayī._
 ____
 
-[quote, Bodhi, S.5.19]
+[quote, "Bodhi, S.5.19"]
 ____
 He attains the method, the Dhamma that is wholesome.
 
@@ -42982,7 +42981,7 @@ What possible advantage is there in such a thought?
 
 There are ten bases of resentment (_dasa āghātavatthūni_), namely the thoughts:
 
-[quote, A.5.150; D.3.263]
+[quote, "A.5.150, D.3.263"]
 ____
 He has harmed, is harming, or will harm me. Thinking thus, one arouses
 resentment.
@@ -43857,7 +43856,7 @@ ____
 Perfect One
 ====
 
-[quote, It.121-2; A.2.24]
+[quote, "It.121-2, A.2.24"]
 ____
 Whatever in this world [of beings] with its devas,
 māras, and brahmās, in the world of mankind with its ascetics and
@@ -43979,7 +43978,7 @@ tatheva
 right
 ====
 
-[quote, It.121-2; A.2.24]
+[quote, "It.121-2, A.2.24"]
 ____
 From the day of his unsurpassed enlightenment till the day of his passing away
 to the Untroubled-without-residue, whatever the Perfect One has said, spoken,
@@ -44012,7 +44011,7 @@ tatheva
 true
 ====
 
-[quote, A.3.123; Vin.2.186]
+[quote, "A.3.123, Vin.2.186"]
 ____
 Whatever the young deva Kakudha says is completely true, not otherwise.
 
@@ -44290,7 +44289,7 @@ tareyya
 cross
 ====
 
-[quote, S.1.4; S.1.29]
+[quote, "S.1.4, S.1.29"]
 ____
 One could cross from the realm of death to the Far Shore
 
@@ -47496,7 +47495,7 @@ ____
 In support of calling _dukkha_ 'existentially void,' consider Bodhi's
 explanation of this well-known quote:
 
-[quote, Bodhi, S.3.119]
+[quote, "Bodhi, S.3.119"]
 ____
 Formerly, Anuradha, and also now, I make known just suffering and the cessation
 of suffering.
@@ -47522,7 +47521,7 @@ and just these that cease with his passing away.' (CDB p.1080 n.165).
 
 This justifies our translating as follows:
 
-[quote, Varado, S.3.119]
+[quote, "Varado, S.3.119"]
 ____
 Formerly and also now, I explain just existential voidness and the ending of
 existential voidness.
@@ -48197,7 +48196,7 @@ dukkha
 physical pain; dukkha, suffering
 ====
 
-[quote, S.3.93; It.89]
+[quote, "S.3.93, It.89"]
 ____
 I am overwhelmed by birth, old age, and death; by grief, lamentation, physical
 pain, psychological pain, and vexation.
@@ -49243,7 +49242,7 @@ That _anta_ and _majjhimā paṭipadā_ mean unenlightening practice and
 enlightening practice is demonstrated in the _Rāsiya Sutta_ (S.4.331) which
 says:
 
-[quote, Vin.1.10; S.4.331]
+[quote, "Vin.1.10, S.4.331"]
 ____
 There are these two unenlightening practices which should not be undertaken by
 one who has gone forth [into the ascetic life]:
@@ -50589,7 +50588,7 @@ dhamme
 principles
 ====
 
-[quote, D.3.236-7; A.3.196]
+[quote, "D.3.236-7, A.3.196"]
 ____
 If a bhikkhu is reproving, wanting to reprove another, he should do so having
 established five principles within himself.
@@ -52337,14 +52336,14 @@ Comment:
 
 Bodhi incorporates the redundancy by using a comma:
 
-[quote, Bodhi, A.2.37]
+[quote, "Bodhi, A.2.37"]
 ____
 He revealed the Dhamma, the method, for the benefit of devas and humans
 
 _Hitaṃ devamanussānaṃ ñāyaṃ dhammaṃ pakāsayī._
 ____
 
-[quote, Bodhi, S.5.19]
+[quote, "Bodhi, S.5.19"]
 ____
 He attains the method, the Dhamma that is wholesome.
 
@@ -54307,29 +54306,28 @@ It.48). Here the commentary says _nicchāto_ means _nittaṇho._ Bodhi calls it
 'hungerless.' When Norman follows the commentary he calls it 'without craving';
 otherwise, 'without hunger':
 
-[quote, Bodhi, A.4.411. Commentary: _Nicchātā ti
-taṇhādiṭṭhicchātānaṃ abhāvena nicchātā_]
+[quote, "Bodhi, A.4.411. Commentary: _Nicchātā ti taṇhādiṭṭhicchātānaṃ abhāvena nicchātā_"]
 ____
 Hungerless and quenched
 
 _nicchātā nibbutā._
 ____
 
-[quote, Bodhi, S.3.26. Commentary: _Nicchāto ti nittaṇho_]
+[quote, "Bodhi, S.3.26. Commentary: _Nicchāto ti nittaṇho_"]
 ____
 Free from hunger, fully quenched
 
 _nicchāto parinibbuto._
 ____
 
-[quote, Norman, Sn.v.735. Commentary: _Nicchāto ti nittaṇho_]
+[quote, "Norman, Sn.v.735. Commentary: _Nicchāto ti nittaṇho_"]
 ____
 Without craving, quenched.
 
 _nicchāto parinibbuto._
 ____
 
-[quote, Norman, Thī.v.168. Commentary: _Nicchātā ti nittaṇhā._]
+[quote, "Norman, Thī.v.168. Commentary: _Nicchātā ti nittaṇhā._"]
 ____
 Without hunger, stilled.
 
@@ -54341,7 +54339,7 @@ ____
 We follow the commentary in connecting _nicchāto_ and _nittaṇho_ because the
 suttas also link the words:
 
-[quote, S.3.26. Commentary: _Nicchāto ti nittaṇho_]
+[quote, "S.3.26. Commentary: _Nicchāto ti nittaṇho_"]
 ____
 Having removed [the arrow of] craving together with its origin, one is free of
 craving.
@@ -54349,8 +54347,7 @@ craving.
 _samūlaṃ taṇhaṃ abbuyha nicchāto._
 ____
 
-[quote, Thī.v.53. Commentary: _Sājja abbūḷhasallāhan ti sā ahaṃ ajja
-sabbaso uddhaṭataṇhāsallā tato eva nicchātā_]
+[quote, "Thī.v.53. Commentary: _Sājja abbūḷhasallāhan ti sā ahaṃ ajja sabbaso uddhaṭataṇhāsallā tato eva nicchātā_"]
 ____
 Today I have the arrow [of craving] removed. I am free of craving.
 
@@ -55128,7 +55125,7 @@ nipakā
 mindful
 ====
 
-[quote, Sn.v.283; A.4.172]
+[quote, "Sn.v.283, A.4.172"]
 ____
 Thus living in unity, being mindful, you will put an end to suffering.
 
@@ -55280,7 +55277,7 @@ ____
 
 Likewise, _nibbuto_ is contrasted with unpeaceful qualities, for example:
 
-[quote, M.2.196, Dh.v.406]
+[quote, "M.2.196, Dh.v.406"]
 ____
 inwardly at peace amidst the violent
 
@@ -55514,7 +55511,7 @@ the mention of Brahman (i.e. arahant) makes our rendering more likely.
 
 Sometimes the context suggests that _nibbuto_ does not mean _parinibbuto_:
 
-[quote, M.2.196; Dh.v.406]
+[quote, "M.2.196, Dh.v.406"]
 ____
 Inwardly at peace amidst the violent
 
@@ -57727,14 +57724,14 @@ said to be even a stronger expression as far as the active destruction of the
 causes of life is concerned.' _Nirodha_ is therefore better represented in
 'ending' than 'cessation,' though some translators prefer to call it 'stopping':
 
-[quote, Horner, M.1.9]
+[quote, "Horner, M.1.9"]
 ____
 This is the stopping of anguish.
 
 _ayaṃ dukkhanirodho ti._
 ____
 
-[quote, Norman, Sn.p.140]
+[quote, "Norman, Sn.p.140"]
 ____
 This is the stopping of misery
 
@@ -57748,7 +57745,7 @@ This is most obvious, of course, when it has a named object. For example, the
 _Rahogata Sutta_ describes the 'successive ending of originated phenomena,'
 calling it _anupubbasaṅkhārānaṃ nirodho_:
 
-[quote, _Rahogata Sutta,_ S.4.217]
+[quote, "Rahogata Sutta, S.4.217"]
 ____
 The successive ending of originated phenomena is explained by me.
 
@@ -57836,7 +57833,7 @@ sense impression'. Because this is likewise the final step in the _Rahogata
 Sutta_, we can be sure that _nirodha_ again means the ending of originated
 phenomena:
 
-[quote, _Sattadhātu Sutta,_ S.2.151]
+[quote, "Sattadhātu Sutta, S.2.151"]
 ____
 The phenomenon of the ending of perception and sense impression is a phenomenon
 attained with the ending [of originated phenomena].
@@ -58941,7 +58938,7 @@ ____
 
 The following passage has been quietly misleading us for centuries:
 
-[quote, S.2.280; A.2.51]
+[quote, "S.2.280, A.2.51"]
 ____
 Venerable Visākha was instructing the bhikkhus with speech that was polished,
 well enunciated, articulate, making the meaning clear, comprehensive, not
@@ -63834,7 +63831,7 @@ paṭicca
 for
 ====
 
-[quote, S.3.93; It.89]
+[quote, "S.3.93, It.89"]
 ____
 And yet noble young men take up that way of life for a good reason.
 
@@ -67230,7 +67227,7 @@ been pleasing, not displeasing,' which does not fit.
 Alternatively _manāpa_ and _amanāpa_ are synonyms of _piya_ and _appiya_,
 meaning dear and loathsome:
 
-[quote, A.5.150; D.3.263]
+[quote, "A.5.150, D.3.263"]
 ____
 He has harmed, is harming, or will harm someone beloved and dear to me.
 
@@ -67419,7 +67416,7 @@ paritassati
 distressed
 ====
 
-[quote, D.3.224; A.2.27]
+[quote, "D.3.224, A.2.27"]
 ____
 If a bhikkhu who is true to the ancient, primordial noble tradition (_bhikkhu
 porāṇe aggaññe ariyavaṃse ṭhito_) does not get robe material he is not
@@ -67572,7 +67569,7 @@ na paritassati
 free of apprehension
 ====
 
-[quote, Sn.v.621; Dh.v.397]
+[quote, "Sn.v.621, Dh.v.397"]
 ____
 He who has severed every tie to individual existence is truly free of
 apprehension.
@@ -67843,7 +67840,7 @@ paribbaje
 fulfil the ideals of religious asceticism
 ====
 
-[quote, Dh.v.415; Sn.v.639]
+[quote, "Dh.v.415, Sn.v.639"]
 ____
 Whichever homeless one, having abandoned sensuous pleasure in this world,
 should fulfil the ideals of religious asceticism, and for whom individual
@@ -67878,7 +67875,7 @@ paribbaje ti
 fulfil the ideals of religious asceticism
 ====
 
-[quote, Th.v.39; S.1.53]
+[quote, "Th.v.39, S.1.53"]
 ____
 As if threatened with a sword, or as if his head were on fire, having abandoned
 attachment to sensuous pleasure a bhikkhu should mindfully fulfil the ideals of
@@ -71793,35 +71790,35 @@ _sukhitattā_ (May they be happy, _bhavantu sukhitattā,_ Sn.v.145) and
 _samāhitatto_ (inwardly collected, S.1.169). For further notes, see Glossary
 sv _Attā_.
 
-[quote, Horner, M.1.207]
+[quote, "Horner, M.1.207"]
 ____
 living diligent, ardent, self-resolute
 
 _appamattā ātāpino pahitattā viharāmā._
 ____
 
-[quote, Norman, Sn.v.432]
+[quote, "Norman, Sn.v.432"]
 ____
 My self is thus intent [upon striving]
 
 _Evaṃ maṃ pahitattampi._
 ____
 
-[quote, Norman, Sn.v.961]
+[quote, "Norman, Sn.v.961"]
 ____
 for a bhikkhu with intent self
 
 _pahitattassa bhikkhuno._
 ____
 
-[quote, PED sv _Pahita_, S.4.145]
+[quote, "PED sv _Pahita_, S.4.145"]
 ____
 resolute will
 
 _pahitatta._
 ____
 
-[quote, Bodhi, M.1.207]
+[quote, "Bodhi, M.1.207"]
 ____
 abide diligent, ardent, and resolute.
 
@@ -71869,7 +71866,7 @@ we abide diligently, vigorously, and resolutely applied [to the practice]
 _appamattā ātāpino pahitattā viharāmā._
 ____
 
-[quote, i.e. before enlightenment, Sn.v.432]
+[quote, "i.e. before enlightenment, Sn.v.432"]
 ____
 I am thus resolutely applied [to inward striving].
 
@@ -73834,7 +73831,7 @@ piyassa
 beloved
 ====
 
-[quote, A.5.150; D.3.263]
+[quote, "A.5.150, D.3.263"]
 ____
 He has harmed, is harming, or will harm someone beloved and dear to me.
 Thinking thus, one arouses resentment.
@@ -74846,7 +74843,7 @@ Comment:
 
 The Dative is governed by verbs expressing injury. For example:
 
-[quote, PGPL, Para 597]
+[quote, "PGPL, Para 597"]
 ____
 the flood has injured the country
 
@@ -76814,7 +76811,7 @@ bandhana
 bond [to individual existence]
 ====
 
-[quote, S.1.191; Th.v.1234]
+[quote, "S.1.191, Th.v.1234"]
 ____
 Seers, rid of spiritual defilement, with renewed states of individual existence
 destroyed, having severed the ties and bonds [to individual existence].
@@ -78447,7 +78444,7 @@ bhavābhavesu
 various states of individual existence
 ====
 
-[quote, Th.v.784-5; M.2.73]
+[quote, "Th.v.784-5, M.2.73"]
 ____
 For because one has not gained perfection [of transcendent insight], one does
 unvirtuous deeds from undiscernment of reality in renewed states of individual
@@ -79614,7 +79611,7 @@ Bodhi, too, uses brackets, explaining that _maññati_ is often used to mean
 _Mūlapariyāya Sutta_ he therefore introduces the word 'himself,' but in
 brackets:
 
-[quote, Bodhi, M.1.1]
+[quote, "Bodhi, M.1.1"]
 ____
 'Having perceived earth as earth, he conceives [himself as] earth, he conceives
 [himself] in earth, he conceives [himself apart] from earth, he conceives earth
@@ -79677,8 +79674,7 @@ He takes delight in solidness.
 _paṭhaviṃ abhinandati_
 ____
 
-[quote, _Mūlapariyāya Sutta_,
-M.1.1]
+[quote, "Mūlapariyāya Sutta, M.1.1"]
 ____
 For what reason? He does not profoundly understand it.
 
@@ -83428,7 +83424,7 @@ mūlā
 origin
 ====
 
-[quote, Th.v.98; S.4.76]
+[quote, "Th.v.98, S.4.76"]
 ____
 One's perceptually obscuring states develop, the origin of individual
 existence, leading to renewed states of individual existence.
@@ -83858,7 +83854,7 @@ _Sabbatthatāya_ is a long-standing issue in the scriptures because of its
 alternative spelling, _sabbattatāya,_ which Bodhi renders as 'to all as to
 himself,' as follows:
 
-[quote, Bodhi, M.1.38]
+[quote, "Bodhi, M.1.38"]
 ____
 (...) everywhere, and to all as to himself, he abides pervading the
 all-encompassing world with a mind imbued with loving-kindness
@@ -84098,7 +84094,7 @@ mettena cittena
 mind of [unlimited, all-encompassing] goodwill
 ====
 
-[quote, A.2.72; Vin.2.110]
+[quote, "A.2.72, Vin.2.110"]
 ____
 Surely that bhikkhu did not pervade the four royal families of snakes with a
 mind of [unlimited, all-encompassing] goodwill. For if that bhikkhu had done
@@ -87037,7 +87033,7 @@ yoniso
 proper
 ====
 
-[quote, Vin.1.22; S.1.105]
+[quote, "Vin.1.22, S.1.105"]
 ____
 Through proper contemplation, through proper and right inward striving, I
 attained and realised the unsurpassed liberation [from perceptually obscuring
@@ -87812,7 +87808,7 @@ _aratiṃ ratiñca pahāya sabbaso gehesitañca vitakkaṃ +
 Vanathaṃ na kareyya kuhiñci nibbanatho avanatho sa bhikkhu._
 ____
 
-[quote, Dh.v.418; Sn.v.642; M.2.196]
+[quote, "Dh.v.418, Sn.v.642, M.2.196"]
 ____
 One who has abandoned both sensuous delight (_ratiṃ_) and disgruntlement
 [with the celibate life] (_aratiṃ_), one who is freed from inward distress,
@@ -89672,7 +89668,7 @@ parañca lokaṃ
 the world beyond
 ====
 
-[quote, Th.v.784-5; M.2.73]
+[quote, "Th.v.784-5, M.2.73"]
 ____
 He ends up in a womb in the world beyond
 
@@ -90301,7 +90297,7 @@ lokassa
 world [of phenomena]
 ====
 
-[quote, S.2.73; S.4.87]
+[quote, "S.2.73, S.4.87"]
 ____
 I will explain the origination and vanishing of the world [of phenomena].
 Listen, pay careful attention, and I will speak.
@@ -92723,7 +92719,7 @@ struggle. It was here that the Buddha said that Māra's seventh army is doubt
 But here, as yet, there is no Buddha or teaching. We therefore take the object
 of _vicikicchā_ to be _kusalesu dhammesu_ from this quote:
 
-[quote, M.3.136; D.1.204]
+[quote, "M.3.136, D.1.204"]
 ____
 Abandoning doubt [about the significance of the teaching], he abides having
 overcome doubt [about the significance of the teaching], with no uncertainty
@@ -92753,7 +92749,7 @@ ____
 
 We used this quote in the section above:
 
-[quote, M.3.136; D.1.204]
+[quote, "M.3.136, D.1.204"]
 ____
 Abandoning doubt [about the significance of the teaching], he abides having
 overcome doubt [about the significance of the teaching], with no uncertainty
@@ -95589,7 +95585,7 @@ vinicchitāni
 divided
 ====
 
-[quote, A.4.140-1; Vin.1.65]
+[quote, "A.4.140-1, Vin.1.65"]
 ____
 Both Pātimokkhas have been properly transmitted to him in detail, properly
 classified, well mastered, properly divided by rule and phrase.
@@ -96179,7 +96175,7 @@ vimuttiṃ
 liberation [from perceptually obscuring states]
 ====
 
-[quote, Sn.v.54; M.3.110]
+[quote, "Sn.v.54, M.3.110"]
 ____
 It is an impossibility for one who who takes delight in company to obtain
 [even] temporary liberation [from perceptually obscuring states].
@@ -96615,7 +96611,7 @@ vimutti
 liberation [from perceptually obscuring states]
 ====
 
-[quote, Vin.1.22; S.1.105]
+[quote, "Vin.1.22, S.1.105"]
 ____
 Through proper contemplation, through proper and right inward striving, I
 attained and realised the unsurpassed liberation [from perceptually obscuring
@@ -97190,7 +97186,7 @@ We will now discuss why _vimokkhas_ are called 'deliverances.' This meaning is
 a mystery even to the Commentary, because it explains the _vimokkhas_ as
 follows:
 
-[quote, tr. Bodhi, NDB n.1776]
+[quote, "tr. Bodhi, NDB n.1776"]
 ____
 'In what sense are they emancipations? In the sense of releasing. In what sense
 releasing? In the sense of thoroughly freeing from adverse qualities, and in
@@ -99332,7 +99328,7 @@ interest in this term can be found at:
 Many commentaries say _vivaṭṭacchadda_ means 'one who has removed the
 covering,' as follows:
 
-[quote, Sv.1.250; tr. Bodhi, NDB, n.713]
+[quote, "Sv.1.250, tr. Bodhi, NDB, n.713"]
 ____
 Here, having been born into the world, he dwells having entirely removed the
 covering in the world (_loke tam chadanam vivattetva_), in the darkness of
@@ -99349,7 +99345,7 @@ But, although _taṇhā_ is called a covering (_taṇhāchadanachāditā_,
 Ud.76), these seven factors are not. And although _avijjā_ comes close by
 being called an eggshell, it is 'broken through' not 'removed.'
 
-[quote, A.4.176; Vin.3.3]
+[quote, "A.4.176, Vin.3.3"]
 ____
 Amongst the manyfolk who are void of insight into reality, enveloped and
 smothered [in uninsightfulness into reality], having broken through the
@@ -103160,7 +103156,7 @@ _Sabbasaṃyoge_ is metri causa for _sabbasaṃyojane_. The commentary agrees:
 _dasasaṃyojanabhedāni ca sabbabandhanāni_. See Introduction. _Bandhana_ is
 usually linked to _saṃyojana_, and both are countable nouns, and synonyms:
 
-[quote, S.1.191; Th.v.1234]
+[quote, "S.1.191, Th.v.1234"]
 ____
 Having severed the ties and bonds [to individual existence].
 
@@ -107837,7 +107833,7 @@ saṅkhāra
 aspiration
 ====
 
-[quote, D.2.99; S.5.152-3]
+[quote, "D.2.99, S.5.152-3"]
 ____
 'Let me then suppress this illness with energy and live on, having firmly
 established the aspiration for further life.'
@@ -107858,7 +107854,7 @@ saṅkhāra
 aspiration
 ====
 
-[quote, Ud.64; S.5.263]
+[quote, "Ud.64, S.5.263"]
 ____
 Then the Blessed One at the Cāpāla Shrine, mindful and fully conscious,
 relinquished the aspiration for further life...
@@ -108339,7 +108335,7 @@ And what is the wonder of mind reading. When a bhikkhu has attained a state of
 inward collectedness which is void of thinking and reflecting, by encompassing
 a person's mind with his mind, he knows that:
 
-[quote, A.1.171; D.3.104]
+[quote, "A.1.171, D.3.104"]
 ____
 In the way that this person's mental activities are directed, so his mind will
 immediately think this thought.
@@ -108631,7 +108627,7 @@ saṅgā
 bonds [to individual existence]
 ====
 
-[quote, Th.v.633; S.1.3]
+[quote, "Th.v.633, S.1.3"]
 ____
 The bhikkhu who has overcome the five bonds [to individual existence] is called
 one who has crossed the flood [of suffering].
@@ -108698,7 +108694,7 @@ saṅgā
 bonds [to individual existence]
 ====
 
-[quote, It.57-8; S.4.158]
+[quote, "It.57-8, S.4.158"]
 ____
 The one who has overcome the bonds [to individual existence], death-forsaker,
 the one free of attachment, has abandoned suffering, and has no renewed states
@@ -111877,7 +111873,7 @@ He is incapable of conversation.
 _nālaṃ sallāpāya._
 ____
 +
-[quote, M.1.251; S.4.50; A.4.88]
+[quote, "M.1.251, S.4.50, A.4.88"]
 ____
 All things are unsuited to stubborn attachment
 
@@ -112228,7 +112224,7 @@ nālaṃ
 unsuited to
 ====
 
-[quote, M.1.251; S.4.50; A.4.88]
+[quote, "M.1.251, S.4.50, A.4.88"]
 ____
 All things are unsuited to stubborn attachment
 
@@ -114195,7 +114191,7 @@ Then a great earthquake occurred, frightening and terrifying, and peals of
 thunder shook the sky. Then the Blessed One on that occasion spoke this
 inspired utterance:
 
-[quote, Ud.64; S.5.263]
+[quote, "Ud.64, S.5.263"]
 ____
 Comparing the incomparable with individual existence, the Sage relinquished
 the aspiration for [renewed] states of individual existence
@@ -114499,7 +114495,7 @@ Our renderings of terms produces the following phrases:
 
 In some cases there are alternative Pāli spellings, as follows:
 
-[quote, S.4.75; Th.v.802; Th.v.814]
+[quote, "S.4.75, Th.v.802, Th.v.814"]
 ____
 in seeing a visible object (no alternative)
 
@@ -116529,7 +116525,7 @@ awareness
 _Subhanteva adhimutto hoti. Ayaṃ tatiyo vimokkho._
 ____
 +
-[quote, D.2.71; M.2.13; A.4.307]
+[quote, "D.2.71, M.2.13, A.4.307"]
 ____
 By completely transcending refined material states of awareness, with the
 vanishing of states of refined awareness involving physical sensation, not
@@ -116761,7 +116757,7 @@ subhaṃ
 the Exquisite
 ====
 
-[quote, D.2.71; D.2.112; D.3.262; D.3.288; M.2.13; A.4.307]
+[quote, "D.2.71, D.2.112, D.3.262, D.3.288, M.2.13, A.4.307"]
 ____
 One is focused exclusively on the Exquisite. This is the third state of refined
 awareness
