@@ -37331,7 +37331,7 @@ Therefore our renderings are:
 
 - _cittasamādhi_: inward collectedness based on reflection
 
-===== Citta=ceto
+===== Citta = ceto
 
 In some of the illustrations we take for granted the equivalence of _citta_ and
 _ceto_, as confirmed in PED sv _ceto_.
@@ -44421,7 +44421,7 @@ calls this _tādin_'s 'pregnant sense.'
 Other translators resolve the issue in similar ways. PED says _tādin_ means
 'of such (good) qualities, "ecce homo"; in pregnant sense appl. to the
 Bhagavant & Arahants.' Norman calls it 'the venerable one,' and explains 'The
-word seems to mean "of such a kind=Buddha-like, or holy, venerable"' (Elders'
+word seems to mean "of such a kind = Buddha-like, or holy, venerable"' (Elders'
 Verses n.41).
 
 ===== Tādin and Tādisa: relationship
@@ -86123,7 +86123,7 @@ ____
 ====
 yogena
 
-tie=saṃyojana metri causa
+tie = saṃyojana metri causa
 ====
 
 [quote, It.50]
@@ -95316,7 +95316,7 @@ ____
 ====
 vinaya
 
-training system=sikkhaṃ
+training system = sikkhaṃ
 ====
 
 [quote, S.2.50]
@@ -100884,7 +100884,7 @@ ____
 
 ==== Introduction
 
-===== Vedayita=vedanā
+===== Vedayita = vedanā
 
 _Vedayita_ is the past participle of _vedeti_, meaning 'felt, experienced,'
 says PED. In some circumstances, we accordingly call it 'experienced.' But it
@@ -114283,7 +114283,7 @@ just 11 times, and _cakkhundriyaṃ_ occurs 452 times. The shortage of
 _cakkhāyatanaṃ_ is because _cakkhāyatanaṃ_ is usually abbreviated to
 _cakkhuṃ_. The suffix -_āyatanaṃ_ is apparently disposable.
 
-That _cakkhuṃ=cakkhāyatanaṃ_ is proven in several suttas. The
+That _cakkhuṃ = cakkhāyatanaṃ_ is proven in several suttas. The
 _Girimānanda Sutta_ says _cakkhuṃ_ is part of _āyatanesu_: _cakkhuṃ
 anattā rūpā anattā... mano anattā dhammā anattā ti. Iti imesu chasu
 ajjhattikabāhiresu āyatanesu anattānupassī viharati_ (A.5.109). Similar
@@ -114294,7 +114294,7 @@ The fuller terms for all six senses is listed in the _Sammādiṭṭhi Sutta_:
 _cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ
 kāyāyatanaṃ manāyatanaṃ_ (M.1.52).
 
-===== Āyatanaṃ=phassāyatanānaṃ
+===== Āyatanaṃ = phassāyatanānaṃ
 
 But _āyatanaṃ_ is also an abbreviation -- for _phassāyatanānaṃ_. At
 S.4.44 _cakkhuṃ_ is called _paṭhamaṃ phassāyatanaṃ_; _sotaṃ_ is
