@@ -27,7 +27,7 @@ mobi:
 	./helpers/generate_mobi.sh $(NAME)
 
 pdf:
-	./vendor/asciidoctor-pdf/bin/asciidoctor-pdf -D output -b pdf -o $(NAME)-custom.pdf main.adoc
+	./vendor/asciidoctor-pdf/bin/asciidoctor-pdf -D output -b pdf -a pdf-stylesdir=./vendor/asciidoctor-pdf/data/themes -a pdf-fontsdir=./vendor/asciidoctor-pdf/data/fonts -a pdf-style=glossary -o $(NAME)-custom.pdf main.adoc
 
 preview:
 	latexmk -pvc $(FILE).tex
