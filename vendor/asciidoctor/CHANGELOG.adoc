@@ -13,8 +13,187 @@ endif::[]
 This document provides a high-level view of the changes introduced in Asciidoctor by release.
 For a detailed view of what has changed, refer to the {uri-repo}/commits/master[commit history] on GitHub.
 
+== Unreleased
+
+Enhancements::
+
+  * BREAKING: drop XML tags, character refs, and non-word characters (except hyphen and space) when generating ID for section (#794)
+  * route messages through a logger instead of using Kernel#warn (#44, PR #2660)
+  * add MemoryLogger for capturing messages sent to logger into memory (#44, PR #2660)
+  * add NullLogger to prevent messages from being logged (#44, PR #2660)
+  * log message containing source location / cursor as an object; provides more context (#44, PR #2660)
+  * add :logger option to API to set logger instance (#44, PR #2660)
+  * add --failure-level=LEVEL option to CLI to force non-zero exit code if specified logging level is reached (#2003, PR #2674)
+  * resolve nested includes in remote documents relative to URI (#2506, PR #2511)
+  * support name!@, !name@, name!=@, and !name=@ syntax to soft unset attribute from API or CLI (#642, PR #2649)
+  * allow modifier to be placed at end of name to soft set an attribute (e.g., icons@=font) (#642, PR #2649)
+  * interpret false attribute value defined using API as a soft unset (#642, PR #2649)
+  * allow footnote macro to define or reference footnote reference (footnoteref macro now considered deprecated) (#2347, PR #2362)
+  * allow custom converter to be used with custom templates; converter must declare that it supports templates (#2619)
+  * allow manpage path for manpage help topic to be specified using ASCIIDOCTOR_MANPAGE_PATH environment variable (PR #2653) (*@aerostitch*)
+  * if manpage cannot be found in default path inside gem, use `man -w asciidoctor` to resolve installed path (PR #2653)
+  * uncompress contents of manpage for manpage help topic if path ends with .gz (PR #2653) (*@aerostitch*)
+  * define source and manual refmiscinfo entries in manpage output if manual and source attributes are defined (PR #2636) (*@tiwai*)
+  * add syntax for adding hard line breaks in block AsciiMath equations (#2497, PR #2579) (*@dimztimz*)
+  * add positioning option to sectanchors attribute (before or after) (#2485, PR #2486)
+  * allow table stripes to be configured using stripe attribute or stripe roles on table; valid values are even, odd, all, and none (#1365, PR #2588)
+  * assign Document#source_location when sourcemap option is enabled (#2478, PR #2488)
+  * allow local include to be flagged as optional by setting optional option (#2389, PR #2413)
+  * allow attribute name to contain word characters as defined by Unicode (#2376, PR #2393)
+  * allow block title to begin with a period (#2358, PR #2359)
+  * register document in catalog if id is set; assign reftext to document attributes if specified in a block attribute line (#2301, PR #2428)
+  * use the quote element in DocBook converter for smart quotes (#2272, PR #2356) (*@bk2204*)
+  * parse and pass all manpage names to output document master (shadown man pages) (#1811, #2543, PR #2414)
+  * parse credit line of shorthand quote block as block attributes; apply normal subs to credit line in shorthand quote blocks (#1667, PR #2452)
+  * preserve directories if source dir and destination dir are set (#1394, PR #2421)
+  * allow linkcss to be disabled from API when safe mode is secure
+  * convert quote to epigraph element in DocBook output if block has epigraph role (#1195, PR #2664) (*@bk2204*)
+  * number special sections in addition to regular sections when sectnums=all (#661, PR #2463)
+
+Bug fixes::
+
+  * set :to_dir option correctly when output file is specified (#2382)
+  * using the shorthand syntax to set block attributes (id, roles, options) doesn't reset block style (#2174)
+  * fix typo in gemspec that removed README and CONTRIBUTING files from the generated gem (PR #2650) (*@aerostitch*)
+  * don't turn bare URI scheme (no host) into a link (#2609, PR #2611)
+  * don't convert inter-document xref to internal anchor unless entire target file is included into current file (#2200)
+  * fix em dash replacement in manpage converter (#2604, PR #2607)
+  * don't output e-mail address twice when replacing bare e-mail address in manpage output (#2654, PR #2665)
+  * enforce that absolute start path passed to PathResolver#system_path is inside of jail path (#2642, PR #2644)
+  * fix behavior of PathResolver#descends_from? when base path equals / (#2642, PR #2644)
+  * automatically recover if start path passed to PathResolver#system_path is outside of jail path (#2642, PR #2644)
+  * re-enable left justification after invoking tmac URL macro (#2400, PR #2409)
+  * don't report warning about same level 0 section multiple times (#2572)
+  * record timings when calling convert and write on Document (#2574, PR #2575)
+  * duplicate header attributes when restoring; allows header attributes to be restored an arbitrary number of times (#2567, PR #2570)
+  * propagate catalog_assets option to nested document (#2564, PR #2565)
+  * preserve newlines in quoted CSV data (#2041)
+  * allow opening quote around quoted CSV field to be on a line by itself
+  * output table footer after body rows (#2556, PR #2566) (*@PauloFrancaLacerda*)
+  * move @page outside of @media print in default stylesheet (#2531, PR #2532)
+  * don't throw exception if text of dd node is nil (#2529, PR #2530)
+  * don't double escape ampersand in manpage output (#2525) (*@dimztimz*)
+  * fix crash when author_1 attribute is assigned directly (#2481, PR #2487)
+  * fix CSS for highlighted source block inside colist (#2474, PR #2490)
+  * don't append file extension to data uri of admonition icon (#2465, PR #2466)
+  * fix race condition in Helpers.mkdir_p (#2457, PR #2458)
+  * correctly process nested passthrough inside unconstrained monospaced (#2442, PR #2443)
+  * add test to ensure ampersand in author line is not double escaped (#2439, PR #2440)
+  * fix alignment of icons in footnote (#2415, PR #2416)
+  * add graceful fallback if pygments.rb fails to return a value (#2341, PR #2342)
+  * escape specialchars in source if pygments fails to highlight (#2341)
+  * do not recognize attribute entry line if name contains colon (PR #2377)
+  * allow flow indexterm to be enclosed in round brackets (#2363, PR #2364)
+  * set outfilesuffix to match file extension of output file (#2258, PR #2367)
+  * add block title to dlist in manpage output (#1611, PR #2434)
+  * scale text to 80% in print styles (#1484, PR #2576)
+  * output non-breaking space for man manual if absent in DocBook output (PR #2636)
+
+Improvements / Refactoring::
+
+  * log a warning message if an unterminated delimited block is detected (#1133, PR #2612)
+  * log a warning when nested section is found inside special section that doesn't support nested sections (#2433, PR #2672)
+  * resolve / expand parent references in start path passed to PathResolver#system_path (#2642, PR #2644)
+  * update PathResolver#expand_path to resolve parent references (#2642, PR #2644)
+  * allow start path passed to PathResolver#system_path to be outside jail if target brings resolved path back inside jail (#2642, PR #2644)
+  * don't run File.expand_path on Dir.pwd (assume Dir.pwd is absolute) (#2642, PR #2644)
+  * posixify working_dir passed to PathResolver constructor if absolute (#2642, PR #2644)
+  * optimize detection for footnote* and indexterm* macros (#2347, PR #2362)
+  * log a warning if a footnote reference cannot be resolved (#2669)
+  * set logger to DEBUG when verbose is enabled; check logger.debug? instead of $VERBOSE
+  * coerce value of template_dirs option to an Array (PR #2621)
+  * block roles specified using shorthand syntax are additive (#2174)
+  * allow paragraph to masquerade as open block (PR #2412)
+  * move callouts into document catalog (PR #2394)
+  * document ID defined in block attribute line takes precedence over ID defined inside document title line
+  * when linkattrs is set, only parse attributes in link macro if equals follows first comma
+  * skip line comments in name section of manpage (#2584, PR #2585)
+  * always activate extension registry passed to processor (PR #2379)
+  * skip extension registry activation if no groups are registered (PR #2373)
+  * don't apply lead style to first paragraph if role is present (#2624, PR #2625)
+  * raise clearer exception when extension class cannot be resolved (#2622, PR #2623)
+  * rename table spread role to stretch (#2589, PR #2591)
+  * add methods to read results from timings (#2578, PR #2580)
+  * collapse bottom margin of last block in AsciiDoc table cell (#2568, PR #2593)
+  * set authorcount to 0 if there are no authors (#2519, PR #2520)
+  * validate fragment of interdoc xref that resolves to current doc (#2448, PR #2449)
+  * put id attribute on tag around phrase instead of preceding anchor (#2445, PR #2446)
+  * add .plist extension to XML circumfix comment family (#2430, PR #2431) (*@akosma*)
+  * alias Document#title method to no args Document#doctitle method (#2429, PR #2432)
+  * upgrade missing or unreadable include file to an error (#2424, PR #2426)
+  * add compliance setting to disable natural cross references (#2405, PR #2460)
+  * make hash in inter-document xref target optional if target has extension (#2404, PR #2406)
+  * add CSS class to part that matches role (#2401, PR #2402)
+  * automatically assign parent reference when adding node to parent (#2398, PR #2403)
+  * leave inline anchor in section title as is if section has ID (#2243, PR #2427)
+  * align and improve error message about invalid use of partintro between HTML5 and DocBook converters
+  * rephrase warning when level 0 sections are found and the doctype is not book
+  * only warn if thread_safe gem is missing when using built-in template cache
+  * rename enumerate_section to assign_numeral; update API docs
+  * drop deprecated compact option from CLI; remove from manpage
+  * use more robust mechanism for lazy loading the asciimath gem
+  * change Reader#skip_comment_lines to not return skipped lines
+  * purge render method from test suite (except to verify alias)
+
+Documentation::
+
+  * translate 'section-refsig' for German language (PR #2633) (*@ahus1*)
+  * synchronize French README with English version (PR #2637) (*@flashcode*)
+
+Build / Infrastructure::
+
+  * update Ruby versions in appveyor build matrix (PR #2388) (*@miltador*)
+  * add mailinglist, changelog, source, and issues URI to gem spec
+  * allow blocks and substitutions tests to be run directly
+
+Distribution Packages::
+
+  * http://rubygems.org/gems/asciidoctor[RubyGem (asciidoctor)]
+  * https://apps.fedoraproject.org/packages/rubygem-asciidoctor[Fedora (rubygem-asciidoctor)]
+  * http://packages.debian.org/sid/asciidoctor[Debian (asciidoctor)]
+  * http://packages.ubuntu.com/saucy/asciidoctor[Ubuntu (asciidoctor)]
+
 // tag::compact[]
+== 1.5.6.2 (2018-03-20) - @mojavelinux
+
+Bug fixes::
+
+  * fix match for multiple xref macros w/ implicit text in same line (#2450)
+  * PathResolver#root? returns true for absolute URL in browser env (#2595)
+
+Improvements / Refactoring::
+
+  * resolve include target correctly in browser (xmlhttprequest IO module) (#2599, #2602)
+  * extract method to resolve include path (allowing Asciidoctor.js to override) (#2610)
+  * don't expand docdir value passed to API (#2518)
+  * check mandatory attributes when creating an image block (#2349, PR #2355) (@mogztter)
+  * drop is_ prefix from boolean methods in PathResolver (PR #2587)
+  * change Reader#replace_next_line to return true
+  * organize methods in AbstractNode
+
+Build / Infrastructure::
+
+  * clean up dependencies
+  * add Ruby 2.5.0 to CI build matrix (PR #2528)
+  * update nokogiri to 1.8.0 for ruby >= 2.1 (PR #2380) (@miltador)
+
+Distribution Packages::
+
+  * http://rubygems.org/gems/asciidoctor[RubyGem (asciidoctor)]
+  * https://apps.fedoraproject.org/packages/rubygem-asciidoctor[Fedora (rubygem-asciidoctor)]
+  * http://packages.debian.org/sid/asciidoctor[Debian (asciidoctor)]
+  * http://packages.ubuntu.com/saucy/asciidoctor[Ubuntu (asciidoctor)]
+
+https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.6.2[issues resolved] |
+https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.6.2[git tag] |
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.6.1...v1.5.6.2[full diff]
+// end::compact[]
+
 == 1.5.6.1 (2017-07-23) - @mojavelinux
+
+Enhancements::
+
+  * Don't include title of special section in DocBook output if untitled option is set (e.g., dedication%untitled)
 
 Bug fixes::
 
@@ -63,8 +242,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.6.1[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.6.1[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v1.5.6...v1.5.6.1[full diff]
-// end::compact[]
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.6\...v1.5.6.1[full diff]
 
 == 1.5.6 (2017-07-12) - @mojavelinux
 
@@ -279,7 +457,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.6[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.6[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v1.5.5...v1.5.6[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.5\...v1.5.6[full diff]
 
 == 1.5.5 (2016-10-05) - @mojavelinux
 
@@ -343,7 +521,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.5[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.5[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v1.5.4...v1.5.5[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.4\...v1.5.5[full diff]
 
 == 1.5.4 (2016-01-03) - @mojavelinux
 
@@ -402,7 +580,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.4[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.4[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v1.5.3...v1.5.4[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.3\...v1.5.4[full diff]
 
 == 1.5.3 (2015-10-31) - @mojavelinux
 
@@ -510,7 +688,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.3[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.3[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v1.5.2...v1.5.3[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.2\...v1.5.3[full diff]
 
 == 1.5.2 (2014-11-27) - @mojavelinux
 
@@ -564,7 +742,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.2[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.2[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v1.5.1...v1.5.2[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.1\...v1.5.2[full diff]
 
 == 1.5.1 (2014-09-29) - @mojavelinux
 
@@ -595,7 +773,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?q=milestone%3Av1.5.1[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.1[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v1.5.0...v1.5.1[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v1.5.0\...v1.5.1[full diff]
 
 == 1.5.0 (2014-08-12) - @mojavelinux
 
@@ -634,7 +812,7 @@ Enhancements::
   * match implicit URLs that use the file scheme (#853)
   * added sectnumlevels to control depth of section numbering (#549)
   * add hardbreaks option to block (#630)
-  * sub attributes in manname (e.g., pass:[{docname}])
+  * substitute attribute references in manname
   * warn on reference to missing attribute if attribute-missing is "warn"
   * only enable toc macro if toc is enabled and toc-placement attribute has the value macro (#706)
   * add sectnums attribute as alternative alias to numbered attribute (#684)
@@ -785,7 +963,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?milestone=8&state=closed[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v1.5.0[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v0.1.4...v1.5.0[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v0.1.4\...v1.5.0[full diff]
 
 == 0.1.4 (2013-09-05) - @mojavelinux
 
@@ -919,7 +1097,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?milestone=7&state=closed[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v0.1.4[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v0.1.3...v0.1.4[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v0.1.3\...v0.1.4[full diff]
 
 == 0.1.3 (2013-05-30) - @mojavelinux
 
@@ -988,7 +1166,7 @@ Distribution Packages::
 http://asciidoctor.org/news/2013/05/31/asciidoctor-0-1-3-released[release notes] |
 https://github.com/asciidoctor/asciidoctor/issues?milestone=4&state=closed[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v0.1.3[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v0.1.2...v0.1.3[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v0.1.2\...v0.1.3[full diff]
 
 == 0.1.2 (2013-04-25) - @mojavelinux
 
@@ -1043,7 +1221,7 @@ Distribution Packages::
 http://asciidoctor.org/news/2013/04/25/asciidoctor-0-1-2-released[release notes] |
 https://github.com/asciidoctor/asciidoctor/issues?milestone=3&state=closed[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v0.1.2[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v0.1.1...v0.1.2[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v0.1.1\...v0.1.2[full diff]
 
 == 0.1.1 (2013-02-26) - @erebor
 
@@ -1098,7 +1276,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?milestone=1&state=closed[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v0.1.1[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v0.1.0...v0.1.1[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v0.1.0\...v0.1.1[full diff]
 
 == 0.1.0 (2013-02-04) - @erebor
 
@@ -1150,7 +1328,7 @@ Distribution Packages::
 
 https://github.com/asciidoctor/asciidoctor/issues?milestone=12&state=closed[issues resolved] |
 https://github.com/asciidoctor/asciidoctor/releases/tag/v0.1.0[git tag] |
-https://github.com/asciidoctor/asciidoctor/compare/v0.0.9...v0.1.0[full diff]
+https://github.com/asciidoctor/asciidoctor/compare/v0.0.9\...v0.1.0[full diff]
 
 == Older releases (pre-0.0.1)
 

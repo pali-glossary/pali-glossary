@@ -131,7 +131,7 @@ module Substitutors
       when :post_replacements
         text = sub_post_replacements text
       else
-        warn %(asciidoctor: WARNING: unknown substitution type #{type})
+        logger.warn %(unknown substitution type #{type})
       end
     end
     text = restore_passthroughs text if has_passthroughs
@@ -244,7 +244,7 @@ module Substitutors
       %(#{preceding}#{PASS_START}#{pass_key}#{PASS_END})
     } if (text.include? '++') || (text.include? '$$') || (text.include? 'ss:')
 
-    pass_inline_char1, pass_inline_char2, pass_inline_rx = PassInlineRx[compat_mode]
+    pass_inline_char1, pass_inline_char2, pass_inline_rx = InlinePassRx[compat_mode]
     text = text.gsub(pass_inline_rx) {
       # alias match for Ruby 1.8.7 compat
       m = $~
@@ -264,7 +264,8 @@ module Substitutors
 
       if attributes
         if format_mark == '`' && !old_behavior
-          next %(#{preceding}[#{attributes}]#{escape_mark}`#{extract_passthroughs content}`)
+          # extract nested single-plus passthrough; otherwise return unprocessed
+          next (extract_inner_passthrough content, %(#{preceding}[#{attributes}]#{escape_mark}), attributes)
         end
 
         if escape_mark
@@ -278,7 +279,8 @@ module Substitutors
           attributes = parse_attributes attributes
         end
       elsif format_mark == '`' && !old_behavior
-        next %(#{preceding}#{escape_mark}`#{extract_passthroughs content}`)
+        # extract nested single-plus passthrough; otherwise return unprocessed
+        next (extract_inner_passthrough content, %(#{preceding}#{escape_mark}))
       elsif escape_mark
         # honor the escape of the formatting mark
         next %(#{preceding}#{m[3][1..-1]})
@@ -320,6 +322,21 @@ module Substitutors
     } if (text.include? ':') && ((text.include? 'stem:') || (text.include? 'math:'))
 
     text
+  end
+
+  def extract_inner_passthrough text, pre, attributes = nil
+    if (text.end_with? '+') && (text.start_with? '+', '\+') && SinglePlusInlinePassRx =~ text
+      if $1
+        %(#{pre}`+#{$2}+`)
+      else
+        @passthroughs[pass_key = @passthroughs.size] = attributes ?
+            { :text => $2, :subs => BASIC_SUBS, :attributes => attributes, :type => :unquoted } :
+            { :text => $2, :subs => BASIC_SUBS }
+        %(#{pre}`#{PASS_START}#{pass_key}#{PASS_END}`)
+      end
+    else
+      %(#{pre}`#{text}`)
+    end
   end
 
   # Internal: Restore the passthrough text by reinserting into the placeholder positions
@@ -492,11 +509,11 @@ module Substitutors
             reject_if_empty = true
             ''
           when 'drop-line'
-            warn %(asciidoctor: WARNING: dropping line containing reference to missing attribute: #{key})
+            logger.warn %(dropping line containing reference to missing attribute: #{key})
             reject = true
             break ''
           when 'warn'
-            warn %(asciidoctor: WARNING: skipping reference to missing attribute: #{key})
+            logger.warn %(skipping reference to missing attribute: #{key})
             $&
           else # 'skip'
             $&
@@ -585,7 +602,7 @@ module Substitutors
       end
 
       if (result.include? '"') && (result.include? '&gt;')
-        result = result.gsub(MenuInlineRx) {
+        result = result.gsub(InlineMenuRx) {
           # alias match for Ruby 1.8.7 compat
           m = $~
           # honor the escape
@@ -665,7 +682,7 @@ module Substitutors
       }
     end
 
-    if ((result.include? '((') && (result.include? '))')) || (found_macroish_short && (result.include? 'indexterm'))
+    if ((result.include? '((') && (result.include? '))')) || (found_macroish_short && (result.include? 'dexterm'))
       # (((Tigers,Big cats)))
       # indexterm:[Tigers,Big cats]
       # ((Tigers))
@@ -733,7 +750,7 @@ module Substitutors
 
     if found_colon && (result.include? '://')
       # inline urls, target[text] (optionally prefixed with link: and optionally surrounded by <>)
-      result = result.gsub(LinkInlineRx) {
+      result = result.gsub(InlineLinkRx) {
         # alias match for Ruby 1.8.7 compat
         m = $~
         # honor the escape
@@ -762,15 +779,13 @@ module Substitutors
             if prefix.start_with?('&lt;') && target.end_with?('&gt;')
               prefix = prefix[4..-1]
               target = target[0...-4]
+            # strip trailing ;
+            # check for trailing );
+            elsif (target = target.chop).end_with?(')')
+              target = target.chop
+              suffix = ');'
             else
-              # strip trailing ;
-              # check for trailing );
-              if (target = target.chop).end_with?(')')
-                target = target.chop
-                suffix = ');'
-              else
-                suffix = ';'
-              end
+              suffix = ';'
             end
           when ':'
             # strip trailing :
@@ -782,16 +797,18 @@ module Substitutors
               suffix = ':'
             end
           end
+          # NOTE handle case when remaining target is a URI scheme (e.g., http://)
+          return m[0] if target.end_with? '://'
         end
 
         attrs, link_opts = nil, { :type => :link }
         unless text.empty?
           text = text.gsub ESC_R_SB, R_SB if text.include? R_SB
-          if (doc_attrs.key? 'linkattrs') && ((text.start_with? '"') || ((text.include? ',') && (text.include? '=')))
+          if (text.start_with? '"') || ((comma_idx = text.index ',') && (text.index '=', comma_idx))
             attrs = parse_attributes text, []
             link_opts[:id] = attrs.delete 'id' if attrs.key? 'id'
             text = attrs[1] || ''
-          end
+          end if doc_attrs.key? 'linkattrs'
 
           # TODO enable in Asciidoctor 1.6.x
           # support pipe-separated text and title
@@ -840,7 +857,7 @@ module Substitutors
         attrs, link_opts = nil, { :type => :link }
         unless (text = m[3]).empty?
           text = text.gsub ESC_R_SB, R_SB if text.include? R_SB
-          if (doc_attrs.key? 'linkattrs') && ((text.start_with? '"') || ((text.include? ',') && (mailto || (text.include? '='))))
+          if (text.start_with? '"') || ((comma_idx = text.index ',') && (mailto || (text.index '=', comma_idx)))
             attrs = parse_attributes text, []
             link_opts[:id] = attrs.delete 'id' if attrs.key? 'id'
             if mailto
@@ -853,7 +870,7 @@ module Substitutors
               end
             end
             text = attrs[1] || ''
-          end
+          end if doc_attrs.key? 'linkattrs'
 
           # TODO enable in Asciidoctor 1.6.x
           # support pipe-separated text and title
@@ -896,7 +913,7 @@ module Substitutors
     end
 
     if result.include? '@'
-      result = result.gsub(EmailInlineRx) {
+      result = result.gsub(InlineEmailRx) {
         address, tip = $&, $1
         if tip
           next (tip == RS ? address[1..-1] : address)
@@ -910,7 +927,7 @@ module Substitutors
       }
     end
 
-    if found_macroish_short && (result.include? 'footnote')
+    if found_macroish && (result.include? 'tnote')
       result = result.gsub(InlineFootnoteMacroRx) {
         # alias match for Ruby 1.8.7 compat
         m = $~
@@ -918,36 +935,35 @@ module Substitutors
         if m[0].start_with? RS
           next m[0][1..-1]
         end
-        if m[1] == 'footnote'
-          id = nil
-          # REVIEW it's a dirty job, but somebody's gotta do it
-          text = restore_passthroughs(sub_inline_xrefs(sub_inline_anchors(normalize_string m[2], true)), false)
-          index = @document.counter('footnote-number')
-          @document.register(:footnotes, Document::Footnote.new(index, id, text))
-          type = nil
-          target = nil
+        if m[1] # footnoteref (legacy)
+          id, text = (m[3] || '').split(',', 2)
         else
-          id, text = m[2].split(',', 2)
-          id = id.strip
+          id, text = m[2], m[3]
+        end
+        if id
           if text
             # REVIEW it's a dirty job, but somebody's gotta do it
             text = restore_passthroughs(sub_inline_xrefs(sub_inline_anchors(normalize_string text, true)), false)
             index = @document.counter('footnote-number')
             @document.register(:footnotes, Document::Footnote.new(index, id, text))
-            type = :ref
-            target = nil
+            type, target = :ref, nil
           else
-            if (footnote = @document.footnotes.find {|fn| fn.id == id })
-              index = footnote.index
-              text = footnote.text
+            if (footnote = @document.footnotes.find {|candidate| candidate.id == id })
+              index, text = footnote.index, footnote.text
             else
-              index = nil
-              text = id
+              logger.warn %(invalid footnote reference: #{id})
+              index, text = nil, id
             end
-            target = id
-            id = nil
-            type = :xref
+            type, target, id = :xref, id, nil
           end
+        elsif text
+          # REVIEW it's a dirty job, but somebody's gotta do it
+          text = restore_passthroughs(sub_inline_xrefs(sub_inline_anchors(normalize_string text, true)), false)
+          index = @document.counter('footnote-number')
+          @document.register(:footnotes, Document::Footnote.new(index, id, text))
+          type = target = nil
+        else
+          next m[0]
         end
         Inline.new(self, :footnote, text, :attributes => {'index' => index}, :id => id, :target => target, :type => type).convert
       }
@@ -989,8 +1005,7 @@ module Substitutors
 
   # Internal: Substitute cross reference links
   def sub_inline_xrefs(text, found = nil)
-    if ((found ? found[:macroish] : (text.include? '[')) && (text.include? 'xref:')) ||
-        ((text.include? '&') && (text.include? '&lt;&lt;'))
+    if ((found ? found[:macroish] : (text.include? '[')) && (text.include? 'xref:')) || ((text.include? '&') && (text.include? 'lt;&'))
       text = text.gsub(InlineXrefMacroRx) {
         # alias match for Ruby 1.8.7 compat
         m = $~
@@ -1033,8 +1048,15 @@ module Substitutors
         # handles: path#, path.adoc#, path#id, path.adoc#id, or path (from path.adoc)
         elsif path
           # the referenced path is this document, or its contents has been included in this document
-          if @document.attributes['docname'] == path || @document.catalog[:includes].include?(path)
-            refid, path, target = fragment, nil, %(##{fragment})
+          if @document.attributes['docname'] == path || @document.catalog[:includes][path]
+            if fragment
+              refid, path, target = fragment, nil, %(##{fragment})
+              if logger.debug?
+                logger.warn %(invalid reference: #{fragment}) unless @document.catalog[:ids].key? fragment
+              end
+            else
+              refid, path, target = nil, nil, '#'
+            end
           else
             refid = fragment ? %(#{path}##{fragment}) : path
             path = %(#{@document.attributes['relfileprefix']}#{path}#{@document.attributes.fetch 'outfilesuffix', '.html'})
@@ -1044,11 +1066,12 @@ module Substitutors
         else
           # resolve fragment as reftext if it's not a known ID and resembles reftext (includes space or has uppercase char)
           unless @document.catalog[:ids].key? fragment
-            if ((fragment.include? ' ') || fragment.downcase != fragment) &&
+            if Compliance.natural_xrefs && !@document.compat_mode &&
+                ((fragment.include? ' ') || fragment.downcase != fragment) &&
                 (resolved_id = @document.catalog[:ids].key fragment)
               fragment = resolved_id
-            elsif $VERBOSE
-              warn %(asciidoctor: WARNING: invalid reference: #{fragment})
+            elsif logger.debug?
+              logger.warn %(invalid reference: #{fragment})
             end
           end
           refid, target = fragment, %(##{fragment})
@@ -1316,7 +1339,7 @@ module Substitutors
     resolved = candidates & SUB_OPTIONS[type]
     unless (candidates - resolved).empty?
       invalid = candidates - resolved
-      warn %(asciidoctor: WARNING: invalid substitution type#{invalid.size > 1 ? 's' : ''}#{subject ? ' for ' : nil}#{subject}: #{invalid * ', '})
+      logger.warn %(invalid substitution type#{invalid.size > 1 ? 's' : ''}#{subject ? ' for ' : ''}#{subject}: #{invalid * ', '})
     end
     resolved
   end
@@ -1433,18 +1456,22 @@ module Substitutors
       # TODO we could add the line numbers in ourselves instead of having to strip out the junk
       if (attr? 'linenums', nil, false) && (opts[:linenos] = @document.attributes['pygments-linenums-mode'] || 'table') == 'table'
         linenums_mode = :table
-        result = ((lexer.highlight source, :options => opts) || source).sub(PygmentsWrapperDivRx, '\1').gsub(PygmentsWrapperPreRx, '\1')
-      else
-        if PygmentsWrapperPreRx =~ (result = (lexer.highlight source, :options => opts) || source)
+        if (result = lexer.highlight source, :options => opts)
+          result = (result.sub PygmentsWrapperDivRx, '\1').gsub PygmentsWrapperPreRx, '\1'
+        else
+          result = sub_specialchars source
+        end
+      elsif (result = lexer.highlight source, :options => opts)
+        if PygmentsWrapperPreRx =~ result
           result = $1
         end
+      else
+        result = sub_specialchars source
       end
     end
 
     # fix passthrough placeholders that got caught up in syntax highlighting
-    unless @passthroughs.empty?
-      result = result.gsub HighlightedPassSlotRx, %(#{PASS_START}\\1#{PASS_END})
-    end
+    result = result.gsub HighlightedPassSlotRx, %(#{PASS_START}\\1#{PASS_END}) unless @passthroughs.empty?
 
     if process_callouts && callout_marks
       lineno = 0

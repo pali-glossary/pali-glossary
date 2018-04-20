@@ -24,7 +24,7 @@ class Table < AbstractBlock
     #
     # Returns a 2-dimentional Array of rows grouped by section.
     def by_section
-      [[:head, @head], [:foot, @foot], [:body, @body]]
+      [[:head, @head], [:body, @body], [:foot, @foot]]
     end
   end
 
@@ -314,6 +314,8 @@ end
 # instantiated, the row is closed if the cell satisifies the column count and,
 # finally, a new buffer is allocated to track the next cell.
 class Table::ParserContext
+  include Logging
+
   # Public: An Array of String keys that represent the table formats in AsciiDoc
   #--
   # QUESTION should we recognize !sv as a valid format value?
@@ -365,7 +367,7 @@ class Table::ParserContext
           xsv = '!sv'
         end
       else
-        warn %(asciidoctor: ERROR: #{reader.prev_line_info}: illegal table format: #{xsv})
+        logger.error message_with_context %(illegal table format: #{xsv}), :source_location => reader.prev_line_cursor
         @format, xsv = 'psv', (table.document.nested? ? '!sv' : 'psv')
       end
     else
@@ -432,7 +434,9 @@ class Table::ParserContext
   # returns true if the buffer has unclosed quotes, false if it doesn't or it
   # isn't quoted data
   def buffer_has_unclosed_quotes? append = nil
-    if (record = append ? (buffer + append).strip : buffer.strip).start_with? '"'
+    if (record = append ? (@buffer + append).strip : @buffer.strip) == '"'
+      true
+    elsif record.start_with? '"'
       if ((trailing_quote = record.end_with? '"') && (record.end_with? '""')) || (record.start_with? '""')
         ((record = record.gsub '""', '').start_with? '"') && !(record.end_with? '"')
       else
@@ -519,7 +523,7 @@ class Table::ParserContext
       if (cellspec = take_cellspec)
         repeat = cellspec.delete('repeatcol') || 1
       else
-        warn %(asciidoctor: ERROR: #{@last_cursor.line_info}: table missing leading separator, recovering automatically)
+        logger.error message_with_context 'table missing leading separator, recovering automatically', :source_location => @last_cursor
         cellspec = {}
         repeat = 1
       end
@@ -534,7 +538,7 @@ class Table::ParserContext
           # this may not be perfect logic, but it hits the 99%
           if cell_text.start_with?('"') && cell_text.end_with?('"')
             # unquote
-            cell_text = cell_text[1...-1].strip
+            cell_text = cell_text.slice(1, cell_text.length - 2).strip
           end
 
           # collapse escaped quotes
@@ -556,7 +560,7 @@ class Table::ParserContext
       else
         # QUESTION is this right for cells that span columns?
         unless (column = @table.columns[@current_row.size])
-          warn %(asciidoctor: ERROR: #{@last_cursor.line_info}: dropping cell because it exceeds specified number of columns)
+          logger.error message_with_context 'dropping cell because it exceeds specified number of columns', :source_location => @last_cursor
           return
         end
       end

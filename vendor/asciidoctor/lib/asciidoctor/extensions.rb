@@ -1,3 +1,6 @@
+# NOTE .to_s hides require from Opal
+require 'asciidoctor'.to_s unless defined? Asciidoctor
+
 # encoding: UTF-8
 module Asciidoctor
 # Extensions provide a way to participate in the parsing and converting
@@ -706,7 +709,7 @@ module Extensions
     #
     #   # as a method block
     #   preprocessor do
-    #     process |doc, reader|
+    #     process do |doc, reader|
     #       ...
     #     end
     #   end
@@ -758,7 +761,7 @@ module Extensions
     #
     #   # as a method block
     #   tree_processor do
-    #     process |document|
+    #     process do |document|
     #       ...
     #     end
     #   end
@@ -815,7 +818,7 @@ module Extensions
     #
     #   # as a method block
     #   postprocessor do
-    #     process |document, output|
+    #     process do |document, output|
     #       ...
     #     end
     #   end
@@ -867,7 +870,7 @@ module Extensions
     #
     #   # as a method block
     #   include_processor do
-    #     process |document, output|
+    #     process do |document, output|
     #       ...
     #     end
     #   end
@@ -919,7 +922,7 @@ module Extensions
     #
     #   # as a method block
     #   docinfo_processor do
-    #     process |doc|
+    #     process do |doc|
     #       at_location :footer
     #       'footer content'
     #     end
@@ -1008,14 +1011,14 @@ module Extensions
     #   # as a method block
     #   block do
     #     named :shout
-    #     process |parent, reader, attrs|
+    #     process do |parent, reader, attrs|
     #       ...
     #     end
     #   end
     #
     #   # as a method block with an explicit block name
     #   block :shout do
-    #     process |parent, reader, attrs|
+    #     process do |parent, reader, attrs|
     #       ...
     #     end
     #   end
@@ -1097,14 +1100,14 @@ module Extensions
     #   # as a method block
     #   block_macro do
     #     named :gist
-    #     process |parent, target, attrs|
+    #     process do |parent, target, attrs|
     #       ...
     #     end
     #   end
     #
     #   # as a method block with an explicit macro name
     #   block_macro :gist do
-    #     process |parent, target, attrs|
+    #     process do |parent, target, attrs|
     #       ...
     #     end
     #   end
@@ -1169,7 +1172,7 @@ module Extensions
     #   inline_macro ChromeInlineMacro
     #
     #   # as an InlineMacroProcessor subclass with an explicit macro name
-    #   inline_macro ChromeInineMacro, :chrome
+    #   inline_macro ChromeInlineMacro, :chrome
     #
     #   # as an instance of an InlineMacroProcessor subclass
     #   inline_macro ChromeInlineMacro.new
@@ -1181,19 +1184,19 @@ module Extensions
     #   inline_macro 'ChromeInlineMacro'
     #
     #   # as a name of an InlineMacroProcessor subclass with an explicit macro name
-    #   inline_macro 'ChromeInineMacro', :chrome
+    #   inline_macro 'ChromeInlineMacro', :chrome
     #
     #   # as a method block
     #   inline_macro do
     #     named :chrome
-    #     process |parent, target, attrs|
+    #     process do |parent, target, attrs|
     #       ...
     #     end
     #   end
     #
     #   # as a method block with an explicit macro name
     #   inline_macro :chrome do
-    #     process |parent, target, attrs|
+    #     process do |parent, target, attrs|
     #       ...
     #     end
     #   end
@@ -1478,17 +1481,36 @@ module Extensions
     # Public: Resolves the Class object for the qualified name.
     #
     # Returns Class
-    def class_for_name qualified_name
-      resolved = ::Object
-      (qualified_name.split '::').each do |name|
-        unless name.empty? || ((resolved.const_defined? name) && ::Module === (resolved = resolved.const_get name))
-          raise ::NameError, %(Could not resolve class for name: #{qualified_name})
-        end
+    if RUBY_MIN_VERSION_2
+      def class_for_name qualified_name
+        resolved = ::Object.const_get qualified_name, false
+        raise unless ::Class === resolved
+        resolved
+      rescue
+        raise ::NameError, %(Could not resolve class for name: #{qualified_name})
       end
-      raise ::NameError, %(Could not resolve class for name: #{qualified_name}) unless ::Class === resolved
-      resolved
+    elsif RUBY_MIN_VERSION_1_9
+      def class_for_name qualified_name
+        resolved = (qualified_name.split '::').reduce ::Object do |current, name|
+          name.empty? ? current : (current.const_get name, false)
+        end
+        raise unless ::Class === resolved
+        resolved
+      rescue
+        raise ::NameError, %(Could not resolve class for name: #{qualified_name})
+      end
+    else
+      def class_for_name qualified_name
+        resolved = (qualified_name.split '::').reduce ::Object do |current, name|
+          # NOTE on Ruby 1.8, const_defined? only checks for constant in current scope
+          name.empty? ? current : ((current.const_defined? name) ? (current.const_get name) : raise)
+        end
+        raise unless ::Class === resolved
+        resolved
+      rescue
+        raise ::NameError, %(Could not resolve class for name: #{qualified_name})
+      end
     end
   end
-
 end
 end

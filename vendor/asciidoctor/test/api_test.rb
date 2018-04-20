@@ -153,6 +153,40 @@ idseparator=-')
       assert doc.attributes.has_key?('toc')
     end
 
+    test 'should not expand value of docdir attribute if specified via API' do
+      docdir = 'virtual/directory'
+      doc = document_from_string '', :safe => :safe, :attributes => { 'docdir' => docdir }
+      assert_equal docdir, (doc.attr 'docdir')
+      assert_equal docdir, doc.base_dir
+    end
+
+    test 'converts block to output format when convert is called' do
+      doc = Asciidoctor.load 'paragraph text'
+      expected = <<-EOS
+<div class="paragraph">
+<p>paragraph text</p>
+</div>
+      EOS
+      assert_equal 1, doc.blocks.length
+      assert_equal :paragraph, doc.blocks[0].context
+      assert_equal expected.chomp, doc.blocks[0].convert
+    end
+
+    test 'render method on node is aliased to convert method' do
+      input = <<-EOS
+paragraph text
+
+* list item
+      EOS
+      doc = Asciidoctor.load input
+      assert_equal 2, doc.blocks.length
+      ([doc] + doc.blocks).each do |block|
+        assert_equal block.method(:convert), block.method(:render)
+      end
+      inline = Asciidoctor::Inline.new doc.blocks[0], :image, nil, :type => 'image', :target => 'tiger.png'
+      assert_equal inline.method(:convert), inline.method(:render)
+    end
+
     test 'should output timestamps by default' do
       doc = document_from_string 'text', :backend => :html5, :attributes => nil
       result = doc.convert
@@ -205,8 +239,31 @@ idseparator=-')
       end
     end
 
+    test 'should be able to restore header attributes after call to convert' do
+      input = <<-EOS
+= Document Title
+:foo: bar
+
+content
+
+:foo: baz
+
+content
+      EOS
+      doc = Asciidoctor.load input
+      assert_equal 'bar', (doc.attr 'foo')
+      doc.convert
+      assert_equal 'baz', (doc.attr 'foo')
+      doc.restore_attributes
+      assert_equal 'bar', (doc.attr 'foo')
+    end
+
     test 'should track file and line information with blocks if sourcemap option is set' do
       doc = Asciidoctor.load_file fixture_path('sample.asciidoc'), :sourcemap => true
+
+      refute_nil doc.source_location
+      assert_equal 'sample.asciidoc', doc.file
+      assert_equal 1, doc.lineno
 
       section_1 = doc.sections[0]
       assert_equal 'Section A', section_1.title
@@ -424,9 +481,25 @@ term without description::
       assert_kind_of Asciidoctor::List, result[1]
       assert_kind_of Asciidoctor::ListItem, result[2]
     end
+
+    test 'timings are recorded for each step when load and convert are called separately' do
+      sample_input_path = fixture_path 'asciidoc_index.txt'
+      (Asciidoctor.load_file sample_input_path, :timings => (timings = Asciidoctor::Timings.new)).convert
+      refute_equal '0.00000', '%05.5f' % timings.read_parse.to_f
+      refute_equal '0.00000', '%05.5f' % timings.convert.to_f
+      refute_equal timings.read_parse, timings.total
+    end
   end
-  
+
   context 'Convert' do
+    test 'render_file is aliased to convert_file' do
+      assert_equal Asciidoctor.method(:convert_file), Asciidoctor.method(:render_file)
+    end
+
+    test 'render is aliased to convert' do
+      assert_equal Asciidoctor.method(:convert), Asciidoctor.method(:render)
+    end
+
     test 'should convert source document to string when to_file is false' do
       sample_input_path = fixture_path('sample.asciidoc')
 
@@ -477,7 +550,7 @@ term without description::
 text
       EOS
 
-      output = Asciidoctor.render(input, :safe => Asciidoctor::SafeMode::SERVER, :header_footer => true)
+      output = Asciidoctor.convert input, :safe => Asciidoctor::SafeMode::SERVER, :header_footer => true
       assert_css 'html:root > head > link[rel="stylesheet"][href^="https://fonts.googleapis.com"]', output, 1
       assert_css 'html:root > head > link[rel="stylesheet"][href="./asciidoctor.css"]', output, 0
       stylenode = xmlnodes_at_css 'html:root > head > style', output, 1
@@ -486,7 +559,7 @@ text
       refute_empty styles.strip
     end
 
-    test 'should link to default stylesheet by default even if linkcss is unset in document' do
+    test 'should not allow linkcss be unset from document if SafeMode is SECURE or greater' do
       input = <<-EOS
 = Document Title
 :linkcss!:
@@ -494,24 +567,31 @@ text
 text
       EOS
 
-      output = Asciidoctor.render(input, :header_footer => true)
+      output = Asciidoctor.convert input, :header_footer => true
       assert_css 'html:root > head > link[rel="stylesheet"][href^="https://fonts.googleapis.com"]', output, 1
       assert_css 'html:root > head > link[rel="stylesheet"][href="./asciidoctor.css"]', output, 1
     end
 
-    test 'should link to default stylesheet by default if linkcss is unset' do
+    test 'should embed default stylesheet if linkcss is unset from API and SafeMode is SECURE or greater' do
       input = <<-EOS
 = Document Title
 
 text
       EOS
 
-      output = Asciidoctor.render(input, :header_footer => true, :attributes => {'linkcss!' => ''})
-      assert_css 'html:root > head > link[rel="stylesheet"][href^="https://fonts.googleapis.com"]', output, 1
-      assert_css 'html:root > head > link[rel="stylesheet"][href="./asciidoctor.css"]', output, 1
+      #[{ 'linkcss!' => '' }, { 'linkcss' => nil }, { 'linkcss' => false }].each do |attrs|
+      [{ 'linkcss!' => '' }, { 'linkcss' => nil }].each do |attrs|
+        output = Asciidoctor.convert input, :header_footer => true, :attributes => attrs
+        assert_css 'html:root > head > link[rel="stylesheet"][href^="https://fonts.googleapis.com"]', output, 1
+        assert_css 'html:root > head > link[rel="stylesheet"][href="./asciidoctor.css"]', output, 0
+        stylenode = xmlnodes_at_css 'html:root > head > style', output, 1
+        styles = stylenode.content
+        refute_nil styles
+        refute_empty styles.strip
+      end
     end
 
-    test 'should embed default stylesheet if safe mode is less than secure and linkcss is unset' do
+    test 'should embed default stylesheet if safe mode is less than SECURE and linkcss is unset from API' do
       sample_input_path = fixture_path('basic.asciidoc')
       output = Asciidoctor.convert_file sample_input_path, :header_footer => true, :to_file => false,
           :safe => Asciidoctor::SafeMode::SAFE, :attributes => {'linkcss!' => ''}
@@ -529,7 +609,7 @@ text
 text
       EOS
 
-      output = Asciidoctor.render(input, :header_footer => true, :attributes => {'stylesheet!' => ''})
+      output = Asciidoctor.convert input, :header_footer => true, :attributes => {'stylesheet!' => ''}
       assert_css 'html:root > head > link[rel="stylesheet"][href^="https://fonts.googleapis.com"]', output, 0
       assert_css 'html:root > head > link[rel="stylesheet"]', output, 0
     end
@@ -541,11 +621,11 @@ text
 text
       EOS
 
-      output = Asciidoctor.render(input, :header_footer => true, :attributes => {'stylesheet' => './custom.css'})
+      output = Asciidoctor.convert input, :header_footer => true, :attributes => {'stylesheet' => './custom.css'}
       assert_css 'html:root > head > link[rel="stylesheet"][href^="https://fonts.googleapis.com"]', output, 0
       assert_css 'html:root > head > link[rel="stylesheet"][href="./custom.css"]', output, 1
 
-      output = Asciidoctor.render(input, :header_footer => true, :attributes => {'stylesheet' => 'file:///home/username/custom.css'})
+      output = Asciidoctor.convert input, :header_footer => true, :attributes => {'stylesheet' => 'file:///home/username/custom.css'}
       assert_css 'html:root > head > link[rel="stylesheet"][href="file:///home/username/custom.css"]', output, 1
     end
 
@@ -556,7 +636,7 @@ text
 text
       EOS
 
-      output = Asciidoctor.render(input, :header_footer => true, :attributes => {'stylesheet' => 'custom.css', 'stylesdir' => './stylesheets'})
+      output = Asciidoctor.convert input, :header_footer => true, :attributes => {'stylesheet' => 'custom.css', 'stylesdir' => './stylesheets'}
       assert_css 'html:root > head > link[rel="stylesheet"][href="./stylesheets/custom.css"]', output, 1
     end
 
@@ -754,6 +834,14 @@ text
       ensure
         FileUtils.rm(sample_output_path)
       end
+    end
+
+    test 'timings are recorded for each step' do
+      sample_input_path = fixture_path 'asciidoc_index.txt'
+      Asciidoctor.convert_file sample_input_path, :timings => (timings = Asciidoctor::Timings.new), :to_file => false
+      refute_equal '0.00000', '%05.5f' % timings.read_parse.to_f
+      refute_equal '0.00000', '%05.5f' % timings.convert.to_f
+      refute_equal timings.read_parse, timings.total
     end
   end
 end

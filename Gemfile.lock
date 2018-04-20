@@ -1,9 +1,9 @@
 PATH
   remote: ./vendor/asciidoctor-epub3
   specs:
-    asciidoctor-epub3 (1.5.0.gambhiro.pre.develop)
+    asciidoctor-epub3 (1.5.0.alpha.9.dev.gambhiro)
       asciidoctor (~> 1.5.7.dev)
-      gepub (~> 0.7.0.gambhiro.pre.develop)
+      gepub (~> 0.7.0)
       thread_safe (~> 0.3.6)
 
 PATH
@@ -28,8 +28,8 @@ PATH
 PATH
   remote: ./vendor/gepub
   specs:
-    gepub (0.7.0.gambhiro.pre.develop)
-      nokogiri (>= 1.6.1, < 1.9)
+    gepub (0.7.0)
+      nokogiri (>= 1.8.2, < 1.9)
       rubyzip (>= 1.1.1)
 
 GEM
@@ -79,10 +79,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  asciidoctor!
-  asciidoctor-epub3 (= 1.5.0.gambhiro.pre.develop)!
+  asciidoctor (= 1.5.7.dev)!
+  asciidoctor-epub3 (= 1.5.0.alpha.9.dev.gambhiro)!
   asciidoctor-pdf!
-  gepub!
+  gepub (= 0.7.0)!
 
 BUNDLED WITH
    1.13.7

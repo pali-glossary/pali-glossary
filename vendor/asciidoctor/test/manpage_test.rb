@@ -43,6 +43,33 @@ context 'Manpage' do
       assert_includes output.lines, %(command, alt_command \\- does stuff\n)
     end
 
+    test 'should skip line comments in NAME section' do
+      input = <<-EOS
+= foobar (1)
+Author Name
+:doctype: manpage
+:man manual: Foo Bar Manual
+:man source: Foo Bar 1.0
+
+== NAME
+
+// follows the form `name - description`
+foobar - puts some foo on the bar
+// a little bit of this, a little bit of that
+
+== SYNOPSIS
+
+*foobar* [_OPTIONS_]...
+
+== DESCRIPTION
+
+When you need to put some foo on the bar.
+      EOS
+
+      doc = Asciidoctor.load input, :backend => :manpage, :header_footer => true
+      assert_equal 'puts some foo on the bar', (doc.attr 'manpurpose')
+    end
+
     test 'should define default linkstyle' do
       input = SAMPLE_MANPAGE_HEADER
       output = Asciidoctor.convert input, :backend => :manpage, :header_footer => true
@@ -70,6 +97,25 @@ context 'Manpage' do
   end
 
   context 'Manify' do
+    test 'should unescape literal ampersand' do
+      input = %(#{SAMPLE_MANPAGE_HEADER}
+
+(C) & (R) are translated to character references, but not the &.)
+      output = Asciidoctor.convert input, :backend => :manpage
+      assert_equal '\\(co & \\(rg are translated to character references, but not the &.', output.lines.entries.last.chomp
+    end
+
+    test 'should replace em dashes' do
+      input = %(#{SAMPLE_MANPAGE_HEADER}
+
+go -- to
+
+go--to)
+      output = Asciidoctor.convert input, :backend => :manpage
+      assert_includes output, 'go \\(em to'
+      assert_includes output, 'go\\(emto'
+    end
+
     test 'should escape lone period' do
       input = %(#{SAMPLE_MANPAGE_HEADER}
 
@@ -236,15 +282,56 @@ First paragraph.
 .sp
 .MTO "doc\\(atexample.org" "Contact the doc" ""', output.lines.entries[-4..-1].join
     end
+
+    test 'should set text of MTO macro to blank for implicit email' do
+      input = %(#{SAMPLE_MANPAGE_HEADER}
+Bugs fixed daily by doc@example.org.)
+      output = Asciidoctor.convert input, :backend => :manpage
+      assert output.end_with? 'Bugs fixed daily by \\c
+.MTO "doc\\(atexample.org" "" "."'
+    end
   end
 
   context 'Table' do
+    test 'should create header, body, and footer rows in correct order' do
+      input = %(#{SAMPLE_MANPAGE_HEADER}
+
+[%header%footer]
+|===
+|Header
+|Body 1
+|Body 2
+|Footer
+|===)
+      output = Asciidoctor.convert input, :backend => :manpage
+      assert output.end_with? 'allbox tab(:);
+lt.
+T{
+.sp
+Header
+T}
+T{
+.sp
+Body 1
+T}
+T{
+.sp
+Body 2
+T}
+T{
+.sp
+Footer
+T}
+.TE
+.sp'
+    end
+
     test 'should manify normal table cell content' do
       input = %(#{SAMPLE_MANPAGE_HEADER}
 
-[%header%footer,cols=2*]
 |===
 |*Col A* |_Col B_
+
 |*bold* |`mono`
 |_italic_ | #mark#
 |===)
