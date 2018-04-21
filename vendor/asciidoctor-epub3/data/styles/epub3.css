@@ -310,7 +310,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Fontin Sans", sans-serif;
+  font-family: "Spectral", serif;
   font-weight: bold;
 /* NOTE Kindle doesn't allow the line-height to be less than the font size (refer to heading font sizes) */
   line-height: 1.4;
@@ -330,20 +330,20 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: "Fontin Sans", sans-serif !important;
-  font-weight: normal;
+  font-family: "Spectral", serif !important;
+  font-weight: bold;
   font-style: normal;
   text-transform: none;
 }
 h5,
 h6 {
-  font-family: "Fontin Sans", sans-serif !important;
+  font-family: "Spectral", serif !important;
 }
 /* Aldiko requires a higher precedence rule to set margin and text-indent, hence the body prefix */
 /* We'll just use the stronger rule for all paragraph-related stuff to be sure */
 body section > p {
   margin: 1em 0 0 0;
-  text-align: justify;
+  text-align: left;
   text-indent: 0;
   widows: 2;
   orphans: 2;
@@ -570,7 +570,7 @@ dd {
 li > span.principal,
 dd > span.principal {
   display: block;
-  text-align: justify;
+  text-align: left;
 }
 ol.brief > li > span.principal,
 ul.brief > li > span.principal {
@@ -651,13 +651,14 @@ h5 code {
 /* Kindle strips (or unwraps) <header> tags, so we use an inner div to style */
 .chapter-header {
 /* NOTE div must have at least 1px top padding for background to fill */
-  padding: 0.75em 1.5em 0.25em 1.5em;
+  padding: 0.75em 1.5em 0.25em 0em;
   margin-bottom: 0.5em;
+  border-bottom: 2px solid #191918;
 }
 h1.chapter-title {
-  font-family: "Cormorant", sans-serif !important;
+  font-family: "Spectral", serif !important;
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 2.5em;
   margin-top: 1em;
 /* 4.2rem - would like to use 9vh */
@@ -670,11 +671,11 @@ h1.chapter-title {
   border-bottom: none;
 }
 h1.chapter-title .subtitle {
-  font-weight: normal;
+  font-weight: bold;
   color: #191918;
   display: block;
   font-size: 0.8em;
-  margin: 0 0 0 40px;
+  margin: 0;
 /* would like to use 2vw */
   line-height: 1.2;
 /* line-height will remain 1.4 on Kindle, see hack in media query */
@@ -848,24 +849,29 @@ aside.sidebar > h2 {
   padding: 1.5em 0.75em 0.5em 0.75em;
   margin: -1em 0.5em -0.25em 0.5em;
   background-color: #fff;
-/*
-  -webkit-box-shadow: 0px 1px 1px rgba(102, 102, 101, 0.1);
-  box-shadow: 0px 1px 1px rgba(102, 102, 101, 0.1);
-  */
 }
-/* doesn't work
-body:first-of-type aside.sidebar > h2 {
-  background-color: rgba(255, 255, 255, 1);
-}
-*/
 aside.sidebar > div.content {
-  margin-bottom: 1em;
-  text-align: justify;
-/* restore text alignment in content */
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  text-align: left;
 }
 /* QUESTION same for ordered-list? */
 aside.sidebar > div.content > div.itemized-list > ul {
   margin-left: 0.5em !important;
+}
+div.example {
+  padding: 1.25em 2em 0pt 2em;
+}
+div.example .example-content {
+  border-left: 2px solid #191918;
+  padding-left: 2em;
+}
+div.example .example-content > p {
+  margin: 0.5em 0 0 0;
+  text-align: left;
+}
+div.example .example-content > p:first-child {
+  margin-top: 0;
 }
 div.blockquote {
   padding: 1.25em 2em 0pt 2em;
@@ -886,27 +892,13 @@ blockquote > p {
 blockquote > p:last-child {
   padding-bottom: 0pt;
 }
-/* NOTE if we mapped the font icon to "\201c", we could just style the .open-quote */
-blockquote > p:first-of-type::before {
-  display: inline-block;
+blockquote > p > .open-quote {
   color: #666665;
-  text-shadow: 0 1px 2px rgba(102,102,101,0.3);
-/* using serif quote from entypo */
-  font-family: "FontIcons";
-/*content: "\f10e";*/
-/* quote-right from Entypo */
-/*
-  -webkit-transform: rotate(180deg);
-  transform: rotate(180deg);
-  padding-left: .3em;
-  padding-right: .2em;
-  */
-  content: "\f10d";
-/* quote-left, a flipped version of the quote-right from Entypo */
-  padding-right: 0.5em;
-  font-size: 1.5em;
-  line-height: 1.3;
-  margin-top: -0.5em;
+  font-family: "Spectral";
+  margin-left: -0.55em;
+  padding-right: 0.1em;
+  font-size: 2.8em;
+  line-height: 0.3;
   vertical-align: text-bottom;
 }
 blockquote footer {
@@ -1272,4 +1264,53 @@ nav#toc ol {
   i.conum {
     font-family: monospace;
   }
+}
+section#titlepage .subtitle {
+  margin: 0;
+}
+section#titlepage > header h1 {
+  text-align: center;
+}
+section#copyright figure.image div.content {
+  text-align: left;
+}
+figure.image img.titlepage-pubs-logo {
+  margin-top: 3em;
+  width: 100px;
+}
+#titlepage-description {
+  text-align: center;
+}
+.titlepage-publisher {
+  font-family: "Spectral", serif;
+  font-size: 12px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1pt;
+}
+.titlepage-publisher-website {
+  font-family: "Spectral", serif;
+  font-size: 12px;
+  text-align: center;
+  text-transform: lowercase;
+  letter-spacing: 1pt;
+}
+p.subtitle {
+  font-style: italic;
+  font-size: 1.2em;
+  padding: 0 0 0.25em 1.5em;
+  margin-bottom: 40px;
+}
+.titlepage-author {
+  text-align: center;
+  margin-top: 8em;
+}
+.top-anchor {
+  font-size: 0pt;
+  line-height: 0;
+  margin: 0pt;
+  padding: 0pt;
+}
+nav#guide {
+  display: none;
 }
