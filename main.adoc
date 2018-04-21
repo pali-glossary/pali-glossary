@@ -30,7 +30,11 @@
 
 include::{includes}/introduction.adoc[]
 
+// #sections begin#
+
 include::{includes}/glossary.adoc[]
+
+// #sections end#
 
 include::{includes}/copyright.adoc[]
 

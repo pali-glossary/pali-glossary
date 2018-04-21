@@ -1,8 +1,12 @@
 [[glossary-terms]]
 = Glossary Terms
 
+// #split#
+
 [[terms-a]]
 == A
+
+// #split#
 
 === Agārasmā anagāriyaṃ pabbajito
 
@@ -155,6 +159,9 @@ not in vain or barren, but fruitful and productive.
 _iti kho pana sabbesaṃ yeva tesaṃ kulaputtānaṃ amoghā pabbajjā ahosi
 avañjhā saphalā saudrayā ti._
 ____
+
+// #split#
+
 === Acakkhussa
 
 ==== Renderings
@@ -257,6 +264,8 @@ It leads to gossip
 _tiracchānakathāpavattaniko._
 ____
 
+// #split#
+
 === Ajjhāyaka
 
 ==== Renderings
@@ -325,6 +334,8 @@ found involved in unvirtuous deeds.
 _Ajjhāyakakule jātā brāhmaṇā mantabandhavā +
 Te ca pāpesu kammesu abhiṇhamupadissare._
 ____
+
+// #split#
 
 === Ajjhupekkhati
 
@@ -586,6 +597,8 @@ discarded
 _kālena kālaṃ nikkhipitabboti._
 ____
 
+// #split#
+
 === Ajjhosāna
 
 ==== Renderings
@@ -674,6 +687,8 @@ _yaṃ kiñci vedanaṃ vedeti sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā
 so taṃ vedanaṃ abhinandati abhivadati ajjhosāya tiṭṭhati tassa taṃ
 vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī_
 ____
+
+// #split#
 
 === Aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti
 
@@ -897,6 +912,8 @@ titthiyasāvakā. Tatra bhikkhu vivekaninnena cittena vivekapoṇena
 vivekapabbhārena vavakaṭṭhena nekkhammābhiratena aññadatthu
 uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
 ____
+
+// #split#
 
 === Aññā
 
@@ -1194,6 +1211,8 @@ abandon it.
 _Taṃ lobhaṃ sammadaññāya pajahanti vipassino._
 ____
 
+// #split#
+
 === Aññāya
 
 ==== Renderings
@@ -1406,6 +1425,8 @@ himself in it ever mindfully
 _Etañca dhammamaññāya vicinaṃ bhikkhu sadā sato sikkhe._
 ____
 
+// #split#
+
 === Aṇḍabhūta
 
 ==== Renderings
@@ -1503,6 +1524,8 @@ muhuttampi ārogyaṃ paṭijāneyya kimaññatra bālyā. Tasmātiha te
 gahapati evaṃ sikkhitabbaṃ: āturakāyassa me sato cittaṃ anāturaṃ
 bhavissatī ti._
 ____
+
+// #split#
 
 === Aṭṭhikatvā
 
@@ -1615,6 +1638,8 @@ to it as a matter of vital concern, applying their whole minds to it.
 _Te ca bhikkhū aṭṭhikatvā manasikatvā sabbacetasā samannāharitvā
 ohitasotā dhammaṃ suṇanti._
 ____
+
+// #split#
 
 === Atandita
 
@@ -1796,6 +1821,8 @@ _Tathā tu kassāmi yathā pi issaro yaṃ labbhati tena pi hotu me alaṃ +
 Taṃ t'ahaṃ kassāmi yathā atandito biḷārabhastaṃ va tathā
 sumadditaṃ._
 ____
+
+// #split#
 
 === Atammayo; No Sīlamayo; Mayo
 
@@ -2088,6 +2115,8 @@ qualities
 _bhikkhu sīlavā hoti no ca sīlamayo._
 ____
 
+// #split#
+
 === Atimaññati
 
 ==== Renderings
@@ -2254,6 +2283,8 @@ yourself
 
 _Yo santaṃ attani pāpaṃ attānaṃ parigūhasi._
 ____
+
+// #split#
 
 === Attaniya
 
@@ -2456,6 +2487,8 @@ Comment:
 
 The subject of this reflection is the world [of phenomena] (_loko_), namely the
 eighteen elements of sensation.
+
+// #split#
 
 === Attabhāva
 
@@ -2953,6 +2986,8 @@ abhinibbatteti_), either meritorious or demeritorious.
 _yaṃ kho bhikkhave avijjāgato tajjaṃ tajjaṃ attabhāvaṃ abhinibbatteti
 puññabhāgiyaṃ vā apuññabhāgiyaṃ vā._
 ____
+
+// #split#
 
 === Attā, Anattā
 
@@ -3848,6 +3883,8 @@ void. What is existentially void is void of personal qualities.
 _Cakkhuṃ bhikkhave aniccaṃ. Yadaniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ
 tadanattā._
 ____
+
+// #split#
 
 === Attha
 
@@ -5296,6 +5333,8 @@ _ye te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā
 ohitabhārā anuppattasadatthā._
 ____
 
+// #split#
+
 === Atthaṅgama
 
 ==== Renderings
@@ -5435,6 +5474,8 @@ ending of food comes the vanishing of the body.
 
 _Āhārasamudayā kāyassa samudayo āhāranirodhā kāyassa atthaṅgamo._
 ____
+
+// #split#
 
 === Adhiṭṭhāna; Adhiṭṭhāti
 
@@ -5891,6 +5932,8 @@ diṭṭhivipallāsā. Katame cattāro? Anicce bhikkhave niccanti... Dukkhe
 bhikkhave sukhanti... Anattani bhikkhave attāti... Asubhe bhikkhave subhan ti
 saññāvipallāso cittavipallāso diṭṭhivipallāso_ (A.2.52).
 
+// #split#
+
 === Adhimuccati
 
 ==== Renderings
@@ -6086,6 +6129,8 @@ _anāgataṃ vā addhānaṃ ārabbha kaṅkhati vicikicchati nādhimuccati na s
 
 _etarahi vā paccuppannaṃ addhānaṃ ārabbha kaṅkhati vicikicchati nādhimuccati na sampasīdati._
 ____
+
+// #split#
 
 === Anaññaposin
 
@@ -6365,6 +6410,8 @@ ____
 
 Context: Bhikkhus walking on almsround for selfish reasons.
 
+// #split#
+
 === Anaṇa
 
 ==== Renderings
@@ -6488,6 +6535,8 @@ _sammadaññāya paṇḍitā_ (Sn.v.733).
 COMMENT
 
 _Sāṇo_ is _sa+iṇo._
+
+// #split#
 
 === Anamatagga
 
@@ -6727,6 +6776,8 @@ Anamataggoyaṃ bhikkhave saṃsāro pubbā koṭi na paññāyati
 sattippahārānaṃ asippahārānaṃ usuppahārānaṃ pharasuppahārānaṃ._
 ____
 
+// #split#
+
 === Anālaya
 
 ==== Renderings
@@ -6922,6 +6973,8 @@ Inward calm and insightfulness: this is called the path leading to letting go
 
 _samatho ca vipassanā ca. Ayaṃ vuccati bhikkhave anālayagāmī maggo._
 ____
+
+// #split#
 
 === Anicca; Nicca
 
@@ -7315,6 +7368,8 @@ With those who are constantly energetic.
 _niccaṃ āraddhaviriyehi._
 ____
 
+// #split#
+
 === Anīgha
 
 ==== Renderings
@@ -7563,6 +7618,8 @@ the spiritual defilement of undiscernment of reality
 _moho nīgho._
 ____
 
+// #split#
+
 === Anuneti
 
 ==== Renderings
@@ -7746,6 +7803,8 @@ diplomat, such a person attains prestige.
 _Saṅgāhako mittakaro vadaññū vītamaccharo +
 Netā vinetā anunetā tādiso labhate yasaṃ._
 ____
+
+// #split#
 
 === Anumodati; Abbhanumodati
 
@@ -8046,6 +8105,8 @@ appreciation he rose from his seat and departed.
 _uggaṃ gahapatiṃ vesālikaṃ iminā anumodanīyena anumoditvā
 uṭṭhāyāsanā pakkāmi._
 ____
+
+// #split#
 
 === Anusaya
 
@@ -8612,6 +8673,8 @@ linger within him for a long time
 _so ca khvassa kodho na dīgharattaṃ anuseti._
 ____
 
+// #split#
+
 === Antagū
 
 ==== Renderings
@@ -8747,6 +8810,8 @@ Comment:
 _Antagū_: 'one who has completed [his scriptural education].' Although
 _antagū_ is unqualified here, it is clarified as _vedantagū_ in Sn.v.463.
 
+// #split#
+
 === Anvāssavati; Anussavati
 
 ==== Renderings
@@ -8861,6 +8926,8 @@ pursue me
 
 _tathā sato viharāmi yathā sataṃ viharantaṃ āsavā nānussavanti._
 ____
+
+// #split#
 
 === Apekkhā
 
@@ -9132,6 +9199,8 @@ discoloured, [even] relatives are indifferent to it.
 _Yadā ca so mato seti uddhumāto vinīlako +
 Apaviddho susānasmiṃ anapekkhā honti ñātayo._
 ____
+
+// #split#
 
 === Appamatta; Appamāda
 
@@ -9702,6 +9771,8 @@ Illness has arisen in me. It is not the time for me to be negligently applied
 
 _Ābādho me samuppanno kālo me nappamajjitun ti._
 ____
+
+// #split#
 
 === Abhijānāti; Parijānāti
 
@@ -10288,6 +10359,8 @@ _Etamādīnavaṃ ñatvā dukkhaṃ āhārapaccayā +
 Sabbāhāraṃ pariññāya sabbāhāramanissito._
 ____
 
+// #split#
+
 === Abhijjhā
 
 ==== Renderings
@@ -10455,6 +10528,8 @@ In this regard, some person is
 - unbenevolent (_vyāpādavā_) and abides with an unbenevolent attitude
 
 - malicious (_vihesavā_) and abides with a malicious attitude (M.3.55).
+
+// #split#
 
 === Abhinandati
 
@@ -10727,6 +10802,8 @@ I do not applaud that unfriendliness, thus I pardon your transgression
 _Taṃ veraṃ nābhinandāmi patigaṇhāmi voccayan ti._
 ____
 
+// #split#
+
 === Abhinibbatti
 
 ==== Renderings
@@ -10951,6 +11028,8 @@ _Santi bhikkhave sattā nānattakāyā ekattasaññino seyyathā pi devā
 brahmakāyikā paṭhamābhinibbattā._
 ____
 
+// #split#
+
 === Abhibhū
 
 ==== Renderings
@@ -11128,6 +11207,8 @@ lokaṃ adhiṭṭhāya manasā ye pāpakā akusalā mānasā abhijjhāpi
 vyāpādāpi sārambhāpi te na bhavissanti. Tesaṃ pahānā aparittañca me
 cittaṃ bhavissati appamāṇaṃ subhāvitan ti._
 ____
+
+// #split#
 
 === Abhivadati
 
@@ -11368,6 +11449,8 @@ ____
 
 Welcomed (_abhivadito_), Sakka entered the Indasāla Cave, venerated the
 Blessed One, and stood at a respectful distance (D.2.270).
+
+// #split#
 
 === Amatadhātu
 
@@ -11674,6 +11757,8 @@ opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā lokā. Ayampi kho
 saṃyojanānaṃ pahānāya._
 ____
 
+// #split#
+
 === Avassuta
 
 ==== Renderings
@@ -11866,6 +11951,8 @@ Oozing with lust for sensuous pleasure
 
 _kāmarāgenavassutā._
 ____
+
+// #split#
 
 === Avijjā
 
@@ -12236,6 +12323,8 @@ _yā chasu phassāyatanesu avijjā aññāṇaṃ sānuseti ayaṃ vuccati
 bhikkhave avijjāyogo._
 ____
 
+// #split#
+
 === Avijjānīvaraṇānaṃ sattānaṃ taṇhāsaṃyojanānaṃ
 
 ==== Renderings
@@ -12399,6 +12488,8 @@ renewed states of individual existence and rebirth occur in the future.
 _Avijjānīvaraṇānaṃ kho āvuso sattānaṃ taṇhāsaṃyojanānaṃ
 tatra tatrābhinandanā evaṃ āyatiṃ punabbhavābhinibbatti hotī ti._
 ____
+
+// #split#
 
 === Aveccappasāda
 
@@ -12743,6 +12834,8 @@ _Saṅghe aveccappasādena samannāgato hoti_
 ****
 _Ariyakantehi sīlehi samannāgato hoti_ (S.5.402).
 ****
+
+// #split#
 
 === Asmi
 
@@ -13194,6 +13287,8 @@ _Kiṃ panimassa mattaṭṭhakassa kāyassa taṇhūpādinnassa. Ahan ti vā
 maman ti vā asmī ti va atha khvāssa notevettha hoti._
 ____
 
+// #split#
+
 === Ahaṅkāramamaṅkāramānānusayā
 
 ==== Renderings
@@ -13330,8 +13425,12 @@ sabbaahaṅkāramamaṅkāramānānusayānaṃ khayā virāgā nirodhā cāgā
 paṭinissaggā anupādā vimutto ti vadāmī ti._
 ____
 
+// #split#
+
 [[terms-aa]]
 == Ā
+
+// #split#
 
 === Ākappa
 
@@ -13525,6 +13624,8 @@ ____
 Being thus excited and delighted, she contemplates the masculinity about her,
 the masculine occupation, ways of behaviour, manners, desires, voice, and
 attractiveness. She is excited by that, she takes delight in that (A.4.57).
+
+// #split#
 
 === Ākiñcañña; Kiñcana
 
@@ -14088,6 +14189,8 @@ reality], there is [nowhere] anything at all.
 _Paṭividdhā taṇhā jānato passato natthi kiñcanaṃ ti._
 ____
 
+// #split#
+
 === Āghāta
 
 ==== Renderings
@@ -14325,6 +14428,8 @@ _Tasmātiha bhikkhave tumhe cepi pare akkoseyyuṃ paribhāseyyuṃ roseyyuṃ
 viheseyyuṃ ghaṭṭeyyuṃ tatra tumhehipi na āghāto na appaccayo na
 cetaso anabhiraddhi karaṇīyā._
 ____
+
+// #split#
 
 === Ājānāti
 
@@ -14590,6 +14695,8 @@ We do not understand a word of the ascetic Gotama's explanation of the teaching.
 _Na kho pana mayaṃ kiñci samaṇassa gotamassa ekaṃsikaṃ dhammaṃ
 desitaṃ ājānāma._
 ____
+
+// #split#
 
 === Ātāpin; Ātappa
 
@@ -15048,6 +15155,8 @@ _Yadā have pātubhavanti dhammā ātāpino jhāyato brāhmaṇassa +
 Athassa kaṅkhā vapayanti sabbā yato pajānāti sahetudhamman ti._
 ____
 
+// #split#
+
 === Ādiccabandhu
 
 ==== Renderings
@@ -15177,6 +15286,8 @@ eightfold path] I removed my mind from states of individual existence
 _Upāyakusalenāhaṃ buddhenādiccabandhunā +
 Yoniso paṭipajjitvā bhave cittaṃ udabbahinti._
 ____
+
+// #split#
 
 === Ādīnava
 
@@ -15693,6 +15804,8 @@ severe illness; and one has no friends.
 _Assutaṃ na suṇāti sutaṃ na pariyodapeti sutenekaccena avisārado hoti
 bāḷhaṃ rogātaṅkaṃ phusati na ca mittavā hoti._
 ____
+
+// #split#
 
 === Āyatana
 
@@ -16383,6 +16496,8 @@ Comment:
 from the preceding question: _Kīva bahukā pana bho ānanda imasmiṃ
 dhammavinaye niyyātāro ti?_
 
+// #split#
+
 === Ārambha; Sārambha; Samārambha
 
 ==== Renderings
@@ -16640,6 +16755,8 @@ An arrangement with the householder means: either they are one's relatives, or
 
 _Gihīsamārambho nāma ñātaka vā honti pavārikā vā pakatipaṭiyattaṃ vā._
 ____
+
+// #split#
 
 === Ārammaṇa
 
@@ -17089,6 +17206,8 @@ hands and feet; they will sleep until sunrise on soft beds with pillows of
 cotton wool. Then King Ajātasattu of Magadha will get his chance, his
 opportunity [to attack] them (S.2.268).
 
+// #split#
+
 === Āvila
 
 ==== Renderings
@@ -17266,6 +17385,8 @@ translucent, limpid, unblemished, excellent in every respect,
 _maṇi veḷuriyo subho jātimā aṭṭhaṃso suparikammakato accho
 vippasanno anāvilo sabbākārasampanno._
 ____
+
+// #split#
 
 === Āsava
 
@@ -18571,6 +18692,8 @@ well-established within himself.
 _maraṇasaññā kho panassa ajjhattaṃ sūpaṭṭhitā hoti._
 ____
 
+// #split#
+
 === Āsā
 
 ==== Renderings
@@ -18766,6 +18889,8 @@ the hope to survive.
 _Dvemā bhikkhave āsā duppajahā. Katamā dve: lābhāsā ca jīvitāsā ca.
 Imā kho bhikkhave dve āsā duppajahāti._
 ____
+
+// #split#
 
 === Āhāra
 
@@ -19341,8 +19466,12 @@ ti?_
 -- Yes, bhante.
 ____
 
+// #split#
+
 [[terms-i]]
 == I
+
+// #split#
 
 === Itibhavābhava
 
@@ -19631,6 +19760,8 @@ world, legends about the sea, talk of honour and renown.
 _rājakathā corakathā mahāmattakathā... lokakkhāyikā samuddakkhāyikā
 itibhavābhavakathā iti vā iti evarūpiṃ kathaṃ na kathessāmiti._
 ____
+
+// #split#
 
 === Imaṃ kāyaṃ
 
@@ -19971,8 +20102,12 @@ maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya
 vihiṃsūparatiyā brahmacariyānuggahāya._
 ____
 
+// #split#
+
 [[terms-u]]
 == U
+
+// #split#
 
 === Uju; Ujju
 
@@ -20453,6 +20588,8 @@ _idaṃ bhavanto passantu yāva anujjuko cāyaṃ citto gahapati yāva saṭho
 cāyaṃ citto gahapati yāva māyāvī cāyaṃ citto gahapatī ti._
 ____
 
+// #split#
+
 === Ujjhāyati khīyati vipāceti
 
 ==== Renderings
@@ -20566,6 +20703,8 @@ ujjhāyati khīyati vipāceti: yatheva mayaṃ rūpiyaṃ paṭiggaṇhāma
 evameva ime samaṇā sakyaputtiyā rūpiyaṃ paṭiggaṇhantī ti._
 ____
 
+// #split#
+
 === Uṇṇata
 
 ==== Renderings
@@ -20649,6 +20788,8 @@ A bhikkhu should not tremble at criticism, nor be swelled-headed when praised.
 
 _Nindāya nappavedheyya na uṇṇameyya pasaṃsito bhikkhu._
 ____
+
+// #split#
 
 === Uddhacca; Uddhata
 
@@ -21209,6 +21350,8 @@ _Ayoniso manasikārā maṇḍanaṃ anuyuñjisaṃ +
 Uddhato capalo cāsiṃ kāmarāgena aṭṭito._
 ____
 
+// #split#
+
 === Unnaḷā
 
 ==== Renderings
@@ -21314,6 +21457,8 @@ will he do with an ochre robe?
 _Uddhato unnaḷo bālo sīlaṃ yassa na vijjati +
 Odātakaṃ arahati kāsāvaṃ kiṃ karissati._
 ____
+
+// #split#
 
 === Upadduta; Upaddava
 
@@ -21647,6 +21792,8 @@ I have been raped by Master Dabba the Mallian.
 _Yato nivātaṃ tato pavātaṃ. Udakaṃ maññe ādittaṃ. Ayyenamhi
 dabbena mallaputtena dūsitā ti._
 ____
+
+// #split#
 
 === Upadhi
 
@@ -22066,6 +22213,8 @@ _Na so upadhīsu sārameti ādānesu vineyya chandarāgaṃ +
 So anissito anaññaneyyo sammā so loke paribbajeyya._
 ____
 
+// #split#
+
 === Upādānā; Upādiyati
 
 ==== Renderings
@@ -22408,6 +22557,8 @@ _Yā kāci vedanā... saññā... saṅkhārā... viññāṇaṃ..._ (M.1.235).
 Comment: Thus grasping equals seeing things as "[in reality] mine," "[in
 reality] what I am," "my [absolute] Selfhood."
 
+// #split#
+
 === Upāyāsa; Āyāsa
 
 ==== Renderings
@@ -22661,6 +22812,8 @@ The steep precipice: this is a metaphor for anger and vexation.
 
 _Sobebhā papāto ti kho tissa kodhūpāyāsassetaṃ adhivacanaṃ._
 ____
+
+// #split#
 
 === Upekkhā
 
@@ -23579,6 +23732,8 @@ _So cakkhunā rūpaṃ disvā neva sumano hoti na dummano upekkhako viharati
 sato sampajāno._
 ____
 
+// #split#
+
 === Upeti; Upaya
 
 ==== Renderings
@@ -24311,6 +24466,8 @@ It is beyond comparison
 _upanidhimpi na upeti._
 ____
 
+// #split#
+
 === Ubhatobhāgavimutto; Paññāvimutto; Paññāvimuttin; Cetovimuttin
 
 ==== Renderings
@@ -24519,8 +24676,12 @@ _Imañca passa āyantaṃ sāriputtaṃ sudassanaṃ +
 Vimuttaṃ ubhatobhāge ajjhattaṃ susamāhitaṃ._
 ____
 
+// #split#
+
 [[terms-e]]
 == E
+
+// #split#
 
 === Ekamantaṃ
 
@@ -25026,6 +25187,8 @@ Abhaya taking a low seat, sat down at a respectful distance.
 _Atha kho abhayo rājakumāro bhagavantaṃ bhuttāviṃ onītapattapāṇiṃ
 aññataraṃ nīcaṃ āsanaṃ gahetvā ekamantaṃ nisīdi._
 ____
+
+// #split#
 
 === Eko care khaggavisāṇakappo
 
@@ -25619,6 +25782,8 @@ _Bhajanti sevanti ca kāraṇatthā nikkāraṇā dullabhā ajja mittā +
 Attaṭṭhapaññā asucī manussā eko care khaggavisāṇakappo._
 ____
 
+// #split#
+
 === Ejā
 
 ==== Renderings
@@ -26193,8 +26358,12 @@ kāyassa iñjitattaṃ vā hoti phanditattaṃ vā na cittassa iñjitattaṃ
 vā hoti phanditattaṃ vā._
 ____
 
+// #split#
+
 [[terms-o]]
 == O
+
+// #split#
 
 === Ogha
 
@@ -26497,6 +26666,8 @@ Comment:
 
 Here the flood is not 'crossed.'
 
+// #split#
+
 === Opanayika
 
 ==== Renderings
@@ -26772,6 +26943,8 @@ _So iti paṭisaṅkhāya attanā ca pāṇātipātā paṭivirato hoti.
 Parañca pāṇātipātā veramaṇiyā samādapeti. Pāṇātipātā
 veramaṇiyā ca vaṇṇaṃ bhāsati._
 ____
+
+// #split#
 
 === Oḷārika
 
@@ -27071,8 +27244,12 @@ vacīsaṅkhārā paṭippassambhanti oḷārikā cittasaṅkhārā
 paṭippassambhanti._
 ____
 
+// #split#
+
 [[terms-k]]
 == K
+
+// #split#
 
 === Kaṇha; Sukka
 
@@ -27473,6 +27650,8 @@ _Atthi bhikkhave kusalākusalā dhammā sāvajjānavajjā dhammā
 hīnappaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā._
 ____
 
+// #split#
+
 === Kappa
 
 ==== Renderings
@@ -27864,6 +28043,8 @@ unredeemable.
 _āpāyiko devadatto nerayiko kappaṭṭho atekiccho._
 ____
 
+// #split#
+
 === Kappaṃ n'eti
 
 ==== Renderings
@@ -28074,6 +28255,8 @@ asceticism in the world.
 _Atītesu anāgatesu cā pi kappātīto aticca suddhipañño +
 Sabbāyatanehi vippamutto sammā so loke paribbajeyya._
 ____
+
+// #split#
 
 === Kamma
 
@@ -29049,6 +29232,8 @@ A legal act done with an incomplete assembly of bhikkhus (_vaggakammaṃ_) is
 invalid ('reversible, not fit to stand,' _kuppaṃ aṭṭhānārahaṃ_)
 (Vin.1.316).
 
+// #split#
+
 === Karuṇā; Anuddaya; Anukampa; Anukampati
 
 ==== Renderings
@@ -29700,6 +29885,8 @@ _Antarāyakaro samāno lohicca hitānukampī vā tesaṃ hoti ahitānukampī vā
 _Ahitānukampī bho gotama._
 ____
 
+// #split#
+
 === Kalyāṇa
 
 ==== Renderings
@@ -30267,6 +30454,8 @@ _Kalyāṇapañño ca kathaṃ hoti? idha bhikkhave bhikkhū āsavānaṃ
 khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme
 sayaṃ abhiññā sacchikatvā upasampajja viharati._
 ____
+
+// #split#
 
 === Kāma
 
@@ -30990,6 +31179,8 @@ _ādāse pi udakapatte pi mukhanimittaṃ olokenti. Manussā ujjhāyanti
 khīyanti vipācenti seyyathā pi gihī kāmabhogino ti._
 ____
 
+// #split#
+
 === Kāye kāyānupassī viharati
 
 ==== Renderings
@@ -31096,6 +31287,8 @@ way a bhikkhu is mindful.
 _Vedanāsu vedanānupassī viharati... Citte cittānupassī viharati...
 Dhammesu dhammānupassī viharati... Evaṃ kho bhikkhave bhikkhu sato hoti._
 ____
+
+// #split#
 
 === Kittāvatā; Ettāvatā
 
@@ -31891,6 +32084,8 @@ viññāṇan ti vuccatī ti?_
 _Vijānāti vijānātī ti kho āvuso tasmā viññāṇan ti vuccati._
 ____
 
+// #split#
+
 === Kukkucca; Vippaṭisāra
 
 ==== Renderings
@@ -32420,6 +32615,8 @@ After having had sex Venerable Sudinna was remorseful and conscience-stricken
 _Atha kho āyasmato sudinnassa ahudeva kukkuccaṃ ahu vippaṭisāro._
 ____
 
+// #split#
+
 === Kulaputta
 
 ==== Renderings
@@ -32682,6 +32879,8 @@ the prime of life, you could have been indulging in sensuous pleasures.
 _Yena tumhe anuruddhā bhadrena yobbanena samannāgatā paṭhamena vayasā
 susu kālakesā kāme paribhuñjeyyātha._
 ____
+
+// #split#
 
 === Kusala; Akusala
 
@@ -33729,6 +33928,8 @@ upacitattā ussannattā vipulantā kāyassa bhedā parammaraṇā sugatiṃ
 saggaṃ lokaṃ upapajjati._
 ____
 
+// #split#
+
 === Kevalin
 
 ==== Renderings
@@ -33966,6 +34167,8 @@ our teachers in recitation.
 _Tevijjānaṃ yadakkhātaṃ tatra kevalino'smase +
 Padakasmā veyyākaraṇā jappe ācariyasādisā._
 ____
+
+// #split#
 
 === Kovida
 
@@ -34280,6 +34483,8 @@ _Ubhinnaṃ tikicchantaṃ taṃ attano ca parassa ca +
 Janā maññanti bālo ti ye dhammassa akovidā._
 ____
 
+// #split#
+
 === Kvaci
 
 ==== Renderings
@@ -34380,8 +34585,12 @@ ti._
 This reflection therefore helps overcome the idea that beings possess each
 other.
 
+// #split#
+
 [[terms-kh]]
 == KH
+
+// #split#
 
 === Khaya
 
@@ -34495,6 +34704,8 @@ Destroyed craving for states of individual existence._
 
 _bhavataṇhāparikkhayā._
 ____
+
+// #split#
 
 === Khila
 
@@ -34878,6 +35089,8 @@ teaching.
 _Ummaggapathaṃ mārassa abhibhuyya carati pabhijja khilāni._
 ____
 
+// #split#
+
 === Khema
 
 ==== Renderings
@@ -35149,8 +35362,12 @@ In a time of peril, people migrate to places of safety
 _Bhaye kho pana sati manussā yena khemaṃ tena saṅkamanti._
 ____
 
+// #split#
+
 [[terms-g]]
 == G
+
+// #split#
 
 === Gaṇḍa
 
@@ -35318,6 +35535,8 @@ gaṇḍato sallato aghato ābādhato parato palokato suññato anattato
 samanupassati._
 ____
 
+// #split#
+
 === Gilānapaccayabhesajjaparikkhāra
 
 ==== Renderings
@@ -35462,6 +35681,8 @@ _Bahūkārā bhikkhave brāhmaṇagahapatikā tumhākaṃ ye te
 paccupaṭṭhitā
 cīvara-piṇḍapāta-senāsana-gilānapaccayabhesajjaparikkhārehi._
 ____
+
+// #split#
 
 === Guṇa
 
@@ -35893,6 +36114,8 @@ _Tasmā suci pesala sādhu guṇesu +
 Vācaṃ manaṃ satataṃ parirakkheti._
 ____
 
+// #split#
+
 === Gutta
 
 ==== Renderings
@@ -36189,6 +36412,8 @@ ahaṃ attānaṃ rakkhissāmi. Evaṃ mayaṃ attaguttā attarakkhitā
 sippāni ceva dassessāma lābhañca lacchāma sotthinā ca
 caṇḍālavaṃsā orohessāmā ti._
 ____
+
+// #split#
 
 === Gocara
 
@@ -36571,8 +36796,12 @@ proficient in directing inward collectedness _
 _Samādhissa abhinīhārakusalo hoti._
 ____
 
+// #split#
+
 [[terms-c]]
 == C
+
+// #split#
 
 === Capala
 
@@ -36768,6 +36997,8 @@ highway clad in ivory-coloured clothing.
 _Telasaṇṭhehi kesehi capalā añjitakkhikā +
 Rathiyāya gamissanti dantavaṇṇikapārutā._
 ____
+
+// #split#
 
 === Camma
 
@@ -37125,6 +37356,8 @@ Comment:
 The first guitar-like instrument was the tanbur. It was built of polished
 cedar, had a soundboard made of leather, and resembled a crude guitar. http://
 gibsonguitarek.wikispaces.com/
+
+// #split#
 
 === Citta
 
@@ -37692,6 +37925,8 @@ ____
 Having done so, with the demise of the body at death, he reappears in the
 company of dogs (M.1.387-8).
 
+// #split#
+
 === Cittaṃ pariyādāya tiṭṭhati
 
 ==== Renderings
@@ -37885,6 +38120,8 @@ cittaṃ pariyādāya tiṭṭhati nindā pi cittaṃ pariyādāya tiṭṭhati
 pasaṃsā pi cittaṃ pariyādāya tiṭṭhati. Sukham pi cittaṃ
 pariyādāya tiṭṭhati dukkham pi cittaṃ pariyādāya tiṭṭhati._
 ____
+
+// #split#
 
 === Cetanā; Ceteti
 
@@ -38293,6 +38530,8 @@ sensation one aspires.
 
 _Phuṭṭho bhikkhave vedeti phuṭṭho sañjānāti phuṭṭho ceteti._
 ____
+
+// #split#
 
 === Cetovimutti; Paññāvimutti
 
@@ -38734,8 +38973,12 @@ _Idha bhante bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā
 itipaṭisaṃcikkhati suññamidaṃ attena vā attaniyena vā._
 ____
 
+// #split#
+
 [[terms-ch]]
 == CH
+
+// #split#
 
 === Chanda
 
@@ -39759,8 +40002,12 @@ chandakaṃ saṃharitvā aññatarassa pāvārikassa ghare parikkhāraṃ
 nikkhipitvā._
 ____
 
+// #split#
+
 [[terms-j]]
 == J
+
+// #split#
 
 === Jahāti orapāraṃ
 
@@ -40005,6 +40252,8 @@ old, worn-out skin.
 _Yassantarato na santi kopā itibhavābhavatañca vītivatto_ +
 _So bhikkhu jahāti orapāraṃ urago jiṇṇamiva tacaṃ purāṇaṃ._
 ____
+
+// #split#
 
 === Jāneyyāti
 
@@ -40329,6 +40578,8 @@ _Taṃ hi te māgandiya ariyaṃ cakkhuṃ natthi yena tvaṃ ariyena cakkhunā
 ārogyaṃ jāneyyāsi nibbānaṃ passeyyāsī ti._
 ____
 
+// #split#
+
 === Jāla; Jālin
 
 ==== Renderings
@@ -40569,8 +40820,12 @@ He for whom entangling and sticky craving no more exists to lead him anywhere.
 _Yassa jālinī visattikā taṇhā natthi kuhiñci netave._
 ____
 
+// #split#
+
 [[terms-jh]]
 == JH
+
+// #split#
 
 === Jhāyati; Jhāna
 
@@ -41061,8 +41316,12 @@ Just as when butter or oil is burnt.
 _Seyyathā pi nāma sa pi'ssa vā telassa vā jhāyamānassa._
 ____
 
+// #split#
+
 [[terms-ny]]
 == Ñ
+
+// #split#
 
 === Ñatvā
 
@@ -41360,6 +41619,8 @@ distinction.
 
 _Ñatvā ca dhammesu visesī assa._
 ____
+
+// #split#
 
 === Ñāṇa
 
@@ -41871,6 +42132,8 @@ situation, he called perception '_ñāṇaṃ_.' The Buddha accepted this
 substitution and gave the answer above, adding that perception has a specific
 and necessary condition (_idappaccayā kira me ñāṇaṃ udapādī_).
 
+// #split#
+
 === Ñāya
 
 ==== Renderings
@@ -42213,8 +42476,12 @@ _Etassa ānanda dhammassa ananubodhā appaṭivedhā evamayaṃ pajā
 tantākulakajātā._
 ____
 
-[[terms-ṭh]]
+// #split#
+
+[[terms-th]]
 == ṬH
+
+// #split#
 
 === Ṭhāna
 
@@ -42669,8 +42936,12 @@ It is impossible (_abhabbo_) for an arahant to kill, steal, have sex, lie, or
 store up luxuries (_bhogaṃ_ D.1.6) to be used for sensuous pleasure as he did
 as a layman (D.3.235).
 
+// #split#
+
 [[terms-t]]
 == T
+
+// #split#
 
 === Taṃ kutettha labbhā ti
 
@@ -42917,6 +43188,8 @@ loathsome to me. What possible advantage is there in such a thought?
 
 Finally, one overcomes groundless irritation through being groundlessly
 unirritated (_aṭṭhāne ca na kuppati_) (A.5.150).
+
+// #split#
 
 === Taṇhā
 
@@ -43629,6 +43902,8 @@ craving for mentally known objects
 _dhammataṇhā._
 ____
 
+// #split#
+
 === Tathāgata
 
 ==== Renderings
@@ -43820,6 +44095,8 @@ attained the supreme attainment.
 
 _tathāgato uttamapuriso paramapuriso paramapattipatto._
 ____
+
+// #split#
 
 === Tatheva
 
@@ -44015,6 +44292,8 @@ their assertions were true, purity would, of course, be individually theirs.
 _Saddhammapūjāpi nesaṃ tatheva yathā pasaṃsanti sakāyanāni +
 Sabbeva vādā tathiyā bhaveyyuṃ suddhi hi nesaṃ paccattameva._
 ____
+
+// #split#
 
 === Tarati
 
@@ -44286,6 +44565,8 @@ He completely transcended birth and death
 _atāri jātimaraṇaṃ asesaṃ._
 ____
 
+// #split#
+
 === Tādin; Tādisa
 
 ==== Renderings
@@ -44487,6 +44768,8 @@ like you who is [so] knowledgeable.'
 
 _Addhā hi tassa hutamijjhe yaṃ tādisaṃ vedagumaddasāma._
 ____
+
+// #split#
 
 === Tevijja; Vijjā
 
@@ -44869,8 +45152,12 @@ _Brahmabandhu pure āsiṃ ajjamhi saccabrāhmaṇo +
 Tevijjo vedasampanno sottiyo camhi nahātako ti._
 ____
 
+// #split#
+
 [[terms-d]]
 == D
+
+// #split#
 
 === Daratha; Dara
 
@@ -45051,6 +45338,8 @@ and free of unvirtuousness.
 _Pavivekarasaṃ pitvā rasaṃ upasamassa ca +
 Niddaro hoti nippāpo dhammapītirasaṃ pivaṃ._
 ____
+
+// #split#
 
 === Dassana
 
@@ -45239,6 +45528,8 @@ things according to reality].
 
 _dassanasampannaṃ sammāsambuddhasāvakan ti._
 ____
+
+// #split#
 
 === Diṭṭhi
 
@@ -46735,6 +47026,8 @@ _asubhe subhasaññino +
 Micchādiṭṭhigatā sattā khittacittā visaññino._
 ____
 
+// #split#
+
 === Diṭṭhe dhamme; Sandiṭṭhika
 
 ==== Renderings
@@ -47156,6 +47449,8 @@ _Dveme bhikkhave atthavase paṭicca tathāgatena sāvakānaṃ
 mānattadānaṃ paññattaṃ. Katame dve? Diṭṭhadhammikānaṃ
 āsavānaṃ saṃvarāya samparāyikānaṃ āsavānaṃ paṭighātāya._
 ____
+
+// #split#
 
 === Dukkha
 
@@ -48380,6 +48675,8 @@ _dukkhaṃ hi bhikkhave kusīto viharati vokiṇṇo pāpakehi akusalehi
 dhammehi. Mahantañca sadatthaṃ parihāpeti._
 ____
 
+// #split#
+
 === Domanassa
 
 ==== Renderings
@@ -48726,6 +49023,8 @@ _bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke
 abhijjhādomanassaṃ._
 ____
 
+// #split#
+
 === Dosa
 
 ==== Renderings
@@ -48960,6 +49259,8 @@ no trace left behind. It is incapable of endangering you.
 _ubbhataṃ kho te sallaṃ apanīto visadoso saupādiseso analañca te
 antarāyāya._
 ____
+
+// #split#
 
 === Dve Ante; Majjhimā Paṭipadā; Majjhena
 
@@ -49716,8 +50017,12 @@ errancy in basic religious understanding.
 _Micchādiṭṭhi antaggāhikādiṭṭhi ayaṃ diṭṭhivipatti ti._
 ____
 
+// #split#
+
 [[terms-dh]]
 == DH
+
+// #split#
 
 === Dhamma; Dhammin
 
@@ -52210,6 +52515,8 @@ He attains the method, the Dhamma that is wholesome.
 _ārādhako hoti ñāyaṃ dhammaṃ kusalan ti._
 ____
 
+// #split#
+
 === Dhātu
 
 ==== Renderings
@@ -52726,8 +53033,12 @@ The ten thousandfold multi-universe system trembled, quaked, and shook
 _dasasahassī lokadhātu saṅkampi sampakampi sampavedhi._
 ____
 
+// #split#
+
 [[terms-n]]
 == N
+
+// #split#
 
 === Na ca maṃ dhammādhikaraṇaṃ vihesesi
 
@@ -52953,6 +53264,8 @@ _Paṇḍito bhikkhave bāhiyo dārucīriyo paccapādi dhammassānudhammaṃ na
 ca maṃ dhammādhikaraṇaṃ vihesesi. Parinibbuto bhikkhave bāhiyo
 dārucīriyo ti._
 ____
+
+// #split#
 
 === Nandi; Nandati
 
@@ -53387,6 +53700,8 @@ seyyathīdaṃ kāmataṇhā bhavataṇhā vibhavataṇhā. Idaṃ vuccatāvuso
 dukkhasamudayo ariyasaccaṃ._
 ____
 
+// #split#
+
 === Nahātaka
 
 ==== Renderings
@@ -53552,6 +53867,8 @@ conceit is cleansed away
 _māno nahāto hoti._
 ____
 
+// #split#
+
 === Nāccasārī na paccasārī
 
 ==== Renderings
@@ -53694,6 +54011,8 @@ and the other planes beyond it, as a snake sheds its old, worn-out skin.
 _Yo nāccasārī na paccasārī sabbaṃ vitathamidanti ñatvā loke +
 So bhikkhu jahāti orapāraṃ urago jiṇṇamiva tacaṃ purāṇaṃ._
 ____
+
+// #split#
 
 === Nāmarūpa
 
@@ -53874,6 +54193,8 @@ _yadidaṃ nāmarūpapaccayā viññāṇaṃ viññāṇapaccayā
 nāmarūpaṃ._
 ____
 
+// #split#
+
 === Nikanti
 
 ==== Renderings
@@ -53925,6 +54246,8 @@ _Maraṇasaññā paricitena bhikkhave bhikkhuno cetasā bahulaṃ viharato
 jīvitanikantiyā cittaṃ patilīyati patikuṭati pativaṭṭati na
 sampasārīyati upekkhā vā paṭikkūlyatā vā saṇṭhāti._
 ____
+
+// #split#
 
 === Niketa
 
@@ -54125,6 +54448,8 @@ The black crow dwelling [and feasting] in its home in the charnel ground.
 _Apaṇḍaro aṇḍasambhavo sīvathikāya niketacāriko._
 ____
 
+// #split#
+
 === Nicchāta
 
 ==== Renderings
@@ -54274,6 +54599,8 @@ this very lifetime.
 _diṭṭheva dhamme nicchāto nibbuto sītibhūto anupādā parinibbānaṃ
 paññāpemī ti._
 ____
+
+// #split#
 
 === Nidāna
 
@@ -54548,6 +54875,8 @@ paṭinissajjeyya so tatonidānaṃ maraṇaṃ vā nigaccheyya
 maraṇamattaṃ vā dukkhaṃ._
 ____
 
+// #split#
+
 === Nindā
 
 ==== Renderings
@@ -54730,6 +55059,8 @@ _aṭṭha lokadhammā lokaṃ anuparivattanti loko ca aṭṭha lokadhamme
 anuparivattati: lābho ca alābho ca ayaso ca yaso ca nindā ca pasaṃsā ca
 sukhañca dukkhañcā ti._
 ____
+
+// #split#
 
 === Nipaka; Nepakka
 
@@ -55001,6 +55332,8 @@ _Santi pana kandaraka bhikkhū imasmiṃ bhikkhusaṅghe sekhā santatasīlā
 santatavuttino nipakā nipakavuttino. Te catusu satipaṭṭhānesu
 sūpaṭṭhitacittā viharanti._
 ____
+
+// #split#
 
 === Nibbāna; Nibbuta; Nibbuti
 
@@ -55799,6 +56132,8 @@ _Ajaraṃ jiramānena tappamānena nibbutiṃ +
 Nimissaṃ paramaṃ santiṃ yogakkhemaṃ anuttaran ti._
 ____
 
+// #split#
+
 === Nibbidā; Nibbindati
 
 ==== Renderings
@@ -56198,6 +56533,8 @@ obscuring states].
 
 _virāgā vimuccati._
 ____
+
+// #split#
 
 === Nimitta
 
@@ -57187,6 +57524,8 @@ At D.3.249, it says that one who has developed _animitta cetovimuttī_, it is
 impossible, out of the question, that his mind would pursue phantasms. So,
 Moggallāna's attainment must have been weakly developed.
 
+// #split#
+
 === Niyāma
 
 ==== Renderings
@@ -57399,6 +57738,8 @@ alabhanto okkamati niyāmaṃ kusalesu dhammesu sammattaṃ. Imaṃ kho
 bhikkhave puggalaṃ paṭicca dhammadesanā anuññātā._
 ____
 
+// #split#
+
 === Niyyāna
 
 ==== Renderings
@@ -57534,6 +57875,8 @@ the complete destruction of suffering.
 _Ime kho bhikkhave satta bojjhaṅgā bhāvitā bahulīkatā ariyā niyyānikā
 niyyanti takkarassa sammā dukkhakkhayāyāti._
 ____
+
+// #split#
 
 === Nirodha
 
@@ -58446,6 +58789,8 @@ _Rāgo kho āvuso andhakaraṇo acakkhukaraṇo aññāṇakaraṇo
 paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko._
 ____
 
+// #split#
+
 === Nivesana
 
 ==== Renderings
@@ -58576,6 +58921,8 @@ Having understood all objects of attachment, and not desiring any of them
 
 _Aññāya sabbāni nivesanāni anikāmayaṃ aññatarampi tesaṃ._
 ____
+
+// #split#
 
 === Nissaya; Nissāya; Nissita
 
@@ -60514,6 +60861,8 @@ _Ete ca ñatvā upanissitā ti ñatvā muni nissaye so vīmaṃsi +
 Ñatvā vimutto na vivādameti._
 ____
 
+// #split#
+
 === Nekkhamma
 
 ==== Renderings
@@ -60962,6 +61311,8 @@ vavakaṭṭhena nekkhammābhiratena aññadatthu
 uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
 ____
 
+// #split#
+
 === No c'assa no ca me siyā
 
 ==== Renderings
@@ -61243,8 +61594,12 @@ way can sever the ties to individual existence in the low plane of existence
 _evaṃ vimuccamāno bhikkhu chindeyyorambhāgiyāni saṃyojanānī ti._
 ____
 
+// #split#
+
 [[terms-p]]
 == P
+
+// #split#
 
 === Paccaya
 
@@ -61800,6 +62155,8 @@ _Yaṃ vo kiccaṃ sarīrena taṃ karotha yadicchatha +
 Na me tappaccayā tattha doso pemañca hehiti._
 ____
 
+// #split#
+
 === Pacceti
 
 ==== Renderings
@@ -62057,6 +62414,8 @@ Gone to the Far Shore, one of such good qualities does not return.
 _pāragato na pacceti tādī ti_
 ____
 
+// #split#
+
 === Pacchāpuresaññī
 
 ==== Renderings
@@ -62263,6 +62622,8 @@ tacapariyantaṃ pūraṃ nānappakārassa asucino paccacekkhati_).
 
 - 'As by day, so by night,' says the _Vibhaṅga Sutta_, means one practises
 the meditation similarly, during the day and during the night.
+
+// #split#
 
 === Pajānāti; Paññā
 
@@ -63133,6 +63494,8 @@ _Idaṃ dukkhan ti pajānāti... Ayaṃ dukkhanirodhagāminī paṭipadā ti
 pajānāti._
 ____
 
+// #split#
+
 === Paññuttara
 
 ==== Renderings
@@ -63249,6 +63612,8 @@ Liberation [from perceptually obscuring states] is the essence of all things.
 
 _vimuttisārā sabbe dhammā ti._
 ____
+
+// #split#
 
 === Paṭigha
 
@@ -63433,6 +63798,8 @@ _bhikkhu sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ
 atthaṅgamā nānattasaññānaṃ amanasikārā ananto ākāso ti
 ākāsānañcāyatanaṃ upasampajja viharati._
 ____
+
+// #split#
 
 === Paṭicca
 
@@ -63694,6 +64061,8 @@ asevitabbampi. Tañca aññamaññaṃ attabhāvapaṭilābhan ti iti kho
 panetaṃ vuttaṃ bhagavatā kiñcetaṃ paṭicca vuttaṃ._
 ____
 
+// #split#
+
 === Paṭinissaggānupassī assasissāmī ti sikkhati
 
 ==== Renderings
@@ -63844,6 +64213,8 @@ relinquishment [in relation to certain objects of the systematic teachings]
 
 _paṭinissaggānupassī assasissāmī ti... passasissāmī ti sikkhati._
 ____
+
+// #split#
 
 === Paṭipadā; Paṭipajjati; Paṭipanna
 
@@ -64368,6 +64739,8 @@ When I travel the high road and see no one either in front or behind me
 _Yasmāhaṃ nāgita samaye addhānamaggapaṭipanno na kañci passāmi purato
 vā pacchato vā._
 ____
+
+// #split#
 
 === Paṭibhāna
 
@@ -64925,6 +65298,8 @@ _Sādhu sādhu bhikkhu bhaddako te bhikkhu ummaggo bhaddakaṃ paṭibhānaṃ
 kalyāṇī paripucchā._
 ____
 
+// #split#
+
 === Paṭisaṃyutta
 
 ==== Renderings
@@ -65002,6 +65377,8 @@ One whose words are exclusively connected with religious inspiration.
 
 _uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
 ____
+
+// #split#
 
 === Paṭisallāna
 
@@ -65151,6 +65528,8 @@ solitary retreat.'
 
 _akālo kho mārisa bhagavantaṃ dassanāya paṭisallīno bhagavā ti._
 ____
+
+// #split#
 
 === Paṭhavī; Āpo; Tejo; Vāyo
 
@@ -65850,6 +66229,8 @@ _sā gāmampi vahati nigamampi vahati nagarampi vahati janapadampi vahati
 janapadapadesampi vahati._
 ____
 
+// #split#
+
 === Patilīna
 
 ==== Renderings
@@ -65940,6 +66321,8 @@ self-centredness
 
 _Mānābhisamayā buddho patilīno ti vuccatī ti._
 ____
+
+// #split#
 
 === Pattipatta
 
@@ -66060,6 +66443,8 @@ Whoever in this world amongst those living the religious life has attained the
 
 _Yo idha caraṇesu pattipatto kusalo sabbadā ājānāti dhammaṃ._
 ____
+
+// #split#
 
 === Padussati
 
@@ -66236,6 +66621,8 @@ slaughtered, annihilated, or destroyed, or may they not exist at all."
 _vyāpannacitto kho pana hoti paduṭṭhamanasaṅkappo. Ime sattā haññantu
 vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun ti._
 ____
+
+// #split#
 
 === Papañca
 
@@ -66594,6 +66981,8 @@ remainder
 _etthete pāpakā akusalā dhammā aparisesā nirujjhantī ti._
 ____
 
+// #split#
+
 === Parakkama
 
 ==== Renderings
@@ -66682,6 +67071,8 @@ See my [unwavering] energy and application [to the practice].
 _Yaṃ kiccaṃ daḷhaviriyo yaṃ kiccaṃ boddhumicchatā +
 Karissaṃ nāvarajjhissaṃ passa viriyaṃ parakkamaṃ._
 ____
+
+// #split#
 
 === Parājita
 
@@ -66860,6 +67251,8 @@ invincible in war.
 _Indaṃca tidasā devā saṅgāme aparājitaṃ +
 Purakkhatvā vihassāma._
 ____
+
+// #split#
 
 === Pariciṇṇo mayā satthā
 
@@ -67095,6 +67488,8 @@ renewed states of individual existence has been abolished.
 _Pariciṇṇo mayā satthā kataṃ buddhassa sāsanaṃ +
 Ohito garuko bhāro bhavanetti samūhatā._
 ____
+
+// #split#
 
 === Paritassati
 
@@ -67422,6 +67817,8 @@ Being not apprehensive, he realises the Untroubled for himself.
 _aparitassaṃ paccattaṃ yeva parinibbāyati._
 ____
 
+// #split#
+
 === Paribbajati
 
 ==== Renderings
@@ -67748,6 +68145,8 @@ Paribbājayitvā pariññācārī māyaṃ mānamathopi lobhakodhaṃ +
 Pariyantamakāsi nāmarūpaṃ taṃ paribbājakamāhu pattipattanti._
 ____
 
+// #split#
+
 === Parimukhaṃ satiṃ upaṭṭhapetvā
 
 ==== Renderings
@@ -67967,6 +68366,8 @@ breathes out.
 _nisīdati pallaṅkaṃ ābhujitvā ujuṃ kāyaṃ paṇidhāya parimukhaṃ
 satiṃ upaṭṭhapetvā. So satova assasati sato passasati._
 ____
+
+// #split#
 
 === Pariyāya
 
@@ -68647,6 +69048,8 @@ _Cirassaṃ kho bhante bhagavā imaṃ pariyāyamakāsi yadidaṃ
 idhāgamanāya._
 ____
 
+// #split#
+
 === Pariyuṭṭhāna; Pariyuṭṭhita
 
 ==== Renderings
@@ -68805,6 +69208,8 @@ Comment:
 
 PED (sv _Pariyuṭṭhita_) says _pariyuṭṭhaṭṭhāyin_ should read
 _pariyuṭṭhitaṭṭhāyin._
+
+// #split#
 
 === Pariḷāha
 
@@ -69160,6 +69565,8 @@ meditation object.
 _kismiñcideva pasādaniye nimitte cittaṃ paṇidahitabbaṃ._
 ____
 
+// #split#
+
 === Paviveka
 
 ==== Renderings
@@ -69479,6 +69886,8 @@ Bhikkhus, be given to the enjoyment and delight of physical seclusion.
 
 _Pavivekārāmā bhikkhave viharatha pavivekaratā._
 ____
+
+// #split#
 
 === Pasīdati; Pasāda; Pasanna
 
@@ -71051,6 +71460,8 @@ vijjati añño samaṇo vā brāhmaṇo bhagavatā bhiyyo'bhiññataro
 yadidaṃ sambodhiyanti._
 ____
 
+// #split#
+
 === Passati; Vipassati
 
 ==== Renderings
@@ -71541,6 +71952,8 @@ _ime kho te dhammā ye me pubbe sutāva ahesuṃ tenāhaṃ etarahi kāyena ca
 phusitvā viharāmi. Paññāya ca ativijjha passāmī ti._
 ____
 
+// #split#
+
 === Pahitatta
 
 ==== Renderings
@@ -71813,6 +72226,8 @@ _Evaṃ sammā dvayatānupassino kho bhikkhave bhikkhuno appamattassa ātāpino
 pahitattassa viharato dvinnaṃ phalānaṃ aññataraṃ phalaṃ
 pāṭikaṅkhaṃ._
 ____
+
+// #split#
 
 === Pāpaka; Pāpa
 
@@ -72627,6 +73042,8 @@ _Rūpaṃ kho bhante abhinandamāno baddho mārassa anabhinandamāno mutto
 pāpimato._
 ____
 
+// #split#
+
 === Pāragata; Pāragū
 
 ==== Renderings
@@ -72928,6 +73345,8 @@ The devas venerate him, the one who has gone beyond individual existence.
 _Devā namassanti bhavassa pāragun ti._
 ____
 
+// #split#
+
 === Pārāyana; Parāyaṇa
 
 ==== Renderings
@@ -73162,6 +73581,8 @@ liberated.
 _Viññāṇaṭṭhitiyo sabbā abhijānaṃ tathāgato +
 Tiṭṭhantamenaṃ jānāti vimuttaṃ tapparāyaṇaṃ._
 ____
+
+// #split#
 
 === Pāsādika
 
@@ -73438,6 +73859,8 @@ A beautiful woodland grove with a clear-flowing river
 _pāsādikañca vanasaṇḍaṃ nadiñca sandantiṃ._
 ____
 
+// #split#
+
 === Piya
 
 ==== Renderings
@@ -73673,6 +74096,8 @@ world unattached. Nothing is beloved or unbeloved for them.
 _Kāmakopappahīnā ye santacittā bhavābhave +
 Caranti loke asitā natthi tesaṃ piyāppiyaṃ._
 ____
+
+// #split#
 
 === Puthujjana
 
@@ -73917,6 +74342,8 @@ common man, ignoble, and unconducive to spiritual well-being.
 _ye te vitakkā hīnā gammā pothujjanikā anariyā anatthasaṃhitā... iti
 evarūpe vitakke na vitakkessāmī ti._
 ____
+
+// #split#
 
 === Purakkhata
 
@@ -74696,6 +75123,8 @@ amongst the group of bhikkhus.
 _Nahātvā ca pītvā cudatāri satthā purakkhato bhikkhugaṇassa majjhe._
 ____
 
+// #split#
+
 === Pūtimutta
 
 ==== Renderings
@@ -74968,6 +75397,8 @@ blameless.
 _Pūtimuttaṃ bhikkhave bhesajjānaṃ appañca sulabhañca tañca
 anavajjaṃ._
 ____
+
+// #split#
 
 === Pema
 
@@ -75302,8 +75733,12 @@ _Yā sā vācā neḷā kaṇṇasukhā pemanīyā... tathārūpiṃ vācaṃ
 bhāsitā ti._
 ____
 
+// #split#
+
 [[terms-ph]]
 == PH
+
+// #split#
 
 === Phandana
 
@@ -75642,6 +76077,8 @@ mine does not flicker.
 
 _Vihavihābhinadite sippikābhirutehi ca na me taṃ phandati cittaṃ._
 ____
+
+// #split#
 
 === Phassa
 
@@ -76060,8 +76497,12 @@ manosamphassajaṃ sukhaṃ sātaṃ vedayitaṃ idaṃ vuccati bhikkhave
 somanassindriyaṃ._
 ____
 
+// #split#
+
 [[terms-b]]
 == B
+
+// #split#
 
 === Baddha
 
@@ -76366,6 +76807,8 @@ who are bound [to individual existence].
 
 _Bahūnamidha baddhānaṃ atthi pañhena āgamaṃ._
 ____
+
+// #split#
 
 === Bandhana
 
@@ -76779,6 +77222,8 @@ The borders of the waistband wore out.
 _Kāyabandhanassa anto jirati._
 ____
 
+// #split#
+
 === Brahmacariya
 
 ==== Renderings
@@ -77063,6 +77508,8 @@ sātthaṃ savyañjanaṃ kevalaparipuṇṇaṃ parisuddhaṃ brahmacariyaṃ
 abhivadanti._
 ____
 
+// #split#
+
 === Brāhmaṇa
 
 ==== Renderings
@@ -77262,8 +77709,12 @@ what I call a Brahman.
 _Khīṇāsavaṃ vantadosaṃ tamahaṃ brūmi brāhmaṇan ti._
 ____
 
+// #split#
+
 [[terms-bh]]
 == BH
+
+// #split#
 
 === Bhava; Vibhava
 
@@ -78114,6 +78565,8 @@ things, your stream of sense consciousness would not remain in existence.
 _Etesu nandiñca nivesanañca panujja viññāṇaṃ bhave na tiṭṭhe._
 ____
 
+// #split#
+
 === Bhavābhava
 
 ==== Renderings
@@ -78477,6 +78930,8 @@ ____
 - Bodhi: 'plunged headlong into saṃsāra, [into] time, destination, and
 existence upon existence.'
 
+// #split#
+
 === Bhāra
 
 ==== Renderings
@@ -78611,6 +79066,8 @@ casting off a burden..
 _Khīṇāya bhavanettiyā diṭṭhe dhamme yathātathe +
 Na bhayaṃ maraṇe hoti bhāranikkhepane yathā._
 ____
+
+// #split#
 
 === Bhūta
 
@@ -78878,8 +79335,12 @@ _Iti ime dasa dhammā bhūtā tacchā tathā avitathā anaññathā sammā
 tathāgatena abhisambuddhā._
 ____
 
+// #split#
+
 [[terms-m]]
 == M
+
+// #split#
 
 === Manosañcetanāhāro
 
@@ -79311,6 +79772,8 @@ effect, not another person's, there is a passing away of beings from that group
 on account of their own intentionality (_attasañcetanāhetu tesaṃ
 sattānaṃ tamhā kāyā cuti hoti_). And corresponding statements for the
 other groups (A.2.159).
+
+// #split#
 
 === Maññati
 
@@ -79830,6 +80293,8 @@ imāni vicitrāni pañhāpaṭibhānāni sotukāmo evāhaṃ bhavantaṃ
 kassapaṃ paccanīkaṃ kātabbaṃ amaññissaṃ._
 ____
 
+// #split#
+
 === Mathita
 
 ==== Renderings
@@ -79981,6 +80446,8 @@ not arrived at the stage of being cream.
 
 _yaṃ taṃ khīraṃ khīrabhāvaṃ vijahitaṃ asampattaṃ dadhibhāvaṃ._
 ____
+
+// #split#
 
 === Mada
 
@@ -80197,6 +80664,8 @@ May my mind not be intoxicated with intoxicating things
 
 _Mā me madanīyesu dhammesu cittaṃ majjī ti._
 ____
+
+// #split#
 
 === Manasikāra
 
@@ -80776,6 +81245,8 @@ _yoniso manasikārasampannassetaṃ bhikkhave bhikkhuno pāṭikaṅkhaṃ
 satta bojjhaṅge bhāvessati._
 ____
 
+// #split#
+
 === Mantabhāṇin
 
 ==== Renderings
@@ -80886,6 +81357,8 @@ preachments, because the short sentences drive themselves into the heart and
 stay there, while long discourses, though ever so good, tire the attention; and
 one good thing drives out another, and so on till all is forgotten.' (Clarissa
 Harlowe by Samuel Richardson).
+
+// #split#
 
 === Mama
 
@@ -81101,6 +81574,8 @@ bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā
 yaṃ dūre santike vā sabbaṃ viññāṇaṃ n'etaṃ mama n'eso'hamasmi na
 me so attā ti._
 ____
+
+// #split#
 
 === Mā anussavena
 
@@ -81633,6 +82108,8 @@ you should accept and abide by them.
 _atha tumhe kālāmā upasampajja vihareyyātha._
 ____
 
+// #split#
+
 === Māna
 
 ==== Renderings
@@ -82025,6 +82502,8 @@ He declares his [attainment of] arahantship from over-estimation
 _adhimānena aññaṃ vyākaroti._
 ____
 
+// #split#
+
 === Middha
 
 ==== Renderings
@@ -82221,6 +82700,8 @@ divine abiding.
 _Tiṭṭhaṃ caraṃ nisinno vā sayāno vā yāvatassa vigatamiddho +
 Etaṃ satiṃ adhiṭṭheyya brahmametaṃ vihāraṃ idhamāhu._
 ____
+
+// #split#
 
 === Mutta; Vippamutta
 
@@ -82579,6 +83060,8 @@ existence] in every respect, a great seer following the path of divinity.
 _Gambhīrapaññaṃ nipuṇatthadassiṃ akiñcanaṃ kāmabhave asattaṃ +
 Taṃ passatha sabbadhi vippamuttaṃ dibbe pathe kamamānaṃ mahesiṃ._
 ____
+
+// #split#
 
 === Muditā
 
@@ -83009,6 +83492,8 @@ consciousness as its culmination.
 _viññāṇañcāyatanaparamāhaṃ bhikkhave muditā cetovimuttiṃ vadāmi._
 ____
 
+// #split#
+
 === Mūla
 
 ==== Renderings
@@ -83294,6 +83779,8 @@ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci
 vā lokasmiṃ._
 ____
 
+// #split#
+
 === Mūlakā
 
 ==== Renderings
@@ -83438,6 +83925,8 @@ All spiritually unwholesome factors stem from uninsightfulness into reality.
 
 _ye keci akusalā dhammā sabbe te avijjāmūlakā._
 ____
+
+// #split#
 
 === Mettā
 
@@ -83923,6 +84412,8 @@ appamāṇena averena avyāpajjhena pharitvā viharissāmāti._
 Thus bhikkhus should you train yourselves.
 ____
 
+// #split#
+
 === Moghapurisa
 
 ==== Renderings
@@ -84240,6 +84731,8 @@ _Yesampi hi sāriputta moghapurisānaṃ bhavissati tathāgate kaṅkhā vā
 vimati vā tesamimaṃ dhammapariyāyaṃ sutvā yā tathāgate kaṅkhā vā
 vimati vā sā pahīyissatī ti._
 ____
+
+// #split#
 
 === Moha
 
@@ -84567,8 +85060,12 @@ _Yo nāccasārī na paccasārī sabbaṃ vitathamidanti vītamoho +
 So bhikkhu jahāti orapāraṃ urago jiṇṇamiva tacaṃ purāṇaṃ._
 ____
 
+// #split#
+
 [[terms-y]]
 == Y
+
+// #split#
 
 === Yathābhūta
 
@@ -84961,6 +85458,8 @@ _rūpassa samudayañca atthaṅgamañca... viññāṇassa samudayañca
 atthaṅgamañca._
 ____
 
+// #split#
+
 === Yamāmase
 
 ==== Renderings
@@ -85193,6 +85692,8 @@ ____
 day in order to contemplate the Blessed One's word, much could be done by me
 (_aho vatāhaṃ rattindivaṃ jīveyyaṃ bhagavato sāsanaṃ
 manasikareyyaṃ bahuṃ vata me kataṃ assā ti_).
+
+// #split#
 
 === Yasa
 
@@ -85789,6 +86290,8 @@ pana yaso hāyetha bhogā pi tassa hāyeyyuṃ. Yasoladdhā kho panamhākaṃ
 bhogā._
 ____
 
+// #split#
+
 === Yoga
 
 ==== Renderings
@@ -86207,6 +86710,8 @@ _Hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā +
 Sabbayogavisaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ._
 ____
 
+// #split#
+
 === Yogakkhema
 
 ==== Renderings
@@ -86412,6 +86917,8 @@ individual existence].
 _sāgārā anagārā ca ubho aññoññanissitā; ārādhayanti saddhammaṃ
 yogakkhemaṃ anuttaraṃ._
 ____
+
+// #split#
 
 === Yogo karaṇīyo
 
@@ -86621,6 +87128,8 @@ ____
 
 This parenthesis is further justified by the occurrence in the sentence of
 _lābhī hoti_, 'he attains.'
+
+// #split#
 
 === Yoniso
 
@@ -86941,8 +87450,12 @@ _Aññāsiṃ kho ahaṃ ānanda idānevāyaṃ udāyī moghapuriso
 ummujjamāno ayoniso ummujjissatī ti._
 ____
 
+// #split#
+
 [[terms-r]]
 == R
+
+// #split#
 
 === Rakkhati
 
@@ -87383,6 +87896,8 @@ the mental image of a bloated corpse
 
 _uddhumātakasaññaṃ._
 ____
+
+// #split#
 
 === Rati; Arati
 
@@ -87930,6 +88445,8 @@ woods
 _vane... eko rame aratiṃ vippahāyāti._
 ____
 
+// #split#
+
 === Rāga
 
 ==== Renderings
@@ -88156,6 +88673,8 @@ me how to extinguish it, out of tender concern, O Gotama clansman.
 _Kāmarāgena ḍayhāmi cittaṃ me pariḍayhati +
 Sādhu nibbāpanaṃ brūhi anukampāya gotamāti._
 ____
+
+// #split#
 
 === Rūpa
 
@@ -88597,8 +89116,12 @@ manasikaromi. Rūpāni hi kho tasmiṃ hi samaye passāmi. Na ca obhāsaṃ
 sañjānāmi. Kevalampi rattiṃ kevalampi divasaṃ kevalampi rattindivanti._
 ____
 
+// #split#
+
 [[terms-l]]
 == L
+
+// #split#
 
 === Limpati
 
@@ -88876,6 +89399,8 @@ The sage, not cleaving to possessions.
 
 _pariggahesu muni nopalitto._
 ____
+
+// #split#
 
 === Loka
 
@@ -90283,8 +90808,12 @@ The ten thousandfold multi-universe system trembled, quaked, and shook.
 _dasasahassī lokadhātu saṅkampi sampakampi sampavedhi._
 ____
 
+// #split#
+
 [[terms-v]]
 == V
+
+// #split#
 
 === Va jhayati
 
@@ -90453,6 +90982,8 @@ Comment:
 The context of the first verse suggests _eva jhāyati_ and demands the
 parenthesis of a word like 'mournfully': mopes [mournfully] indeed. As noted
 above, the second suggests _iva jhāyati_: 'mopes like [the carter]'.
+
+// #split#
 
 === Vadhati; Vadha
 
@@ -90833,6 +91364,8 @@ _caṇḍakāḷī bhikkhunī bhikkhunīhi saddhiṃ bhaṇḍitvā attānaṃ
 vadhitvā vadhitvā rodati._
 ____
 
+// #split#
+
 === Vanatha; Vana
 
 ==== Renderings
@@ -91079,6 +91612,8 @@ ____
 
 Commentary (Dhammapāla): _Vanā nibbanamāgatan ti kilesavanato tabbirahitaṃ
 nibbanaṃ upagataṃ_
+
+// #split#
 
 === Vavakaṭṭha; Vūpakaṭṭha
 
@@ -91337,6 +91872,8 @@ vavakaṭṭhena nekkhammābhiratena aññadatthu
 uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti._
 ____
 
+// #split#
+
 === Vasala
 
 ==== Renderings
@@ -91403,6 +91940,8 @@ women was common amongst brahmans (A.3.229). Queen Mallika was King Pasenadi's
 wife, though her father was a garland-maker.
 
 So _vasala_ cannot mean 'outcaste'.
+
+// #split#
 
 === Vicakkhaṇa
 
@@ -91473,6 +92012,8 @@ some advantange, then one who is prudent would do likewise.
 _Paridevayamāno ce kiñcidatthaṃ udabbahe +
 Sammūḷho hiṃsamattānaṃ kayirā ce naṃ vicakkhaṇo._
 ____
+
+// #split#
 
 === Vicikicchā
 
@@ -92855,6 +93396,8 @@ _Yadā have pātubhavanti dhammā ātāpino jhāyato brāhmaṇassa +
 Athassa kaṅkhā vapayanti sabbā yato pajānāti sahetudhamman ti._
 ____
 
+// #split#
+
 === Vijānata
 
 ==== Renderings
@@ -93018,6 +93561,8 @@ For one who understands [the teaching], the night is for staying awake.
 
 _Paṭijaggitumevesā ratti hoti vijānatā._
 ____
+
+// #split#
 
 === Viññāṇa
 
@@ -94184,6 +94729,8 @@ _Yaṃ bhikkhave mātukucchismiṃ paṭhamaṃ cittaṃ uppannaṃ
 paṭhamaṃ viññāṇaṃ pātubhūtaṃ tadupādāya sāvassa jāti._
 ____
 
+// #split#
+
 === Viññāṇaṃ anidassanaṃ anantaṃ sabbato pabhaṃ
 
 ==== Renderings
@@ -94387,6 +94934,8 @@ completely ended.
 
 _Viññāṇassa nirodhena etthetaṃ uparujjhatī ti._
 ____
+
+// #split#
 
 === Vinaya; Vineti
 
@@ -95142,6 +95691,8 @@ Whatever is destined to decay is called 'the world [of phenomena]' in the
 _Yaṃ kho ānanda palokadhammaṃ ayaṃ vuccati ariyassa vinaye loko._
 ____
 
+// #split#
+
 === Vinicchaya
 
 ==== Renderings
@@ -95353,6 +95904,8 @@ Wisdom investigates what is heard _
 _Paññā sutavinicchinī._
 ____
 
+// #split#
+
 === Vipāka
 
 ==== Renderings
@@ -95505,6 +96058,8 @@ Previous demeritorious conduct whose karmic consequence has not yet ripened.
 
 _pubbe pāpakammaṃ kataṃ avipakkavipākaṃ._
 ____
+
+// #split#
 
 === Vippasannāni indriyāni; Santindriyāni
 
@@ -95719,6 +96274,8 @@ by a handler.
 
 _Mayhindriyāni samathaṃ gatāni assā yathā sārathinā sudantā._
 ____
+
+// #split#
 
 === Vimutta; Vimutti
 
@@ -96347,6 +96904,8 @@ _bhikkhu asamayavimutto karaṇīyaṃ attano na samanupassati katassa vā
 paṭicayaṃ._
 ____
 
+// #split#
+
 === Vimuttiñāṇadassana
 
 ==== Renderings
@@ -96605,6 +97164,8 @@ states], he thinks: 'I will utter speech like this.'
 _vimuttikathā vimuttiñāṇadassanakathā iti evarūpiṃ kathaṃ
 kathessāmīti._
 ____
+
+// #split#
 
 === Vimokkha
 
@@ -97469,6 +98030,8 @@ Although perception ceases with the ending of perception and sense impression
 arahantship, which lies beyond it. This is confirmed by the statement 'not
 subject to [renewed states of individual existence]' in the next verse.
 
+// #split#
+
 === Virajjati; Viratta; Virājetvā
 
 ==== Renderings
@@ -97775,6 +98338,8 @@ Having discarded sensuous hankering for sensuous pleasures.
 
 _kāmesu kāmacchandaṃ virājetvā idhūpapannā ti._
 ____
+
+// #split#
 
 === Virāga
 
@@ -98484,6 +99049,8 @@ vedanāyapi nibbindati saññāyapi nibbindati saṅkhāresupi nibbindati
 viññāṇasmimpi nibbindati nibbindaṃ virajjati virāgā vimuccati._
 ____
 
+// #split#
+
 === Viriya
 
 ==== Renderings
@@ -98808,6 +99375,8 @@ _tasse taṃ pāṭikaṅkhaṃ na chandaṃ janessati na vāyamissati na
 viriyaṃ ārabhissati tassaṅgaṇassa pahānāya._
 ____
 
+// #split#
+
 === Viruddha; Virodha
 
 ==== Renderings
@@ -98997,6 +99566,8 @@ with it.
 _Disā hi me khantivādānaṃ avirodhappasaṃsinaṃ +
 Suṇantu dhammaṃ kālena tañca anuvidhīyantu._
 ____
+
+// #split#
 
 === Vivaṭṭacchadda
 
@@ -99196,6 +99767,8 @@ They in the world who have completely renounced the round of rebirth.
 
 _vivaṭṭacchaddā ye loke._
 ____
+
+// #split#
 
 === Viveka
 
@@ -99486,6 +100059,8 @@ Veramba] mental images connected with physical seclusion [would] overwhelm me.
 _Yathā abbhāni verambo vāto nudati pāvuse +
 Saññā me abhikīranti vivekapaṭisaṃyuttā._
 ____
+
+// #split#
 
 === Vihaññati
 
@@ -99784,6 +100359,8 @@ Affiliates suffer hardship.
 
 _Sādhāraṇe vihaññanti._
 ____
+
+// #split#
 
 === Vihesā; Vihiṃsā
 
@@ -100215,6 +100792,8 @@ perceptually obscuring states] through [unlimited, all-encompassing] compassion.
 _Nissaraṇaṃ hetaṃ āvuso vihesāya yadidaṃ karuṇā cetovimutti._
 ____
 
+// #split#
+
 === Veda; Vedagū
 
 ==== Renderings
@@ -100565,6 +101144,8 @@ profound knowledge, spiritually cleansed.
 _Brahmabandhu pure āsiṃ ajjamhi saccabrāhmaṇo +
 Tevijjo vedasampanno sottiyo camhi nahātako ti._
 ____
+
+// #split#
 
 === Vedanā; Vedayita
 
@@ -100954,6 +101535,8 @@ _Kāyassa bhedā parammaraṇā uddhaṃ jīvitapariyādānā ideva
 sabbavedayitāni anabhinanditāni sītibhavissantī ti pajānāti._
 ____
 
+// #split#
+
 === Vera
 
 ==== Renderings
@@ -101260,6 +101843,8 @@ brahmabhūtaṃ tathāgataṃ +
 Buddhaṃ verabhayātītaṃ āhu sabbappahāyinan ti._
 ____
 
+// #split#
+
 === Vossagga
 
 ==== Renderings
@@ -101512,6 +102097,8 @@ vossajjitvā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārema
 tasmiṃ no samaye govindo brāhmaṇo kālakato ti._
 ____
 
+// #split#
+
 === Vyāpajjati
 
 ==== Renderings
@@ -101582,6 +102169,8 @@ I may stumble and fall. The food I have eaten may upset me.
 
 _Upakkhalitvāvāhaṃ papateyyaṃ bhattaṃ vāpi me bhuttaṃ vyāpajjeyya._
 ____
+
+// #split#
 
 === Vyāpajjha; Vyābajjhā
 
@@ -101911,6 +102500,8 @@ declare.
 _Avyābajjhaparamāhaṃ bhikkhave vedanānaṃ assādaṃ vadāmi._
 ____
 
+// #split#
+
 === Vyāpāda; Vyāpanna
 
 ==== Renderings
@@ -102137,6 +102728,8 @@ _Vyāpādapadosaṃ pahāya avyāpannacitto viharati
 sabbapāṇabhūtahitānukampī._
 ____
 
+// #split#
+
 === Vyābādha
 
 ==== Renderings
@@ -102211,8 +102804,12 @@ _rāgādhikaraṇaṃ attavyābādhāyapi ceteti paravyābādhāyapi ceteti
 ubhayavyābādhāyapi ceteti._
 ____
 
+// #split#
+
 [[terms-s]]
 == S
+
+// #split#
 
 === Saṃyutta
 
@@ -102655,6 +103252,8 @@ _Kāmayoga_: 'the bondage [to individual existence] that arises from
 _Bhavayoga_: 'the bondage [to individual existence] that arises from
 [attachment to] states of individual existence.' See Glossary sv _Yoga_.
 
+// #split#
+
 === Saṃyoga
 
 ==== Renderings
@@ -103036,6 +103635,8 @@ arises from [attachment to] sensuous pleasure.
 
 _Ayaṃ vuccati bhikkhave kāmayogavisaṃyogo._
 ____
+
+// #split#
 
 === Saṃyojana
 
@@ -103437,6 +104038,8 @@ gandhabbā ye caññe santi puthukāyā te averā adaṇḍā asapattā
 avyāpajjhā viharemu averino ti iti ce nesaṃ hoti. Atha ca pana saverā
 sadaṇḍā sasapattā savyapajjā viharanti saverino ti._
 ____
+
+// #split#
 
 === Saṃvara; Saṃvuta
 
@@ -104345,6 +104948,8 @@ This, friend Roja, is his dwelling-place. The door is closed.
 _Esāvuso roja vihāro saṃvutadvāro._
 ____
 
+// #split#
+
 === Saṃvega; Saṃvejeti
 
 ==== Renderings
@@ -104717,6 +105322,8 @@ taṇhāsaṅkhayavimuttiṃ abhāsi? Sādhu mayampi etissā kathāya bhāgino
 assāma savaṇāyā ti._
 ____
 
+// #split#
+
 === Saṃsagga; Saṃsaṭṭha
 
 ==== Renderings
@@ -105062,6 +105669,8 @@ _Paradukkhūpadhānena attano sukhamicchati +
 Verasaṃsaggasaṃsaṭṭho verā so na parimuccati._
 ____
 
+// #split#
+
 === Saṃsāra
 
 ==== Renderings
@@ -105320,6 +105929,8 @@ and death.
 _Upeti gabbhañca parañca lokaṃ saṃsāramāpajja paramparāya._
 ____
 
+// #split#
+
 === Sakyaputtiya
 
 ==== Renderings
@@ -105542,6 +106153,8 @@ The ascetic disciples of the Sakyans' Son, friend.
 
 _Samaṇānaṃ āvuso sakyaputtiyānan ti._
 ____
+
+// #split#
 
 === Saṅkappa
 
@@ -105998,6 +106611,8 @@ _No ce tattha passati rajaṃ vā aṅgaṇaṃ vā tenevattamano hoti
 paripuṇṇasaṅkappo lābhā vata me paripuṇṇaṃ vata me ti._
 ____
 
+// #split#
+
 === Saṅkhata
 
 ==== Renderings
@@ -106257,6 +106872,8 @@ A well-made float
 
 _bhisi susaṅkhatā._
 ____
+
+// #split#
 
 === Saṅkhā
 
@@ -106630,6 +107247,8 @@ for him there are no states of spiritual instability.
 _Kāmesu brahmacariyavā vītataṇho sadā sato +
 Saṅkhāya nibbuto bhikkhu tassa no santi iñjitā._
 ____
+
+// #split#
 
 === Saṅkhāra
 
@@ -108108,6 +108727,8 @@ days. The wheel kept rolling as far as the impulsion took it (_yāvatikā
 abhisaṅkhārassa gati tāvatikaṃ gantvā_); then it circled round and round
 and fell to the ground (A.1.112).
 
+// #split#
+
 === Saṅga; Satta
 
 ==== Renderings
@@ -108460,6 +109081,8 @@ Liberated [from individual existence] in the sensuous plane of existence.
 _kāmabhave asattaṃ._
 ____
 
+// #split#
+
 === Saṅgahavatthūni
 
 ==== Renderings
@@ -108607,6 +109230,8 @@ with impartiality.'
 _yaṃ jānāmi ayaṃ samānattatāya saṅgahetabbo ti taṃ samānattatāya
 saṅgaṇhāmi._
 ____
+
+// #split#
 
 === Saṅgha
 
@@ -108966,6 +109591,8 @@ _ettakā me bhikkhū saṅghato uddissathā ti dānaṃ deti_
 
 _ettikā me bhikkhuniyo saṅghato uddissathā ti dānaṃ deti._
 ____
+
+// #split#
 
 === Saññā; Sañjānāti
 
@@ -110065,6 +110692,8 @@ What one experiences, one perceives. What one perceives, one thinks about. .
 _Yaṃ vedeti taṃ sañjānāti. Yaṃ sañjānāti taṃ vitakketi._
 ____
 
+// #split#
+
 === Satipaṭṭhānā
 
 ==== Renderings
@@ -110508,6 +111137,8 @@ _attānaṃ bhikkhave rakkhanto paraṃ rakkhati paraṃ rakkhanto attānaṃ
 rakkhatī ti._
 ____
 
+// #split#
+
 === Saddhā
 
 ==== Renderings
@@ -110797,6 +111428,8 @@ vuccatī bhikkhave ākāravatī saddhā dassanamūlikā daḷhā asaṃhāriyā
 samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci
 vā lokasmiṃ._
 ____
+
+// #split#
 
 === Santusita; Santuṭṭha
 
@@ -111174,6 +111807,8 @@ flavoursome [food].
 _Lūkhena pi ca santusse nāññaṃ patthe rasaṃ bahuṃ._
 ____
 
+// #split#
+
 === Sappurisa
 
 ==== Renderings
@@ -111385,6 +112020,8 @@ A spiritually outstanding person gives what is hard to give
 
 _So duccajaṃ sappuriso cajitvā._
 ____
+
+// #split#
 
 === Sabbe dhammā nālaṃ abhinivesāyā
 
@@ -112186,6 +112823,8 @@ Comment:
 
 - _karaṇā_: 'by means of, through, by (=_hetu_ or _nissāya_)' (PED).
 
+// #split#
+
 === Samādhi
 
 ==== Renderings
@@ -112481,6 +113120,8 @@ _Ānāpānasatisamādhi bhikkhave bhāvito bahulīkato āsavānaṃ khayāya
 saṃvattati._
 ____
 
+// #split#
+
 === Samāhita
 
 ==== Renderings
@@ -112598,6 +113239,8 @@ Well established in virtue
 
 _sīlesu susamāhito._
 ____
+
+// #split#
 
 === Samudaya
 
@@ -112965,6 +113608,8 @@ an originated nature is destined to cease.
 _āyasmato koṇḍaññassa virajaṃ vītamalaṃ dhammacakkhuṃ udapādi
 yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman ti._
 ____
+
+// #split#
 
 === Sampanna
 
@@ -113484,7 +114129,6 @@ sampanna
 perfect in
 ====
 
-
 [quote, M.2.29]
 ____
 Now, an individual with which ten qualities is one whom I describe as perfect
@@ -113538,6 +114182,8 @@ _bhagavā kusalānaṃ dhammānaṃ upasampadaṃ vaṇṇetī ti_ (S.3.9).
 ****
 
 Commentary: _Chandasampadā ti kusalakattukamyatāchando_.
+
+// #split#
 
 === Sambhava
 
@@ -113844,6 +114490,8 @@ Taṃ viditvā-m-ahaṃ attasambhavaṃ santimeva satimā samajjhagan ti._
 ____
 
 Commentary: _sambhavā ti bhavā_
+
+// #split#
 
 === Saḷāyatana
 
@@ -114482,6 +115130,8 @@ _Atītesu anāgatesu cā pi kappātīto aticca suddhipañño +
 Sabbāyatanehi vippamutto sammā so loke paribbajeyya._
 ____
 
+// #split#
+
 === Sāvajja; Anavajja
 
 ==== Renderings
@@ -114661,6 +115311,8 @@ Paltry, easily gotten, and blameless.
 
 _appañca sulabhañca tañca anavajjaṃ._
 ____
+
+// #split#
 
 === Sāsana
 
@@ -114960,6 +115612,8 @@ _Yassa sabrahmacārīsu gāravo nūpalabbhati +
 Ārakā hoti nibbānā dhammarājassa sāsane._
 ____
 
+// #split#
+
 === Sītibhūta
 
 ==== Renderings
@@ -115112,6 +115766,8 @@ even in this world freed from inward distress.
 
 _So vedayitāsu vītarāgo kālaṃ kaṅkha idheva sītibhūto ti._
 ____
+
+// #split#
 
 === Sīlabbata
 
@@ -115561,6 +116217,8 @@ _bhikkhu sīlavā hoti pātimokkhasaṃvarasaṃvuto viharati
 ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī._
 ____
 
+// #split#
+
 === Suñña; Suññatā
 
 ==== Renderings
@@ -115941,6 +116599,8 @@ _Evam pi'ssa esā ānanda yathābhuccā avipallatthā parisuddhā
 suññatāvakkanti bhavati._
 ____
 
+// #split#
+
 === Suññāgāra
 
 ==== Renderings
@@ -116015,6 +116675,8 @@ He is incapable of conversation.
 
 _nālaṃ sallāpāya._
 ____
+
+// #split#
 
 === Subha
 
@@ -116423,6 +117085,8 @@ _Saṃsaraṃ dīghamaddhānaṃ vaṇṇaṃ katvā subhāsubhaṃ +
 Alaṃ te tena pāpima nihato tvamasi antakāti._
 ____
 
+// #split#
+
 === Sevati
 
 ==== Renderings
@@ -116713,6 +117377,8 @@ Yathārūpañca kho bhante janapadaṃ sevato akusalā dhammā parihāyanti
 kusalā dhammā abhivaḍḍhanti. Evarūpaṃ janapadaṃ sevitabbaṃ._
 ____
 
+// #split#
+
 === Sottiya
 
 ==== Renderings
@@ -116886,8 +117552,12 @@ _Ajjhāyako pi ce assa tiṇṇaṃ vedānaṃ pāragū +
 Etassa vandanāyetaṃ kalaṃ nāgghati soḷasiṃ._
 ____
 
+// #split#
+
 [[terms-h]]
 == H
+
+// #split#
 
 === Hetu
 

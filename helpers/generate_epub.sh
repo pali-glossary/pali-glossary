@@ -5,12 +5,16 @@ if [ "$1" == "" ]; then
     exit 2
 fi
 
+# 0. Split glossary.adoc to individual files per term and generate main.temp.adoc
 # 1. Generate an EPUB with asciidoctor-epub3
 #   1.1 use "-a ebook-extract" to unzip the KF8 EPUB
 # 2. modify it
 # 3. zip back to EPUB
 
-MAIN_ADOC="main.adoc"
+ORIG_MAIN_ADOC="main.adoc"
+TEMP_MAIN_ADOC="main.temp.adoc"
+TERMS_ADOC="manuscript/asciidoc/glossary.adoc"
+TEMP_SECTIONS_DIR="manuscript/asciidoc/temp-sections"
 NAME="$1"
 
 # no trailing slash
@@ -33,6 +37,45 @@ do
     fi
 done
 
+# === 0. Split glossary.adoc to individual section files and generate main.temp.adoc ===
+
+if [ ! -e "$TEMP_SECTIONS_DIR" ]; then
+    mkdir "$TEMP_SECTIONS_DIR"
+else
+    rm "$TEMP_SECTIONS_DIR"/*
+fi
+
+# split sections to individual files
+csplit -z -s -f "$TEMP_SECTIONS_DIR/section-" -b '%03d.adoc' "$TERMS_ADOC" '/^\/\/ \#split\#/' '{*}'
+
+# decrease the hierarchy in section files, each section should start with a lvl1 entry
+# letter sections have only a lvl2 entry
+sed -i 's/^== /= /' "$TEMP_SECTIONS_DIR"/*.adoc
+# term entries start with a lvl3 entry, decrease with two levels
+sed -i 's/^\(=\+\)== /\1 /' "$TEMP_SECTIONS_DIR"/*.adoc
+
+# add an id to the top level heading in the sections, to control what filename
+# they will be in the epub
+for i in "$TEMP_SECTIONS_DIR"/*.adoc
+do
+    section_id=`basename -s ".adoc" "$i"`
+    # add section id if the heading doesn't already have one
+    perl -0777 -p -i -e "s/\n\n= /\n\n\[\["$section_id"\]\]\n= /" "$i"
+done
+
+# list sections and format as include directives
+echo $(ls -1 "$TEMP_SECTIONS_DIR" |\
+    sed "s_^.*\$_include::$TEMP_SECTIONS_DIR/&[]_g") |\
+    sed 's/ *\(include::\)/\n\n\1/g' > temp-sections.adoc
+
+# insert section list and produce a temp main adoc file
+cat "$ORIG_MAIN_ADOC" |\
+    perl -0777 -pe "s/(\n\/\/ #sections begin#\n).*(\n\/\/ #sections end#\n)/\1\2/s" |\
+    awk "/\/\/ #sections end#/{while(getline line<\"temp-sections.adoc\"){print line}} //" |\
+    cat -s > "$TEMP_MAIN_ADOC"
+
+rm temp-sections.adoc
+
 # === 1. Generate an EPUB with asciidoctor-epub3 ===
 
 asciidoctor-epub3 \
@@ -40,7 +83,7 @@ asciidoctor-epub3 \
     -a ebook-format=epub3 \
     -a ebook-extract \
     -o "$NAME.epub" \
-    "$MAIN_ADOC"
+    "$TEMP_MAIN_ADOC"
 
 if [ "$?" != "0" ]; then
     echo "ERROR! asciidoctor-epub3 failed."
@@ -77,6 +120,9 @@ fi
 
 # Tidy up after build
 
+rm "$TEMP_MAIN_ADOC"
+
 rm -r \
    "$build_dir" \
+   "$TEMP_SECTIONS_DIR" \
    "$OUT_DIR/$NAME.epub"
