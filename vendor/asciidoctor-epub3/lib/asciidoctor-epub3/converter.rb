@@ -358,7 +358,7 @@ document.addEventListener('DOMContentLoaded', function(event, reader) {
     end
 
     footer_tag = footer_content.empty? ? '' : %(
-<footer>&ndash; #{footer_content * ' '}</footer>)
+<footer>&#x2013; #{footer_content * ' '}</footer>)
     content = (convert_content node).strip.
       sub(OpenParagraphTagRx,  '<p><span class="open-quote">“</span>').
       sub(CloseParagraphTagRx, '</p>')
