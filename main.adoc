@@ -1,24 +1,17 @@
 = Illustrated Glossary of Pāli Terms
 :booktitle: {doctitle}
-:description: Book Subtitle
 :author: Ajahn Varado
 :creator: {author}
 :version: v0.1
-:revdate: 2018-04-19
+:revdate: 2018-04-22
 :doctype: book
 :lang: en
-:pubs-logo: profound-pubs.jpg
-:publisher-name: Profound Publications
-:publisher-link-name: profound-labs.github.io
-:publisher-link-url: https://profound-labs.github.io/
-:source: https://profound-labs.github.io/
-//:keywords: subject, topic
+:source: https://pali-glossary.github.io/
+:keywords: Pali, language, glossary, dictionary, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
-:isbn: 000-0-00000-000-0
-:identifier: isbn:{isbn}
+:identifier: Illustrated Glossary of Pali Terms
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
-:terms: manuscript/asciidoc/terms
 :front-cover-image: image:desktop-cover.png[Front Cover,800,1200]
 :toc: left
 :toc-title: Contents
