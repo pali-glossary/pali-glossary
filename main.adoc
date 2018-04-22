@@ -9,7 +9,7 @@
 :source: https://pali-glossary.github.io/
 :keywords: Pali, language, glossary, dictionary, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
-:identifier: Illustrated Glossary of Pali Terms
+:identifier: Illustrated-Glossary-of-Pali-Terms
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
 :front-cover-image: image:desktop-cover.png[Front Cover,800,1200]
