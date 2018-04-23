@@ -656,7 +656,7 @@ cleaving
 [quote, M.1.191]
 ____
 The fondness, clinging, attraction, and cleaving within these five grasped
-aggregates is the origin of suffering._
+aggregates is the origin of suffering.
 
 _yo imesu pañcasupādānakkhandhesu chando ālayo anunayo ajjhosānaṃ so
 dukkhasamudayo._
@@ -901,7 +901,7 @@ ____
 Here _aññadatthu_ is now connected to _dhammiyāva kathāya sandasseti
 samādapeti samuttejeti sampahaṃseti._ We take this phrase to be synonymous
 with _aññadatthu uyyojanikapaṭisaṃyuttaṃyeva kathaṃ kattā hoti_
-because it occurs in a similar context_._ In other words, if a bhikkhu
+because it occurs in a similar context. In other words, if a bhikkhu
 instructs, inspires, rouses, and gladdens his audience with talk exclusively
 connected with the teaching, then he is 'one whose words are exclusively
 connected with religious inspiration.' This, then, is our rendering of the
@@ -1432,12 +1432,12 @@ realising
 
 [quote, A.4.298]
 ____
-A bhikkhu investigates the meaning of the teachings he has retained in mind._
+A bhikkhu investigates the meaning of the teachings he has retained in mind.
 
 _dhatānañca dhammānaṃ atthūpaparikkhitā hoti_
 
 Realising their meaning and significance, he practises in accordance with the
-teaching._
+teaching.
 
 _atthamaññāya dhammamaññāya dhammānudhammapaṭipanno ca hoti._
 ____
@@ -2257,7 +2257,7 @@ despise
 [quote, Sn.v.931]
 ____
 He should not despise others for their lowly way of life, or wisdom, or
-observances and practices._
+observances and practices.
 
 _Atha jivitena paññāya silabbatena nāññamatimaññe._
 ____
@@ -2300,7 +2300,7 @@ spurn
 [quote, M.2.180]
 ____
 A brahman who spurns his own wealth (i.e. walking on almsround) fails in his
-duty._
+duty.
 
 _Bhikkhācariyañca pana brāhmaṇo sandhanaṃ atimaññamāno akiccakārī
 hoti._
@@ -2561,7 +2561,7 @@ loko ti vuccatī ti?_
 
 Because, Ānanda, it is void of an [absolute] Selfhood and of what could belong
 to an [absolute] Selfhood, therefore it is said that the world [of phenomena]
-is void [of personal qualities]._
+is void [of personal qualities].
 
 _Yasmā ca kho ānanda suññaṃ attena vā attaniyena vā tasmā suñño loko
 ti vuccati._
@@ -3927,7 +3927,7 @@ _Atha vā pana'ssa evaṃ diṭṭhi hoti_
 It is this [absolute] Selfhood of mine that speaks and experiences and feels
 here and there the karmic consequences of meritorious and demeritorious deeds;
 and this [absolute] Selfhood of mine is everlasting, enduring, eternal, of an
-unchangeable nature, and will endure like unto eternity itself._
+unchangeable nature, and will endure like unto eternity itself.
 
 _yo me ayaṃ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṃ
 kammānaṃ vipākaṃ paṭisaṃvedeti. So kho pana me ayaṃ attā nicco
@@ -4339,12 +4339,12 @@ meaning;
 
 [quote, A.4.298]
 ____
-A bhikkhu investigates the meaning of the teachings he has retained in mind._
+A bhikkhu investigates the meaning of the teachings he has retained in mind.
 
 _dhatānañca dhammānaṃ atthūpaparikkhitā hoti_
 
 Realising their meaning and significance, he practises in accordance with the
-teaching._
+teaching.
 
 _atthamaññāya dhammamaññāya dhammānudhammapaṭipanno ca hoti._
 ____
@@ -4417,7 +4417,7 @@ _katamo ca bhikkhave attho_
 It is the right ten factors (_sammādiṭṭhi... sammāsamādhi
 sammāñāṇaṃ sammāvimutti_).
 
-This is called beneficial._
+This is called beneficial.
 
 _Ayaṃ vuccati bhikkhave attho ti._
 ____
@@ -5315,7 +5315,7 @@ What is a mirror for?
 
 _kimatthiyo ādāso ti._
 
-For (the sake of) reflection, bhante._
+For (the sake of) reflection, bhante.
 
 _Paccavekkhanattho bhante ti._
 ____
@@ -6474,7 +6474,7 @@ Then the brahman who took care of his mother said to the Blessed One
 _mātuposako brāhmaṇo bhagavantaṃ etadavoca._
 
 -- Master Gotama, I seek almsfood righteously and thereby take care of my
-parents. In doing so, am I doing my duty?_
+parents. In doing so, am I doing my duty?
 
 _Ahaṃ hi bho gotama dhammena bhikkhaṃ pariyesāmi. Dhammena bhikkhaṃ
 pariyesitvā mātāpitaro posemi. Kaccāhaṃ bho gotama evaṃkārī
@@ -7649,7 +7649,7 @@ ____
 
 DOP says the etymology of _anīgha_ is uncertain, but suggests it means either
 _niddukkha_ or _a+īgha_ (without evil). But the scriptures do not support
-this_._
+this.
 
 ===== Etymology: a+nīgha not a+īgha
 
@@ -7665,7 +7665,7 @@ _rāgo kho bhante nīgho doso nīgho moho nīgho_
 
 (...) The arahant has abandoned them, chopped them down at the root, completely
 and irreversibly destroyed them, so they will never arise again in future,
-therefore the arahant is called 'one who is rid of spiritual defilement'_
+therefore the arahant is called 'one who is rid of spiritual defilement'
 
 _te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā
 anabhāvakatā āyatiṃ anuppādadhammā tasmā khīṇāsavo bhikkhu anīgho
@@ -7752,7 +7752,7 @@ ____
 Comment:
 
 I accept PTS spellings here. I take _anigha_ as standing for _anīgha_ because
-DOP says _anīgha_ is usually unmetrical_._ I take _aghaṃ_ to mean _nigha_
+DOP says _anīgha_ is usually unmetrical. I take _aghaṃ_ to mean _nigha_
 because the passage itself does so.
 
 Although these readings are unsettled, other readings do no better in
@@ -7785,7 +7785,7 @@ rid of spiritual defilement
 ____
 He has a benevolent mind and unhateful thoughts. He thinks 'May these creatures
 sustain themselves happily, and be rid of unfriendliness, hostility, and
-spiritual defilement.'_
+spiritual defilement.'
 
 _ime sattā averā avyāpajjhā anīghā sukhī attānaṃ pariharantū ti._
 ____
@@ -8828,7 +8828,7 @@ Whatever one identifies with, one is reckoned in terms of.
 
 _yaṃ kho bhikkhu anuseti tena saṅkhaṃ gacchati;_
 
-Whatever one does not identify with, one is not reckoned in terms of._
+Whatever one does not identify with, one is not reckoned in terms of.
 
 _yaṃ nānuseti na tena saṅkhaṃ gacchatī ti._
 
@@ -8859,7 +8859,7 @@ _Yaṃ kho bhikkhu anuseti taṃ anumīyati. Yaṃ anumīyati tena saṅkhaṃ
 gacchati_
 
 What one does not identify with, by that one is not measured. By what one is
-not measured, one is not reckoned._
+not measured, one is not reckoned.
 
 _yaṃ nānuseti na taṃ anumīyati yaṃ nānumīyati na tena saṅkhaṃ
 gacchatīti._
@@ -8890,7 +8890,7 @@ Wrong view [of reality] has lurked within the ignorant for a long time
 
 _Dīgharattamanusayitaṃ diṭṭhigatamajānataṃ_
 
-The ignorant indeed say one is a Brahman on account of birth._
+The ignorant indeed say one is a Brahman on account of birth.
 
 _Ajānantā no pabruvanti jātiyā hoti brāhmano._
 ____
@@ -9572,16 +9572,16 @@ themselves to Gotama's training system, who train in it with diligence.
 +
 ****
 _Sukhitā vata te manujā sugataṃ payirupāsiya +
-****
 Yuñjaṃ gotama sāsane appamattānusikkhareti_ (S.1.52).
+****
 
 3. The diligent and resolute practisers of my training system will go without
 your approval where, having gone, they will not grieve.
 +
 ****
 _Te appamattā pahitattā mama sāsanakārakā +
-****
 Akāmā te gamissanti yattha gantvā na socare_ (Sn.v.445).
+****
 
 4. For a bhikkhu who abides properly considering pairs [of teachings] in this
 way, diligently, vigorously, and resolutely, one of two fruits can be expected.
@@ -9890,7 +9890,7 @@ diligence [in the practice]
 [quote, S.5.42]
 ____
 Whatever spiritually wholesome factors there are, they all stem from diligence
-[in the practice]._
+[in the practice].
 
 _ye keci kusalā dhammā sabbe te appamādamūlakā._
 ____
@@ -11480,16 +11480,16 @@ any phenomenon. I have abandoned the All.
 +
 ****
 _Sabbābhibhū sabbavidūhamasmi sabbesu dhammesu anupalitto +
-****
 Sabbañjaho_ (Dh.v.353).
+****
 
 2. One who has transcended the All, understood the All, who is of great wisdom,
 who does not cleave to any phenomenon, who has abandoned the All.
 +
 ****
 _Sabbābhibhuṃ sabbaviduṃ sumedhaṃ sabbesu dhammesu anupalittaṃ +
-****
 Sabbañjahaṃ_ (Sn.v.211).
+****
 
 3. free of attachment, who has transcended the whole world [of phenomena]
 +
@@ -12306,35 +12306,35 @@ _Citte gahapati arakkhite kāyakammampi arakkhitaṃ hoti. Vacī kammampi
 arakkhitaṃ hoti. Manokammampi arakkhitaṃ hoti._
 
 When acts of body, speech, and mind are unsupervised [by the mind], they are
-spiritually defiled._
+spiritually defiled.
 
 _Tassa arakkhitakāyakammantassa arakkhitavacīkammantassa
 arakkhitamanokammantassa kāyakammampi avassutaṃ hoti. Vacīkammampi
 avassutaṃ hoti. Manokammampi avassutaṃ hoti._
 
-When acts of body, speech, and mind are spiritually defiled, they are rotten._
+When acts of body, speech, and mind are spiritually defiled, they are rotten.
 
 _Tassa avassutakāyakammantassa avassutavacīkammantassa
 avassutamanokammantassa kāyakammampi pūtiyaṃ hoti. Vacīkammampi pūtiyaṃ
 hoti. Manokammampi pūtiyaṃ hoti._
 
-When acts of body, speech, and mind are rotten, one's death is inauspicious._
+When acts of body, speech, and mind are rotten, one's death is inauspicious.
 
 _Tassa pūtikāyakammantassa pūtivacīkammantassa pūtimanokammantassa na
 bhaddakaṃ maraṇaṃ hoti. Na bhaddikā kālakiriyā._
 
 It is like when a hut is poorly thatched, the hut, the rafters, and the walls
-are unprotected._
+are unprotected.
 
 _Seyyathā pi gahapati kūṭāgāre ducchanne kūṭampi arakkhitaṃ hoti.
 Gopānasiyo pi arakkhitā honti. Bhitti pi arakkhitā hoti._
 
-The hut, the rafters, and the walls become soaked._
+The hut, the rafters, and the walls become soaked.
 
 _Kūṭampi avassutaṃ hoti. Gopānasiyo pi avassutā honti. Bhitti pi
 avassutā hoti._
 
-The hut, the rafters, and the walls become rotten._
+The hut, the rafters, and the walls become rotten.
 
 _Kūṭampi pūtikaṃ hoti. Gopānasiyo pi pūtikā honti. Bhitti pi pūtikā
 hoti._
@@ -12457,7 +12457,7 @@ Which things must be abandoned through transcendent insight?
 
 _Katame ca bhikkhave dhammā abhiññā pahātabbā?_
 
-Uninsightfulness into reality and craving for states of individual existence._
+Uninsightfulness into reality and craving for states of individual existence.
 
 _Avijjā ca bhavataṇhā ca._
 ____
@@ -12612,7 +12612,7 @@ uninsightfulness into reality
 [quote, A.5.116]
 ____
 What is the condition that nourishes uninsightfulness into reality? The five
-hindrances, one should reply._
+hindrances, one should reply.
 
 _ko cāhāro avijjāya? Pañca nīvaraṇā tissa vacanīyaṃ_
 
@@ -13165,7 +13165,7 @@ aveccappasādena samannāgato hoti_) has come to the conclusion that:
 ____
 The teaching is well explained by the Blessed One, fathomable in this lifetime,
 realisable in the here and now, intriguing, personally applicable, to be
-realised by the wise for themselves._
+realised by the wise for themselves.
 
 _svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko
 paccattaṃ veditabbo viññūhī ti._
@@ -13187,7 +13187,7 @@ practice, is applied to the correct practice, is applied to the noble practice,
 is applied to a proper practice; that is, the four pairs of persons, the eight
 types of individuals. This community of the Blessed One's disciples is worthy
 of offerings, hospitality, gifts, and honouring with joined palms. They are the
-unsurpassed field of merit for the world._
+unsurpassed field of merit for the world.
 
 _supaṭipanno bhagavato sāvakasaṅgho ujupaṭipanno bhagato sāvakasaṅgho
 ñāyapaṭipanno bhagavato sāvakasaṅgho sāmīcipaṭipanno bhagavato
@@ -13363,7 +13363,7 @@ saṃyojanāni_) still, in regard to the five grasped aggregates
 (_pañcasupādānakkhandhesu_) there remains within him
 
 ____
-a residual self-centredness _
+a residual self-centredness
 
 _anusahagato asmī ti māno_
 
@@ -15011,7 +15011,7 @@ realising
 ____
 A bhikkhu investigates the meaning of the teachings he has retained in mind
 
-_dhatānañca dhammānaṃ atthūpaparikkhitā hoti _
+_dhatānañca dhammānaṃ atthūpaparikkhitā hoti_
 
 Realising their meaning and significance, he practises in accordance with the
 teaching
@@ -15504,7 +15504,7 @@ vigorous endeavour [to practise the teaching]
 
 [quote, M.3.187]
 ____
-The vigorous endeavour [to practise the teaching] must be made today._
+The vigorous endeavour [to practise the teaching] must be made today.
 
 _ajje va kiccaṃ ātappaṃ._
 ____
@@ -15542,7 +15542,7 @@ Bhante, how could the bhikkhunīs be diligently applied [to the practice]? The
 masters, the Group-of-Six bhikkhus, are getting the bhikkhunīs to wash, dye,
 and comb sheep wool. Thus the bhikkhunīs are neglecting the recitation, the
 interrogation, the higher virtue, the higher mental states, and the higher
-penetrative discernment._
+penetrative discernment.
 
 _Kuto bhante bhikkhunīnaṃ appamādo. Ayyā chabbaggiyā bhikkhunīhi
 eḷakalomāni dhovāpenti pi rajāpenti pi vijaṭāpenti pi. Bhikkhunīyo
@@ -15779,16 +15779,16 @@ afar venerate him.'
 +
 ****
 _Te cā pi buddhaṃ disvāna buddhaṃ ādiccabandhunaṃ +
-****
 Dūrato'va namassanti._
+****
 
 2. They, seeing the Buddha, the enlightened kinsman of the Sun clan, even from
 afar venerate him.
 +
 ****
 _Te cā pi buddhaṃ disvāna buddhaṃ ādiccabandhunaṃ +
-****
 Dūrato'va namassanti._
+****
 
 ==== Illustrations
 
@@ -16182,13 +16182,13 @@ What is the wretchedness of bodily forms?
 _Ko ca bhikkhave rūpānaṃ ādīnavo?_
 
 In this regard, one might see that same woman, eighty or ninety or a hundred
-years old..._
+years old...
 
 _Idha bhikkhave tameva bhaginiṃ passeyya aparena samayena āsītikaṃ vā
 nāvutikaṃ vā vassasatikaṃ vā jātiyā..._
 
 What do you think, bhikkhus? Has her former loveliness and beauty vanished and
-a wretchedness become evident?_
+a wretchedness become evident?
 
 _Taṃ kiṃ maññatha bhikkhave yā purimā subhā vaṇṇanibhā sā
 antarahitā ādīnavo pātubhūto ti?_
@@ -16197,7 +16197,7 @@ Yes, bhante
 
 _Evaṃ bhante._
 
-This is the wretchedness of bodily forms._
+This is the wretchedness of bodily forms.
 
 _Ayampi bhikkhave rūpānaṃ ādīnavo._
 ____
@@ -16416,39 +16416,39 @@ develop
 _Puna ca paraṃ udāyi akkhātā mayā sāvakānaṃ paṭipadā
 yathāpaṭipannā me sāvakā_
 
-the [contemplation of the] four bases of mindfulness,_
+the [contemplation of the] four bases of mindfulness,
 
 _cattāro satipaṭṭhāne bhāventi._
 
-the four modes of right inward striving,_
+the four modes of right inward striving,
 
 _cattāro sammappadhāne bhāventi._
 
-the four paths to psychic power,_
+the four paths to psychic power,
 
 _cattāro iddhipāde bhāventi._
 
-the five spiritual faculties,_
+the five spiritual faculties,
 
 _pañcindriyāni bhāventi._
 
-the five spiritual powers,_
+the five spiritual powers,
 
 _pañca balāni bhāventi._
 
-the seven factors of enlightenment,_
+the seven factors of enlightenment,
 
 _satta bojjhaṅge bhāventi._
 
-the noble eightfold path,_
+the noble eightfold path,
 
 _ariyaṃ aṭṭhaṅgikaṃ maggaṃ bhāventi._
 
-the eight practices of spiritual development that lead to mastery ,_
+the eight practices of spiritual development that lead to mastery ,
 
 _aṭṭha abhibhāyatanāni bhāventi._
 
-the ten practices of spiritual development through kasiṇas,_
+the ten practices of spiritual development through kasiṇas,
 
 _dasakasiṇāyatanāni bhāventi._
 
@@ -16769,7 +16769,7 @@ There are five occasions of liberation [from perceptually obscuring states]
 and resolutely applied [to the practice], his unliberated mind is liberated
 [from perceptually obscuring states], his undestroyed perceptually obscuring
 states are destroyed, the unreached safety from [the danger of] bondage [to
-individual existence] is reached. Which five?_
+individual existence] is reached. Which five?
 
 _Pañcimāni bhikkhave vimuttāyatanāni yattha bhikkhuno appamattassa
 ātāpino pahitattassa viharato avimuttaṃ vā cittaṃ vimuccati
@@ -16780,7 +16780,7 @@ In the first case, a teacher explains the Buddha's teaching
 
 _satthā dhammaṃ deseti_
 
-The bhikkhu accordingly realises the meaning and significance of the teaching _
+The bhikkhu accordingly realises the meaning and significance of the teaching
 
 _tathā tathā so tasmiṃ dhamme atthappaṭisaṃvedī ca hoti
 dhammapaṭisaṃvedī ca_
@@ -16805,7 +16805,7 @@ from this, his mind becomes collected
 
 _sukhino cittaṃ samādhiyati._
 
-This is the first occasion of liberation [from perceptually obscuring states]_
+This is the first occasion of liberation [from perceptually obscuring states]
 
 _Idaṃ bhikkhave paṭhamaṃ vimuttāyatanaṃ yattha bhikkhuno appamattassa
 ātāpino pahitattassa viharato avimuttaṃ vā cittaṃ vimuccati
@@ -17194,8 +17194,8 @@ from the slaughter of cattle came ninety-eight.
 +
 ****
 _Tayo rogā pure āsuṃ icchā anasanaṃ jarā +
-****
 Pasūnañca samārambhā aṭṭhānavuti-m-āgamuṃ_ (Sn.v.311).
+****
 
 2. The ascetic Gotama abstains from destroying seeds and plants.
 +
@@ -17219,8 +17219,8 @@ is unpleasant. Retaliation might befall you.
 +
 ****
 _Māvoca pharusaṃ kañci vuttā paṭivadeyyuṃ taṃ +
-****
 Dukkhā hi sārambhakathā paṭidaṇḍā phuseyyuṃ taṃ_ (Dh.v.133).
+****
 
 3. Sensuous pleasures in this lifetime; sensuous pleasures in the hereafter...
 lead to unvirtuous, spiritually unwholesome mental states such as greed, ill
@@ -17235,7 +17235,7 @@ teva ariyasāvakassa idhamanusikkhato antarāyāya sambhavanti_ (M.2.262).
 
 ===== 'Harmful conduct'
 
-In some circumstances, _ārambha, _samārambha_, and _sārambha_ can mean
+In some circumstances, _ārambha_, _samārambha_, and _sārambha_ can mean
 'harmful conduct'. This meaning is acknowledged in DOP under _Ārambha_, and
 called 'wrongly directed exertion or action'. This is close in meaning to
 _akusala_, and could therefore be called 'spiritually unwholesome conduct.' But
@@ -18246,7 +18246,7 @@ threefold division (D.3.216), namely:
 Here, _avijjāsavo_ corresponds to _avijjāpaccayā uppajjanti āsavā_, and
 _kāmāsavo_ and _bhavāsavo_ would then necessarily correspond to _kāya...
 vacī... manosamārambhapaccayā uppajjanti āsavā_ because the division is
-comprehensive_._ There are no _āsavas_ outside this twofold division. We infer
+comprehensive. There are no _āsavas_ outside this twofold division. We infer
 from this that:
 
 - _avijjāsavo_ means the _āsavo_ that arises due to _avijjā._
@@ -18425,7 +18425,7 @@ We will now give specific examples of āsavas. The _Sabbāsava Sutta_ (M.1.9)
 lists the first three ties to individual existence (_saṃyojanāni_):
 
 ____
-the view of personal identity _
+the view of personal identity
 
 _sakkāyadiṭṭhi_
 
@@ -18861,7 +18861,7 @@ ____
 [quote, A.5.116]
 ____
 What is the condition that nourishes uninsightfulness into reality? The five
-hindrances, one should reply._
+hindrances, one should reply.
 
 _ko cāhāro avijjāya? Pañca nīvaraṇā tissa vacanīyaṃ._
 ____
@@ -19979,7 +19979,7 @@ nourishing condition
 [quote, A.5.116]
 ____
 What is the condition that nourishes uninsightfulness into reality? The five
-hindrances, one should reply._
+hindrances, one should reply.
 
 _ko cāhāro avijjāya? Pañca nīvaraṇā tissa vacanīyaṃ._
 ____
@@ -20960,7 +20960,7 @@ _idha bhikkhave ekacco pāṇātipātī hoti luddo lohitapāṇī hatapahate
 niviṭṭho adayāpanno sabbapāṇabhūtesu_
 
 He goes crookedly by way of body, speech, and mind. His conduct of body,
-speech, and mind are deviant._
+speech, and mind are deviant.
 
 _so saṃsappati kāyena saṃsappati vācāya saṃsappati manasā tassa
 jimhaṃ kāyakammaṃ hoti jimhaṃ vacīkammaṃ jimhaṃ manokammaṃ_
@@ -21198,7 +21198,7 @@ buddhassa vaṇṇaṃ bhāsati dhammassa vaṇṇaṃ bhāsati saṅghassa
 vaṇṇaṃ bhāsati_
 
 And so this pair, teacher and pupil, directly opposing each other's arguments,
-followed step-by-step behind the Blessed One and the community of bhikkhus,_
+followed step-by-step behind the Blessed One and the community of bhikkhus,
 
 _Itiha te ubho ācariyantevāsī aññamaññassa ujuvipaccanīkavādā
 bhagavantaṃ piṭṭhito piṭṭhito anubaddhā honti bhikkhusaṅghañca._
@@ -21221,7 +21221,7 @@ natthi sabbaso bhavanirodho ti._
 
 'And there are some ascetics and Brahmanists whose doctrine is directly opposed
 to those ascetics and Brahmanists: 'There is a complete ending of individual
-existence.'_
+existence.'
 
 _Tesaṃyeva kho gahapatayo samaṇabrāhmaṇānaṃ eke samaṇabrāhmaṇā
 ujuvipaccanīkavādā te evamāhaṃsu atthi sabbaso bhavanirodho ti._
@@ -21666,7 +21666,7 @@ embarrassed if he receives nothing:
 
 [quote, A.4.87]
 ____
-And so, from getting nothing, he becomes embarrassed _
+And so, from getting nothing, he becomes embarrassed
 
 _Itissa alābhena maṅkubhāvo_
 
@@ -21949,23 +21949,23 @@ and high planes of existence. What five?
 
 _pañcimāni bhikkhave uddhambhāgiyāni saṃyojanāni. katamāni pañca?_
 
-attachment to the refined material states of awareness _
+attachment to the refined material states of awareness
 
 _rūparāgo_
 
-attachment to immaterial states of awareness _
+attachment to immaterial states of awareness
 
 _arūparāgo_
 
-self-centredness _
+self-centredness
 
 _māno_
 
-vanity _
+vanity
 
 _uddhaccaṃ_
 
-uninsightfulness into reality _
+uninsightfulness into reality
 
 _avijjā._
 ____
@@ -22229,7 +22229,7 @@ In the following quote we parenthesise '[by old age and death]':
 [quote, S.4.28-9]
 ____
 All is ravaged [by old age and death]. What is the all that is ravaged [by old
-age and death]?_
+age and death]?
 
 _Sabbaṃ bhikkhave upaddutaṃ. Kiñca bhikkhave sabbaṃ upaddutaṃ_
 
@@ -22262,11 +22262,11 @@ ____
 +
 [quote, S.4.21]
 ____
-All is conquered. What is the all that is conquered?_
+All is conquered. What is the all that is conquered?
 
 _Sabbaṃ bhikkhave addhabhūtaṃ. Kiñca bhikkhave sabbaṃ addhabhūtaṃ?_
 
-(...) The visual sense is conquered, visible objects are conquered, etc. .
+(...) The visual sense is conquered, visible objects are conquered, etc.
 
 _Cakkhuṃ bhikkhave addhabhūtaṃ rūpā addhabhūtā_
 
@@ -22451,7 +22451,7 @@ unpleasant karmic consequences, and future birth, old age, and death.
 _avadhiṃsu naṃ pāpakā akusalā dhammā saṅkilesikā ponobhavikā
 sadarā dukkhavipākā āyatiṃ jātijarāmaraṇiyā_
 
-In this way a teacher's undoing comes to be._
+In this way a teacher's undoing comes to be.
 
 _evaṃ kho ānanda ācariyūpaddavo hoti._
 ____
@@ -23933,7 +23933,7 @@ ____
 ____
 If a bhikkhu thinks 'I am not able to make that person emerge from what is
 spiritually unwholesome and establish him in what is spiritually wholesome' he
-should not spurn detached awareness towards such a person._
+should not spurn detached awareness towards such a person.
 
 _Na cāhaṃ sakkomi etaṃ puggalaṃ akusalā vuṭṭhāpetvā kusale
 patiṭṭhāpetun ti. Evarūpe bhikkhave puggale upekkhā nātimaññitabbā._
@@ -24137,7 +24137,7 @@ Therefore it is called the ascetics' neutral attitude.
 
 _tasmā sā upekkhā nekkhammasitā ti vuccati_
 
-These are the six types of ascetics' neutral attitude._
+These are the six types of ascetics' neutral attitude.
 
 _Imā cha nekkhammasitā upekkhā._
 ____
@@ -25776,7 +25776,7 @@ Now at that time the Blessed One was seated, explaining the teaching,
 surrounded by a large assembly. A certain bhikkhu had eaten garlic, and had sat
 down at a distance, thinking: "May the bhikkhus not be troubled [by the stench
 of garlic]." The Blessed One saw that bhikkhu sitting at a distance, and asked
-the bhikkhus: "Bhikkhus, why is this bhikkhu sitting at a distance?"_
+the bhikkhus: "Bhikkhus, why is this bhikkhu sitting at a distance?"
 
 _Tena kho pana samayena bhagavā mahatiyā parisāya parivuto dhammaṃ desento
 nisinno hoti. Aññatarena bhikkhunā lasunaṃ khāyitaṃ hoti. So mā
@@ -27998,7 +27998,7 @@ obvious
 [quote, S.5.259]
 ____
 But though Venerable Ānanda was given such a broad hint by the Blessed One,
-such an obvious suggestion, he was unable to perceive it._
+such an obvious suggestion, he was unable to perceive it.
 
 _Evampi kho āyasmā ānando bhagavatā oḷārike nimitte kayiramāne
 oḷārike obhāse kayiramāne nāsakkhi paṭivijjhituṃ._
@@ -28237,8 +28237,8 @@ to discern, subtle, going against the stream.
 +
 ****
 _Paṭisotagāmiṃ nipuṇaṃ gambhīraṃ duddasaṃ aṇuṃ +
-****
 Rāgarattā na dakkhinti tamokkhandhena āvutāti_ (S.1.137).
+****
 
 However, that inward darkness equals the _āsavas_ is most clearly seen from
 this quote:
@@ -30288,7 +30288,7 @@ _bhagavā hi bhante karuṇāvihārī ti._
 maliciousness might arise, have been abandoned by the Perfect One... If what
 you said referred to that, then I allow it to you'
 
- _...vihesavā assa..._
+(...) _vihesavā assa_ (...)
 ____
 
 .Illustration
@@ -31215,7 +31215,7 @@ ____
 It is this [absolute] Selfhood of mine that speaks and experiences here and
 there the karmic consequences of meritorious and demeritorious deeds; and this
 [absolute] Selfhood of mine is everlasting, enduring, eternal, of an
-unchangeable nature, and will endure like unto eternity itself._
+unchangeable nature, and will endure like unto eternity itself.
 
 _yo me ayaṃ attā vado vedeyyo tatra tatra kalyāṇapāpakānaṃ
 kammānaṃ vipākaṃ paṭisaṃvedeti. So kho pana me ayaṃ attā nicco
@@ -31545,7 +31545,7 @@ Such pleasure is only allowed to those for whom money is allowed:
 [quote, S.4.326]
 ____
 Those for whom gold and silver are allowed, the five varieties of sensuous
-pleasure are allowed._
+pleasure are allowed.
 
 _yassa kho gāmaṇi jātarūparajataṃ kappati pañcapi tassa kāmaguṇā
 kappanti._
@@ -31988,7 +31988,7 @@ sensuous
 [quote, M.1.454]
 ____
 Now, Udāyī, the physical and psychological pleasure that arises from the five
-varieties of sensuous pleasure is called sensuous pleasure._
+varieties of sensuous pleasure is called sensuous pleasure.
 
 _Yaṃ kho udāyi ime pañcakāmaguṇe paṭicca uppajjati sukhaṃ
 somanassaṃ idaṃ vuccati kāmasukhaṃ._
@@ -32746,14 +32746,13 @@ _paccudāvattati kho idaṃ viññāṇaṃ nāmarūpamhā nāparaṃ gacchati_
 
 On account of this one can be born, age and die, pass away and be reborn
 
-_Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā _
+_Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā_
 
 Namely through the stream of sense consciousness being dependent on
 denomination-and-bodily-form; and denomination-and-bodily-form being dependent
-on the stream of sense consciousness._
+on the stream of sense consciousness.
 
-_yadidaṃ nāmarūpapaccayā viññāṇaṃ viññāṇapaccayā
-nāmarūpaṃ._
+_yadidaṃ nāmarūpapaccayā viññāṇaṃ viññāṇapaccayā nāmarūpaṃ._
 ____
 
 .Illustration
@@ -32772,7 +32771,7 @@ denomination-and-bodily-form.
 _Tasmātihānanda eseva hetu etaṃ nidānaṃ esa samudayo esa paccayo
 viññāṇassa yadidaṃ nāmarūpaṃ_
 
-On account of this one can be born, age and die, pass away and be reborn._
+On account of this one can be born, age and die, pass away and be reborn.
 
 _Ettāvatā kho ānanda jāyetha vā jīyetha vā mīyetha vā cavetha vā
 upapajjetha vā_
@@ -32931,13 +32930,13 @@ on what grounds?
 ____
 On grounds [of what attainment], friend Kālāma, having realised this state
 for yourself through transcendent insight and abiding in it, do you make it
-known to others?_
+known to others?
 
 _kittāvatā no āvuso kālāma imaṃ dhammaṃ sayaṃ abhiññā
 sacchikatvā upasampajja pavedesī ti._
 
 In reply he declared [that he had realised] the state of awareness of
-nonexistence._
+nonexistence.
 
 _Evaṃ vutte bhikkhave āḷāro kālāmo ākiñcaññāyatanaṃ pavedesi._
 
@@ -33007,7 +33006,7 @@ liberated [from perceptually obscuring states].
 _nibbindaṃ virajjati virāgā vimuccati._
 
 (...) On these grounds one is perfect [in the development of] the [six] sense
-faculties._
+faculties.
 
 _ettāvatā kho bhikkhu indriyasampanno hotī ti._
 ____
@@ -33067,7 +33066,7 @@ loko ti vuccatī ti?_
 
 Because, Ānanda, it is void of an [absolute] Selfhood and of what could belong
 to an [absolute] Selfhood, therefore it is said that the world [of phenomena]
-is void [of personal qualities]._
+is void [of personal qualities].
 
 _Yasmā ca kho ānanda suññaṃ attena vā attaniyena vā tasmā suñño loko
 ti vuccati._
@@ -33097,7 +33096,7 @@ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja
 viharati._
 
 It is in reference to this that tranquillity is spoken of by the Blessed One,
-in a way that is qualified._
+in a way that is qualified.
 
 _Ettāvatā pi kho āvuso passaddhi vuttā bhagavatā pariyāyena...._
 ____
@@ -34301,7 +34300,7 @@ received nothing, that is good."
 
 _Alatthaṃ yadidaṃ sādhu nālatthaṃ kusalaṃ iti_
 
-Being the same in either event, he [would] return to that same tree._
+Being the same in either event, he [would] return to that same tree.
 
 _Ubhayeneva so tādī rukkhaṃvupanivattati._
 ____
@@ -35215,12 +35214,12 @@ spiritually perfected
 [quote, S.3.63]
 ____
 Those who are liberated [from perceptually obscuring states] are spiritually
-perfected._
+perfected.
 
 _ye suvimuttā te kevalino_
 
 Those who are spiritually perfected, the round of rebirth for them is not to be
-discerned._
+discerned.
 
 _ye kevalino vaṭṭaṃ tesaṃ natthi paññāpanāya._
 ____
@@ -35855,7 +35854,7 @@ destruction
 
 [quote, It.44]
 ____
-Destroyed craving for states of individual existence._
+Destroyed craving for states of individual existence.
 
 _bhavataṇhāparikkhayā._
 ____
@@ -36170,7 +36169,7 @@ cittaṃ na namati ātappāya anuyogāya sātaccayā padhānāya_
 
 For one whose mind is not inclined to vigorous endeavour, application,
 perseverance, and inward striving, this is the first variety of remissness in
-practising the teaching._
+practising the teaching.
 
 _yassa cittaṃ na namati ātappāya anuyogāya sātaccāya padhānāya ayaṃ
 paṭhamo cetokhilo._
@@ -36678,7 +36677,7 @@ It has nine openings, nine orifices.
 
 _tassa nava vanamukhāni nava abhedanamukhāni_
 
-Whatever oozes out of them is foul, foul-smelling, and disgusting._
+Whatever oozes out of them is foul, foul-smelling, and disgusting.
 
 _yaṃ kiñci paggharati asuciññeva paggharati duggandhaññeva paggharati
 jegucchiyaññeva paggharati._
@@ -37699,7 +37698,7 @@ hunting ground
 
 [quote, A.2.33]
 ____
-Having roared three leonine roars, he sets out for the hunting ground._
+Having roared three leonine roars, he sets out for the hunting ground.
 
 _Tikkhattuṃ sīhanādaṃ naditvā gocarāya pakkamati._
 ____
@@ -38013,27 +38012,27 @@ In this regard a bhikkhu is:
 
 _Idha bhikkhave bhikkhū_
 
-proficient in attaining inward collectedness _
+proficient in attaining inward collectedness
 
 _samādhissa samāpattikusalo hoti_
 
-proficient in maintaining inward collectedness _
+proficient in maintaining inward collectedness
 
 _Samādhissa ṭhitikusalo hoti_
 
-proficient in emerging from inward collectedness _
+proficient in emerging from inward collectedness
 
 _Samādhissa vuṭṭhānakusalo hoti_
 
-proficient in preparing for inward collectedness _
+proficient in preparing for inward collectedness
 
 _Samādhissa kallitakusalo hoti_
 
-knowledgeable about the [proper] sphere of application of inward collectedness _
+knowledgeable about the [proper] sphere of application of inward collectedness
 
 _Samādhissa gocarakusalo hoti_
 
-proficient in directing inward collectedness _
+proficient in directing inward collectedness
 
 _Samādhissa abhinīhārakusalo hoti._
 ____
@@ -38340,13 +38339,13 @@ fascia' (http:// wings.buffalo.edu/smbs/ana/first.htm).
 - 'Place the cat on its ventral surface. Massage the skin of the dorsal neck
 region to separate it from the underlying muscles and make a small longitudinal
 slit through the skin in the midline. Do not cut through the superficial fascia
-under the skin' (http:// core.ecu.edu/biol/singhasc/cat-muscles.htm).
+under the skin' (http://core.ecu.edu/biol/singhasc/cat-muscles.htm).
 
 References:
 
-(http:// en.wikipedia.org/wiki/Subcutaneous_tissue).
+http://en.wikipedia.org/wiki/Subcutaneous_tissue
 
-(http:// en.wikibooks.org/wiki/Human_Physiology/Integumentary_System).
+http://en.wikibooks.org/wiki/Human_Physiology/Integumentary_System
 
 ===== Dissection of the integumentary system by Prince Pāyāsi
 
@@ -39094,12 +39093,12 @@ attitude
 
 [quote, A.4.104]
 ____
-How about if I developed [unlimited, all-encompassing] goodwill further?_
+How about if I developed [unlimited, all-encompassing] goodwill further?
 
 _yannūnāhaṃ uttariṃ mettaṃ bhāveyyantī._
 
 Then for seven years the teacher Sunetta developed a mind of [unlimited,
-all-encompassing] goodwill._
+all-encompassing] goodwill.
 
 _Atha kho bhikkhave sunetto satthā sattavassāni mettaṃ cittaṃ bhāvesi._
 ____
@@ -39610,7 +39609,7 @@ intentionality
 [quote, M.1.53]
 ____
 Sense impression, perception, intentionality, sensation, and the paying of
-attention, are called 'denomination.'_
+attention, are called 'denomination.'
 
 _vedanā saññā cetanā phasso manasikāro idaṃ vuccatāvuso nāmaṃ._
 ____
@@ -39689,7 +39688,7 @@ is intent upon
 ____
 When the noble disciple is intent upon going forth from the household life into
 the ascetic life, he is nearly in leaf, like the celestial coral tree of the
-Tāvatiṃsa devas._
+Tāvatiṃsa devas.
 
 _yasmiṃ samaye ariyasāvako agārasmā anagāriyaṃ pabbajjāya ceteti
 paṇḍupalāso bhikkhave ariyasāvako tasmiṃ samaye hoti devānaṃva
@@ -39720,7 +39719,7 @@ acetayamānassa me seyyo_
 
 If I were to be intent upon or to aim [at anything further], these states of
 refined awareness that I have attained would cease and less refined states of
-refined awareness would arise in me._
+refined awareness would arise in me.
 
 _Ahañceva kho pana ceteyyaṃ abhisaṅkhareyyaṃ imā ca me saññā
 nirujjheyyuṃ aññā ca oḷārikā saññā uppajjeyyuṃ._
@@ -42794,8 +42793,8 @@ thus, then he sees this matter [according to reality].
 +
 ****
 _Ākiñcaññasambhavaṃ ñatvā nandi saṃyojanaṃ iti +
-****
 Evametaṃ abhiññāya tato tattha vipassati_ (Sn.v.1115).
+****
 
 ==== Illustrations
 
@@ -43221,7 +43220,7 @@ the final knowledge: the knowledge of the transmigration of beings
 _sattānaṃ cutūpapāte ñāṇaṃ vijjā_
 
 the final knowledge: the knowledge of the destruction of perceptually obscuring
-states_._
+states.
 
 _āsavānaṃ khaye ñāṇaṃ vijjā._
 ____
@@ -43763,7 +43762,7 @@ _yo ca pasaṃsati yañca pasaṃsati yo ca pasaṃsito bhiyyo somattāya
 viriyaṃ ārabhati sabbe te bahuṃ puññaṃ pasavanti. Taṃ kissa hetu?_
 
 (...) Because the teaching and discipline are well explained, well expounded, and
-lead to deliverance [from suffering], and to inward peace._
+lead to deliverance [from suffering], and to inward peace.
 
 _Evaṃ hetaṃ cunda hoti svākkhāte dhammavinaye suppavedite niyyānike
 upasamasaṃvattanike._
@@ -44497,7 +44496,7 @@ The Buddha, approaching death, said to the weeping Ānanda:
 [quote, D.2.118]
 ____
 'How could it possibly be, Ānanda, that what is born, brought about,
-originated, destined to decay, not decay? It is not possible.'_
+originated, destined to decay, not decay? It is not possible.'
 
 _Taṃ kutettha ānanda labbhā yaṃ taṃ jātaṃ bhūtaṃ saṅkhataṃ
 palokadhammaṃ taṃ vata mā palujjitī. Netaṃ ṭhānaṃ vijjati._
@@ -44780,7 +44779,7 @@ _avitataṇhāse bhavābhavesu_ (Sn.v.776).
 ****
 
 2. In relation to states of individual existence, the attachment to individual
-existence_._
+existence.
 +
 ****
 _bhavesu bhavarāgo_ (A.2.10).
@@ -45083,7 +45082,7 @@ _taṇhā panāyaṃ kattha uppajjamānā uppajjati kattha nivisamānā
 nivisatī ti._
 
 Whatever in the world [of phenomena] is agreeable and pleasing: it is here that
-craving arises when it arises; it is here that it persists when it persists._
+craving arises when it arises; it is here that it persists when it persists.
 
 _yaṃ kho kiñci loke piyarūpaṃ sātarūpaṃ etthesā taṇhā
 uppajjamānā uppajjati ettha nivisamānā nivisati._
@@ -45093,7 +45092,7 @@ And what in the world is agreeable and pleasing?
 _Kiñca loke piyarūpaṃ sātarūpaṃ?_
 
 The visual sense is agreeable and pleasing in the world: it is here that
-craving arises when it arises; it is here that it persists when it persists._
+craving arises when it arises; it is here that it persists when it persists.
 
 _Cakkhuṃ loke piyarūpaṃ sātarūpaṃ etthesā taṇhā uppajjamānā
 uppajjati ettha nivisamānā nivisati._
@@ -45101,7 +45100,7 @@ uppajjati ettha nivisamānā nivisati._
 So, too, the auditory sense, the olfactory sense, the gustatory sense, the
 tactile sense, and the mental sense have an agreeable and pleasing nature: it
 is here that craving arises when it arises; it is here that it persists when it
-persists._
+persists.
 
 _Sotaṃ... Ghānaṃ... Jivhā... Kāyo... Mano loke piyarūpaṃ
 sātarūpaṃ etthesā taṇhā uppajjamānā uppajjati ettha nivisamānā
@@ -45916,7 +45915,7 @@ _pāragato_, we treat it as a synonym of _pāragato_:
 [quote, S.4.157]
 ____
 Crossed [to the Far Shore], reached the Far Shore, the Brahman stands on Dry
-Land._
+Land.
 
 _tiṇṇo pāragato thale tiṭṭhati brāhmaṇo._
 ____
@@ -46399,7 +46398,7 @@ the final knowledge: knowledge of the transmigration of beings
 _sattānaṃ cutūpapāte ñāṇaṃ vijjā_
 
 the final knowledge: the knowledge of the destruction of perceptually obscuring
-states_._
+states.
 
 _āsavānaṃ khaye ñāṇaṃ vijjā._
 ____
@@ -46513,7 +46512,7 @@ the final knowledge: knowledge of the transmigration of beings
 _sattānaṃ cutūpapāte ñāṇaṃ vijjā_
 
 the final knowledge: the knowledge of the destruction of perceptually obscuring
-states_._
+states.
 
 _āsavānaṃ khaye ñāṇaṃ vijjā._
 ____
@@ -47988,7 +47987,7 @@ In this regard some person has this dogmatic view:
 
 _idha bhante ekacco evaṃdiṭṭhiko hoti_
 
-there is no merit in giving, donating and offering _
+there is no merit in giving, donating and offering
 
 _natthi dinnaṃ natthi yiṭṭhaṃ natthi hutaṃ_
 
@@ -47997,7 +47996,7 @@ there are no fruits or results of good and bad deeds
 _natthi sukaṭadukkaṭānaṃ kammānaṃ phalaṃ vipāko_
 
 there is no this world; no hereafter; no duties to parents; no spontaneously
-arisen beings;_
+arisen beings;
 
 _natthi ayaṃ loko natthi paro loko natthi mātā natthi pitā natthi sattā
 opapātikā_
@@ -48158,7 +48157,7 @@ clinging to views
 
 _diṭṭhiajjhosānaṃ_
 
-craving for views that lurk within him:_
+craving for views that lurk within him:
 
 _diṭṭhitaṇhā sānuseti_
 
@@ -49264,9 +49263,9 @@ _Seyyathā pi bhikkhave ayaṃ gaṅgānadī mahantaṃ pheṇapiṇḍaṃ
 āvaheyya tamenaṃ cakkhumā puriso passeyya nijjhāyeyya yoniso upa
 parikkheyya tassa taṃ passato nijjhāyato yoniso upaparikkhato rittakaññeva
 khāyeyya tucchakaññe va khāyeyya asārakaññeva khāyeyya kiṃ hi siyā
-bhikkhave pheṇapiṇḍe sāro?
+bhikkhave pheṇapiṇḍe sāro?_
 
-Evameva kho bhikkhave yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ
+_Evameva kho bhikkhave yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ
 ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā
 paṇītaṃ vā yaṃ dūre santike vā taṃ bhikkhu passati nijjhāyati
 yoniso upaparikkhati tassa taṃ passato nijjhāyato yoniso upaparikkhato
@@ -50247,7 +50246,7 @@ suffering
 [quote, S.3.114]
 ____
 These same five grasped aggregates, attained and clung to, lead to his
-long-lasting harm and suffering._
+long-lasting harm and suffering.
 
 _tassime pañcupādānakkhandhā upetā upādinnā dīgharattaṃ ahitāya
 dukkhāya saṃvattanti._
@@ -51220,11 +51219,11 @@ _majjhena_.
 
 _Ete te kassapa ubho ante anupagamma majjhena tathāgato dhammaṃ deseti_
 
-(Namely, the doctrine of dependent origination, _paṭiccasamuppāda_)_
+(Namely, the doctrine of dependent origination, _paṭiccasamuppāda_)
 
 _Avijjāpaccayā saṅkhārā..._
 
-Such is the ending of this whole mass of suffering._
+Such is the ending of this whole mass of suffering.
 
 _Evametassa kevalassa dukkhakkhandhassa nirodho hotī ti._
 ____
@@ -51296,18 +51295,18 @@ _Cattāro me bhikkhave antā. Katame cattāro?_
 
 Personal identity as a doctrinal principle
 
-_sakkāyanto _
+_sakkāyanto_
 
 The origin of personal identity as a doctrinal principle
 
-_sakkāyasamudayanto _
+_sakkāyasamudayanto_
 
 The ending of personal identity as a doctrinal principle
 
-_sakkāyanirodhanto _
+_sakkāyanirodhanto_
 
 The practice leading to the ending of personal identity as a doctrinal
-principle._
+principle.
 
 _sakkāyanirodhagāminī paṭipadanto._
 
@@ -51579,7 +51578,7 @@ explains a teaching via an enlightening doctrine.
 
 _Ete te kaccāna ubho ante anupagamma majjhena tathāgato dhammaṃ deseti._
 
-(Namely, the doctrine of dependent origination, _paṭiccasamuppāda_)_
+(Namely, the doctrine of dependent origination, _paṭiccasamuppāda_)
 
 _Avijjāpaccayā saṅkhārā... Evametassa kevalassa dukkhakkhandhassa nirodho
 hotī ti._
@@ -51648,7 +51647,7 @@ oneself.'
 _so karoti so paṭisaṃvediyatī ti kho kassapa ādito sato sayaṃ kataṃ
 dukkhan ti_
 
-Such a belief amounts to eternalism._
+Such a belief amounts to eternalism.
 
 _iti vadaṃ sassataṃ etaṃ pareti_
 
@@ -51668,11 +51667,11 @@ explains a teaching via an enlightening doctrine.
 
 _Ete te kassapa ubho ante anupagamma majjhena tathāgato dhammaṃ deseti_
 
-(Namely, the doctrine of dependent origination, _paṭiccasamuppāda_)_
+(Namely, the doctrine of dependent origination, _paṭiccasamuppāda_)
 
 _Avijjāpaccayā saṅkhārā..._
 
-Such is the ending of this whole mass of suffering._
+Such is the ending of this whole mass of suffering.
 
 _Evametassa kevalassa dukkhakkhandhassa nirodho hotī ti._
 ____
@@ -52732,13 +52731,13 @@ state
 ____
 On grounds [of what attainment], friend Kālāma, having realised this state
 for yourself through transcendent insight and abiding in it, do you make it
-known to others?_
+known to others?
 
 _kittāvatā no āvuso kālāma imaṃ dhammaṃ sayaṃ abhiññā
 sacchikatvā upasampajja pavedesī ti._
 
 In reply he declared [that he had realised] the state of awareness of
-nonexistence._
+nonexistence.
 
 _Evaṃ vutte bhikkhave āḷāro kālāmo ākiñcaññāyatanaṃ pavedesi._
 
@@ -53433,12 +53432,12 @@ significance; dhammānaṃ teaching
 
 [quote, A.4.298]
 ____
-A bhikkhu investigates the meaning of the teachings he has retained in mind._
+A bhikkhu investigates the meaning of the teachings he has retained in mind.
 
 _dhatānañca dhammānaṃ atthūpaparikkhitā hoti_
 
 Realising their meaning and significance, he practises in accordance with the
-teaching._
+teaching.
 
 _atthamaññāya dhammamaññāya dhammānudhammapaṭipanno ca hoti._
 ____
@@ -54512,12 +54511,12 @@ There are these eighteen elements of sensation:
 _Aṭṭhārasa kho imā ānanda dhātuyo_
 
 the phenomenon of sight, the phenomenon of visible objects, the phenomenon of
-advertence to the visual field._
+advertence to the visual field.
 
 _cakkhudhātu rūpadhātu cakkhuviññāṇadhātu;_
 
 the phenomenon of hearing, the phenomenon of audible objects, the phenomenon of
-advertence to the auditory field._
+advertence to the auditory field.
 
 _sotadhātu saddadhātu sotaviññāṇadhātu._
 ____
@@ -54862,11 +54861,10 @@ trouble me through [failure to quickly understand] the teaching
 On six occasions when disciples died, the Buddha spoke in homage of them,
 saying that:
 
-[quote, or _viheṭhesi_]
 ____
 'He did not trouble me on account of the teaching.'
 
-_na ca maṃ dhammādhikaraṇaṃ vihesesi._
+_na ca maṃ dhammādhikaraṇaṃ vihesesi._ (or _viheṭhesi_)
 ____
 
 Are we meant to understand from this that the Buddha objected to being
@@ -54987,8 +54985,8 @@ relinquishes his views reluctantly.
 +
 ****
 _mayhaṃ kho vihesā bhavissati parassa ca puggalassa anupaghāto. +
-****
 Paro hi puggalo akkodhano anupanāhī daḷhadiṭṭhī duppaṭinissaggī._
+****
 
 4. I will be troubled, and the other person will be distressed, for he is
 ill-tempered and resentful, and strongly opinionated and relinquishes his views
@@ -54996,9 +54994,9 @@ reluctantly.
 +
 ****
 _mayhañca kho vihesā bhavissati parassa ca puggalassa upaghāto. +
-****
 Paro hi puggalo kodhano upanāhī daḷhadiṭṭhī duppaṭinissaggī_
 (M.2.241).
+****
 
 This shows that the Buddha would not be troubled by those who become angry and
 resentful, but by those who are strongly opinionated and who relinquish their
@@ -55158,7 +55156,7 @@ spiritually fettering delight in views
 
 _diṭṭhinandi._
 
-spiritually fettering delight in individual existence _
+spiritually fettering delight in individual existence
 
 _bhavanandi._
 ____
@@ -55210,7 +55208,7 @@ For example, see Illustrations below.
 
 ===== Nandati: not always unwholesome
 
-The verb _nandati_ is not always unwholesome_._ For example, though an
+The verb _nandati_ is not always unwholesome. For example, though an
 unvirtuous bhikkhu rejoices (_nandati_) in schism, a sympathetic friend
 rejoices (_nandati_) in your good fortune.
 
@@ -55492,9 +55490,12 @@ atītamaddhānanti tattha nandiṃ samanvāneti_ (M.3.188).
 ****
 
 2. How does one long for the future? One thinks: 'May my bodily form be thus in
-the future, and thereby nurtures spiritually fettering delight._ +
-Katañcānanda anāgataṃ paṭikaṅkhati. Evaṃrūpo siyaṃ
+the future, and thereby nurtures spiritually fettering delight.'
++
+****
+_Katañcānanda anāgataṃ paṭikaṅkhati. Evaṃrūpo siyaṃ
 anāgatamaddhānanti tattha nandiṃ samanvāneti_ (M.3.188).
+****
 
 .Illustration
 ====
@@ -55880,7 +55881,7 @@ _Kiṃsu sabbaṃ addhabhavi kismā bhiyyo na vijjati +
 Kissassa ekadhammassa sabbeva vasamanvagū ti_
 
 (...) Denomination has conquered everything. Denomination is the most extensive
-thing. Denomination is the one thing that has everything under its control._
+thing. Denomination is the one thing that has everything under its control.
 
 _nāmaṃ sabbaṃ addhabhavi nāmā bhiyyo na vijjati +
 Nāmassa ekadhammassa sabbeva vasamanvagū ti._
@@ -55938,12 +55939,12 @@ This denomination and this bodily form are called denomination-and-bodily-form.
 _Idañca nāmaṃ idañca rūpaṃ idaṃ vuccatāvuso nāmarūpaṃ._
 
 With the origination of the stream of sense consciousness comes the origination
-of denomination-and-bodily-form._
+of denomination-and-bodily-form.
 
 _Viññāṇasamudayā nāmarūpasamudayo_
 
 With the ending of the stream of sense consciousness comes the ending of
-denomination-and-bodily-form._
+denomination-and-bodily-form.
 
 _Viññāṇanirodhā nāmarūpanirodho_
 
@@ -55964,12 +55965,12 @@ denomination-and-bodily-form
 ____
 When there is what,
 does denomination-and-bodily-form arise? What is denomination-and-bodily-form
-dependent on?_
+dependent on?
 
 _kimhi nu kho sati nāmarūpaṃ hoti. Kiṃ paccayā nāmarūpan ti._
 
 Then through proper contemplation, there took place in me a realisation through
-penetrative discernment _
+penetrative discernment
 
 _Tassa mayhaṃ bhikkhave yoniso manasikārā ahu paññāya abhisamayo ti_
 
@@ -55984,12 +55985,12 @@ _viññāṇe kho sati nāmarūpaṃ hoti viññāṇapaccayā nāmarūpan ti_
 _tassa mayhaṃ bhikkhave etadahosi_
 
 When there is what, does the stream of sense consciousness arise? What is the
-stream of sense consciousness dependent on?_
+stream of sense consciousness dependent on?
 
 _kimhi nu kho sati viññāṇaṃ hoti. Kiṃ paccayā viññāṇan ti._
 
 Then through proper contemplation, there took place in me a realisation through
-penetrative discernment _
+penetrative discernment
 
 _Tassa mayhaṃ bhikkhave yoniso manasikārā ahu paññāya abhisamayo:_
 
@@ -56008,13 +56009,13 @@ it does not go further.
 
 _paccudāvattati kho idaṃ viññāṇaṃ nāmarūpamhā nāparaṃ gacchati_
 
-On account of this one can be born, age and die, pass away and be reborn,_
+On account of this one can be born, age and die, pass away and be reborn,
 
 _Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā_
 
 Namely through the stream of sense consciousness being dependent on
 denomination-and-bodily-form; and denomination-and-bodily-form being dependent
-on the stream of sense consciousness._
+on the stream of sense consciousness.
 
 _yadidaṃ nāmarūpapaccayā viññāṇaṃ viññāṇapaccayā
 nāmarūpaṃ._
@@ -56180,8 +56181,7 @@ ____
 I slept [last night]!' 'Where will I sleep tonight?' The disciple in training
 wandering with no permanent abode should eliminate such lamentable thoughts.
 
-_Kiṃsū asissāmi kuvaṃ vā asissaṃ dukkhaṃ vata settha kvajja sessaṃ
-+
+_Kiṃsū asissāmi kuvaṃ vā asissaṃ dukkhaṃ vata settha kvajja sessaṃ +
 Ete vitakke paridevaneyye vinayetha sekho aniketacārī._
 ____
 
@@ -56322,32 +56322,40 @@ It.48). Here the commentary says _nicchāto_ means _nittaṇho._ Bodhi calls it
 'hungerless.' When Norman follows the commentary he calls it 'without craving';
 otherwise, 'without hunger':
 
-[quote, "Bodhi, A.4.411. Commentary: _Nicchātā ti taṇhādiṭṭhicchātānaṃ abhāvena nicchātā_"]
+[quote, "Bodhi, A.4.411"]
 ____
 Hungerless and quenched
 
 _nicchātā nibbutā._
+
+(Commentary: _Nicchātā ti taṇhādiṭṭhicchātānaṃ abhāvena nicchātā_)
 ____
 
-[quote, "Bodhi, S.3.26. Commentary: _Nicchāto ti nittaṇho_"]
+[quote, "Bodhi, S.3.26"]
 ____
 Free from hunger, fully quenched
 
 _nicchāto parinibbuto._
+
+(Commentary: _Nicchāto ti nittaṇho_)
 ____
 
-[quote, "Norman, Sn.v.735. Commentary: _Nicchāto ti nittaṇho_"]
+[quote, "Norman, Sn.v.735"]
 ____
 Without craving, quenched.
 
 _nicchāto parinibbuto._
+
+(Commentary: _Nicchāto ti nittaṇho_)
 ____
 
-[quote, "Norman, Thī.v.168. Commentary: _Nicchātā ti nittaṇhā._"]
+[quote, "Norman, Thī.v.168"]
 ____
 Without hunger, stilled.
 
 _nicchātā upasantā carissasī ti._
+
+(Commentary: _Nicchātā ti nittaṇhā._)
 ____
 
 ===== Nicchāto ti nittaṇho: on favouring the commentary
@@ -56355,19 +56363,23 @@ ____
 We follow the commentary in connecting _nicchāto_ and _nittaṇho_ because the
 suttas also link the words:
 
-[quote, "S.3.26. Commentary: _Nicchāto ti nittaṇho_"]
+[quote, "S.3.26"]
 ____
 Having removed [the arrow of] craving together with its origin, one is free of
 craving.
 
 _samūlaṃ taṇhaṃ abbuyha nicchāto._
+
+(Commentary: _Nicchāto ti nittaṇho_)
 ____
 
-[quote, "Thī.v.53. Commentary: _Sājja abbūḷhasallāhan ti sā ahaṃ ajja sabbaso uddhaṭataṇhāsallā tato eva nicchātā_"]
+[quote, "Thī.v.53"]
 ____
 Today I have the arrow [of craving] removed. I am free of craving.
 
 _Sājja abbūḷhasallāhaṃ nicchātā._
+
+(Commentary: _Sājja abbūḷhasallāhan ti sā ahaṃ ajja sabbaso uddhaṭataṇhāsallā tato eva nicchātā_)
 ____
 
 ==== Illustrations
@@ -56387,10 +56399,9 @@ realised the Untroubled.
 
 _Yattha kāmā nirujjhanti ye ca kāme nirodhetvā nirodhetvā viharanti addhā
 te āyasmanto nicchātā nibbutā._
-____
 
-Commentary: _Nicchātā ti taṇhādiṭṭhicchātānaṃ abhāvena
-nicchātā._
+(Commentary: _Nicchātā ti taṇhādiṭṭhicchātānaṃ abhāvena nicchātā._)
+____
 
 .Illustration
 ====
@@ -56405,9 +56416,9 @@ In this very lifetime you will live the religious life free of craving,
 inwardly at peace.
 
 _Diṭṭheva dhamme nicchātā upasantā carissasī ti._
-____
 
-Commentary: _Nicchātā ti nittaṇhā._
+(Commentary: _Nicchātā ti nittaṇhā._)
+____
 
 .Illustration
 ====
@@ -56422,9 +56433,9 @@ By the subsiding of the stream of sense consciousness, a bhikkhu is free of
 craving. He has realised the Untroubled.
 
 _viññāṇupasamā bhikkhu nicchāto parinibbuto ti._
-____
 
-Commentary: _Nicchāto ti nittaṇho_
+(Commentary: _Nicchāto ti nittaṇho_)
+____
 
 .Illustration
 ====
@@ -57347,7 +57358,7 @@ ____
 
 [quote, Th.v.1060]
 ____
-Inwardly at peace amidst those who are tormented [by spiritual defilement]_
+Inwardly at peace amidst those who are tormented [by spiritual defilement]
 
 _ḍayhamānesu nibbuto._
 ____
@@ -58282,7 +58293,7 @@ It has nine openings, nine orifices.
 
 _tassa nava vanamukhāni nava abhedanamukhāni_
 
-Whatever oozes out of them is foul, foul-smelling, and disgusting._
+Whatever oozes out of them is foul, foul-smelling, and disgusting.
 
 _yaṃ kiñci paggharati asuciññeva paggharati duggandhaññeva paggharati
 jegucchiyaññeva paggharati_
@@ -58526,12 +58537,12 @@ visual, so 'image' is incorrect for _nimitta_. For example:
 
 ____
 In hearing an audible object via the auditory sense, if his mind pursues the
-phantasm of the audible object _
+phantasm of the audible object
 
 _Sotena saddaṃ sutvā saddanimittānusārī viññāṇaṃ hoti_
 
 In knowing a mentally known object via the mental sense, if his mind pursues
-the phantasm of the mentally known object _
+the phantasm of the mentally known object
 
 _Manasā dhammaṃ viññāya dhammanimittānusāri viññāṇaṃ hoti_
 ____
@@ -58557,7 +58568,7 @@ bhavissati ti ti netaṃ ṭhānaṃ vijjati._
 
 (...) For this is the liberation from all abiding phenomena, namely the
 liberation [from perceptually obscuring states] by focusing upon the unabiding
-[phenomenon]._
+[phenomenon].
 
 _Nissaraṇaṃ hetaṃ āvuso sabbanimittānaṃ yadidaṃ animittā
 cetovimutti._
@@ -58724,7 +58735,7 @@ hint
 [quote, S.5.259]
 ____
 But though Venerable Ānanda was given such a broad hint by the Blessed One,
-such an obvious suggestion, he was unable to perceive it._
+such an obvious suggestion, he was unable to perceive it.
 
 _Evampi kho āyasmā ānando bhagavatā oḷārike nimitte kayiramāne
 oḷārike obhāse kayiramāne nāsakkhi paṭivijjhituṃ._
@@ -58938,7 +58949,7 @@ telltale signs.
 _paṇḍito viyatto kusalo sūdo sakassa bhattu nimittaṃ uggaṇhāti:_
 
 'Today this dish pleased my master' or 'He reached for this one' or 'He took a
-lot of this one' or 'He praised this one'_
+lot of this one' or 'He praised this one'
 
 _idaṃ vā me ajja bhattu sūpeyyaṃ ruccati imassa vā abhiharati imassa vā
 bahuṃ gaṇhāti imassa vā vaṇṇaṃ bhāsati_
@@ -58965,19 +58976,19 @@ his defilements are abandoned.
 _Tassa kāye kāyānupassino viharato cittaṃ samādhiyati upakkilesā
 pahīyanti_
 
-He notices that telltale sign._
+He notices that telltale sign.
 
 _so taṃ nimittaṃ uggaṇhāti._
 
 That wise, competent, proficient bhikkhu gains pleasant states of meditation in
-this lifetime and mindfulness and full consciousness. For what reason?_
+this lifetime and mindfulness and full consciousness. For what reason?
 
 _Sakho so bhikkhave paṇḍito viyatto kusalo bhikkhu lābhī ceva hoti
 diṭṭhadhammasukhavihārānaṃ lābhī hoti satisampajaññassa. Taṃ
 kissa hetu:_
 
 Because that wise, competent, proficient bhikkhu notices the telltale signs of
-his own mind._
+his own mind.
 
 _tathā hi so bhikkhave paṇḍito vyatto kusalo bhikkhu sakassa cittassa
 nimittaṃ uggaṇhātī ti._
@@ -59744,8 +59755,8 @@ world of beings] is released from suffering.
 +
 ****
 _Etaṃ lokassa niyyānaṃ akkhātaṃ vo yathātathaṃ +
-****
 Etaṃ vo ahamakkhāmi evaṃ dukkhā pamuccati_ (Sn.v.172).
+****
 
 2. Where a teacher is not perfectly enlightened, the teaching is
 ill-proclaimed, ill-expounded, and does not lead to deliverance [from
@@ -60560,7 +60571,7 @@ reality with perfect penetrative discernment
 
 _lokasamudayañca kho kaccāna yathābhūtaṃ sammappaññāya passato_
 
-there is no view of nonexistence in regards to the world [of phenomena]_
+there is no view of nonexistence in regards to the world [of phenomena]
 
 _yā loke natthitā sā na hoti._
 
@@ -60569,7 +60580,7 @@ reality with perfect penetrative discernment
 
 _lokanirodhaṃ kho kaccāna yathābhūtaṃ sammappaññāya passato_
 
-there is no view of existence in regards to the world [of phenomena]_
+there is no view of existence in regards to the world [of phenomena]
 
 _yā loke atthitā sā na hoti._
 ____
@@ -61158,7 +61169,7 @@ rich resources
 ====
 
 ____
-And how is a shopkeeper endowed with rich resources?_
+And how is a shopkeeper endowed with rich resources?
 
 _Kathañca bhikkhave pāpaṇiko nissayasampanno hoti_
 ____
@@ -61793,7 +61804,7 @@ physically/spiritually relying on
 
 The mighty sal trees physically relying on the Himalayas, the king of mountain
 ranges (_himavantaṃ bhikkhave pabbatarājaṃ nissāya_) grow in three ways:
-in branches, leaves and foliage; in bark and shoot; in softwood and pith_._
+in branches, leaves and foliage; in bark and shoot; in softwood and pith.
 
 Likewise, spiritually relying on the head of a family who has faith [in the
 perfection of the Perfect One's transcendent insight] (_saddhaṃ kulapatiṃ
@@ -62891,8 +62902,7 @@ here in the world, Puṇṇaka, being tied to old age, offered gifts hoping for
 states of individual existence in this world [or another].
 
 _Ye kecime isayo manujā khattiyā brāhmaṇā devatānaṃ +
-Yaññamakappayiṃsu puthūdha loke āsiṃsamānā puṇṇaka itthabhāvaṃ
-+
+Yaññamakappayiṃsu puthūdha loke āsiṃsamānā puṇṇaka itthabhāvaṃ +
 Jaraṃ sitā yaññamakappayiṃsu._
 ____
 
@@ -63913,7 +63923,7 @@ necessary condition
 [quote, M.3.17]
 ____
 The four great material phenomena are the indispensible and necessary
-conditions by which the aggregate of bodily form is to be discerned._
+conditions by which the aggregate of bodily form is to be discerned.
 
 _Cattāro kho bhikkhu mahābhūtā hetu cattāro mahābhūtā paccayo
 rūpakkhandhassa paññāpanāya._
@@ -64346,7 +64356,7 @@ What type of Self do you believe in, Poṭṭhapāda?
 _Kiṃ pana tvaṃ poṭṭhapāda attānaṃ paccesī ti._
 
 I believe in a gross material Self, material, made of the four great material
-phenomena feeding on physical food._
+phenomena feeding on physical food.
 
 _oḷārikaṃ kho ahaṃ bhante attānaṃ paccemi rūpiṃ
 cātummahābhūtikaṃ kabaliṅkārāhārabhakkhanti._
@@ -64408,7 +64418,7 @@ _Tesaṃ bhikkhave sattānaṃ evaṃ kāmānaṃ evaṃ chandānaṃ evaṃ
 adhippāyānaṃ aniṭṭhā akantā amanāpā dhammā abhivaḍḍhanti
 iṭṭhā kantā manāpā dhammā parihāyanti._
 
-Now what do you suppose is the reason for this?_
+Now what do you suppose is the reason for this?
 
 _Tatra tumhe bhikkhave kaṃ hetuṃ paccethā ti?._
 ____
@@ -64861,7 +64871,7 @@ discern
 
 [quote, S.2.57-8]
 ____
-And what is old age and death?_
+And what is old age and death?
 
 _Katamañca bhikkhave jarāmaraṇaṃ?_
 
@@ -65240,7 +65250,7 @@ to be discerned
 [quote, M.3.17]
 ____
 The four great material phenomena are the indispensible and necessary
-conditions by which the aggregate of bodily form is to be discerned._
+conditions by which the aggregate of bodily form is to be discerned.
 
 _Cattāro kho bhikkhu mahābhūtā hetu cattāro mahābhūtā paccayo
 rūpakkhandhassa paññāpanāya._
@@ -65327,7 +65337,7 @@ perfect wisdom.
 _Ayaṃ vuccati gahapati ariyasāvako mahāpañño puthupañño āpāthadaso
 paññāsampanno._
 
-This is called perfection in wisdom._
+This is called perfection in wisdom.
 
 _Ayaṃ vuccati gahapati paññāsampadā._
 ____
@@ -65508,7 +65518,7 @@ penetrative discernment
 [quote, A.3.446]
 ____
 To abandon undiscernment of reality, penetrative discernment should be
-developed._
+developed.
 
 _Mohassa pahānāya paññā bhāvetabbā._
 ____
@@ -65607,7 +65617,7 @@ penetrative discernment' is said
 
 _Nappajānāti nappajānātī ti kho āvuso tasmā duppañño ti vuccati._
 
-(...) What does he not discern?_
+(...) What does he not discern?
 
 _Kiñca nappajānāti?_
 
@@ -65640,7 +65650,7 @@ discernment' is said
 
 _Pajānāti pajānātī ti kho āvuso tasmā paññavāti vuccati._
 
-(...) What does he discern?_
+(...) What does he discern?
 
 _Kiñca pajānāti?_
 
@@ -68547,7 +68557,7 @@ How is a bhikkhu free of self-centredness?
 
 _Kathañca bhikkhave bhikkhu patilīno hoti?_
 
-(...) In this regard, self-centredness is abandoned in a bhikkhu._
+(...) In this regard, self-centredness is abandoned in a bhikkhu.
 
 _Idha bhikkhave bhikkhuno asmimāno pahīṇo hoti._
 ____
@@ -68944,7 +68954,7 @@ Entrenched perception and conception are the source of thought.
 _Vitakko kho devānaminda papañcasaññāsaṅkhānidāno_
 
 When there is entrenched perception and conception, thought arises. Without
-entrenched perception and conception, there is no thought._
+entrenched perception and conception, there is no thought.
 
 _papañcasaññāsaṅkhāya sati vitakko hoti papañcasaññāsaṅkhāya
 asati vitakko na hotī ti._
@@ -70960,7 +70970,7 @@ kammānaṃ phalaṃ vipāko'ti?_
 
 There is another reason, Master Kassapa, that leads me to think: 'There is not
 a world beyond. There are no spontaneously born beings. There is no fruit or
-result of good and bad deeds.'_
+result of good and bad deeds.'
 
 _Atthi bho kassapa pariyāyo yena me pariyāyena evaṃ hoti: 'iti pi natthi
 paro loko natthi sattā opapātikā natthi sukaṭadukkaṭānaṃ kammānaṃ
@@ -71271,7 +71281,7 @@ Grasping arises dependent on craving. Individual existence arises dependent on
 grasping. Birth arises dependent on individual existence. Dependent on birth,
 there arises old-age-and-death, grief, lamentation, physical pain,
 psychological pain, and vexation. Such is the origin of this whole mass of
-suffering._
+suffering.
 
 _Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ. Tiṇṇaṃ
 saṅgati phasso. Phassapaccayā vedanā. Vedanāpaccayā taṇhā.
@@ -71352,7 +71362,7 @@ theme of burning.
 _Ādittapariyāyaṃ vo bhikkhave dhammapariyāyaṃ desissāmi. Taṃ
 suṇātha._
 
-And what is the systematic exposition of the teaching on the theme of burning?_
+And what is the systematic exposition of the teaching on the theme of burning?
 
 _Katamo ca bhikkhave ādittāpariyāyo dhammapariyāyo?_
 
@@ -71543,7 +71553,7 @@ _Tassa ahaṃ rūpaṃ mama rūpan ti pariyuṭṭhitaṭṭhāyino taṃ
 rūpaṃ vipariṇamati aññathā hoti_
 
 And there arises grief, lamentation, physical pain, psychological pain, and
-vexation._
+vexation.
 
 _Tassa rūpavipariṇāmaññathābhāvā uppajjanti
 sokaparidevadukkhadomanassupāyāsā._
@@ -71663,11 +71673,11 @@ _Pariḷāha_ usually has an object, for example:
 
 [quote, A.2.10-11]
 ____
-sensuous passion _
+sensuous passion
 
 _kāmapariḷāho_
 
-passion for individual existence _
+passion for individual existence
 
 _bhavapariḷāho_
 
@@ -71704,7 +71714,7 @@ Paccavekkhassu'maṃ kāyaṃ asuciṃ pūtigandhikaṃ_
 
 (...) As I abide in this way, all my attachment is abolished. My [sensuous]
 passion is annihilated. I am freed from inward distress. I have realised the
-Untroubled._
+Untroubled.
 
 _Evaṃ viharamānāya sabbo rāgo samūhato +
 Pariḷāho samucchinno sītibhūtāmhi nibbutā ti._
@@ -74383,7 +74393,7 @@ sees [the nature of reality]
 ____
 Blissful is the physical seclusion of one who is content [with what is paltry
 and easily gotten], who has heard the teaching, and who sees [the nature of
-reality]._
+reality].
 
 _Sukho viveko tuṭṭhassa sutadhammassa passato._
 ____
@@ -74492,7 +74502,7 @@ for a bhikkhu with intent self
 _pahitattassa bhikkhuno._
 ____
 
-[quote, "PED sv _Pahita_, S.4.145"]
+[quote, "PED sv Pahita, S.4.145"]
 ____
 resolute will
 
@@ -77148,7 +77158,7 @@ ____
 A certain bhikkhu might wish: 'Oh that the bhikkhus might enter the village for
 alms putting me always at the front, not some other bhikkhu!' And it is
 possible that the bhikkhus enter the village for alms putting some other
-bhikkhu always at the front, not that bhikkhu._
+bhikkhu always at the front, not that bhikkhu.
 
 _aho vata mameva bhikkhū purakkhatvā purakkhatvā gāmaṃ bhattāya
 paviseyyuṃ na aññaṃ bhikkhuṃ bhikkhū purakkhatvā purakkhatvā
@@ -78031,7 +78041,7 @@ love
 [quote, D.3.238]
 ____
 A bhikkhu has not got rid of attachment, fondness, love, thirst, passion, and
-craving regarding sensuous pleasures _
+craving regarding sensuous pleasures
 
 _bhikkhu kāmesu avigatarāgo hoti avigatachando avigatapemo avigatapipāso
 avigatapariḷāho avigatataṇho._
@@ -78386,7 +78396,7 @@ _Passāmi loke pariphandamānaṃ pajaṃ imaṃ taṇhāgataṃ bhavesu +
 Hīnā narā maccumukhe lapanti avītataṇhāse bhavābhavesu_
 
 Look at them, trembling amidst their cherished possessions, like fish in a
-dwindling stream._
+dwindling stream.
 
 _Mamāyite passatha phandamāne maccheva appodake khīṇasote._
 ____
@@ -79015,7 +79025,7 @@ sensation
 ____
 Sensation is the indispensible and necessary condition by which the aggregates
 of sense impression, perception, and intentional activities are to be
-discerned._
+discerned.
 
 _phasso hetu phasso paccayo vedanakkhandhassa... saññākkhandhassa...
 saṅkhārakkhandhassa paññāpanāya._
@@ -79031,7 +79041,7 @@ sensation
 [quote, S.5.211]
 ____
 Dependent on a sensation to be experienced as physically pleasant the faculty
-of physical pleasure arises._
+of physical pleasure arises.
 
 _Sukhavedanīyaṃ bhikkhave phassaṃ paṭicca uppajjati sukhindriyaṃ_
 
@@ -79945,8 +79955,8 @@ realisation of the Untroubled: this is supremely auspicious.
 +
 ****
 _Tapo ca brahmacariyañca ariyasaccāna dassanaṃ +
-****
 Nibbānasacchikiriyā ca etaṃ maṅgalamuttamaṃ_ (Th.v.267).
+****
 
 2. The practice of celibacy: this they call the supreme power.
 +
@@ -79972,7 +79982,7 @@ celibate life
 
 [quote, A.3.146]
 ____
-He lives the celibate life disgruntled...lives the celibate life with delight _
+He lives the celibate life disgruntled...lives the celibate life with delight
 
 _anabhirato... abhirato ca brahmacariyaṃ carati._
 ____
@@ -80201,7 +80211,9 @@ capitalise these groups. For example, Wikipedia says:
 
 - 'Varna may be translated as "class," and refers to the four social classes
 which existed in the Vedic society, namely Brahmins, Kshatriyas, Vaishyas and
-Shudras.' http:// en.wikipedia.org/wiki/Caste_system_in_India
+Shudras.'
++
+http://en.wikipedia.org/wiki/Caste_system_in_India
 
 Many dictionaries say likewise. However, the Economist Style Guide supports us
 in saying:
@@ -81234,7 +81246,7 @@ existence
 [quote, A.1.234]
 ____
 Having arisen in human existence just once more, he then puts an end to
-suffering._
+suffering.
 
 _ekaññeva mānusakaṃ bhavaṃ nibbattetvā dukkhassantaṃ karoti._
 ____
@@ -81963,7 +81975,7 @@ will it be.'
 
 _no c'assa no ca me siyā na bhavissati na me bhavissati._
 
-That which is, that which is brought about, that I abandon._
+That which is, that which is brought about, that I abandon.
 
 _Yadatthi yaṃ bhūtaṃ taṃ pajahāmīti._
 ____
@@ -81980,7 +81992,7 @@ ____
 What is born, brought about, arisen, produced, originated, unenduring,
 conjoined with old age and death, a hotbed of illnesses, easily destroyed,
 having existential nourishment as its support and source: it is not fit to be
-delighted in._
+delighted in.
 
 _Jātaṃ bhūtaṃ samuppannaṃ kataṃ saṅkhatamaddhuvaṃ +
 Jarāmaraṇasaṅghātaṃ roganiḍḍhaṃ pabhaṅguṇaṃ +
@@ -81997,7 +82009,7 @@ brought about
 [quote, It.61]
 ____
 From whatever is brought about, originated, dependently arisen, the ending [of
-originated phenomena] is the deliverance._
+originated phenomena] is the deliverance.
 
 _Yaṃ kho pana kiñci bhūtaṃ saṅkhataṃ paṭiccasamuppannaṃ nirodho
 tassa nissaraṇaṃ._
@@ -82027,7 +82039,7 @@ brought about
 [quote, S.5.164]
 ____
 How could it be that what is born, brought about, originated, destined to
-decay, not decay? It is not possible._
+decay, not decay? It is not possible.
 
 _Taṃ kutettha bhikkhave labbhā yaṃ taṃ jātaṃ bhūtaṃ saṅkhataṃ
 palokadhammaṃ taṃ vata mā palujjīti netaṃ ṭhānaṃ vijjati._
@@ -82044,7 +82056,7 @@ brought into existence
 ____
 Bhikkhus, there are these four kinds of existential nourishment for the
 maintenance of beings that have been brought into existence and for the
-assistance of those about to arise [into new existence]. What four?_
+assistance of those about to arise [into new existence]. What four?
 
 _Cattārome bhikkhave āhārā bhūtānaṃ vā sattānaṃ ṭhitiyā
 sambhavesīnaṃ vā anuggahāya._
@@ -82157,13 +82169,13 @@ The latter classification occurs in the following passage:
 [quote, S.2.40]
 ____
 When there is the body, then on account of bodily intentionality, pleasure and
-pain arise for oneself;_
+pain arise for oneself;
 
 _Kāye vā hānanda sati kāyasañcetanāhetu uppajjati ajjhattaṃ
 sukhadukkhaṃ_
 
 When there is speech, then on account of verbal intentionality, pleasure and
-pain arise for oneself;_
+pain arise for oneself;
 
 _vācāya vā hānanda sati vacīsañcetanāhetu uppajjati ajjhattaṃ
 sukhadukkhaṃ_
@@ -83184,7 +83196,7 @@ Mathito atibhārena saṃ yugaṃ nātivattati._
 ____
 
 Commentary: _saṃ yugan ti attano khandhe ṭhapitaṃ yugaṃ_. _Saṃ_ is
-therefore a possessive pronoun_._
+therefore a possessive pronoun.
 
 .Illustration
 ====
@@ -83912,7 +83924,7 @@ paying of attention
 [quote, M.1.53]
 ____
 Sense impression, perception, intentionality, sensation, and the paying of
-attention, are called 'denomination.'_
+attention, are called 'denomination.'
 
 _Vedanā saññā cetanā phasso manasikāro idaṃ vuccatāvuso nāmaṃ._
 ____
@@ -84996,7 +85008,7 @@ Conceit is sometimes paired with arrogance:
 
 [quote, D.3.87]
 ____
-being conceited and arrogant _
+being conceited and arrogant
 
 _mānātimānajātikānaṃ._
 ____
@@ -85181,7 +85193,7 @@ _Tattha ye te sattā vaṇṇavanto te dubbaṇṇe satte atimaññanti
 mayametehi vaṇṇavantatarā amhehete dubbaṇṇatarā ti_
 
 And because of their arrogance due to beauty, being conceited and arrogant, the
-savoury earth disappeared._
+savoury earth disappeared.
 
 _tesaṃ vaṇṇātimānappaccayā mānātimānajātikānaṃ
 bhūmipappaṭako antaradhāyi._
@@ -85753,16 +85765,16 @@ freedom [from individual existence]
 [quote, S.4.372]
 ____
 Bhikkhus, I will teach you freedom [from individual existence] and the path
-leading to freedom [from individual existence]. Please listen._
+leading to freedom [from individual existence]. Please listen.
 
 _muttiñca vo bhikkhave desissāmi muttigāmiñca maggaṃ taṃ suṇātha._
 
-What is freedom [from individual existence]?_
+What is freedom [from individual existence]?
 
 _Katamañca bhikkhave muttiṃ:_
 
 The destruction of attachment, hatred, and undiscernment of reality. This is
-called freedom [from individual existence]._
+called freedom [from individual existence].
 
 _yo bhikkhave rāgakkhayo dosakkhayo mohakkhayo idaṃ vuccati bhikkhave
 muttiṃ._
@@ -85779,7 +85791,7 @@ free of
 
 [quote, Sn.v.913]
 ____
-He is free of dogmatic views._
+He is free of dogmatic views.
 
 _Sa vippamutto diṭṭhigatehi._
 ____
@@ -86254,7 +86266,7 @@ okanteyyuṃ tatrāpi yo mano padūseyya na me so tena sāsanakaro._
 (...) In this regard, you should train yourselves thus: 'Neither shall our minds
 be worsened by this, nor shall we utter unvirtuous words, but we shall abide
 tenderly concerned for their welfare, with a mind of [unlimited,
-all-encompassing] goodwill, without inner hatred.'_
+all-encompassing] goodwill, without inner hatred.'
 
 _Tatrāpi vo bhikkhave evaṃ sikkhitabbaṃ: na ceva no cittaṃ
 vipariṇataṃ bhavissati. Na ca pāpakaṃ vācaṃ nicchāressāma.
@@ -86701,7 +86713,7 @@ Nine conditions that stem from craving:
 
 _nava taṇhāmūlakā dhammā_
 
-Because of craving, search._
+Because of craving, search.
 
 _taṇhaṃ paṭicca pariyesanā_
 
@@ -86750,7 +86762,7 @@ stem from
 [quote, S.5.42]
 ____
 Whatever spiritually wholesome factors there are, they all stem from diligence
-[in the practice]._
+[in the practice].
 
 _ye keci kusalā dhammā sabbe te appamādamūlakā._
 ____
@@ -86864,7 +86876,7 @@ bhāvetabbā. Evaṃ tasmiṃ puggale āghāto paṭivinetabbo_ (A.3.185).
 developed.
 +
 ****
-Dosassa pahānāya mettā bhāvetabbā_ (A.3.446).
+_Dosassa pahānāya mettā bhāvetabbā_ (A.3.446).
 ****
 
 3. I do not see any other single thing of such power to prevent the arising of
@@ -86964,7 +86976,7 @@ okanteyyuṃ tatrāpi yo mano padūseyya na me so tena sāsanakaro._
 (...) In this regard, you should train yourselves thus: 'Neither shall our minds
 be worsened by this, nor shall we utter unvirtuous words, but we shall abide
 tenderly concerned for their welfare, with a mind of [unlimited,
-all-encompassing] goodwill, without inner hatred.'_
+all-encompassing] goodwill, without inner hatred.'
 
 _Tatrāpi vo bhikkhave evaṃ sikkhitabbaṃ: na ceva no cittaṃ
 vipariṇataṃ bhavissati. Na ca pāpakaṃ vācaṃ nicchāressāma.
@@ -87738,7 +87750,7 @@ _Moha_ is opposed to _paññā,_ penetrative discernment:
 [quote, A.3.446]
 ____
 To abandon undiscernment of reality, penetrative discernment should be
-developed._
+developed.
 
 _Mohassa pahānāya paññā bhāvetabbā._
 ____
@@ -88965,7 +88977,11 @@ ____
 
 .Illustration
 ====
-__ayaso_ imprestige; yaso_
+_ayaso_
+
+imprestige
+
+_yaso_
 
 prestige
 ====
@@ -89442,35 +89458,35 @@ And so in relation to sensuous pleasures, whatever the
 
 _yo kāmesu_
 
-attachment to sensuous pleasure _
+attachment to sensuous pleasure
 
 _kāmarāgo_
 
-spiritually fettering delight in sensuous pleasure _
+spiritually fettering delight in sensuous pleasure
 
 _kāmanandi_
 
-love of sensuous pleasure _
+love of sensuous pleasure
 
 _kāmasineho_
 
-infatuation with sensuous pleasure _
+infatuation with sensuous pleasure
 
 _kāmamucchā_
 
-sensuous thirst _
+sensuous thirst
 
 _kāmapipāsā_
 
-sensuous passion _
+sensuous passion
 
 _kāmapariḷāho_
 
-clinging to sensuous pleasure _
+clinging to sensuous pleasure
 
 _kāmajjhosānaṃ_
 
-craving for sensuous pleasure that lurk within him:_
+craving for sensuous pleasure that lurk within him:
 
 _kāmataṇhā sānuseti_
 
@@ -89505,35 +89521,35 @@ And so in relation to states of individual existence, whatever the
 
 [quote, A.2.10]
 ____
-attachment to individual existence _
+attachment to individual existence
 
 _bhavarāgo_
 
-spiritually fettering delight in individual existence _
+spiritually fettering delight in individual existence
 
 _bhavanandi_
 
-love of individual existence _
+love of individual existence
 
 _bhavasineho_
 
-infatuation with individual existence _
+infatuation with individual existence
 
 _bhavamucchā_
 
-thirst for individual existence _
+thirst for individual existence
 
 _bhavapipāsā_
 
-passion for individual existence _
+passion for individual existence
 
 _bhavapariḷāho_
 
-clinging to individual existence _
+clinging to individual existence
 
 _bhavajjhosānaṃ_
 
-craving for individual existence that lurk within him:_
+craving for individual existence that lurk within him:
 
 _bhavataṇhā sānuseti_
 
@@ -89595,7 +89611,7 @@ clinging to views
 
 _diṭṭhiajjhosānaṃ_
 
-craving for views that lurk within him:_
+craving for views that lurk within him:
 
 _diṭṭhitaṇhā sānuseti_
 
@@ -89936,20 +89952,20 @@ Therefore, bhikkhus:
 
 _Tasmātiha bhikkhave_
 
-'This is suffering': an effort should be made [to profoundly understand this]._
+'This is suffering': an effort should be made [to profoundly understand this].
 
 _idaṃ dukkhan ti yogo karaṇīyo_
 
-'This is the origin of suffering': an effort should be made [to abandon this]._
+'This is the origin of suffering': an effort should be made [to abandon this].
 
 _ayaṃ dukkhasamudayo ti yogo karaṇīyo_
 
-'This is the ending of suffering': an effort should be made [to realise this]._
+'This is the ending of suffering': an effort should be made [to realise this].
 
 _ayaṃ dukkhanirodhoti yogo karaṇīyo_
 
 'This is the practice leading to the ending of suffering': an effort should be
-made [to develop this]._
+made [to develop this].
 
 _ayaṃ dukkhanirodhagāminī paṭipadā ti yogo karaṇīyoti._
 ____
@@ -90105,8 +90121,7 @@ ____
 Formely this mind roamed where it wanted, where it liked, as it pleased. Now I
 shall control it properly, as a mahout controls an elephant in rut.
 
-_Idaṃ pure cittamacari cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ
-+
+_Idaṃ pure cittamacari cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ +
 Tadajjahaṃ niggahessāmi yoniso hatthippabhinnaṃ viya aṅkusaggaho ti._
 ____
 
@@ -90532,14 +90547,14 @@ _Citte gahapati arakkhite kāyakammampi arakkhitaṃ hoti. Vacī kammampi
 arakkhitaṃ hoti. Manokammampi arakkhitaṃ hoti._
 
 When acts of body, speech, and mind are unsupervised [by the mind], they are
-spiritually defiled._
+spiritually defiled.
 
 _Tassa arakkhitakāyakammantassa arakkhitavacīkammantassa
 arakkhitamanokammantassa kāyakammampi avassutaṃ hoti. Vacīkammampi
 avassutaṃ hoti. Manokammampi avassutaṃ hoti._
 
 (...) It is like when a hut is poorly thatched, the hut, the rafters, and the
-walls are unprotected._
+walls are unprotected.
 
 _Seyyathā pi gahapati kūṭāgāre ducchanne kūṭampi arakkhitaṃ hoti.
 Gopānasiyo pi arakkhitā honti. Bhitti pi arakkhitā hoti._
@@ -90570,7 +90585,7 @@ guarding
 
 [quote, A.4.401]
 ____
-Because of stinginess, guarding _
+Because of stinginess, guarding
 
 _macchariyaṃ paṭicca ārakkhā_
 
@@ -91024,7 +91039,7 @@ ____
 
 [quote, A.3.146]
 ____
-He lives the celibate life disgruntled...lives the celibate life with delight _
+He lives the celibate life disgruntled...lives the celibate life with delight
 
 _anabhirato... abhirato ca brahmacariyaṃ carati._
 ____
@@ -91143,7 +91158,7 @@ ____
 ===== Overcoming disgruntlement: Ariyavaṃsa Sutta
 
 In the _Ariyavaṃsa Sutta_ (A.2.27), the battle against disgruntlement with
-the celibate life is conveyed in terms of war_._ The sutta promotes lifestyle
+the celibate life is conveyed in terms of war. The sutta promotes lifestyle
 guidelines, not quick techniques. The sutta says one overcomes _arati_ through
 being content with 'any old robe, almsfood and abode whatsoever'
 (_santuṭṭho hoti itarītarena cīvarena... piṇḍapātena...
@@ -91738,7 +91753,7 @@ sights
 [quote, A.3.69]
 ____
 These five varieties of sensuous pleasure are seen in a woman's body: charming
-sights, sounds, tastes, odours, and physical sensations;_
+sights, sounds, tastes, odours, and physical sensations;
 
 _Pañcakāmaguṇā ete itthirūpasmiṃ dissare +
 Rūpā saddā rasā gandhā phoṭṭhabbā ca manoramā._
@@ -91956,7 +91971,7 @@ bodily form
 [quote, M.3.17]
 ____
 The four great material phenomena are the indispensible and necessary
-conditions by which the aggregate of bodily form is to be discerned._
+conditions by which the aggregate of bodily form is to be discerned.
 
 _Cattāro kho bhikkhu mahābhūtā hetu cattāro mahābhūtā paccayo
 rūpakkhandhassa paññāpanāya._
@@ -92071,7 +92086,7 @@ bodily form
 ____
 With reference to this [wretched human] body, the one of extensive wisdom has
 taught that with the abandonment of three things one sees the bodily form
-discarded._
+discarded.
 
 _Yo imaṃ kāyaṃ gārayhaṃ bhuripaññena desitaṃ +
 pahānaṃ tiṇṇaṃ dhammānaṃ rūpaṃ passetha chaḍḍitaṃ._
@@ -92668,18 +92683,18 @@ attains first jhāna, the Buddha says:
 
 ____
 This, brahman, is called a bhikkhu who, having arrived at the end of the world
-[of sensuous pleasure], abides at the end of the world [of sensuous pleasure]._
+[of sensuous pleasure], abides at the end of the world [of sensuous pleasure].
 
 _Ayaṃ vuccati brāhmaṇā bhikkhu lokassa antaṃ āgamma lokassa ante
 viharati._
 
 (...) But some people say that he is nonetheless included in the world [of
-phenomena], that he is nonetheless unliberated from the world [of phenomena]_
+phenomena], that he is nonetheless unliberated from the world [of phenomena]
 
 _Tamaññe evamāhaṃsu ayampi lokapariyāpanno ayampi anissaṭo lokamhā ti._
 
 (...) I, too, say that he is nonetheless included in the world [of phenomena],
-that he is nonetheless unliberated from the world [of phenomena]'_
+that he is nonetheless unliberated from the world [of phenomena]'
 
 _Ahampi brāhmaṇā evaṃ vadāmi ayampi lokapariyāpanno ayampi anissaṭo
 lokamhā ti_
@@ -93311,23 +93326,23 @@ upasampajja viharati._
 
 This, brahman, is called a bhikkhu who
 
-_Ayaṃ vuccati brāhmaṇā bhikkhu _
+_Ayaṃ vuccati brāhmaṇā bhikkhu_
 
-(...) having arrived at the end of the world [of sensuous pleasure]_
+(...) having arrived at the end of the world [of sensuous pleasure]
 
 _lokassa antaṃ āgamma_
 
-(...) abides at the end of the world [of sensuous pleasure]_
+(...) abides at the end of the world [of sensuous pleasure]
 
 _lokassa ante viharati._
 
 But some people say that he is nonetheless included in the world [of
-phenomena], that he is nonetheless unliberated from the world [of phenomena]_
+phenomena], that he is nonetheless unliberated from the world [of phenomena]
 
 _Tamaññe evamāhaṃsu ayampi lokapariyāpanno ayampi anissaṭo lokamhā ti._
 
 I, too, say that he is nonetheless included in the world [of phenomena], that
-he is nonetheless unliberated from the world [of phenomena]_
+he is nonetheless unliberated from the world [of phenomena]
 
 _Ahampi brāhmaṇā evaṃ vadāmi ayampi lokapariyāpanno ayampi anissaṭo
 lokamhā ti._
@@ -93388,7 +93403,7 @@ _nāhaṃ bhikkhave gamanena lokassa antaṃ ñāteyyaṃ daṭṭheyyaṃ
 patteyyanti vadāmi_
 
 'And further I declare that without having reached the end of the world [of
-phenomena] there is no putting an end to suffering'_
+phenomena] there is no putting an end to suffering'
 
 _na ca panāhaṃ bhikkhave appatvā lokassa antaṃ dukkhassa antakiriyaṃ
 vadāmī ti._
@@ -93481,7 +93496,7 @@ reality with perfect penetrative discernment
 
 _lokasamudayañca kho kaccāna yathābhūtaṃ sammappaññāya passato_
 
-there is no view of nonexistence in regards to the world [of phenomena]_
+there is no view of nonexistence in regards to the world [of phenomena]
 
 _yā loke natthitā sā na hoti._
 
@@ -93490,7 +93505,7 @@ reality with perfect penetrative discernment
 
 _lokanirodhaṃ kho kaccāna yathābhūtaṃ sammappaññāya passato_
 
-there is no view of existence in regards to the world [of phenomena]_
+there is no view of existence in regards to the world [of phenomena]
 
 _yā loke atthitā sā na hoti._
 ____
@@ -93587,7 +93602,7 @@ loko ti vuccatī ti?_
 
 -- Because, Ānanda, it is void of an [absolute] Selfhood and of what could
 belong to an [absolute] Selfhood, therefore it is said that the world [of
-phenomena] is void [of personal qualities]._
+phenomena] is void [of personal qualities].
 
 _Yasmā ca kho ānanda suññaṃ attena vā attaniyena vā tasmā suñño loko
 ti vuccati._
@@ -93708,7 +93723,7 @@ Sense impression arises dependent on sensation.
 
 _phassapaccayā vedanā_
 
-Craving arises dependent on sense impression._
+Craving arises dependent on sense impression.
 
 _vedanāpaccayā taṇhā_
 
@@ -93731,11 +93746,11 @@ psychological pain, and vexation cease.
 _jātinirodhā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā
 nirujjhanti_
 
-Such is the ending of this whole mass of suffering._
+Such is the ending of this whole mass of suffering.
 
 _Evametassa kevalassa dukkhakkhandhassa nirodho hoti._
 
-This is the vanishing of the world [of phenomena]_
+This is the vanishing of the world [of phenomena]
 
 _Ayaṃ kho bhikkhave lokassa atthaṅgamo._
 ____
@@ -96863,7 +96878,7 @@ _phassa_:
 ____
 Sensation is the indispensible and necessary condition by which the aggregates
 of sense impression, perception, and intentional activities are to be
-discerned._
+discerned.
 
 _phasso hetu phasso paccayo vedanakkhandhassa... saññākkhandhassa...
 saṅkhārakkhandhassa paññāpanāya._
@@ -96877,7 +96892,7 @@ ____
 Denomination-and-bodily-form is the indispensible and necessary condition
 by which the aggregate of advertence is to be discerned.
 
-nāmarūpaṃ hetu nāmarūpaṃ paccayo viññāṇakkhandhassa
+_nāmarūpaṃ hetu nāmarūpaṃ paccayo viññāṇakkhandhassa
 paññāpanāyā ti_.
 ____
 +
@@ -97601,11 +97616,11 @@ _paccudāvattati kho idaṃ viññāṇaṃ nāmarūpamhā nāparaṃ gacchati_
 
 On account of this one can be born, age and die, pass away and be reborn
 
-_Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā _
+_Ettāvatā jāyetha vā jīyetha vā mīyetha vā cavetha vā upapajjetha vā_
 
 Namely through the stream of sense consciousness being dependent on
 denomination-and-bodily-form; and denomination-and-bodily-form being dependent
-on the stream of sense consciousness._
+on the stream of sense consciousness.
 
 _yadidaṃ nāmarūpapaccayā viññāṇaṃ viññāṇapaccayā
 nāmarūpaṃ._
@@ -98005,7 +98020,7 @@ us now quickly settle the meaning of the 'ending of _viññāṇa_.'
 7. Since we have agreed that _viññāṇaṃ anidassanaṃ_ concerns the
 ending of perception and sense impression (_saññāvedayitanirodha_),
 therefore _viññāṇassa nirodhena_ means _saññāvedayitanirodhena_, the
-ending of perception and sense impression_._
+ending of perception and sense impression.
 
 In conclusion, the mind with no attribute means the ending of perception and
 sense impression.
@@ -98454,7 +98469,7 @@ the discipline
 The Group-of-Six bhikkhus said:
 
 ____
-Come on, friends, let us disparage the discipline_._
+Come on, friends, let us disparage the discipline.
 
 _handa mayaṃ āvuso vinayaṃ vivaṇṇemā ti_
 ____
@@ -99093,7 +99108,7 @@ investigates
 
 [quote, Th.v.551]
 ____
-Wisdom investigates what is heard _
+Wisdom investigates what is heard
 
 _Paññā sutavinicchinī._
 ____
@@ -99329,7 +99344,7 @@ ____
 [quote, S.1.48]
 ____
 'They compose even what is hard to compose, those who delight in calming the
-[mental] faculties.'_
+[mental] faculties.'
 
 _Dussamādahaṃ vāpi samādahanti indriyūpasame ratā._
 ____
@@ -100189,7 +100204,7 @@ in which, for a bhikkhu abiding diligently, vigorously, and resolutely applied
 [to the practice], his unliberated mind is liberated [from perceptually
 obscuring states], his undestroyed perceptually obscuring states are destroyed,
 the unreached safety from [the danger of] bondage [to individual existence] is
-reached._
+reached.
 
 _Idaṃ bhikkhave paṭhamaṃ vimuttāyatanaṃ yattha bhikkhuno appamattassa
 ātāpino pahitattassa viharato avimuttaṃ vā cittaṃ vimuccati
@@ -100453,7 +100468,7 @@ through an internal deliverance [from perceptually obscuring states]
 
 _ajjhattavimokkhā khvāhaṃ āvuso_
 
-through the destruction of all grasping _
+through the destruction of all grasping
 
 _sabbūpādānakkhayā_
 
@@ -100462,7 +100477,7 @@ do not pursue me
 
 _tathā sato viharāmi yathā sataṃ viharantaṃ āsavā nānussavanti_
 
-and I do not despise myself."_
+and I do not despise myself."
 
 _attānañca nāvajānāmī ti_
 ____
@@ -100727,11 +100742,11 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
-(...) The thinking and pondering that are unended is troublesome in this case._
+(...) The thinking and pondering that are unended is troublesome in this case.
 
 _Yadeva tattha vitakkavicārā aniruddhā honti ayamettha sambādho._
 
@@ -100751,18 +100766,18 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
-(...) The rapture that is unended is troublesome in this case._
+(...) The rapture that is unended is troublesome in this case.
 
 _Yadeva tattha pīti aniruddhā hoti ayamettha sambādho._
 
 (...) Again, in this regard, with the fading away of rapture, a bhikkhu abides
 serene, mindful, and fully conscious, experiencing physical pleasure. He enters
 and abides in third jhāna in which the Noble Ones declare that he abides
-serene, mindful, and in physical pleasure._
+serene, mindful, and in physical pleasure.
 
 _Puna ca paraṃ āvuso pītiyā ca virāgā upekkhako ca viharati sato ca
 sampajāno sukhañca kāyena paṭisaṃvedeti yantaṃ ariyā ācikkhanti
@@ -100776,12 +100791,12 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
 (...) The serenity with physical pleasure that is unended is troublesome in this
-case._
+case.
 
 _Yadeva tattha upekkhāsukhaṃ aniruddhaṃ hoti ayamettha sambādho._
 
@@ -100801,12 +100816,12 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
 (...) The perception of the refined material states of awareness that is unended
-is troublesome in this case._
+is troublesome in this case.
 
 _Yadeva tattha rūpasaññā aniruddhā hoti ayamettha sambādho._
 
@@ -100827,12 +100842,12 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
 (...) The perception of the state of awareness of boundless space that is unended
-is troublesome in this case._
+is troublesome in this case.
 
 _Yadeva tattha ākāsānañcāyatanasaññā aniruddhā hoti. Ayamettha
 sambādho._
@@ -100852,12 +100867,12 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
 (...) The perception of the state of awareness of boundless mental consciousness
-that is unended is troublesome in this case._
+that is unended is troublesome in this case.
 
 _Yadeva tattha viññāṇañcāyatanasaññā aniruddhā hoti. Ayamettha
 sambādho._
@@ -100877,12 +100892,12 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
 (...) The perception of the state of awareness of nonexistence that is unended is
-troublesome in this case._
+troublesome in this case.
 
 _Yadeva tattha ākiñcaññāyatanasaññā aniruddhā hoti ayamettha
 sambādho._
@@ -100901,12 +100916,12 @@ because again there is something inwardly troublesome.
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 pariyāyena. Tattha'patthi sambādho._
 
-(...) What is troublesome in this case?_
+(...) What is troublesome in this case?
 
 _Kiñca tattha sambādho?_
 
 (...) The perception of the state of awareness neither having nor lacking
-perception that is unended is troublesome in this case._
+perception that is unended is troublesome in this case.
 
 _Yadeva tattha nevasaññānāsaññāyatanasaññā aniruddhā hoti ayamettha
 sambādho._
@@ -100921,7 +100936,7 @@ samatikkamma saññāvedayitanirodhaṃ upasampajja viharati. Paññāya cassa
 disvā āsavā parikkhīṇā honti._
 
 (...) It is in reference to this that a deliverance from what is inwardly
-troublesome is spoken of by the Blessed One, in a way that is unqualified._
+troublesome is spoken of by the Blessed One, in a way that is unqualified.
 
 _Ettāvatā pi kho āvuso sambādhe okāsādhigamo vutto bhagavatā
 nippariyāyenāti._
@@ -101064,7 +101079,7 @@ refined awareness;
 
 [quote, S.4.237]
 ____
-And what is the material state of refined awareness?_
+And what is the material state of refined awareness?
 
 _Katamo ca bhikkhave sāmiso vimokkho_
 
@@ -101487,7 +101502,7 @@ disgusted
 
 [quote, A.4.87]
 ____
-Who, I wonder, has set me at odds with this family?_
+Who, I wonder, has set me at odds with this family?
 
 _kosudāni maṃ imasmiṃ kule paribhindi_
 
@@ -101684,7 +101699,7 @@ _sabbaso taṇhānaṃ khayā asesavirāganirodho nibbānaṃ_ (Ud.32-3).
 In mindfulness with breathing _virāga_ occurs without an object:
 
 ____
-I will breathe in... I will breathe out contemplating passing away_._
+I will breathe in... I will breathe out contemplating passing away.
 
 _virāgānupassī assasissāmī ti sikkhati_
 ____
@@ -102269,8 +102284,7 @@ But when, through knowledge [of things according to reality] I realised
 non-attachment [to originated phenomena], I became what good men call 'One who
 has laid down whatever is seen, heard, or sensed.'
 
-_Yato virāgena samāgamimha yaṃ kiñci diṭṭhaṃ vā sutaṃ mutaṃ vā
-+
+_Yato virāgena samāgamimha yaṃ kiñci diṭṭhaṃ vā sutaṃ mutaṃ vā +
 Aññāya nikkhepanamāhu santo ti._
 ____
 
@@ -102632,7 +102646,7 @@ being energetic
 
 [quote, A.5.92-3]
 ____
-Am I much given to laziness? Or am I much given to being energetic?_
+Am I much given to laziness? Or am I much given to being energetic?
 
 _kusīto nu kho bahulaṃ viharāmi āraddhaviriyo nu kho bahulaṃ viharāmi._
 ____
@@ -103140,8 +103154,7 @@ and steeped in confusion, such a being is far from seclusion [from sensuous
 pleasures and spiritually unwholesome factors]. Abandoning the pleasures of the
 world is truly difficult.
 
-_Satto guhāyaṃ bahunābhicchanno tiṭṭhaṃ naro mohanasmiṃ pagāḷho;
-+
+_Satto guhāyaṃ bahunābhicchanno tiṭṭhaṃ naro mohanasmiṃ pagāḷho; +
 Dūre vivekā hi tathāvidho so kāmā hi loke na hi suppahāyā._
 ____
 
@@ -106310,9 +106323,9 @@ round of birth and death, and go to rebirth and death.
 +
 ****
 _Taṇhāyogena saṃyuttā rattacittā bhavābhave +
-****
 Te yogayuttā mārassa ayogakkhemino janā +
 Sattā gacchanti saṃsāraṃ jātimaraṇagāmino_ (It.50).
+****
 
 3. Tethered [to individual existence] by the bondage [to individual existence]
 that arises from [attachment to] both sensuous pleasure and individual
@@ -106322,9 +106335,9 @@ existence] that arises from dogmatism, led on by uninsightfulness into reality,
 +
 ****
 _Kāmayogena saṃyuttā bhavayogena cūbhayaṃ +
-****
 Diṭṭhiyogena saṃyuttā avijjāya purakkhatā +
 Sattā gacchanti saṃsāraṃ jātimaraṇagāmino_ (A.2.12).
+****
 
 4. He who, having abandoned the bondage to renewed states of human existence,
 has transcended the bondage to renewed states of divine existence, he is
@@ -106333,8 +106346,8 @@ Brahman.
 +
 ****
 _Hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā +
-****
 Sabbayogavisaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ_ (Sn.v.644).
+****
 
 ==== Illustrations
 
@@ -107040,31 +107053,31 @@ And so in relation to sensuous pleasures, whatever the
 
 _yo kāmesu_
 
-attachment to sensuous pleasure _
+attachment to sensuous pleasure
 
 _kāmarāgo_
 
-spiritually fettering delight in sensuous pleasure _
+spiritually fettering delight in sensuous pleasure
 
 _kāmanandi_
 
-love of sensuous pleasure _
+love of sensuous pleasure
 
 _kāmasineho_
 
-infatuation with sensuous pleasure _
+infatuation with sensuous pleasure
 
 _kāmamucchā_
 
-sensuous thirst _
+sensuous thirst
 
 _kāmapipāsā_
 
-sensuous passion _
+sensuous passion
 
 _kāmapariḷāho_
 
-clinging to sensuous pleasure _
+clinging to sensuous pleasure
 
 _kāmajjhosānaṃ_
 
@@ -108042,7 +108055,7 @@ via the visual sense.
 _Cakkhundriyā asaṃvutassa bhikkhave viharato cittaṃ vyāsiñcati
 cakkhuviññeyyesu rūpesu_
 
-For one with a defiled mind there is no gladness._
+For one with a defiled mind there is no gladness.
 
 _tassa vyāsittacittassa pāmujjaṃ na hoti_
 
@@ -108053,7 +108066,7 @@ via the visual sense.
 _Cakkhundriyaṃ saṃvutassa bhikkhave viharato cittaṃ na vyāsiñcati
 cakkhuviññeyyesu rūpesu_
 
-For one with an undefiled mind gladness arises._
+For one with an undefiled mind gladness arises.
 
 _tassa avyāsittacittassa pāmojjaṃ jāyati._
 ____
@@ -108130,14 +108143,14 @@ kāmupasaṃhitā rajanīyā._
 If a bhikkhu does not take delight in them, welcome them, persist in cleaving
 to them, he should understand this thus: 'I am not falling away from
 spiritually wholesome factors. For this has been called not falling away by the
-Blessed One._
+Blessed One.
 
 _Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati.
 Veditabbametaṃ bhikkhave bhikkhunā na parihāyāmi kusalehi dhammehi
 aparihānaṃ hetaṃ vuttaṃ bhagavatā ti._
 
 In this way there is restraint [of the sense faculties] [from attraction and
-repulsion, through mindfulness]_
+repulsion, through mindfulness]
 
 _Evaṃ kho bhikkhave saṃvaro hotī ti._
 ____
@@ -108659,7 +108672,7 @@ kusalanissitā na saṇṭhāti so tena saṃvijjati saṃvegaṃ āpajjati:_
 He thinks: 'It is a loss for me, not a gain; it is unfortunate for me, not
 fortunate, that when I recollect the Buddha, the teaching, and the community of
 the Blessed One's disciples in this way, detached awareness based on what is
-spiritually wholesome is not established within me.'_
+spiritually wholesome is not established within me.'
 
 _alābhā vata me na vata me lābhā dulladdhaṃ vata me na vata me
 suladdhaṃ yassa me evaṃ buddhaṃ anussarato evaṃ dhammaṃ anussarato
@@ -110112,7 +110125,7 @@ satisfied
 ____
 When one is pleased and satisfied with certain visible objects, then one does
 not desire any other visible object higher or more sublime that those visible
-objects._
+objects.
 
 _Yehi ca yo rūpehi attamano hoti paripuṇṇasaṅkappo so tehi rūpehi
 aññaṃ rūpaṃ uttaritaraṃ vā paṇītataraṃ vā na pattheti._
@@ -110385,7 +110398,7 @@ What is the unoriginated?
 _Katamañca bhikkhave asaṅkhataṃ:_
 
 The destruction of attachment, hatred, and undiscernment of reality. This is
-called the unoriginated._
+called the unoriginated.
 
 _yo bhikkhave rāgakkhayo dosakkhayo mohakkhayo idaṃ vuccati bhikkhave
 asaṅkhataṃ._
@@ -114441,7 +114454,7 @@ Thus the one-destination path is said to be:
 2. the contemplation of those bases
 
 The one-destination path would not be simply four bases, but rather the
-contemplation of those bases_._ In which case 'four _satipaṭṭhānā_' is an
+contemplation of those bases. In which case 'four _satipaṭṭhānā_' is an
 abbreviation, to be parenthesised like this:
 
 ____
@@ -114951,7 +114964,7 @@ aveccappasādena samannāgato hoti_) has come to the conclusion that:
 ____
 The teaching is well explained by the Blessed One, fathomable in this lifetime,
 realisable in the here and now, intriguing, personally applicable, to be
-realised by the wise for themselves._
+realised by the wise for themselves.
 
 _svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opanayiko
 paccattaṃ veditabbo viññūhī ti._
@@ -115022,7 +115035,7 @@ Perfect One's transcendent insight], one should reply.
 _Kā ca bhikkhave pāmujjassa upanisā? Saddhātissa vacanīyaṃ._
 
 And what is the proximate cause for faith [in the perfection of the Perfect
-One's transcendent insight]? Suffering, one should reply._
+One's transcendent insight]? Suffering, one should reply.
 
 _Kā ca bhikkhave saddhāya upanisā? Dukkhan tissa vacanīyaṃ._
 ____
@@ -117067,7 +117080,7 @@ origin
 [quote, M.1.191]
 ____
 The fondness, clinging, attraction, and cleaving within these five grasped
-aggregates is the origin of suffering._
+aggregates is the origin of suffering.
 
 _Yo imesu pañcasupādānakkhandhesu chando ālayo anunayo ajjhosānaṃ so
 dukkhasamudayo._
@@ -117133,7 +117146,7 @@ origination; samudayaṃ, originated
 [quote, A.1.134]
 ____
 Bhikkhus, there are three bases for the arising of karmically consequential
-deeds. What three?_
+deeds. What three?
 
 _tīṇimāni bhikkhave nidānāni kammānaṃ samudayāya. Katamāni tīṇi._
 
@@ -117425,7 +117438,7 @@ Comment:
 
 [quote, A.5.16]
 ____
-This use of _sampanna_ is unusual_._ Likewise, an ideal residence should be
+This use of _sampanna_ is unusual. Likewise, an ideal residence should be
 neither too far from the village nor too near, and should be convenient for
 coming and going.
 
@@ -117796,7 +117809,7 @@ liberated [from perceptually obscuring states].
 _nibbindaṃ virajjati virāgā vimuccati._
 
 (...) On these grounds one is perfect [in the development of] the [six] sense
-faculties._
+faculties.
 
 _ettāvatā kho bhikkhu indriyasampanno hotī ti._
 ____
@@ -118378,7 +118391,7 @@ kāyasamphassāyatanaṃ manosamphassāyatanaṃ_. These full terms occur just
 once in the scriptures, in the _Dhātuvibhaṅga Sutta_ (M.3.239).
 
 In this full rendering it is clear that _ayatana_ means 'basis.' For example,
-'basis of _cakkhusamphassa'_ etc_._ So now let us examine the meaning of
+'basis of _cakkhusamphassa'_ etc. So now let us examine the meaning of
 _cakkhusamphassa_.
 
 ===== Cakkhusamphassa: visual sensation
@@ -119155,7 +119168,7 @@ ____
 ===== Sāsana in verse: teaching
 
 In verse _sāsana_ is sometimes used as an abbreviation for _anusāsana_, and
-so means call, advice, explanation, or teaching_._ This can be seen in the
+so means call, advice, explanation, or teaching. This can be seen in the
 following quote where _sāsanaṃ_ is equivalent to _vacanaṃ_, and is also
 linked to _anusāsanī_:
 
@@ -119595,7 +119608,7 @@ freed from inward distress
 ____
 As I abide in this way, all my attachment is abolished. My [sensuous] passion
 is annihilated. I am freed from inward distress. I have realised the
-Untroubled._
+Untroubled.
 
 _Evaṃ viharamānāya sabbo rāgo samūhato +
 Pariḷāho samucchinno sītibhūtāmhi nibbutā ti._
@@ -120167,7 +120180,7 @@ loko ti vuccatī ti?_
 
 'Because, Ānanda, it is void of an [absolute] Selfhood and of what could
 belong to an [absolute] Selfhood, therefore it is said that the world [of
-phenomena] is void [of personal qualities].'_
+phenomena] is void [of personal qualities].'
 
 _Yasmā ca kho ānanda suññaṃ attena vā attaniyena vā tasmā suñño loko
 ti vuccati._
@@ -120761,7 +120774,7 @@ loveliness
 [quote, M.1.88]
 ____
 What do you think, bhikkhus? Has her former loveliness and beauty vanished and
-a wretchedness become evident?_
+a wretchedness become evident?
 
 _Taṃ kiṃ maññatha bhikkhave yā purimā subhā vaṇṇanibhā sā
 antarahitā ādīnavo pātubhūto ti?._
@@ -121690,7 +121703,7 @@ indispensible condition
 [quote, M.3.17]
 ____
 The four great material phenomena are the indispensible and necessary
-conditions by which the aggregate of bodily form is to be discerned._
+conditions by which the aggregate of bodily form is to be discerned.
 
 _Cattāro kho bhikkhu mahābhūtā hetu cattāro mahābhūtā paccayo
 rūpakkhandhassa paññāpanāya._
@@ -121826,7 +121839,7 @@ on account of
 
 ____
 Ānanda, when there is the body, then on account of bodily intentionality,
-pleasure and pain arise for oneself;_
+pleasure and pain arise for oneself;
 
 _Kāye vā hānanda sati kāyasañcetanāhetu uppajjati ajjhattaṃ
 sukhadukkhaṃ_
