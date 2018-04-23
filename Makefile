@@ -17,6 +17,9 @@ document:
 html:
 	asciidoctor -D output -b html5 -o $(NAME).html main.adoc
 
+html-theme:
+	cd ./vendor/asciidoctor-stylesheet-factory && compass compile
+
 epub:
 	./helpers/generate_epub.sh $(NAME)
 
