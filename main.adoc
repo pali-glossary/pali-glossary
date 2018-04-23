@@ -3,7 +3,7 @@
 :author: Ajahn Varado
 :creator: {author}
 :version: v0.1
-:revdate: 2018-04-22
+:revdate: 2018-04-23
 :doctype: book
 :lang: en
 :source: https://pali-glossary.github.io/
