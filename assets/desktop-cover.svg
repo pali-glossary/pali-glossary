@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="6in"
@@ -16,7 +17,7 @@
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="desktop-cover.svg"
-   inkscape:export-filename="/home/yume/prods/books/alpha/illustrated-pali-glossary/desktop-cover.png"
+   inkscape:export-filename="/home/yume/prods/books/alpha/pali-glossary/desktop-cover.png"
    inkscape:export-xdpi="133.33"
    inkscape:export-ydpi="133.33">
   <defs
@@ -28,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-147.60049"
-     inkscape:cy="420.55285"
+     inkscape:zoom="0.58265187"
+     inkscape:cx="416.69292"
+     inkscape:cy="483.47129"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="in"
      inkscape:snap-center="false"
@@ -48,7 +49,14 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:bbox-paths="false"
-     inkscape:bbox-nodes="true" />
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="76.199997,114.30001"
+       orientation="1,0"
+       id="guide916"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -62,24 +70,41 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/yume/prods/books/alpha/pali-glossary/assets/photos/92dpi-ebook-sRGB/rawpixel-com-589083-unsplash.jpg"
+       xlink:href="photos/92dpi-ebook-sRGB/rawpixel-com-589083-unsplash.jpg"
+       y="-2.4908733"
+       x="-49.05246"
+       id="image889"
+       preserveAspectRatio="none"
+       height="232.88069"
+       width="349.04178" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4"
+     style="opacity:0.12">
+    <rect
+       y="68.399986"
+       x="0"
+       height="228.59999"
+       width="152.39999"
+       id="rect836"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.35277778;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,-68.399983)" />
+  </g>
+  <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-68.399983)">
-    <rect
-       style="opacity:1;fill:#327da0;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4493"
-       width="152.39999"
-       height="228.59999"
-       x="0"
-       y="68.399986" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32763094;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4489"
-       width="152.39999"
-       height="114.39517"
-       x="0"
-       y="143.34764" />
+     transform="translate(0,-68.399983)"
+     style="opacity:1">
     <rect
        style="opacity:1;fill:#327da0;fill-opacity:0;stroke:none;stroke-width:0.26499999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4491"
@@ -87,33 +112,68 @@
        height="228.59999"
        x="0"
        y="68.399986" />
-    <g
-       id="g4517"
-       transform="translate(7.6856494,-11.376503)">
-      <text
-         id="text4487"
-         y="186.06436"
-         x="9.9087591"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.8166666px;line-height:23.8125px;font-family:Existence;-inkscape-font-specification:'Existence, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan822"
-           x="9.9087591"
-           y="186.06436">Illustrated Glossary</tspan><tspan
-           sodipodi:role="line"
-           id="tspan824"
-           x="9.9087591"
-           y="209.87686">of Pāli Terms</tspan></text>
-      <text
-         id="text4497"
-         y="247.90948"
-         x="10.131009"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.58333302px;line-height:5.29166651px;font-family:Existence;-inkscape-font-specification:'Existence, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan826"
-           x="10.131009"
-           y="247.90948">Ajahn Varado</tspan></text>
-    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d4aa00;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect894"
+       width="133.23109"
+       height="198.88347"
+       x="9.5844498"
+       y="83.25824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.40555573px;line-height:17.19791603px;font-family:Spectral;-inkscape-font-specification:'Spectral, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#fcca00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="75.593498"
+       y="133.83629"
+       id="text898"><tspan
+         sodipodi:role="line"
+         id="tspan906"
+         x="75.593498"
+         y="133.83629">Illustrated Glossary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.40555573px;line-height:5.29166651px;font-family:Spectral;-inkscape-font-specification:'Spectral, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fcca00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="69.436577"
+       y="149.718"
+       id="text910"><tspan
+         sodipodi:role="line"
+         id="tspan908"
+         x="69.436577"
+         y="149.718"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.40555573px;font-family:Spectral;-inkscape-font-specification:'Spectral, Medium Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fcca00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;">of</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.40555573px;line-height:5.29166651px;font-family:Spectral;-inkscape-font-specification:'Spectral, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fcca00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="43.986759"
+       y="167.13466"
+       id="text914"><tspan
+         sodipodi:role="line"
+         id="tspan918"
+         x="43.986759"
+         y="167.13466">Pāli Terms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.81944466px;line-height:5.29166651px;font-family:Spectral;-inkscape-font-specification:'Spectral, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fcca00;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="44.028175"
+       y="260.67184"
+       id="text922"><tspan
+         sodipodi:role="line"
+         id="tspan924"
+         x="44.028175"
+         y="260.67184">Varado Bhikkhu</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:none;opacity:1"
+     sodipodi:insensitive="true">
+    <rect
+       transform="translate(0,-68.399983)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35277778;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4493"
+       width="152.39999"
+       height="228.59999"
+       x="0"
+       y="68.399986" />
   </g>
 </svg>

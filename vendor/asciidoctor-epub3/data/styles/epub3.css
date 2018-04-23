@@ -1316,3 +1316,9 @@ p.subtitle {
 nav#guide {
   display: none;
 }
+.example > .example-title {
+  color: #777;
+  font-style: italic;
+  font-size: 0.9em;
+  padding-bottom: 0.6em;
+}

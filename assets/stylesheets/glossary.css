@@ -754,6 +754,8 @@ h4, h5, h6 { margin-top: 2em; }
 
 #content .sectionbody h3, #content .sectionbody #toctitle, #content .sectionbody .sidebarblock > .content > .title, #content .sectionbody h4 { border-bottom: 1px solid #999999; padding-bottom: 0.25em; }
 
+.exampleblock > .title, .sidebarblock > .title { color: #777777; font-style: italic; }
+
 .print-only { display: none !important; }
 
 @page { margin: 1.25cm 0.75cm; }

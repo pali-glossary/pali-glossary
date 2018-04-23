@@ -115,4 +115,12 @@ h4, h5, h6 {
     padding-bottom: 0.25em;
 }
 
+.exampleblock,
+.sidebarblock {
+    & > .title {
+        color: #777777;
+        font-style: italic;
+    }
+}
+
 @import "components/print";
