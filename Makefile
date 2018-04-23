@@ -29,6 +29,9 @@ mobi:
 pdf:
 	./vendor/asciidoctor-pdf/bin/asciidoctor-pdf -D output -b pdf -a pdf-stylesdir=./assets/pdf-data/themes -a pdf-fontsdir=./assets/pdf-data/fonts -a pdf-style=glossary -o $(NAME)-custom.pdf main.adoc
 
+optimize-pdf:
+	./vendor/asciidoctor-pdf/bin/optimize-pdf output/$(NAME)-custom.pdf
+
 preview:
 	latexmk -pvc $(FILE).tex
 
