@@ -1322,7 +1322,7 @@ nav#guide {
   font-size: 0.9em;
   padding-bottom: 0.6em;
 }
-#notices {
+section#notices > header h1 {
   font-size: 16pt;
   text-transform: uppercase;
   letter-spacing: 1pt;
