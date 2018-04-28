@@ -62,6 +62,18 @@ module Asciidoctor
       end
       result << %(<title>#{node.doctitle :sanitize => true, :use_fallback => true}</title>)
 
+      if node.attr? 'google-analytics'
+        result << %(<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=#{node.attr 'google-analytics'}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3557338-13');
+</script>)
+      end
+
       if DEFAULT_STYLESHEET_KEYS.include?(node.attr 'stylesheet')
         if (webfonts = node.attr 'webfonts')
           result << %(<link rel="stylesheet" href="#{asset_uri_scheme}//fonts.googleapis.com/css?family=#{webfonts.empty? ? 'Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700' : webfonts}"#{slash}>)

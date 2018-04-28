@@ -21,6 +21,7 @@
 :example-caption!:
 :listing-caption!:
 :stylesheet: assets/stylesheets/glossary.css
+:google-analytics: UA-3557338-13
 
 include::{includes}/notices.adoc[]
 
