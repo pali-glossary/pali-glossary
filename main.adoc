@@ -1,14 +1,15 @@
 = Illustrated Glossary of Pāli Terms
 :booktitle: {doctitle}
-:author: Ajahn Varado
+:author: Venerable Varado
+:contact: pali.glossary@gmail.com
 :creator: {author}
-:version: v0.1
-:revdate: 2018-04-23
+:revnumber: v1.0
+:revdate: 2018-04-28
 :doctype: book
 :lang: en
 :source: https://pali-glossary.github.io/
 :keywords: Pali, language, glossary, dictionary, Dhamma, Buddhism, RELIGION / Buddhism / Theravada
-:copyright: CC-BY-NC-ND 4.0
+:copyright: Creative Commons Zero v1.0 Universal
 :identifier: Illustrated-Glossary-of-Pali-Terms
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
@@ -21,13 +22,17 @@
 :listing-caption!:
 :stylesheet: assets/stylesheets/glossary.css
 
-include::{includes}/introduction.adoc[]
+include::{includes}/notices.adoc[]
 
 // #sections begin#
 
 include::{includes}/glossary.adoc[]
 
 // #sections end#
+
+include::{includes}/introduction.adoc[]
+
+include::{includes}/changelog.adoc[]
 
 include::{includes}/copyright.adoc[]
 

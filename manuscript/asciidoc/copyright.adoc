@@ -1,4 +1,12 @@
 [#copyright, colophon]
 = Copyright
 
-CC-BY-NC-ND 4.0
+_Illustrated Glossary of Pāli Terms_
+is licensed under a _Creative Commons Zero v1.0 Universal License_.
+
+To the extent possible under law, Venerable Varado has waived all copyright and
+related or neighboring rights to _Illustrated Glossary of Pāli Terms_.
+This work is published from: United Kingdom.
+
+https://creativecommons.org/publicdomain/zero/1.0/
+

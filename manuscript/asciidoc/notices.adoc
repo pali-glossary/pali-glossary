@@ -1,0 +1,18 @@
+[#notices]
+= Notices
+
+[cols="2*"]
+|===
+| For feedback and discussion, please write to:
+| {author} <{contact}>
+
+| The latest version is available at:
+| {source}
+|===
+
+For more details on the methodology and status, see:
+
+- <<introduction,Introduction>>
+- <<changelog,Changelog>>
+
+

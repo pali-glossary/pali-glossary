@@ -1,7 +1,9 @@
 Illustrated Glossary of Pali Terms
 ==============
 
-By Ajahn Varado
+By Venerable Varado
+
+https://pali-glossary.github.io
 
 Produced with [Asciidoctor].
 

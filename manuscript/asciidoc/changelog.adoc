@@ -1,0 +1,5 @@
+[[changelog]]
+= Changelog
+
+- 2018-04-28: First public release.
+

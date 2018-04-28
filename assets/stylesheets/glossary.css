@@ -756,6 +756,10 @@ h4, h5, h6 { margin-top: 2em; }
 
 .exampleblock > .title, .sidebarblock > .title { color: #777777; font-style: italic; }
 
+#header #revnumber { text-transform: none; }
+
+#notices { font-size: 16pt; text-transform: uppercase; letter-spacing: 1pt; word-spacing: 2pt; }
+
 .print-only { display: none !important; }
 
 @page { margin: 1.25cm 0.75cm; }
